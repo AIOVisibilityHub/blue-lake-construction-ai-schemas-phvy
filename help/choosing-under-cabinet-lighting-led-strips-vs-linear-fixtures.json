@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Choosing Under-Cabinet Lighting: LED Strips vs Linear Fixtures",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Choosing under-cabinet lighting comes down to how you use your countertops and how clean you want the installation to look. Homeowners across Salt Lake City often weigh flexible LED tape strips against rigid linear bar fixtures during a remodel. \n\nLED strips are low-profile and fit into tight recesses, making them great for continuous, shadow-free runs along unusual cabinet shapes. However, they require careful power-driver placement and proper aluminum channels to dissipate heat and soften hot spots. Rigid linear bar fixtures deliver higher lumen output and integrated diffusers right out of the box, offering a sturdy, consistent task light for meal prep. The tradeoff is that linear fixtures are bulkier, which can reveal the housing if your cabinetry lacks a finished bottom light rail.\n\nHow to Compare Your Options\n1. Delivered lumens: Match high-lumen linear fixtures to dark stone counters and gentle LED tape to reflective quartz.\n2. Dimmer compatibility: Pair low-voltage drivers specifically with tested wall switches to prevent flickering.\n3. Power access: Decide whether concealed drivers fit inside upper cabinets or require dedicated junction boxes.\n\nWhile direct fixture swaps are straightforward, running new circuits or concealing high-voltage wiring inside walls requires licensed electrical work to meet local building codes. Blue Lake Construction helps homeowners throughout the Salt Lake Valley plan seamless kitchen lighting updates. Call 385-202-5987 to get started on your kitchen layout.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Choosing Under-Cabinet Lighting: LED Strips vs Linear Fixtures",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing under-cabinet lighting comes down to how you use your countertops and how clean you want the installation to look. Homeowners across Salt Lake City often weigh flexible LED tape strips against rigid linear bar fixtures during a remodel. \n\nLED strips are low-profile and fit into tight recesses, making them great for continuous, shadow-free runs along unusual cabinet shapes. However, they require careful power-driver placement and proper aluminum channels to dissipate heat and soften hot spots. Rigid linear bar fixtures deliver higher lumen output and integrated diffusers right out of the box, offering a sturdy, consistent task light for meal prep. The tradeoff is that linear fixtures are bulkier, which can reveal the housing if your cabinetry lacks a finished bottom light rail.\n\nHow to Compare Your Options\n1. Delivered lumens: Match high-lumen linear fixtures to dark stone counters and gentle LED tape to reflective quartz.\n2. Dimmer compatibility: Pair low-voltage drivers specifically with tested wall switches to prevent flickering.\n3. Power access: Decide whether concealed drivers fit inside upper cabinets or require dedicated junction boxes.\n\nWhile direct fixture swaps are straightforward, running new circuits or concealing high-voltage wiring inside walls requires licensed electrical work to meet local building codes. Blue Lake Construction helps homeowners throughout the Salt Lake Valley plan seamless kitchen lighting updates. Call 385-202-5987 to get started on your kitchen layout.",
+  "datePublished": "2026-11-08"
 }

@@ -1,97 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Plan an Open and Functional Kitchen Layout Redesign",
-  "description": "Measure all wall lengths, ceiling heights, window openings, and door clearances using a laser tape. Mark the exact positions of existing plumbing stacks, electrical service panels, gas lines, and floo",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Document Precise Room Dimensions and Utility Locations",
-      "text": "Measure all wall lengths, ceiling heights, window openings, and door clearances using a laser tape. Mark the exact positions of existing plumbing stacks, electrical service panels, gas lines, and floor joist directions on a preliminary grid."
+      "text": "Measure all wall lengths, ceiling heights, window openings, and door clearances using a laser tape. Mark the exact positions of existing plumbing stacks, electrical service panels, gas lines, and floor joist directions on a preliminary grid.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Inventory Your Household Cooking and Storage Habits",
-      "text": "List every countertop appliance, specialty cookware piece, and pantry staple your family uses regularly. Identify whether multiple people cook simultaneously or if your primary frustration is lack of prep space versus insufficient pantry storage."
+      "text": "List every countertop appliance, specialty cookware piece, and pantry staple your family uses regularly. Identify whether multiple people cook simultaneously or if your primary frustration is lack of prep space versus insufficient pantry storage.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Test Multiple Work Triangle and Zone Configurations",
-      "text": "Draft at least two to three spatial arrangements, comparing L-shaped, U-shaped, and island-centered configurations. Ensure the total travel distance between the sink, cooking surface, and refrigerator stays within practical bounds while keeping high-traffic footpaths outside the prep zone."
+      "text": "Draft at least two to three spatial arrangements, comparing L-shaped, U-shaped, and island-centered configurations. Ensure the total travel distance between the sink, cooking surface, and refrigerator stays within practical bounds while keeping high-traffic footpaths outside the prep zone.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Verify Clear Floor Spaces and Door Swing Intersections",
-      "text": "Check that every appliance opening has sufficient clear floor space, paying close attention to opposing oven doors, dishwashers, and trash pullouts. Confirm that opened cabinet drawers will not strike neighboring door frames, window casings, or adjacent handles."
+      "text": "Check that every appliance opening has sufficient clear floor space, paying close attention to opposing oven doors, dishwashers, and trash pullouts. Confirm that opened cabinet drawers will not strike neighboring door frames, window casings, or adjacent handles.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Plan Appliance Power, Plumbing, and Venting Drops",
-      "text": "Determine how relocated sinks will tie into existing drainage slopes and where new dedicated 20-amp appliance circuits must run. Establish straight, efficient ducting pathways for your range hood to vent exhaust fumes through an exterior wall or roof cap."
+      "text": "Determine how relocated sinks will tie into existing drainage slopes and where new dedicated 20-amp appliance circuits must run. Establish straight, efficient ducting pathways for your range hood to vent exhaust fumes through an exterior wall or roof cap.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Review Structural Feasibility and Secure Dimensioned Drawings",
-      "text": "Have a licensed contractor review whether proposed wall removals involve load-bearing headers or hidden HVAC chases. Finalize stamped, dimensioned architectural drawings so permitting authorities can review the plans and cabinet builders can fabricate with precision. To get started on a custom kitchen layout redesign tailored to your home and lifestyle, call Blue Lake Construction at 385-202-5987."
+      "text": "Have a licensed contractor review whether proposed wall removals involve load-bearing headers or hidden HVAC chases. Finalize stamped, dimensioned architectural drawings so permitting authorities can review the plans and cabinet builders can fabricate with precision. To get started on a custom kitchen layout redesign tailored to your home and lifestyle, call Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -99,5 +47,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure all wall lengths, ceiling heights, window openings, and door clearances using a laser tape. Mark the exact positions of existing plumbing stacks, electrical service panels, gas lines, and floo"
 }

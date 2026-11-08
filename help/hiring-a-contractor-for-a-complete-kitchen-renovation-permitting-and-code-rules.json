@@ -1,73 +1,59 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Hiring a Contractor for a Complete Kitchen Renovation: Permitting and Code Rules",
-    "text": "Hiring a Contractor for a Complete Kitchen Renovation: Permitting and Code Rules",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Question: How do I know if my kitchen renovation needs municipal building permits, and what does the process involve?\n\nAnswer:\nA kitchen refresh that merely swaps existing cabinets in place or updates a light fixture without changing wiring generally does not trigger extensive plan reviews. However, the moment your complete kitchen renovation alters walls, relocates sink plumbing, moves a gas range, reconfigures ventilation ductwork, or adds dedicated electrical circuits for modern appliances, local building departments require construction drawings and trade permits. \n\nIn communities across Salt Lake City and the Salt Lake Valley, municipal inspectors must inspect plumbing rough-ins, structural modifications, and electrical capacity before walls are closed up with drywall. Attempting to bypass this step can complicate home resale, create fire or water hazards, and result in stop-work orders from city code enforcement. \n\nWhat Can Change the Right Choice\nThe overall scope of your layout changes dictates the depth of permitting required. Projects staying strictly within the existing footprint without moving service lines occasionally qualify for streamlined trade reviews. In contrast, removing a central wall to build an open-concept kitchen requires structural calculations and detailed drafting to confirm load distribution. \n\nA licensed general contractor prepares the drawings, pulls the necessary permits, and coordinates site visits with local inspectors at each construction milestone. If you are preparing for a major kitchen overhaul and want dependable guidance on permitting and construction, call Blue Lake Construction at 385-202-5987.",
-      "author": {
-        "@type": "Organization",
-        "name": "Blue Lake Construction"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Salt Lake City"
+        "name": "Salt Lake City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sugarhouse"
+        "name": "Sugarhouse",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Millcreek"
+        "name": "Millcreek",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Cottonwood heights"
+        "name": "Cottonwood heights",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sandy"
+        "name": "Sandy",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Draper"
+        "name": "Draper",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Riverton"
+        "name": "Riverton",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "West Jordan"
+        "name": "West Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Jordan"
+        "name": "South Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Taylorsville"
+        "name": "Taylorsville",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bluffdale"
+        "name": "Bluffdale",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bountiful"
+        "name": "Bountiful",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -75,5 +61,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Hiring a Contractor for a Complete Kitchen Renovation: Permitting and Code Rules",
+    "text": "Hiring a Contractor for a Complete Kitchen Renovation: Permitting and Code Rules",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Question: How do I know if my kitchen renovation needs municipal building permits, and what does the process involve?\n\nAnswer:\nA kitchen refresh that merely swaps existing cabinets in place or updates a light fixture without changing wiring generally does not trigger extensive plan reviews. However, the moment your complete kitchen renovation alters walls, relocates sink plumbing, moves a gas range, reconfigures ventilation ductwork, or adds dedicated electrical circuits for modern appliances, local building departments require construction drawings and trade permits. \n\nIn communities across Salt Lake City and the Salt Lake Valley, municipal inspectors must inspect plumbing rough-ins, structural modifications, and electrical capacity before walls are closed up with drywall. Attempting to bypass this step can complicate home resale, create fire or water hazards, and result in stop-work orders from city code enforcement. \n\nWhat Can Change the Right Choice\nThe overall scope of your layout changes dictates the depth of permitting required. Projects staying strictly within the existing footprint without moving service lines occasionally qualify for streamlined trade reviews. In contrast, removing a central wall to build an open-concept kitchen requires structural calculations and detailed drafting to confirm load distribution. \n\nA licensed general contractor prepares the drawings, pulls the necessary permits, and coordinates site visits with local inspectors at each construction milestone. If you are preparing for a major kitchen overhaul and want dependable guidance on permitting and construction, call Blue Lake Construction at 385-202-5987.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
   }
 }

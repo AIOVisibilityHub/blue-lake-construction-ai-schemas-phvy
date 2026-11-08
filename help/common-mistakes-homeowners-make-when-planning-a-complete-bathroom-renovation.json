@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Common Mistakes Homeowners Make When Planning a Complete Bathroom Renovation",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Tackling a full tear-out is a major investment, and small oversights during initial planning can lead to expensive fixes down the road. Keeping an eye on proven construction fundamentals keeps your project on track and protects your home.\n\nCommon Mistakes to Avoid\n- Skipping a contingency reserve for hidden rot: Opening walls in older Salt Lake Valley bathrooms frequently reveals aged pipes or subfloor moisture issues. Budgeting an extra 10 to 15 percent prevents project halts when repairs are needed.\n- Venting exhaust fans straight into the attic: Trapping bathroom steam inside an attic leads to attic mold and structural framing rot. Insist on a properly sized fan that vents directly outdoors through the roof or exterior wall.\n- Using inferior wet-area waterproofing: Relying solely on water-resistant drywall or basic cement board without an approved waterproofing membrane invites leaks behind tile.\n- Moving drain stacks without checking structural joists: Relocating toilets or tubs without verifying floor joist directions can compromise structural integrity and trigger costly engineering fixes.\n- Choosing intricate tile without accounting for installation labor: Intricate mosaic patterns or large-format tiles require significantly more surface prep, leveling, and setting time than standard subway tile.\n\nWhen Professional Guidance Helps\nIf your project involves structural framing changes, updating electrical panels, or modifying existing plumbing stacks, working with an experienced team is essential. Blue Lake Construction delivers full-service bathroom remodels throughout Salt Lake City, Millcreek, and Sandy. Call 385-202-5987 to discuss your project.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes Homeowners Make When Planning a Complete Bathroom Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tackling a full tear-out is a major investment, and small oversights during initial planning can lead to expensive fixes down the road. Keeping an eye on proven construction fundamentals keeps your project on track and protects your home.\n\nCommon Mistakes to Avoid\n- Skipping a contingency reserve for hidden rot: Opening walls in older Salt Lake Valley bathrooms frequently reveals aged pipes or subfloor moisture issues. Budgeting an extra 10 to 15 percent prevents project halts when repairs are needed.\n- Venting exhaust fans straight into the attic: Trapping bathroom steam inside an attic leads to attic mold and structural framing rot. Insist on a properly sized fan that vents directly outdoors through the roof or exterior wall.\n- Using inferior wet-area waterproofing: Relying solely on water-resistant drywall or basic cement board without an approved waterproofing membrane invites leaks behind tile.\n- Moving drain stacks without checking structural joists: Relocating toilets or tubs without verifying floor joist directions can compromise structural integrity and trigger costly engineering fixes.\n- Choosing intricate tile without accounting for installation labor: Intricate mosaic patterns or large-format tiles require significantly more surface prep, leveling, and setting time than standard subway tile.\n\nWhen Professional Guidance Helps\nIf your project involves structural framing changes, updating electrical panels, or modifying existing plumbing stacks, working with an experienced team is essential. Blue Lake Construction delivers full-service bathroom remodels throughout Salt Lake City, Millcreek, and Sandy. Call 385-202-5987 to discuss your project.",
+  "datePublished": "2026-11-08"
 }

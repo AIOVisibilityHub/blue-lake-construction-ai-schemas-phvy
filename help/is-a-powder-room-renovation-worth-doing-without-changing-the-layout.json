@@ -1,73 +1,59 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Is a Powder Room Renovation Worth Doing Without Changing the Layout?",
-    "text": "Is a Powder Room Renovation Worth Doing Without Changing the Layout?",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Question: Is a powder room renovation worth doing if you keep the existing toilet and sink layout unchanged?\n\nAnswer: Yes, keeping your current layout is often the smartest, most budget-friendly way to renovate a powder room. Because half-baths are compact, moving a toilet or drain line often requires opening the subfloor, rerouting drain vents, and pulling additional municipal plumbing permits. By keeping the toilet flange and sink supply lines right where they are, your renovation budget goes straight into premium visual elements like custom vanities, durable quartz countertops, modern tile flooring, and statement lighting.\n\nA layout-in-place update typically wraps up within two to three weeks of active construction, compared to four weeks or more when relocating waste lines. You still get a complete transformation that guests notice immediately. The key is carefully checking your existing plumbing rough-in dimensions before shopping. You want your new vanity, faucet, and toilet to match existing pipe locations cleanly so you avoid unexpected wall repairs or cabinet modifications.\n\nWhat Can Change the Right Choice\nIf your current half-bath has an awkward door swing that bumps into the vanity, or if the toilet sits too close to the wall for comfort, rearranging fixtures might be necessary despite the extra plumbing work. A licensed general contractor can inspect your subfloor and framing to determine whether moving lines makes practical sense. For guidance on refreshing your half-bath in Salt Lake City, call Blue Lake Construction at 385-202-5987.",
-      "author": {
-        "@type": "Organization",
-        "name": "Blue Lake Construction"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Salt Lake City"
+        "name": "Salt Lake City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sugarhouse"
+        "name": "Sugarhouse",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Millcreek"
+        "name": "Millcreek",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Cottonwood heights"
+        "name": "Cottonwood heights",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sandy"
+        "name": "Sandy",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Draper"
+        "name": "Draper",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Riverton"
+        "name": "Riverton",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "West Jordan"
+        "name": "West Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Jordan"
+        "name": "South Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Taylorsville"
+        "name": "Taylorsville",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bluffdale"
+        "name": "Bluffdale",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bountiful"
+        "name": "Bountiful",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -75,5 +61,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Is a Powder Room Renovation Worth Doing Without Changing the Layout?",
+    "text": "Is a Powder Room Renovation Worth Doing Without Changing the Layout?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Question: Is a powder room renovation worth doing if you keep the existing toilet and sink layout unchanged?\n\nAnswer: Yes, keeping your current layout is often the smartest, most budget-friendly way to renovate a powder room. Because half-baths are compact, moving a toilet or drain line often requires opening the subfloor, rerouting drain vents, and pulling additional municipal plumbing permits. By keeping the toilet flange and sink supply lines right where they are, your renovation budget goes straight into premium visual elements like custom vanities, durable quartz countertops, modern tile flooring, and statement lighting.\n\nA layout-in-place update typically wraps up within two to three weeks of active construction, compared to four weeks or more when relocating waste lines. You still get a complete transformation that guests notice immediately. The key is carefully checking your existing plumbing rough-in dimensions before shopping. You want your new vanity, faucet, and toilet to match existing pipe locations cleanly so you avoid unexpected wall repairs or cabinet modifications.\n\nWhat Can Change the Right Choice\nIf your current half-bath has an awkward door swing that bumps into the vanity, or if the toilet sits too close to the wall for comfort, rearranging fixtures might be necessary despite the extra plumbing work. A licensed general contractor can inspect your subfloor and framing to determine whether moving lines makes practical sense. For guidance on refreshing your half-bath in Salt Lake City, call Blue Lake Construction at 385-202-5987.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
   }
 }

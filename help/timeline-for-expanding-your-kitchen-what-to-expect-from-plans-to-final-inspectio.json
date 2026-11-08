@@ -1,97 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Timeline for Expanding Your Kitchen: What to Expect from Plans to Final Inspection",
-  "description": "Your project begins with precise documentation of your current kitchen layout. A designer or general contractor measures existing conditions and drafts proposed floor plans that map out traffic flow, ",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Define Scope and Measure Existing Space",
-      "text": "Your project begins with precise documentation of your current kitchen layout. A designer or general contractor measures existing conditions and drafts proposed floor plans that map out traffic flow, cabinet runs, and appliance clear zones. This initial phase typically takes one to two weeks."
+      "text": "Your project begins with precise documentation of your current kitchen layout. A designer or general contractor measures existing conditions and drafts proposed floor plans that map out traffic flow, cabinet runs, and appliance clear zones. This initial phase typically takes one to two weeks.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Assess Structure and Utility Capacity",
-      "text": "Before finalizing plans, your team evaluates whether target walls carry structural loads and checks your plumbing, electrical, and mechanical setups. Confirming gas lines, drain paths, and panel capacity prevents expensive redesigns once construction starts. This assessment takes several days."
+      "text": "Before finalizing plans, your team evaluates whether target walls carry structural loads and checks your plumbing, electrical, and mechanical setups. Confirming gas lines, drain paths, and panel capacity prevents expensive redesigns once construction starts. This assessment takes several days.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Complete Drafting and Secure Building Permits",
-      "text": "Detailed construction drawings must be submitted to your local city or county building department for review. Because kitchen expansions involve structural modifications and MEP rough-ins, work cannot start until permits are granted. Plan review commonly takes two to four weeks depending on your municipality."
+      "text": "Detailed construction drawings must be submitted to your local city or county building department for review. Because kitchen expansions involve structural modifications and MEP rough-ins, work cannot start until permits are granted. Plan review commonly takes two to four weeks depending on your municipality.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Execute Demolition and Structural Framing",
-      "text": "Once permits are issued, crews open up the space, remove identified partitions, and set required structural beams or headers. Subcontractors then rough in new electrical circuits, plumbing lines, and ventilation ducts. This critical structural and rough-in phase typically takes two to three weeks."
+      "text": "Once permits are issued, crews open up the space, remove identified partitions, and set required structural beams or headers. Subcontractors then rough in new electrical circuits, plumbing lines, and ventilation ducts. This critical structural and rough-in phase typically takes two to three weeks.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Pass Rough Inspections and Finish Surfaces",
-      "text": "Local city inspectors must review framing, electrical, plumbing, and mechanical rough-ins before any wall cavities get closed. After passing rough inspections, crews install insulation, hang drywall, place custom cabinetry, template countertops, and set flooring. Final finish work and punch-list items usually take three to four weeks."
+      "text": "Local city inspectors must review framing, electrical, plumbing, and mechanical rough-ins before any wall cavities get closed. After passing rough inspections, crews install insulation, hang drywall, place custom cabinetry, template countertops, and set flooring. Final finish work and punch-list items usually take three to four weeks.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Complete Fixture Trim and Final Inspection",
-      "text": "Plumbers and electricians set final fixtures, appliances are installed, and trim carpentry wraps up. Your contractor coordinates the final municipal inspection to close out permits and ensure full code compliance. This closing phase takes about one week. What to Do Next If you are planning an open-concept expansion in your home, contact Blue Lake Construction at 385-202-5987 to schedule a consultation and review your structural and permitting needs."
+      "text": "Plumbers and electricians set final fixtures, appliances are installed, and trim carpentry wraps up. Your contractor coordinates the final municipal inspection to close out permits and ensure full code compliance. This closing phase takes about one week. What to Do Next If you are planning an open-concept expansion in your home, contact Blue Lake Construction at 385-202-5987 to schedule a consultation and review your structural and permitting needs.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -99,5 +47,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Your project begins with precise documentation of your current kitchen layout. A designer or general contractor measures existing conditions and drafts proposed floor plans that map out traffic flow, "
 }

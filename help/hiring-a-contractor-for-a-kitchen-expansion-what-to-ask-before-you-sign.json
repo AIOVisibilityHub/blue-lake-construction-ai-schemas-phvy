@@ -1,73 +1,59 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Hiring a Contractor for a Kitchen Expansion: What to Ask Before You Sign",
-    "text": "Hiring a Contractor for a Kitchen Expansion: What to Ask Before You Sign",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "What should homeowners evaluate before signing a contract for a kitchen expansion?\n\nA kitchen expansion is a complex construction project that goes far beyond cosmetic updates. Before signing a contract, you want to evaluate whether your prospective contractor has verified structural expertise, how they handle municipal permits, and how clear their written scope of work really is. \n\nFirst, ask how the contractor handles structural modifications. If your project involves taking down walls to create an open concept, you need to know who inspects the framing, determines load paths, and designs necessary headers. Second, clarify who prepares drafting drawings and submits them to your local building department. A reputable contractor will explicitly manage permit applications and schedule required rough and final inspections rather than asking you to pull owner-builder permits. \n\nThird, review their division of trades. Expanding a kitchen involves framing, plumbing reroutes, electrical panel updates, HVAC venting, drywall, and finish carpentry. Make sure the written agreement outlines clear payment schedules, allowances for fixtures, and defined change-order procedures.\n\nWhen Professional Guidance Helps\nAttempting to piece together separate trades for structural framing, plumbing, and electrical work can cause serious scheduling conflicts and inspection failures. A licensed general contractor coordinates these moving parts under one cohesive timeline.\n\nWhat to Do Next\nFor clear planning and experienced guidance on your kitchen expansion in the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987 to set up an on-site consultation.",
-      "author": {
-        "@type": "Organization",
-        "name": "Blue Lake Construction"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Salt Lake City"
+        "name": "Salt Lake City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sugarhouse"
+        "name": "Sugarhouse",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Millcreek"
+        "name": "Millcreek",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Cottonwood heights"
+        "name": "Cottonwood heights",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sandy"
+        "name": "Sandy",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Draper"
+        "name": "Draper",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Riverton"
+        "name": "Riverton",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "West Jordan"
+        "name": "West Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Jordan"
+        "name": "South Jordan",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Taylorsville"
+        "name": "Taylorsville",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bluffdale"
+        "name": "Bluffdale",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bountiful"
+        "name": "Bountiful",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -75,5 +61,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Hiring a Contractor for a Kitchen Expansion: What to Ask Before You Sign",
+    "text": "Hiring a Contractor for a Kitchen Expansion: What to Ask Before You Sign",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "What should homeowners evaluate before signing a contract for a kitchen expansion?\n\nA kitchen expansion is a complex construction project that goes far beyond cosmetic updates. Before signing a contract, you want to evaluate whether your prospective contractor has verified structural expertise, how they handle municipal permits, and how clear their written scope of work really is. \n\nFirst, ask how the contractor handles structural modifications. If your project involves taking down walls to create an open concept, you need to know who inspects the framing, determines load paths, and designs necessary headers. Second, clarify who prepares drafting drawings and submits them to your local building department. A reputable contractor will explicitly manage permit applications and schedule required rough and final inspections rather than asking you to pull owner-builder permits. \n\nThird, review their division of trades. Expanding a kitchen involves framing, plumbing reroutes, electrical panel updates, HVAC venting, drywall, and finish carpentry. Make sure the written agreement outlines clear payment schedules, allowances for fixtures, and defined change-order procedures.\n\nWhen Professional Guidance Helps\nAttempting to piece together separate trades for structural framing, plumbing, and electrical work can cause serious scheduling conflicts and inspection failures. A licensed general contractor coordinates these moving parts under one cohesive timeline.\n\nWhat to Do Next\nFor clear planning and experienced guidance on your kitchen expansion in the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987 to set up an on-site consultation.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
   }
 }

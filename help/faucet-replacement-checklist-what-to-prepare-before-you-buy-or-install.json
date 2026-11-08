@@ -1,123 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Faucet Replacement Checklist: What to Prepare Before You Buy or Install",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Before purchasing a replacement faucet or dismantling your kitchen sink connections, gathering the right measurements and inspecting your plumbing prevents messy surprises.\n\n- [ ] Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit.\n- [ ] Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover existing openings.\n- [ ] Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet.\n- [ ] Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked window sills.\n- [ ] Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flow without dripping.\n- [ ] Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or older 1/2-inch fittings.\n- [ ] Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle lines.\n- [ ] Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts behind deep basins.\n\nHow to use this checklist:\nWork through these items under your sink before buying fixtures. If you find seized shutoffs, corroded threads, or damaged subflooring, bringing in a licensed contractor will save time and prevent leaks. Blue Lake Construction provides kitchen updates throughout Bountiful, Bluffdale, and Salt Lake City. Reach our team at 385-202-5987.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Faucet Replacement Checklist: What to Prepare Before You Buy or Install",
-    "numberOfItems": 8,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit.",
-        "description": "Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover ex…",
-        "description": "Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover existing openings."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet.",
-        "description": "Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked…",
-        "description": "Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked window sills."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flo…",
-        "description": "Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flow without dripping."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or old…",
-        "description": "Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or older 1/2-inch fittings."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle…",
-        "description": "Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle lines."
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts beh…",
-        "description": "Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts behind deep basins."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Faucet Replacement Checklist: What to Prepare Before You Buy or Install",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -127,5 +19,113 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Faucet Replacement Checklist: What to Prepare Before You Buy or Install",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit.",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit."
+      },
+      {
+        "name": "Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover ex…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover existing openings."
+      },
+      {
+        "name": "Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet.",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet."
+      },
+      {
+        "name": "Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked window sills."
+      },
+      {
+        "name": "Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flo…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flow without dripping."
+      },
+      {
+        "name": "Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or old…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or older 1/2-inch fittings."
+      },
+      {
+        "name": "Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle lines."
+      },
+      {
+        "name": "Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts beh…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts behind deep basins."
+      }
+    ]
+  },
+  "articleBody": "Before purchasing a replacement faucet or dismantling your kitchen sink connections, gathering the right measurements and inspecting your plumbing prevents messy surprises.\n\n- [ ] Sink hole count — Verify whether your sink has one, two, three, or four holes before ordering a new unit.\n- [ ] Hole spacing measurement — Check the center-to-center distance between holes to ensure deck plates cover existing openings.\n- [ ] Countertop thickness — Confirm your counter thickness matches the maximum mounting shank depth of the faucet.\n- [ ] Spout reach and height — Measure distance to upper cabinets and sink basins to prevent splashing or blocked window sills.\n- [ ] Under-sink shutoff valve test — Turn both hot and cold valves off completely to confirm they stop water flow without dripping.\n- [ ] Supply line connection sizing — Check whether your shutoff outlets use standard 3/8-inch compression or older 1/2-inch fittings.\n- [ ] Flexible supply line condition — Note the age and flexibility of existing hoses so you can replace brittle lines.\n- [ ] Basin wrench availability — Ensure you have the proper clearance and tools to reach tight mounting nuts behind deep basins.\n\nHow to use this checklist:\nWork through these items under your sink before buying fixtures. If you find seized shutoffs, corroded threads, or damaged subflooring, bringing in a licensed contractor will save time and prevent leaks. Blue Lake Construction provides kitchen updates throughout Bountiful, Bluffdale, and Salt Lake City. Reach our team at 385-202-5987.",
+  "datePublished": "2026-11-08"
 }

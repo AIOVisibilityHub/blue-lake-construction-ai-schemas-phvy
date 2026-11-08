@@ -1,123 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Preparing Your Home for Kitchen Countertop Installation: A Contractor Checklist",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Replacing your kitchen countertops involves precise fabrication, heavy lifting, and careful trade coordination. Because natural stone and engineered quartz slabs cannot be reshaped easily on-site, solid preparation before installation day ensures the process goes smoothly and protects your existing cabinetry.\n\nChecklist for Countertop Replacement\n- [ ] Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit unevenly across the subfloor.\n- [ ] Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on template day to cut accurate openings and holes.\n- [ ] Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-site grinding or structural clearance issues around appliances.\n- [ ] Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old tops are pulled so workers have safe access.\n- [ ] Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation drop dust into open storage compartments.\n- [ ] Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing several hundred pounds and need unobstructed walking room.\n- [ ] Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and box adjustments when thicker slabs or full backsplashes are added.\n- [ ] Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhesive fully cures and final plumbing connections finish.\n\nHow to Use This Checklist\nReview these items with your general contractor well before your fabrication template date. Ensuring your base cabinets, appliances, and utility shutoffs are fully addressed eliminates installation delays and keeps your kitchen project on schedule.\n\nWhat to Do Next\nIf you are planning new quartz or granite countertops in your home, reach out to Blue Lake Construction at 385-202-5987 to get your project moving forward.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Preparing Your Home for Kitchen Countertop Installation: A Contractor Checklist",
-    "numberOfItems": 8,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit uneve…",
-        "description": "Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit unevenly across the subfloor."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on te…",
-        "description": "Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on template day to cut accurate openings and holes."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-sit…",
-        "description": "Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-site grinding or structural clearance issues around appliances."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old…",
-        "description": "Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old tops are pulled so workers have safe access."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation dro…",
-        "description": "Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation drop dust into open storage compartments."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing seve…",
-        "description": "Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing several hundred pounds and need unobstructed walking room."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and b…",
-        "description": "Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and box adjustments when thicker slabs or full backsplashes are added."
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhe…",
-        "description": "Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhesive fully cures and final plumbing connections finish."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Preparing Your Home for Kitchen Countertop Installation: A Contractor Checklist",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -127,5 +19,113 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Preparing Your Home for Kitchen Countertop Installation: A Contractor Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit uneve…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit unevenly across the subfloor."
+      },
+      {
+        "name": "Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on te…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on template day to cut accurate openings and holes."
+      },
+      {
+        "name": "Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-sit…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-site grinding or structural clearance issues around appliances."
+      },
+      {
+        "name": "Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old tops are pulled so workers have safe access."
+      },
+      {
+        "name": "Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation dro…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation drop dust into open storage compartments."
+      },
+      {
+        "name": "Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing seve…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing several hundred pounds and need unobstructed walking room."
+      },
+      {
+        "name": "Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and b…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and box adjustments when thicker slabs or full backsplashes are added."
+      },
+      {
+        "name": "Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhe…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhesive fully cures and final plumbing connections finish."
+      }
+    ]
+  },
+  "articleBody": "Replacing your kitchen countertops involves precise fabrication, heavy lifting, and careful trade coordination. Because natural stone and engineered quartz slabs cannot be reshaped easily on-site, solid preparation before installation day ensures the process goes smoothly and protects your existing cabinetry.\n\nChecklist for Countertop Replacement\n- [ ] Confirm lower cabinets are anchored and level — Slabs crack over time if base units flex, bow, or sit unevenly across the subfloor.\n- [ ] Have all plumbing fixtures physically on-site — Fabricators require your exact sink and faucet models on template day to cut accurate openings and holes.\n- [ ] Provide specifications for your cooktop or slide-in range — Precise cutout dimensions prevent costly on-site grinding or structural clearance issues around appliances.\n- [ ] Disconnect and clear all plumbing below the sink — Shut off supply valves and detach drain lines before old tops are pulled so workers have safe access.\n- [ ] Empty all lower drawers and perimeter cabinets — Vibration and leveling adjustments during installation drop dust into open storage compartments.\n- [ ] Clear a wide, level access path from the driveway to the kitchen — Delivery crews carry slabs weighing several hundred pounds and need unobstructed walking room.\n- [ ] Confirm who is responsible for electrical outlet adjustments — Local codes often require GFCI spacing and box adjustments when thicker slabs or full backsplashes are added.\n- [ ] Plan temporary kitchen prep for one to three days — Water will remain turned off at the sink until the adhesive fully cures and final plumbing connections finish.\n\nHow to Use This Checklist\nReview these items with your general contractor well before your fabrication template date. Ensuring your base cabinets, appliances, and utility shutoffs are fully addressed eliminates installation delays and keeps your kitchen project on schedule.\n\nWhat to Do Next\nIf you are planning new quartz or granite countertops in your home, reach out to Blue Lake Construction at 385-202-5987 to get your project moving forward.",
+  "datePublished": "2026-11-08"
 }

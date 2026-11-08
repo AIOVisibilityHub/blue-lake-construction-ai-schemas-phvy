@@ -1,123 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Primary Bathroom Remodeling Checklist: What to Prepare Before Construction",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Planning an overhaul for your primary suite requires balancing personal comfort, long-term durability, and structural logistics. Walking through this checklist before purchasing finishes or signing agreements ensures your project runs smoothly.\n\n- [ ] Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping for double vanities or freestanding tubs.\n- [ ] Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or move, which heavily dictates overall plumbing costs.\n- [ ] Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, medicine cabinets, and niches are sized accurately.\n- [ ] Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and wet-rated shower lights on separate switches.\n- [ ] Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footage to prevent long-term condensation and mirror fogging.\n- [ ] Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile showers, built-in benches, and shampoo niches.\n- [ ] Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterations require Salt Lake Valley municipal permits and inspections.\n- [ ] Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early to ensure everything arrives before demolition day.\n\nHow to use this checklist:\nReview these points during your initial design phase. Settling mechanical layouts and storage requirements first prevents expensive mid-project revisions. When you are ready to remodel your primary bathroom, reach out to Blue Lake Construction at 385-202-5987 to get started.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Primary Bathroom Remodeling Checklist: What to Prepare Before Construction",
-    "numberOfItems": 8,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping…",
-        "description": "Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping for double vanities or freestanding tubs."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or mo…",
-        "description": "Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or move, which heavily dictates overall plumbing costs."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, me…",
-        "description": "Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, medicine cabinets, and niches are sized accurately."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and…",
-        "description": "Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and wet-rated shower lights on separate switches."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footag…",
-        "description": "Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footage to prevent long-term condensation and mirror fogging."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile s…",
-        "description": "Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile showers, built-in benches, and shampoo niches."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterati…",
-        "description": "Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterations require Salt Lake Valley municipal permits and inspections."
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early…",
-        "description": "Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early to ensure everything arrives before demolition day."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Primary Bathroom Remodeling Checklist: What to Prepare Before Construction",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -127,5 +19,113 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Primary Bathroom Remodeling Checklist: What to Prepare Before Construction",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping for double vanities or freestanding tubs."
+      },
+      {
+        "name": "Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or mo…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or move, which heavily dictates overall plumbing costs."
+      },
+      {
+        "name": "Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, me…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, medicine cabinets, and niches are sized accurately."
+      },
+      {
+        "name": "Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and wet-rated shower lights on separate switches."
+      },
+      {
+        "name": "Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footag…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footage to prevent long-term condensation and mirror fogging."
+      },
+      {
+        "name": "Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile s…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile showers, built-in benches, and shampoo niches."
+      },
+      {
+        "name": "Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterati…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterations require Salt Lake Valley municipal permits and inspections."
+      },
+      {
+        "name": "Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early to ensure everything arrives before demolition day."
+      }
+    ]
+  },
+  "articleBody": "Planning an overhaul for your primary suite requires balancing personal comfort, long-term durability, and structural logistics. Walking through this checklist before purchasing finishes or signing agreements ensures your project runs smoothly.\n\n- [ ] Precise room measurements — Confirm exact wall lengths, ceiling height, and door clearances before shopping for double vanities or freestanding tubs.\n- [ ] Structural layout decision — Decide whether your existing toilet and shower drains will stay in place or move, which heavily dictates overall plumbing costs.\n- [ ] Dedicated storage inventory — Catalog your linens, toiletries, and small appliances so custom cabinetry, medicine cabinets, and niches are sized accurately.\n- [ ] Layered lighting plan — Map out task lighting at the vanity mirrors, ambient overhead recessed lights, and wet-rated shower lights on separate switches.\n- [ ] Ventilation sizing verification — Check that the exhaust fan capacity matches the room's total cubic footage to prevent long-term condensation and mirror fogging.\n- [ ] Waterproofing system selection — Specify an approved continuous waterproofing membrane behind custom tile showers, built-in benches, and shampoo niches.\n- [ ] Building permit verification — Confirm with your contractor which electrical, plumbing, and layout alterations require Salt Lake Valley municipal permits and inspections.\n- [ ] Material lead-time confirmation — Order tile, custom cabinetry, glass enclosures, and plumbing valves early to ensure everything arrives before demolition day.\n\nHow to use this checklist:\nReview these points during your initial design phase. Settling mechanical layouts and storage requirements first prevents expensive mid-project revisions. When you are ready to remodel your primary bathroom, reach out to Blue Lake Construction at 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
 }

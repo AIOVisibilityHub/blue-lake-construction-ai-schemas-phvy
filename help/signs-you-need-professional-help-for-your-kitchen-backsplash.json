@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Signs You Need Professional Help for Your Kitchen Backsplash",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Tile work seems manageable until you confront uneven walls, intricate patterns, or tricky electrical cuts. Knowing when to hire a licensed general contractor can spare you costly materials and frustration.\n\nVisible Signals It Is Time to Hire a Pro:\n- Wavy or bowed drywall: If your wall bows in and out, standard tile sheets will sit unevenly, creating noticeable \"lippage\" where edges stick out. A contractor levels the backing before setting tile.\n- Working with natural stone or fragile glass: Marble, slate, and glass tiles require specialized wet-saw blades and specific setting mortars that will not bleed through or stain porous surfaces.\n- Multiple electrical outlets along the run: Precision cutting around four or five dual-gang outlets on a single wall requires diamond tooling and box extenders so switches mount flush and safe.\n- Moving or adding power outlets: If your new layout calls for shifting receptacles or adding under-cabinet lighting wires, licensed trade coordination is necessary to satisfy local codes.\n- High-moisture or heat zones behind the range: Cooking heat and grease splatter demand heat-tolerant thin-set and properly sealed grout lines that hold up under heavy daily cleaning.\n\nWhat to Do Next:\nGetting straight cuts, even grout joints, and proper perimeter movement joints requires technical skill and the right tools. If your project involves complicated layouts or utility updates, partner with craftsmen who do it right from day one. Call Blue Lake Construction at 385-202-5987 to discuss your kitchen updates.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Signs You Need Professional Help for Your Kitchen Backsplash",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tile work seems manageable until you confront uneven walls, intricate patterns, or tricky electrical cuts. Knowing when to hire a licensed general contractor can spare you costly materials and frustration.\n\nVisible Signals It Is Time to Hire a Pro:\n- Wavy or bowed drywall: If your wall bows in and out, standard tile sheets will sit unevenly, creating noticeable \"lippage\" where edges stick out. A contractor levels the backing before setting tile.\n- Working with natural stone or fragile glass: Marble, slate, and glass tiles require specialized wet-saw blades and specific setting mortars that will not bleed through or stain porous surfaces.\n- Multiple electrical outlets along the run: Precision cutting around four or five dual-gang outlets on a single wall requires diamond tooling and box extenders so switches mount flush and safe.\n- Moving or adding power outlets: If your new layout calls for shifting receptacles or adding under-cabinet lighting wires, licensed trade coordination is necessary to satisfy local codes.\n- High-moisture or heat zones behind the range: Cooking heat and grease splatter demand heat-tolerant thin-set and properly sealed grout lines that hold up under heavy daily cleaning.\n\nWhat to Do Next:\nGetting straight cuts, even grout joints, and proper perimeter movement joints requires technical skill and the right tools. If your project involves complicated layouts or utility updates, partner with craftsmen who do it right from day one. Call Blue Lake Construction at 385-202-5987 to discuss your kitchen updates.",
+  "datePublished": "2026-11-08"
 }

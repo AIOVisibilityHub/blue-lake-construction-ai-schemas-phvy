@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Frequent Shower Niche Mistakes That Lead to Leaks and Standing Water",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Building a recessed shower shelf seems simple, but small oversights during construction can allow water into wall cavities. Here are common pitfalls to watch for.\n\nCommon Mistakes to Avoid:\n- Level or inward-sloping sills: If the bottom shelf is dead level or tilts backward, water pools against the rear wall grout and breeds mildew. Always ensure the sill has a gentle forward pitch toward the shower drain.\n- Adding the niche after waterproofing: Cutting a hole into a finished waterproof wall destroys the water envelope. The niche must be framed, fastened, and integrated into the primary membrane before any tile goes up.\n- Ignoring tile layout: Placing the box without checking tile spacing leads to tiny, ragged slivers of tile at the borders. Line up niche dimensions with your tile grid early.\n- Placing niches in exterior walls: Cutting out insulation on exterior walls creates cold spots, condensation, and freezing risks during Utah winters. Stick to interior walls whenever possible.\n- Skipping flexible sealant at corners: Using rigid grout where the niche meets the shower wall leads to cracking from natural building settlement. Use flexible silicone caulk at inside corners.\n\nWhen Professional Guidance Helps:\nProper niche waterproofing requires exact overlapping bands and compatible setting materials to protect framing. Blue Lake Construction handles bathroom remodels across West Jordan, South Jordan, and Salt Lake City. Call 385-202-5987 to get your project done right.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Frequent Shower Niche Mistakes That Lead to Leaks and Standing Water",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a recessed shower shelf seems simple, but small oversights during construction can allow water into wall cavities. Here are common pitfalls to watch for.\n\nCommon Mistakes to Avoid:\n- Level or inward-sloping sills: If the bottom shelf is dead level or tilts backward, water pools against the rear wall grout and breeds mildew. Always ensure the sill has a gentle forward pitch toward the shower drain.\n- Adding the niche after waterproofing: Cutting a hole into a finished waterproof wall destroys the water envelope. The niche must be framed, fastened, and integrated into the primary membrane before any tile goes up.\n- Ignoring tile layout: Placing the box without checking tile spacing leads to tiny, ragged slivers of tile at the borders. Line up niche dimensions with your tile grid early.\n- Placing niches in exterior walls: Cutting out insulation on exterior walls creates cold spots, condensation, and freezing risks during Utah winters. Stick to interior walls whenever possible.\n- Skipping flexible sealant at corners: Using rigid grout where the niche meets the shower wall leads to cracking from natural building settlement. Use flexible silicone caulk at inside corners.\n\nWhen Professional Guidance Helps:\nProper niche waterproofing requires exact overlapping bands and compatible setting materials to protect framing. Blue Lake Construction handles bathroom remodels across West Jordan, South Jordan, and Salt Lake City. Call 385-202-5987 to get your project done right.",
+  "datePublished": "2026-11-08"
 }

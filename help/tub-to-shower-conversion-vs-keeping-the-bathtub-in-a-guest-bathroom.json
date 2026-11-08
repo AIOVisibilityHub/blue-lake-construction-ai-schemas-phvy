@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Tub-to-Shower Conversion vs Keeping the Bathtub in a Guest Bathroom",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Deciding whether to tear out an old bathtub or preserve it is one of the biggest choices during a guest bath renovation. Both options serve distinct visitor needs, and the right pick balances layout room, daily convenience, and plumbing adjustments.\n\nTub-to-Shower Conversion\nConverting a standard alcove tub into a walk-in shower opens up floor space and makes entry effortless for older guests or visiting relatives. Walk-in showers look clean, allow custom tile niches, and make compact guest bathrooms feel significantly larger. However, removing a tub usually means rebuilding the drain assembly, reconfiguring supply valves, and adding thorough waterproofing systems from the subfloor up. This route often involves broader plumbing permits and active construction time of around three to six weeks.\n\nKeeping the Existing Bathtub\nReplacing or keeping a bathtub preserves bathing functionality for visiting families with toddlers or young kids. It tends to keep plumbing supply and drain points in their original locations, which controls labor costs and shortens framing changes. The tradeoff is that bathtubs consume rigid visual and physical space, leaving less elbow room around the vanity or toilet.\n\nWhat Can Change the Right Choice\nLook at your household layout first. If you already have a functional tub in another bathroom, turning the guest bath into a walk-in shower is often the practical upgrade visitors appreciate most. When you are ready to evaluate plumbing layouts and custom shower builds in Salt Lake City, contact Blue Lake Construction at 385-202-5987 to schedule an appointment.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Tub-to-Shower Conversion vs Keeping the Bathtub in a Guest Bathroom",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to tear out an old bathtub or preserve it is one of the biggest choices during a guest bath renovation. Both options serve distinct visitor needs, and the right pick balances layout room, daily convenience, and plumbing adjustments.\n\nTub-to-Shower Conversion\nConverting a standard alcove tub into a walk-in shower opens up floor space and makes entry effortless for older guests or visiting relatives. Walk-in showers look clean, allow custom tile niches, and make compact guest bathrooms feel significantly larger. However, removing a tub usually means rebuilding the drain assembly, reconfiguring supply valves, and adding thorough waterproofing systems from the subfloor up. This route often involves broader plumbing permits and active construction time of around three to six weeks.\n\nKeeping the Existing Bathtub\nReplacing or keeping a bathtub preserves bathing functionality for visiting families with toddlers or young kids. It tends to keep plumbing supply and drain points in their original locations, which controls labor costs and shortens framing changes. The tradeoff is that bathtubs consume rigid visual and physical space, leaving less elbow room around the vanity or toilet.\n\nWhat Can Change the Right Choice\nLook at your household layout first. If you already have a functional tub in another bathroom, turning the guest bath into a walk-in shower is often the practical upgrade visitors appreciate most. When you are ready to evaluate plumbing layouts and custom shower builds in Salt Lake City, contact Blue Lake Construction at 385-202-5987 to schedule an appointment.",
+  "datePublished": "2026-11-08"
 }

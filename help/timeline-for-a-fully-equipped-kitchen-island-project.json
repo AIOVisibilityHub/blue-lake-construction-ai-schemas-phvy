@@ -1,91 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Timeline for a Fully Equipped Kitchen Island Project",
-  "description": "Your project manager confirms the exact footprint, checking walking clearances and cabinet anchoring points across the subfloor. This initial assessment takes about a half-day and identifies any floor",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Layout Verification and Floor Inspection",
-      "text": "Your project manager confirms the exact footprint, checking walking clearances and cabinet anchoring points across the subfloor. This initial assessment takes about a half-day and identifies any floor leveling needs or joist interferences."
+      "text": "Your project manager confirms the exact footprint, checking walking clearances and cabinet anchoring points across the subfloor. This initial assessment takes about a half-day and identifies any floor leveling needs or joist interferences.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Utility Rough-Ins and Code Planning",
-      "text": "Licensed trade partners route electrical conduit, water supply lines, or drain pipes through the floor before any woodwork arrives. This phase typically spans one to two days, ensuring all penetrations match local Salt Lake Valley building regulations."
+      "text": "Licensed trade partners route electrical conduit, water supply lines, or drain pipes through the floor before any woodwork arrives. This phase typically spans one to two days, ensuring all penetrations match local Salt Lake Valley building regulations.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Base Cabinet Anchoring and Blocking",
-      "text": "Craftsmen secure structural blocking to the floor and fasten the base cabinetry rigidly in place so it cannot shift under daily use. This step takes a full working day and creates a rock-solid foundation for heavy surfaces."
+      "text": "Craftsmen secure structural blocking to the floor and fasten the base cabinetry rigidly in place so it cannot shift under daily use. This step takes a full working day and creates a rock-solid foundation for heavy surfaces.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Countertop Templating and Installation",
-      "text": "Stone fabricators measure the anchored perimeter, cut the slab, and bed the countertop securely with proper overhang support. Fabrication and delivery usually take several days, followed by a half-day professional placement."
+      "text": "Stone fabricators measure the anchored perimeter, cut the slab, and bed the countertop securely with proper overhang support. Fabrication and delivery usually take several days, followed by a half-day professional placement.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Trim Carpentry and Fixture Trim-Out",
-      "text": "Electricians wire pop-up outlets, plumbers connect sink fixtures, and finish carpenters install decorative panels and baseboards. This final phase takes one to two days to complete and thoroughly test for everyday reliability. Ready to expand your cooking and gathering layout? Contact Blue Lake Construction at 385-202-5987 to schedule an on-site consultation."
+      "text": "Electricians wire pop-up outlets, plumbers connect sink fixtures, and finish carpenters install decorative panels and baseboards. This final phase takes one to two days to complete and thoroughly test for everyday reliability. Ready to expand your cooking and gathering layout? Contact Blue Lake Construction at 385-202-5987 to schedule an on-site consultation.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -93,5 +41,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Your project manager confirms the exact footprint, checking walking clearances and cabinet anchoring points across the subfloor. This initial assessment takes about a half-day and identifies any floor"
 }

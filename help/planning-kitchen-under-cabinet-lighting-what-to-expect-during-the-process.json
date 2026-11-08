@@ -1,91 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Planning Kitchen Under-Cabinet Lighting: What to Expect During the Process",
-  "description": "The contractor measures each cabinet run, checks the underside lip depth, and maps out where shadows fall on work areas. This phase takes about an hour and identifies where power sources can enter wit",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Planning and measurement",
-      "text": "The contractor measures each cabinet run, checks the underside lip depth, and maps out where shadows fall on work areas. This phase takes about an hour and identifies where power sources can enter without cluttering usable cabinet storage."
+      "text": "The contractor measures each cabinet run, checks the underside lip depth, and maps out where shadows fall on work areas. This phase takes about an hour and identifies where power sources can enter without cluttering usable cabinet storage.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Electrical rough-in and circuit verification",
-      "text": "The installer assesses existing electrical capacity and routes wiring from the wall switch to the power supply location. Depending on whether a new dedicated lighting circuit or an existing run is used, this stage takes two to four hours and ensures work aligns with local electrical codes."
+      "text": "The installer assesses existing electrical capacity and routes wiring from the wall switch to the power supply location. Depending on whether a new dedicated lighting circuit or an existing run is used, this stage takes two to four hours and ensures work aligns with local electrical codes.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Mounting drivers and fixtures",
-      "text": "The team mounts low-profile light channels or bar fixtures near the front underside edge of the cabinets. Drivers or transformers are secured inside upper cabinets or utility spaces with proper ventilation, usually wrapping up in one to two hours."
+      "text": "The team mounts low-profile light channels or bar fixtures near the front underside edge of the cabinets. Drivers or transformers are secured inside upper cabinets or utility spaces with proper ventilation, usually wrapping up in one to two hours.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Wiring connections and strain relief",
-      "text": "Craftsmen make all low-voltage connections, secure loose lines with proper clips, and install code-approved strain relief to prevent wire pullout. This careful finishing step takes roughly two hours to ensure cords remain hidden from normal sightlines."
+      "text": "Craftsmen make all low-voltage connections, secure loose lines with proper clips, and install code-approved strain relief to prevent wire pullout. This careful finishing step takes roughly two hours to ensure cords remain hidden from normal sightlines.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Testing, dimming calibration, and inspection",
-      "text": "The installer powers the system, checks for uniform color temperature and brightness, and tests the wall dimmer across its full spectrum. Any required electrical inspections are completed before wrapping up the work. Blue Lake Construction manages complete kitchen transformations across Cottonwood Heights, South Jordan, and Salt Lake City. Call 385-202-5987 to schedule an appointment for your remodel."
+      "text": "The installer powers the system, checks for uniform color temperature and brightness, and tests the wall dimmer across its full spectrum. Any required electrical inspections are completed before wrapping up the work. Blue Lake Construction manages complete kitchen transformations across Cottonwood Heights, South Jordan, and Salt Lake City. Call 385-202-5987 to schedule an appointment for your remodel.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -93,5 +41,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "The contractor measures each cabinet run, checks the underside lip depth, and maps out where shadows fall on work areas. This phase takes about an hour and identifies where power sources can enter wit"
 }

@@ -1,91 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Building a Curbless Walk-In Tile Shower: Key Phases and Timeline",
-  "description": "Your contractor inspects the subfloor, frames structural walls, sets blocking for grab bars or heavy glass, and moves supply lines and the drain to their exact spots. This rough-in phase ensures the f",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Structural framing and plumbing rough-in",
-      "text": "Your contractor inspects the subfloor, frames structural walls, sets blocking for grab bars or heavy glass, and moves supply lines and the drain to their exact spots. This rough-in phase ensures the framing is plumb and square, which is critical for smooth tile alignment. A licensed trade professional handles these mechanical adjustments over two to three business days."
+      "text": "Your contractor inspects the subfloor, frames structural walls, sets blocking for grab bars or heavy glass, and moves supply lines and the drain to their exact spots. This rough-in phase ensures the framing is plumb and square, which is critical for smooth tile alignment. A licensed trade professional handles these mechanical adjustments over two to three business days.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Shower pan slope and backer installation",
-      "text": "Crews install the approved shower receptor, set the floor pre-slope toward the drain, and secure moisture-resistant wall backer boards. Getting the floor pitch exact prevents water from pooling in corners later on. This prep phase takes about one to two days depending on whether your layout features a traditional curb or a curbless transition."
+      "text": "Crews install the approved shower receptor, set the floor pre-slope toward the drain, and secure moisture-resistant wall backer boards. Getting the floor pitch exact prevents water from pooling in corners later on. This prep phase takes about one to two days depending on whether your layout features a traditional curb or a curbless transition.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Continuous membrane waterproofing",
-      "text": "Installers apply a bonded waterproof membrane across all walls, the sloped pan, inside corners, seams, and around pipe penetrations. This creates an unbroken water barrier tied directly into the drain assembly. The assembly often requires at least twenty-four hours of cure time before anyone can walk on it or set tile."
+      "text": "Installers apply a bonded waterproof membrane across all walls, the sloped pan, inside corners, seams, and around pipe penetrations. This creates an unbroken water barrier tied directly into the drain assembly. The assembly often requires at least twenty-four hours of cure time before anyone can walk on it or set tile.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Tile layout, setting, and curing",
-      "text": "Installers map tile cuts to eliminate awkward slivers and ensure balanced sightlines across walls and floors. The team spreads mortar to achieve approximately 95% back coverage, bedding each tile securely. Depending on shower size and tile dimensions, setting and initial curing generally span two to four days."
+      "text": "Installers map tile cuts to eliminate awkward slivers and ensure balanced sightlines across walls and floors. The team spreads mortar to achieve approximately 95% back coverage, bedding each tile securely. Depending on shower size and tile dimensions, setting and initial curing generally span two to four days.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Grouting, sealing, and final fixtures",
-      "text": "Once mortar fully cures, workers pack the joints with appropriate grout, apply flexible sealant at all plane changes, and mount the finish plumbing trim and custom glass enclosure. Final sealing and fixture hookups wrap up the installation in one to two days. What to Do Next: To coordinate your shower remodel with Ryan Gardner and the Blue Lake Construction team, call 385-202-5987 to get started."
+      "text": "Once mortar fully cures, workers pack the joints with appropriate grout, apply flexible sealant at all plane changes, and mount the finish plumbing trim and custom glass enclosure. Final sealing and fixture hookups wrap up the installation in one to two days. What to Do Next: To coordinate your shower remodel with Ryan Gardner and the Blue Lake Construction team, call 385-202-5987 to get started.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -93,5 +41,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Your contractor inspects the subfloor, frames structural walls, sets blocking for grab bars or heavy glass, and moves supply lines and the drain to their exact spots. This rough-in phase ensures the f"
 }

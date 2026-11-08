@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "5 Critical Mistakes to Avoid When Planning a Kitchen Expansion",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Taking out a wall to open up your kitchen sounds exciting, but expanding your layout requires careful coordination behind the scenes. Homeowners often run into costly surprises when they rush into demolition without understanding what lies within their walls or what local building authorities require.\n\nCommon Mistakes to Avoid\n- Demolishing walls before pulling permits: Starting demolition prior to permit approval can lead to stop-work orders and fines. Local building departments require plan reviews whenever structural framing or utility routes change.\n- Assuming an interior wall is non-load-bearing: Guessing at structural loads without a professional assessment puts your home at risk. Removing support without temporary shoring and properly sized replacement beams causes sagging ceilings and structural damage.\n- Designing layout without confirming utility routes: Placing ranges, sinks, and islands before mapping plumbing vents, gas supplies, and drain drops leads to pricey rerouting work mid-project.\n- Overlooking electrical and ventilation capacity: Modern kitchens demand dedicated small-appliance circuits, GFCI protection, and high-capacity range hoods. Failing to evaluate electrical panel capacity early can stall appliance installation.\n- Ordering custom cabinetry before framing verification: Ordering cabinets based on preliminary sketches rather than verified rough framing measurements often leaves you with pieces that do not fit the finished drywall openings.\n\nWhen Professional Guidance Helps\nStructural alterations, utility relocations, and municipal plan reviews demand licensed oversight. Working with a dedicated general contractor ensures your new layout is engineered safely, meets code requirements, and passes inspections.\n\nWhat to Do Next\nReady to plan your kitchen expansion without the headaches? Call Blue Lake Construction at 385-202-5987 to discuss your project layout, drafting, and construction with an experienced local contractor.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "5 Critical Mistakes to Avoid When Planning a Kitchen Expansion",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking out a wall to open up your kitchen sounds exciting, but expanding your layout requires careful coordination behind the scenes. Homeowners often run into costly surprises when they rush into demolition without understanding what lies within their walls or what local building authorities require.\n\nCommon Mistakes to Avoid\n- Demolishing walls before pulling permits: Starting demolition prior to permit approval can lead to stop-work orders and fines. Local building departments require plan reviews whenever structural framing or utility routes change.\n- Assuming an interior wall is non-load-bearing: Guessing at structural loads without a professional assessment puts your home at risk. Removing support without temporary shoring and properly sized replacement beams causes sagging ceilings and structural damage.\n- Designing layout without confirming utility routes: Placing ranges, sinks, and islands before mapping plumbing vents, gas supplies, and drain drops leads to pricey rerouting work mid-project.\n- Overlooking electrical and ventilation capacity: Modern kitchens demand dedicated small-appliance circuits, GFCI protection, and high-capacity range hoods. Failing to evaluate electrical panel capacity early can stall appliance installation.\n- Ordering custom cabinetry before framing verification: Ordering cabinets based on preliminary sketches rather than verified rough framing measurements often leaves you with pieces that do not fit the finished drywall openings.\n\nWhen Professional Guidance Helps\nStructural alterations, utility relocations, and municipal plan reviews demand licensed oversight. Working with a dedicated general contractor ensures your new layout is engineered safely, meets code requirements, and passes inspections.\n\nWhat to Do Next\nReady to plan your kitchen expansion without the headaches? Call Blue Lake Construction at 385-202-5987 to discuss your project layout, drafting, and construction with an experienced local contractor.",
+  "datePublished": "2026-11-08"
 }

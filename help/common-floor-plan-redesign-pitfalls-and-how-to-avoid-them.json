@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Common Floor Plan Redesign Pitfalls and How to Avoid Them",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "A kitchen layout redesign is your best opportunity to cure daily bottlenecks, but simple planning oversights can cause lasting functional problems. Here are six common floor plan mistakes homeowners make and how to avoid them before construction begins.\n\nChoosing Cabinet Style Before Appliance Specifications\nBuying or sizing cabinets before finalizing your exact refrigerator, range, and hood specifications often causes costly installation clashes. Lock in all appliance cut sheets first so cabinet builders can frame exact clearances and electrical rough-ins.\n\nInstalling an Island That Chokes Traffic Flow\nTrying to squeeze an oversized island into a narrow kitchen cuts into floor space. Work aisles need comfortable clearances so doors and drawers can open fully without colliding. Always map full door swings on a scaled floor plan before locking in island dimensions.\n\nPlacing Tall Cabinets Where They Block Natural Light\nPutting full-height pantry towers or panel-ready refrigerators directly next to a window casts deep shadows across primary counter workspaces. Position tall utility units on exterior blind walls to keep daylight streaming across prep areas.\n\nForgetting Dedicated Landing Zones\nA cooktop, refrigerator, or microwave without counter space right beside it forces you to carry hot pots or heavy groceries across the room. Ensure every major appliance has at least fifteen to eighteen inches of adjacent counter space.\n\nOverlooking Exhaust Ducting Paths\nRelocating a range to a central island looks great on paper but can create complex ceiling venting runs. Plan your mechanical ducting routes early to verify your exhaust fan can vent directly outdoors without excessive elbows.\n\nAssuming Existing Electrical Capacity Is Adequate\nModern kitchen layouts incorporate high-draw induction cooktops, built-in ovens, and multiple counter outlets that easily overload older panels. Have your builder evaluate your subpanel and plan dedicated circuits before closing walls.\n\nWhat to Do Next\nAvoiding these layout errors requires precise drafting and experienced site coordination. To plan a practical kitchen layout redesign for your home, call Blue Lake Construction at 385-202-5987.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "Common Floor Plan Redesign Pitfalls and How to Avoid Them",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen layout redesign is your best opportunity to cure daily bottlenecks, but simple planning oversights can cause lasting functional problems. Here are six common floor plan mistakes homeowners make and how to avoid them before construction begins.\n\nChoosing Cabinet Style Before Appliance Specifications\nBuying or sizing cabinets before finalizing your exact refrigerator, range, and hood specifications often causes costly installation clashes. Lock in all appliance cut sheets first so cabinet builders can frame exact clearances and electrical rough-ins.\n\nInstalling an Island That Chokes Traffic Flow\nTrying to squeeze an oversized island into a narrow kitchen cuts into floor space. Work aisles need comfortable clearances so doors and drawers can open fully without colliding. Always map full door swings on a scaled floor plan before locking in island dimensions.\n\nPlacing Tall Cabinets Where They Block Natural Light\nPutting full-height pantry towers or panel-ready refrigerators directly next to a window casts deep shadows across primary counter workspaces. Position tall utility units on exterior blind walls to keep daylight streaming across prep areas.\n\nForgetting Dedicated Landing Zones\nA cooktop, refrigerator, or microwave without counter space right beside it forces you to carry hot pots or heavy groceries across the room. Ensure every major appliance has at least fifteen to eighteen inches of adjacent counter space.\n\nOverlooking Exhaust Ducting Paths\nRelocating a range to a central island looks great on paper but can create complex ceiling venting runs. Plan your mechanical ducting routes early to verify your exhaust fan can vent directly outdoors without excessive elbows.\n\nAssuming Existing Electrical Capacity Is Adequate\nModern kitchen layouts incorporate high-draw induction cooktops, built-in ovens, and multiple counter outlets that easily overload older panels. Have your builder evaluate your subpanel and plan dedicated circuits before closing walls.\n\nWhat to Do Next\nAvoiding these layout errors requires precise drafting and experienced site coordination. To plan a practical kitchen layout redesign for your home, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
 }

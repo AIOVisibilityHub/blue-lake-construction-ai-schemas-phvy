@@ -1,91 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Adding a Shower Niche During a Bathroom Remodel: Process and Timeline",
-  "description": "Your contractor checks the framing between studs to ensure no electrical wires, plumbing vent stacks, or structural supports block the proposed opening. The team marks the exact height on the studs, c",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Wall cavity inspection and layout marking",
-      "text": "Your contractor checks the framing between studs to ensure no electrical wires, plumbing vent stacks, or structural supports block the proposed opening. The team marks the exact height on the studs, coordinating the cutout with your planned tile dimensions so the niche sits symmetrically within full tile courses."
+      "text": "Your contractor checks the framing between studs to ensure no electrical wires, plumbing vent stacks, or structural supports block the proposed opening. The team marks the exact height on the studs, coordinating the cutout with your planned tile dimensions so the niche sits symmetrically within full tile courses.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Framing structural supports and opening",
-      "text": "The crew cuts any non-bearing stud interference, installs horizontal top and bottom framing blocks, and secures vertical cripple studs to form a rigid, level opening. Solid blocking prevents the wall from flexing, which could crack grout joints around the niche perimeter later on. This rough framing generally takes half a day."
+      "text": "The crew cuts any non-bearing stud interference, installs horizontal top and bottom framing blocks, and secures vertical cripple studs to form a rigid, level opening. Solid blocking prevents the wall from flexing, which could crack grout joints around the niche perimeter later on. This rough framing generally takes half a day.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Setting the niche box and tying in waterproofing",
-      "text": "Whether using a prefabricated waterproof unit or moisture-resistant backer board, the installer fastens the box into the framed opening. Fasteners are kept within manufacturer limits, such as twelve inches on center at corners, and sealed immediately with waterproof membrane bands overlapping onto the shower wall assembly. The sealing process takes several hours, followed by required membrane cure times."
+      "text": "Whether using a prefabricated waterproof unit or moisture-resistant backer board, the installer fastens the box into the framed opening. Fasteners are kept within manufacturer limits, such as twelve inches on center at corners, and sealed immediately with waterproof membrane bands overlapping onto the shower wall assembly. The sealing process takes several hours, followed by required membrane cure times.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Checking sill slope and setting tile",
-      "text": "Installers verify that the bottom shelf slopes slightly forward toward the shower drain—typically about an eighth of an inch—to prevent soap and water from puddling. Tiles are cut precisely, back-buttered for solid adhesion, and set with trim pieces like metal profiles or bullnose tile along all exposed outer corners."
+      "text": "Installers verify that the bottom shelf slopes slightly forward toward the shower drain—typically about an eighth of an inch—to prevent soap and water from puddling. Tiles are cut precisely, back-buttered for solid adhesion, and set with trim pieces like metal profiles or bullnose tile along all exposed outer corners.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Grouting and applying flexible perimeter sealant",
-      "text": "After the mortar cures for twenty-four hours, workers pack grout into the joints and apply color-matched, flexible silicone sealant along all internal plane changes where the niche meets the wall. This final step takes one day. What to Do Next: To discuss adding custom niches and tile details to your shower, call Blue Lake Construction at 385-202-5987."
+      "text": "After the mortar cures for twenty-four hours, workers pack grout into the joints and apply color-matched, flexible silicone sealant along all internal plane changes where the niche meets the wall. This final step takes one day. What to Do Next: To discuss adding custom niches and tile details to your shower, call Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -93,5 +41,57 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Your contractor checks the framing between studs to ensure no electrical wires, plumbing vent stacks, or structural supports block the proposed opening. The team marks the exact height on the studs, c"
 }

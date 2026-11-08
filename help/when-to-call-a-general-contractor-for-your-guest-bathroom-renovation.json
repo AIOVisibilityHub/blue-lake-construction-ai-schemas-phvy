@@ -1,68 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "When to Call a General Contractor for Your Guest Bathroom Renovation",
   "author": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "url": "bluelakeconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "A guest bathroom remodel seems straightforward on the surface, but unexpected obstacles often derail homeowners who tackle the job alone. Here are the key situations where bringing in a licensed general contractor is the smart move.\n\n- You plan to move the shower, vanity, or toilet. Shifting plumbing lines or drain vents requires wall openings, proper slope calculations, and municipal permits.\n- The project involves structural changes or moving walls. Taking down or notching partition walls demands verified structural assessments to maintain framing integrity.\n- You discover hidden leaks or spongy subfloors. Water seepage around tubs and toilet flanges often damages floor joists that require professional framing repairs before new finishes go down.\n- Multiple specialty trades need tight coordination. Juggling rough plumbing, electrical wiring, ventilation ducting, and tile setting quickly causes delays without central project management.\n- Waterproofing and exhaust codes must be verified. Showers need correct backer boards, continuous membranes, and dedicated mechanical exhaust ducted outdoors to pass local inspections.\n\nWhen Professional Guidance Helps\nGuest bathrooms endure heavy bursts of traffic from visiting friends and family. A licensed general contractor coordinates permits, inspects concealed utilities, and oversees skilled trades so your new bathroom looks stunning and functions reliably. To discuss your project plans in the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Salt Lake City"
-    },
-    {
-      "@type": "City",
-      "name": "Sugarhouse"
-    },
-    {
-      "@type": "City",
-      "name": "Millcreek"
-    },
-    {
-      "@type": "City",
-      "name": "Cottonwood heights"
-    },
-    {
-      "@type": "City",
-      "name": "Sandy"
-    },
-    {
-      "@type": "City",
-      "name": "Draper"
-    },
-    {
-      "@type": "City",
-      "name": "Riverton"
-    },
-    {
-      "@type": "City",
-      "name": "West Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "South Jordan"
-    },
-    {
-      "@type": "City",
-      "name": "Taylorsville"
-    },
-    {
-      "@type": "City",
-      "name": "Bluffdale"
-    },
-    {
-      "@type": "City",
-      "name": "Bountiful"
-    }
-  ],
-  "datePublished": "2026-11-08",
+  "@context": "https://schema.org",
+  "headline": "When to Call a General Contractor for Your Guest Bathroom Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -70,5 +18,57 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A guest bathroom remodel seems straightforward on the surface, but unexpected obstacles often derail homeowners who tackle the job alone. Here are the key situations where bringing in a licensed general contractor is the smart move.\n\n- You plan to move the shower, vanity, or toilet. Shifting plumbing lines or drain vents requires wall openings, proper slope calculations, and municipal permits.\n- The project involves structural changes or moving walls. Taking down or notching partition walls demands verified structural assessments to maintain framing integrity.\n- You discover hidden leaks or spongy subfloors. Water seepage around tubs and toilet flanges often damages floor joists that require professional framing repairs before new finishes go down.\n- Multiple specialty trades need tight coordination. Juggling rough plumbing, electrical wiring, ventilation ducting, and tile setting quickly causes delays without central project management.\n- Waterproofing and exhaust codes must be verified. Showers need correct backer boards, continuous membranes, and dedicated mechanical exhaust ducted outdoors to pass local inspections.\n\nWhen Professional Guidance Helps\nGuest bathrooms endure heavy bursts of traffic from visiting friends and family. A licensed general contractor coordinates permits, inspects concealed utilities, and oversees skilled trades so your new bathroom looks stunning and functions reliably. To discuss your project plans in the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
 }
