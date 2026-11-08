@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-08T22:01:30.304Z",
+  "generatedAt": "2026-11-08T22:36:13.539Z",
   "client": {
     "name": "Blue Lake Construction",
     "canonicalUrl": "https://bluelakeconstruction.aiovisibility.net",
@@ -10,13 +10,13 @@
     "email": "ryan@bluelakeconstruction.com",
     "locations": [
       {
-        "name": "bluelakeconstruction.com Office",
-        "address": "1855 W. 3600 S.",
-        "city": "West Valley City",
-        "state": "UT",
         "zip": "84119",
+        "city": "West Valley City",
+        "name": "bluelakeconstruction.com Office",
+        "email": "ryan@bluelakeconstruction.com",
         "phone": "385-202-5987",
-        "email": "ryan@bluelakeconstruction.com"
+        "state": "UT",
+        "address": "1855 W. 3600 S."
       }
     ],
     "services": [
@@ -96,14 +96,14 @@
     ]
   },
   "package": {
-    "totalFiles": 942,
-    "totalBytes": 4466966,
+    "totalFiles": 873,
+    "totalBytes": 3985952,
     "stats": {
       "faqs": 590,
       "helpArticles": 192,
       "services": 59,
       "webpages": 0,
-      "personnel": 71,
+      "personnel": 2,
       "products": 0,
       "locations": 1,
       "awards": 0,
@@ -113,7 +113,7 @@
       "reviews": 0,
       "qna": 0,
       "research": 0,
-      "total": 914
+      "total": 845
     }
   },
   "entrypoints": {
@@ -427,357 +427,12 @@
     "team": [
       {
         "path": "team/ryan-gardner-profile.json",
-        "bytes": 4046,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-salt-lake-city.json",
-        "bytes": 3638,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-sugarhouse.json",
-        "bytes": 3634,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-millcreek.json",
-        "bytes": 3633,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-cottonwood-heights.json",
-        "bytes": 3642,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-sandy.json",
-        "bytes": 3629,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-draper.json",
-        "bytes": 3630,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-riverton.json",
-        "bytes": 3632,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-west-jordan.json",
-        "bytes": 3635,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-south-jordan.json",
-        "bytes": 3636,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-taylorsville.json",
-        "bytes": 3636,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-bluffdale.json",
-        "bytes": 3633,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-bountiful.json",
-        "bytes": 3633,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-kitchen-and-bathroom-remodeling-salt-lake-city-faq.json",
-        "bytes": 3940,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-kitchen-and-bathroom-remodeling-sugarhouse-faq.json",
-        "bytes": 3924,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-kitchen-and-bathroom-remodeling-millcreek-faq.json",
-        "bytes": 3920,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-kitchen-and-bathroom-remodeling-cottonwood-heights-faq.json",
-        "bytes": 3956,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-kitchen-and-bathroom-remodeling-sandy-faq.json",
-        "bytes": 3904,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-full-home-remodeling-salt-lake-city-faq.json",
-        "bytes": 3896,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-full-home-remodeling-sugarhouse-faq.json",
-        "bytes": 3880,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-full-home-remodeling-millcreek-faq.json",
-        "bytes": 3876,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-full-home-remodeling-cottonwood-heights-faq.json",
-        "bytes": 3912,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-full-home-remodeling-sandy-faq.json",
-        "bytes": 3860,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-additions-salt-lake-city-faq.json",
-        "bytes": 3872,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-additions-sugarhouse-faq.json",
-        "bytes": 3856,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-additions-millcreek-faq.json",
-        "bytes": 3852,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-additions-cottonwood-heights-faq.json",
-        "bytes": 3888,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-additions-sandy-faq.json",
-        "bytes": 3836,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-extensions-salt-lake-city-faq.json",
-        "bytes": 3876,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-extensions-sugarhouse-faq.json",
-        "bytes": 3860,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-extensions-millcreek-faq.json",
-        "bytes": 3856,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-extensions-cottonwood-heights-faq.json",
-        "bytes": 3892,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-home-extensions-sandy-faq.json",
-        "bytes": 3840,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-and-basement-remodeling-salt-lake-city-faq.json",
-        "bytes": 3908,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-and-basement-remodeling-sugarhouse-faq.json",
-        "bytes": 3892,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-and-basement-remodeling-millcreek-faq.json",
-        "bytes": 3888,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-and-basement-remodeling-cottonwood-heights-faq.json",
-        "bytes": 3924,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/ryan-gardner-and-basement-remodeling-sandy-faq.json",
-        "bytes": 3872,
+        "bytes": 3913,
         "purpose": "schema"
       },
       {
         "path": "team/amy-gardner-profile.json",
-        "bytes": 1681,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-salt-lake-city.json",
-        "bytes": 1273,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-sugarhouse.json",
-        "bytes": 1269,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-millcreek.json",
-        "bytes": 1268,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-cottonwood-heights.json",
-        "bytes": 1277,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-sandy.json",
-        "bytes": 1264,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-draper.json",
-        "bytes": 1265,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-riverton.json",
-        "bytes": 1267,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-west-jordan.json",
-        "bytes": 1270,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-south-jordan.json",
-        "bytes": 1271,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-taylorsville.json",
-        "bytes": 1271,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-bluffdale.json",
-        "bytes": 1268,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-bountiful.json",
-        "bytes": 1268,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-administration-salt-lake-city-faq.json",
-        "bytes": 1536,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-administration-sugarhouse-faq.json",
-        "bytes": 1520,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-administration-millcreek-faq.json",
-        "bytes": 1516,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-administration-cottonwood-heights-faq.json",
-        "bytes": 1552,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-administration-sandy-faq.json",
-        "bytes": 1500,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-contact-salt-lake-city-faq.json",
-        "bytes": 1544,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-contact-sugarhouse-faq.json",
-        "bytes": 1528,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-contact-millcreek-faq.json",
-        "bytes": 1524,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-contact-cottonwood-heights-faq.json",
-        "bytes": 1560,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-contact-sandy-faq.json",
-        "bytes": 1508,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-support-salt-lake-city-faq.json",
-        "bytes": 1544,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-support-sugarhouse-faq.json",
-        "bytes": 1528,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-support-millcreek-faq.json",
-        "bytes": 1524,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-support-cottonwood-heights-faq.json",
-        "bytes": 1560,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-customer-support-sandy-faq.json",
-        "bytes": 1508,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-business-related-services-salt-lake-city-faq.json",
-        "bytes": 1580,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-business-related-services-sugarhouse-faq.json",
-        "bytes": 1564,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-business-related-services-millcreek-faq.json",
-        "bytes": 1560,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-business-related-services-cottonwood-heights-faq.json",
-        "bytes": 1596,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/amy-gardner-business-related-services-sandy-faq.json",
-        "bytes": 1544,
+        "bytes": 1583,
         "purpose": "schema"
       }
     ],
@@ -791,7 +446,7 @@
     "organization": [
       {
         "path": "organization/blue-lake-construction-organization.json",
-        "bytes": 15081,
+        "bytes": 15766,
         "purpose": "schema"
       }
     ],
@@ -4712,72 +4367,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 18970,
+        "bytes": 23636,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 254596,
+        "bytes": 60881,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 64935,
+        "bytes": 69547,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17795,
+        "bytes": 22203,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 625799,
+        "bytes": 630227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20866,
+        "bytes": 25283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 140283,
+        "bytes": 31601,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 118377,
+        "bytes": 122849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 44664,
+        "bytes": 49206,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 322902,
+        "bytes": 327415,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 83207,
+        "bytes": 87756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 31987,
+        "bytes": 36430,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 22849,
+        "bytes": 27400,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 16722,
+        "bytes": 21138,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4789,7 +4444,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4096,
+        "bytes": 5436,
         "purpose": "LLM hint"
       },
       {
@@ -4809,37 +4464,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3966,
+        "bytes": 6658,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 454830,
+        "bytes": 431079,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 129365,
+        "bytes": 123094,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 129365,
+        "bytes": 123094,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4046,
+        "bytes": 5385,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 159004,
+        "bytes": 152024,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 135653,
+        "bytes": 127285,
         "purpose": "AI sitemap"
       },
       {
