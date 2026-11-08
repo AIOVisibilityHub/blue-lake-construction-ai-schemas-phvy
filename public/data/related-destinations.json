@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-08T20:52:10.889Z",
+  "generatedAt": "2026-11-08T20:52:26.338Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -42,6 +42,12 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/blue-lake-construction-ai-schemas-phvy/ai-data.html"
     },
     {
       "role": "same-as",
@@ -92,7 +98,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/blue-lake-construction-ai-schemas-phvy/",
       "repo": "AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy"
     }
   }
