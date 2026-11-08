@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-the-professional-vanity-replacement-process",
+  "name": "What steps are involved in the professional vanity replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the professional vanity replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process begins with shutting off the water supply, disconnecting drain and supply lines, and removing the existing vanity top, mirror, and cabinet base. Next, the wall and subfloor are inspected for underlying moisture or water damage from prior leaks. If changes are planned, plumbing rough-ins and electrical outlets are adjusted before anchoring the new cabinet securely to the wall studs. Finally, the contractor installs the countertop, sets the sink basin, connects faucets and traps, applies silicone sealant along the edges, and tests all fittings under full water pressure.",
+        "@type": "Answer",
+        "description": "The process involves turning off water, removing old fixtures, inspecting for leaks, securing the new cabinet to studs, installing the countertop and sink, and reconnecting plumbing."
+      }
+    }
+  ],
+  "description": "The process involves turning off water, removing old fixtures, inspecting for leaks, securing the new cabinet to studs, installing the countertop and sink, and"
+}

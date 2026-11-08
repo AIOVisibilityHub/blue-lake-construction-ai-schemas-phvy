@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-the-custom-cabinet-design-and-installation-process",
+  "name": "What steps are involved in the custom cabinet design and installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the custom cabinet design and installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an on-site design consultation and precise measurements of your space. Designers work with you to establish the floor plan, door profiles, wood materials, and interior organization components. After you approve the final shop drawings and finish samples, fabrication begins. During home remodels, our project managers coordinate site preparation, ensuring drywall, plumbing, and wiring rough-ins are ready before delivery. Finally, finish carpenters install the boxes, level the run, attach doors and drawer fronts, and install crown molding.",
+        "@type": "Answer",
+        "description": "The process involves initial measuring, layout and finish design, off-site fabrication, site preparation, and final installation by finish carpenters."
+      }
+    }
+  ],
+  "description": "The process involves initial measuring, layout and finish design, off-site fabrication, site preparation, and final installation by finish carpenters."
+}

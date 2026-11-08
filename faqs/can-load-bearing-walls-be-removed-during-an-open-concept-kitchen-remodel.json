@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-load-bearing-walls-be-removed-during-an-open-concept-kitchen-remodel",
+  "name": "Can load-bearing walls be removed during an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can load-bearing walls be removed during an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, load-bearing walls can be removed during an open-concept kitchen conversion, but they require structural reinforcement. A general contractor must evaluate the floor framing or roof loads above and install a properly sized support beam, such as a steel or engineered wood LVL beam, along with supporting posts down to the foundation. In older Salt Lake Valley homes, this process also involves assessing any electrical wiring, plumbing stacks, or HVAC ductwork hidden inside the wall that must be relocated before the wall can safely come down.",
+        "@type": "Answer",
+        "description": "Yes, load-bearing walls can be removed by installing an engineered support beam and posts to carry structural loads safely after rerouting utilities."
+      }
+    }
+  ],
+  "description": "Yes, load-bearing walls can be removed by installing an engineered support beam and posts to carry structural loads safely after rerouting utilities."
+}

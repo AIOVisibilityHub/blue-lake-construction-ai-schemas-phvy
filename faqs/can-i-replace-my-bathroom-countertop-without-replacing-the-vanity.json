@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-replace-my-bathroom-countertop-without-replacing-the-vanity",
+  "name": "Can I replace my bathroom countertop without replacing the vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathroom countertop without replacing the vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can replace a bathroom countertop without replacing the vanity cabinet, provided the existing cabinet is structurally sound and level. The cabinet must be capable of supporting the weight of heavier materials such as quartz, granite, or solid surface slabs. During removal, there is a minor risk of damage to the vanity base, surrounding drywall, or existing wall tile. Before moving forward, evaluate the interior framing, confirm whether the current plumbing layout aligns with your planned sink placement, and ensure the vanity structure does not have underlying water damage.",
+        "@type": "Answer",
+        "description": "Yes, you can replace the countertop alone if the vanity cabinet is structurally sound, level, and able to support the weight of the new surface material."
+      }
+    }
+  ],
+  "description": "Yes, you can replace the countertop alone if the vanity cabinet is structurally sound, level, and able to support the weight of the new surface material."
+}

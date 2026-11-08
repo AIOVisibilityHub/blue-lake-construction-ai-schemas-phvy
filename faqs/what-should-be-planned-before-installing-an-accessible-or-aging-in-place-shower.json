@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-be-planned-before-installing-an-accessible-or-aging-in-place-shower",
+  "name": "What should be planned before installing an accessible or aging-in-place shower bench?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be planned before installing an accessible or aging-in-place shower bench?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an accessible shower bench, plan the exact height, weight capacity, and surrounding clearances before framing and tile installation begin. Floating or fold-down seats require solid wood blocking installed inside the wall studs prior to closing the drywall to support significant weight safely. You will also want to plan for slip-resistant floor and seat finishes, strategically placed grab bars within easy reach, and a low-threshold or curbless shower entry to ensure smooth, safe movement into the space.",
+        "@type": "Answer",
+        "description": "Plan internal structural wall blocking for weight support, paired grab bar locations, slip-resistant materials, and an adjustable handheld shower wand within arm's reach."
+      }
+    }
+  ],
+  "description": "Plan internal structural wall blocking for weight support, paired grab bar locations, slip-resistant materials, and an adjustable handheld shower wand within ar"
+}

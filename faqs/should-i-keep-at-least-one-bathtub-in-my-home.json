@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-keep-at-least-one-bathtub-in-my-home",
+  "name": "Should I keep at least one bathtub in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep at least one bathtub in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to keep a tub depends on your household routine and future selling plans. Replacing your only bathtub with a walk-in shower can make bathing small children or pets inconvenient and might narrow your buyer pool when selling. However, if your home has at least one other full bathroom with a tub, converting a primary or guest tub into a spacious, accessible walk-in shower improves daily utility and modernizes your living space.",
+        "@type": "Answer",
+        "description": "Yes, keeping at least one tub in the house is recommended for bathing young children, washing pets, and maintaining resale appeal for future buyers."
+      }
+    }
+  ],
+  "description": "Yes, keeping at least one tub in the house is recommended for bathing young children, washing pets, and maintaining resale appeal for future buyers."
+}

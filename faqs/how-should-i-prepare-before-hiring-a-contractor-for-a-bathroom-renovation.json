@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-before-hiring-a-contractor-for-a-bathroom-renovation",
+  "name": "How should I prepare before hiring a contractor for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before hiring a contractor for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, determine your primary goals, target budget, and functional pain points. Take inventory of what is not working: note whether you lack linen storage, experience weak shower pressure, or suffer from poor lighting and morning traffic bottlenecks. Collect reference images showing fixture finishes, vanity configurations, and tile styles you prefer. It is also beneficial to verify your home's secondary bathroom availability, as full renovations render the room unusable during construction, requiring a clear plan for your household's daily routines.",
+        "@type": "Answer",
+        "description": "List your functional pain points, set a target budget range, gather design inspiration photos, and plan alternative bathroom arrangements for your household during construction."
+      }
+    }
+  ],
+  "description": "List your functional pain points, set a target budget range, gather design inspiration photos, and plan alternative bathroom arrangements for your household dur"
+}

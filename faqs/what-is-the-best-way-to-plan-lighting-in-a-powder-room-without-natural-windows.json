@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-best-way-to-plan-lighting-in-a-powder-room-without-natural-windows",
+  "name": "What is the best way to plan lighting in a powder room without natural windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best way to plan lighting in a powder room without natural windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Powder rooms need adequate ambient and task illumination, and layered lighting works best in compact footprints. A single overhead ceiling can light often casts harsh shadows across a person's face at the mirror. Installing wall sconces at eye level on either side of the mirror provides balanced, flattering light for guests. If wall width is too narrow for two sconces, a multi-bulb vanity fixture mounted directly above the mirror offers a solid alternative. Adding dimmable switches lets you soften lighting levels for evening gatherings.",
+        "@type": "Answer",
+        "description": "Use eye-level wall sconces flanking the mirror or a multi-light fixture above it, paired with dimmers, rather than relying solely on a harsh overhead ceiling light."
+      }
+    }
+  ],
+  "description": "Use eye-level wall sconces flanking the mirror or a multi-light fixture above it, paired with dimmers, rather than relying solely on a harsh overhead ceiling li"
+}

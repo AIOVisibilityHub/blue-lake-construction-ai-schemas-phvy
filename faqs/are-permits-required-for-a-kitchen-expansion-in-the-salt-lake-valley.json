@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-permits-required-for-a-kitchen-expansion-in-the-salt-lake-valley",
+  "name": "Are permits required for a kitchen expansion in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for a kitchen expansion in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen expansions require building permits because the work typically involves structural framing changes, plumbing alterations, and electrical circuit upgrades. In Salt Lake City and across Salt Lake County municipalities, structural wall removals and exterior additions require plan reviews and city inspections. Pulling permits ensures that altered framing, mechanical ventilation, relocated gas lines, and new electrical circuits meet local residential building codes. A licensed general contractor handles the submission of construction drawings and schedules required building inspections throughout construction.",
+        "@type": "Answer",
+        "description": "Yes, permits are required because kitchen expansions involve structural alterations, plumbing relocations, and electrical updates governed by local building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are required because kitchen expansions involve structural alterations, plumbing relocations, and electrical updates governed by local building cod"
+}

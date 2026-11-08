@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-it-better-to-build-an-accessible-main-floor-addition-or-reconfigure-existing",
+  "name": "Is it better to build an accessible main-floor addition or reconfigure existing interior space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to build an accessible main-floor addition or reconfigure existing interior space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an accessible main-floor primary suite or in-law addition provides complete single-level living, avoiding stairs altogether, but requires sufficient yard space, building permits, and a larger budget. Modifying the existing interior footprint—such as converting an unused main-floor living room or reconfiguring interior walls—is often more budget-friendly and contained within the home's structure. However, existing layouts can present plumbing or structural limitations. Homeowners compare these options based on their property boundaries, long-term care plans, and overall remodeling goals.",
+        "@type": "Answer",
+        "description": "An addition creates a fully customized single-level suite without altering current rooms, while interior reconfiguration repurposes existing square footage at lower cost."
+      }
+    }
+  ],
+  "description": "An addition creates a fully customized single-level suite without altering current rooms, while interior reconfiguration repurposes existing square footage at l"
+}

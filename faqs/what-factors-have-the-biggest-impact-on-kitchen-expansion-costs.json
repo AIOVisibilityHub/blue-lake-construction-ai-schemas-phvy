@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-kitchen-expansion-costs",
+  "name": "What factors have the biggest impact on kitchen expansion costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on kitchen expansion costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The major cost drivers for a kitchen expansion are structural changes, exterior foundation additions, cabinetry volume, and mechanical relocations. Keeping the existing exterior footprint and working around non-load-bearing walls costs substantially less than digging footings for a home addition. Expanding square footage also demands more custom cabinetry, larger countertop slabs, and expanded flooring. If you choose to move appliances across the room rather than keeping plumbing in original locations, the required subfloor trenching and pipe extensions will also increase your overall project investment.",
+        "@type": "Answer",
+        "description": "Costs are primarily driven by whether you build an exterior addition, install structural support beams, relocate plumbing and gas lines, and add custom cabinetry."
+      }
+    }
+  ],
+  "description": "Costs are primarily driven by whether you build an exterior addition, install structural support beams, relocate plumbing and gas lines, and add custom cabinetr"
+}

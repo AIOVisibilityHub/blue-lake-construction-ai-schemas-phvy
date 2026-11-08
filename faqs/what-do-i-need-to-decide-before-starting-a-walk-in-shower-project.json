@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-do-i-need-to-decide-before-starting-a-walk-in-shower-project",
+  "name": "What do I need to decide before starting a walk-in shower project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to decide before starting a walk-in shower project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor begins, you should measure your space, identify your plumbing layout, and list your household's daily storage and accessibility needs. Determine whether you want built-in recessed niches, shower benches, or grab bars, as these features require solid framing behind the walls before waterproof boards and tile go up. It also helps to consider who uses the shower daily to choose appropriate door styles, sliding systems, or open walk-in entries. Bringing clear photos of the current bathroom and identifying fixture preferences helps streamline the initial planning conversations.",
+        "@type": "Answer",
+        "description": "Decide on threshold height, storage needs like recessed niches, built-in seating, fixture styles, and whether existing plumbing locations will remain in place."
+      }
+    }
+  ],
+  "description": "Decide on threshold height, storage needs like recessed niches, built-in seating, fixture styles, and whether existing plumbing locations will remain in place."
+}

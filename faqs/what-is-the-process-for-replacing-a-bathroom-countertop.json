@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-process-for-replacing-a-bathroom-countertop",
+  "name": "What is the process for replacing a bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathroom countertop involves precision templating, material fabrication, and skilled installation. First, the existing countertop, sinks, and plumbing connections are carefully disconnected and removed. Technicians measure and create a digital or physical template of your vanity base to account for wall irregularities. The selected slab is cut, edged, and prepped with sink and faucet cutouts at a fabrication shop. Finally, installers set the countertop, secure undermount or drop-in sinks, connect the plumbing lines, and seal the edges with silicone to prevent moisture penetration.",
+        "@type": "Answer",
+        "description": "The process involves removing the old top, creating a precise template, cutting the slab off-site, setting the new counter and sinks, and reconnecting plumbing fixtures."
+      }
+    }
+  ],
+  "description": "The process involves removing the old top, creating a precise template, cutting the slab off-site, setting the new counter and sinks, and reconnecting plumbing"
+}

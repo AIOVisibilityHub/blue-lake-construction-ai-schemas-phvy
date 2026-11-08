@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-to-replace-my-bathroom-flooring-when-replacing-the-vanity",
+  "name": "Do I need to replace my bathroom flooring when replacing the vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my bathroom flooring when replacing the vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace a vanity without new flooring, but only if the new cabinet footprint equals or exceeds the old one. Most builders lay flooring around an existing vanity rather than underneath it. If your replacement has a smaller width, shallower depth, or an open, freestanding leg base, raw subfloor or missing tiles will be visible. In those situations, you must either patch the flooring with matching materials, install a vanity with a matching solid toe-kick base, or replace the bathroom floor entirely to achieve a finished appearance.",
+        "@type": "Answer",
+        "description": "Not if your new vanity covers the exact footprint of the old cabinet. If the new unit is smaller or has open legs, you will need to patch or replace the uncovered flooring."
+      }
+    }
+  ],
+  "description": "Not if your new vanity covers the exact footprint of the old cabinet. If the new unit is smaller or has open legs, you will need to patch or replace the uncover"
+}

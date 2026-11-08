@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-primary-construction-steps-in-a-full-guest-bathroom-remodel",
+  "name": "What are the primary construction steps in a full guest bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary construction steps in a full guest bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sequence starts with design development, trade assessments, and securing permits, followed by protecting surrounding floors and tearing out old materials. Rough plumbing and electrical work come next, followed by any required trade inspections. Craftsmen then install moisture-resistant backer board, complete shower waterproofing, set tile, and paint surfaces. Finally, technicians set the vanity, hook up faucets and the toilet, install light fixtures, and complete punch-list adjustments so the guest bathroom is fully ready for visitors.",
+        "@type": "Answer",
+        "description": "The process includes design and permitting, demolition, rough plumbing and electrical, waterproofing, tile installation, vanity and fixture setting, and final trim."
+      }
+    }
+  ],
+  "description": "The process includes design and permitting, demolition, rough plumbing and electrical, waterproofing, tile installation, vanity and fixture setting, and final t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-step-by-step-process-of-a-full-bathroom-renovation",
+  "name": "What is the step-by-step process of a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom renovation follows a structured sequence to ensure building integrity and quality finishes. The process begins with comprehensive demolition down to the studs, followed by rough-in plumbing, electrical wiring updates, and ventilation installation. Inspections occur before the crew closes the walls. Next, contractors install cement backer boards and specialized waterproofing membranes in wet areas. Tile installation, grout, and flooring come next, followed by cabinetry, countertops, plumbing trim, glass doors, and final paint. Skipping proper waterproofing or rushing dry times between tiling steps can compromise the installation.",
+        "@type": "Answer",
+        "description": "The process moves from demolition and rough-in plumbing/electrical to inspections, waterproofing, tile setting, vanity and countertop installation, plumbing trim, and final paint."
+      }
+    }
+  ],
+  "description": "The process moves from demolition and rough-in plumbing/electrical to inspections, waterproofing, tile setting, vanity and countertop installation, plumbing tri"
+}

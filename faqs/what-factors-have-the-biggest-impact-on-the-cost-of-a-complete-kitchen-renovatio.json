@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-complete-kitchen-renovatio",
+  "name": "What factors have the biggest impact on the cost of a complete kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a complete kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Overall cost depends primarily on layout modifications, cabinetry choices, and structural alterations. Keeping your existing plumbing, gas, and electrical lines in place significantly lowers labor costs compared to relocating sinks or ranges. Custom cabinetry and specialty storage inserts cost more than stock replacements but maximize usable space. High-end countertop materials, extensive tile backsplashes, and removing load-bearing walls to create an open-concept living area will also expand the project scope. Discussing your primary daily cooking needs helps balance material selections against structural priorities.",
+        "@type": "Answer",
+        "description": "Layout changes, moving plumbing or electrical lines, custom cabinetry selections, countertop materials, and removing walls to create an open layout have the greatest impact on total cost."
+      }
+    }
+  ],
+  "description": "Layout changes, moving plumbing or electrical lines, custom cabinetry selections, countertop materials, and removing walls to create an open layout have the gre"
+}

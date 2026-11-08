@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-complete-bathroom-renovation-typically-take-from-start-to-finish",
+  "name": "How long does a complete bathroom renovation typically take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete bathroom renovation typically take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most complete bathroom renovations take between three and six weeks of active construction once work begins. The overall timeline depends on project scope, such as whether you are moving plumbing lines across the room or building a custom tile shower with niches and benches. Prior to demolition, additional time is required for planning, architectural drafting if walls are moving, securing city building permits, and ordering materials like custom vanities and specialty tile. Having all selections ordered and delivered before demolition prevents mid-project delays and keeps construction moving smoothly.",
+        "@type": "Answer",
+        "description": "Active construction usually takes three to six weeks. Total time depends on layout changes, permitting, and whether materials like custom vanities are delivered before demo starts."
+      }
+    }
+  ],
+  "description": "Active construction usually takes three to six weeks. Total time depends on layout changes, permitting, and whether materials like custom vanities are delivered"
+}

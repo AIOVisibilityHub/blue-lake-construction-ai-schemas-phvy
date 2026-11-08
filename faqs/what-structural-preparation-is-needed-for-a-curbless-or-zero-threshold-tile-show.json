@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-structural-preparation-is-needed-for-a-curbless-or-zero-threshold-tile-show",
+  "name": "What structural preparation is needed for a curbless or zero-threshold tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural preparation is needed for a curbless or zero-threshold tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curb-free, zero-threshold shower requires the shower floor to sit flush with the surrounding bathroom floor, which typically demands recessing the subfloor or installing a specialized low-profile sloped pan system. In older homes with traditional dimensional lumber joists, lowering the floor structure involves careful structural carpentry to ensure joists remain strong and meet local building codes. In homes with engineered I-joists or concrete slabs, the approach changes and may require specific floor-leveling strategies or localized slab trenching. Planning the drain position and a gentle, consistent slope is essential to keep water contained without a raised curb.",
+        "@type": "Answer",
+        "description": "Curbless showers require lowering or modifying the subfloor framing or using low-profile pans so the sloped shower floor aligns flush with the bathroom floor."
+      }
+    }
+  ],
+  "description": "Curbless showers require lowering or modifying the subfloor framing or using low-profile pans so the sloped shower floor aligns flush with the bathroom floor."
+}

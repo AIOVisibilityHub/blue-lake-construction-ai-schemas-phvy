@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-types-of-home-accessibility-improvements-can-be-added-during-a-remodel",
+  "name": "What types of home accessibility improvements can be added during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home accessibility improvements can be added during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential accessibility improvements focus on modifying homes to make everyday activities safer and easier for people of all ages and mobility levels. Key projects include converting standard bathtubs into walk-in or roll-in tile showers, installing secure grab bars and built-in shower benches, widening interior doorways, and reconfiguring floor plans for open movement. In kitchens, accessibility updates involve lowering countertops, installing pull-out shelving, and adjusting appliance placement. Blue Lake Construction integrates these accessible features into full home, bathroom, and kitchen remodels across the Salt Lake Valley so spaces remain stylish while serving long-term living needs.",
+        "@type": "Answer",
+        "description": "Accessibility updates include walk-in showers, grab bars, wider doorways, lowered countertops, and open-concept floor plans that make moving through the home safer and easier."
+      }
+    }
+  ],
+  "description": "Accessibility updates include walk-in showers, grab bars, wider doorways, lowered countertops, and open-concept floor plans that make moving through the home sa"
+}

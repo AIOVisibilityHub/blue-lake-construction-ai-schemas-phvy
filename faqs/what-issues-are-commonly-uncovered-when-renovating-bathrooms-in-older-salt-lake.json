@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-issues-are-commonly-uncovered-when-renovating-bathrooms-in-older-salt-lake",
+  "name": "What issues are commonly uncovered when renovating bathrooms in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What issues are commonly uncovered when renovating bathrooms in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes across historic Salt Lake City neighborhoods—such as The Avenues, Sugar House, Harvard-Yale, and Capitol Hill—frequently have outdated galvanized steel plumbing, cast iron waste stacks, and aging electrical wiring. When opening walls during a renovation, contractors often uncover subfloor rot from slow leaks, lack of proper ventilation, or uneven framing. Remodeling in these areas requires planning for infrastructure upgrades rather than assuming new fixtures can simply connect to existing lines. Updating behind-the-wall systems protects your new tile and cabinetry from underlying moisture issues.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often reveal corroded galvanized pipes, aging wiring, uneven framing, or hidden subfloor water damage once walls and floors are opened."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often reveal corroded galvanized pipes, aging wiring, uneven framing, or hidden subfloor water damage once walls and floors are opene"
+}

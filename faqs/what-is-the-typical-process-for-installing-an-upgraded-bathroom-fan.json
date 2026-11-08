@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-typical-process-for-installing-an-upgraded-bathroom-fan",
+  "name": "What is the typical process for installing an upgraded bathroom fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing an upgraded bathroom fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ventilation upgrade process typically begins with an assessment of the bathroom dimensions, ceiling framing, and exterior exit paths. Next, technicians protect the surrounding finishes, remove the old unit, and inspect or enlarge the ceiling opening. If needed, licensed trades run updated wiring and install smooth, properly sized ductwork. The new fan housing is secured directly to the joists to eliminate vibration rattle, connected to ducting and power, and sealed against air leakage before testing airflow and installing decorative grilles.",
+        "@type": "Answer",
+        "description": "The process includes assessing the layout, enlarging the ceiling cut, upgrading wiring, routing ducting outdoors, securing the housing to joists, and testing airflow."
+      }
+    }
+  ],
+  "description": "The process includes assessing the layout, enlarging the ceiling cut, upgrading wiring, routing ducting outdoors, securing the housing to joists, and testing ai"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-construction-process-for-an-accessible-bathroom-remodel",
+  "name": "What is the construction process for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the construction process for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an in-home evaluation of your current bathroom layout, structural framing, and plumbing lines. Next, your contractor creates a layout plan that accommodates wider clear floor space, appropriate vanity heights, and barrier-free shower areas. Once selections are finalized and permits are secured, the team handles demolition, reinforces wall studs for secure grab bar placement, updates plumbing, and installs slip-resistant surfaces. Blue Lake Construction coordinates these steps through hands-on project management to ensure every fixture is installed to exact specifications.",
+        "@type": "Answer",
+        "description": "The process starts with an evaluation and design plan, followed by structural wall reinforcement, plumbing rough-ins, waterproof tile installation, and fixture placement."
+      }
+    }
+  ],
+  "description": "The process starts with an evaluation and design plan, followed by structural wall reinforcement, plumbing rough-ins, waterproof tile installation, and fixture"
+}

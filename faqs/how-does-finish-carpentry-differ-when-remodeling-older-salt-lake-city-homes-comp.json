@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-finish-carpentry-differ-when-remodeling-older-salt-lake-city-homes-comp",
+  "name": "How does finish carpentry differ when remodeling older Salt Lake City homes compared to newer builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does finish carpentry differ when remodeling older Salt Lake City homes compared to newer builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older Salt Lake City neighborhoods such as Sugar House, The Avenues, and Central City often feature historic homes with original wide baseboards, tall picture rails, and lath-and-plaster walls that are rarely plumb or level. Working in these homes requires custom scribing, back-cutting, and sometimes milling custom profiles to match historic details. In contrast, newer construction or open-concept suburban remodels in areas like South Jordan or Riverton typically feature standard drywall and modern, simplified profiles that install more predictably.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often have uneven plaster walls requiring custom scribing and historic profile matching, while newer builds use standard drywall and streamlined trim profiles."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often have uneven plaster walls requiring custom scribing and historic profile matching, while newer builds use standard drywall and strea"
+}

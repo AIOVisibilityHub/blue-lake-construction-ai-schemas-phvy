@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-change-the-layout-and-move-the-toilet-or-sink-in-my-powder-room",
+  "name": "Can I change the layout and move the toilet or sink in my powder room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout and move the toilet or sink in my powder room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing in a powder room is entirely feasible, but your home's foundation and subfloor structure determine the complexity. If your half-bath sits above an open, unfinished basement or accessible crawlspace, rerouting supply lines and drain pipes is relatively straightforward. If the bathroom sits on a concrete slab or directly above a finished room, shifting the drain requires cutting into concrete or opening finished ceilings below. In tight half-baths, moving a toilet even several inches can create better door clearance and improved ergonomics, though it adds plumbing rough-in labor.",
+        "@type": "Answer",
+        "description": "Yes, though moving plumbing depends on what lies underneath; open basement joists make relocations easier than concrete slabs or finished ceilings below."
+      }
+    }
+  ],
+  "description": "Yes, though moving plumbing depends on what lies underneath; open basement joists make relocations easier than concrete slabs or finished ceilings below."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-stages-are-involved-in-a-full-kitchen-remodel-process",
+  "name": "What stages are involved in a full kitchen remodel process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What stages are involved in a full kitchen remodel process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete kitchen renovation requires working in planned stages to ensure structural and mechanical work passes inspection before finishes are installed. Blue Lake Construction begins with custom design planning, followed by demolition down to the studs or subfloor. Next, trades complete rough-in framing, plumbing, electrical, and lighting upgrades. Once inspections pass, crews hang and finish drywall, lay flooring, install custom cabinetry, and measure for countertops. The final stages involve setting countertops, mounting tile backsplashes, connecting sinks, faucets, and appliances, and completing detailed trim and finish carpentry.",
+        "@type": "Answer",
+        "description": "The process covers custom design planning, demolition, rough-in plumbing and electrical, drywall, flooring, custom cabinet installation, countertops, tile backsplash, and final finish carpentry."
+      }
+    }
+  ],
+  "description": "The process covers custom design planning, demolition, rough-in plumbing and electrical, drywall, flooring, custom cabinet installation, countertops, tile backs"
+}

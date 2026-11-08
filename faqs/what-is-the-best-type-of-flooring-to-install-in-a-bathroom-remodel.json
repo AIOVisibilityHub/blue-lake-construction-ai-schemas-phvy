@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-best-type-of-flooring-to-install-in-a-bathroom-remodel",
+  "name": "What is the best type of flooring to install in a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring to install in a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain and ceramic tile remain the top choices for bathroom flooring due to their superior water resistance, durability, and wide variety of styles. Luxury vinyl tile or plank (LVT/LVP) is also popular for homeowners seeking a warmer underfoot feel and budget-friendly moisture resistance. When choosing, consider slip resistance (textured finishes provide better traction when wet) and subfloor compatibility. While natural stone offers high-end beauty, it requires periodic sealing to protect against water and cosmetic stains. Blue Lake Construction works with Salt Lake Valley homeowners to match flooring materials with their household moisture levels and routine maintenance preferences.",
+        "@type": "Answer",
+        "description": "Porcelain and ceramic tile offer the best durability and water resistance for bathrooms, while luxury vinyl provides a warmer, budget-friendly alternative with solid moisture protection."
+      }
+    }
+  ],
+  "description": "Porcelain and ceramic tile offer the best durability and water resistance for bathrooms, while luxury vinyl provides a warmer, budget-friendly alternative with"
+}

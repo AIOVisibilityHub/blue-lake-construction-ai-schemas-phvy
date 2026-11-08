@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-ideal-dimensions-for-a-custom-shower-bench",
+  "name": "What are the ideal dimensions for a custom shower bench?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the ideal dimensions for a custom shower bench?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comfortable shower bench generally measures 17 to 19 inches high from the finished shower floor, matching typical chair height. A functional depth is usually between 12 and 16 inches for standard seating or foot resting, while width depends on available wall space. In walk-in shower installations, you must confirm that the bench depth still leaves adequate clearance—typically at least 30 to 36 inches of unobstructed floor space—so you can move comfortably and safely around the shower spray.",
+        "@type": "Answer",
+        "description": "A shower bench is typically 17 to 19 inches high and 12 to 16 inches deep, leaving at least 30 to 36 inches of clear floor space for comfortable movement."
+      }
+    }
+  ],
+  "description": "A shower bench is typically 17 to 19 inches high and 12 to 16 inches deep, leaving at least 30 to 36 inches of clear floor space for comfortable movement."
+}

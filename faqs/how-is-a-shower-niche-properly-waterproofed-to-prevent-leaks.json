@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-a-shower-niche-properly-waterproofed-to-prevent-leaks",
+  "name": "How is a shower niche properly waterproofed to prevent leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a shower niche properly waterproofed to prevent leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing happens before any tile is laid and involves sealing the entire niche assembly into the shower wall membrane. Installers use cementitious backer board or waterproof foam panels, taping all corners with alkali-resistant mesh and applying multiple coats of liquid waterproofing or a continuous sheet membrane. The critical step is integrating the niche seams seamlessly with the surrounding wall waterproofing to prevent moisture migration. Additionally, bottom ledges are installed with a slight downward slope toward the shower drain so standing water runs off freely.",
+        "@type": "Answer",
+        "description": "The niche is lined with waterproof backer panels, sealed at all seams with specialized membrane, and sloped slightly forward so water drains into the shower."
+      }
+    }
+  ],
+  "description": "The niche is lined with waterproof backer panels, sealed at all seams with specialized membrane, and sloped slightly forward so water drains into the shower."
+}

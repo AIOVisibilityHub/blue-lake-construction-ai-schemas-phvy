@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-building-permits-required-for-replacing-plumbing-fixtures-during-a-remodel",
+  "name": "Are building permits required for replacing plumbing fixtures during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are building permits required for replacing plumbing fixtures during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A direct fixture swap without altering structural walls or the building’s plumbing system generally does not require a building permit. However, when fixture replacements occur during full kitchen, bathroom, or home addition remodels that involve altering drainage stacks, moving water supplies, or installing new wet walls, local jurisdictions throughout the Salt Lake Valley require building and plumbing permits. A licensed general contractor coordinates required plan reviews and municipal rough-in and final plumbing inspections as part of the overall remodel.",
+        "@type": "Answer",
+        "description": "Simple like-for-like swaps generally do not need permits, but projects that relocate supply, drain, or vent pipes during a larger remodel require local municipal permits and inspections."
+      }
+    }
+  ],
+  "description": "Simple like-for-like swaps generally do not need permits, but projects that relocate supply, drain, or vent pipes during a larger remodel require local municipa"
+}

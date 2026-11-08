@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-should-a-homeowner-consider-remodeling-for-aging-in-place-or-accessibility",
+  "name": "When should a homeowner consider remodeling for aging in place or accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a homeowner consider remodeling for aging in place or accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider accessible upgrades when daily routines become difficult or when planning to stay in your home long term. Signs include struggling to step over high tub walls, feeling unsteady on slick floors, or experiencing difficulty moving through cramped hallways and narrow doorways. Planning these changes early—such as during a planned kitchen or bathroom renovation—allows you to incorporate wider doors, reinforced backing for future grab bars, and curbless shower designs seamlessly, avoiding rushed emergency modifications later.",
+        "@type": "Answer",
+        "description": "Consider updates when mobility changes, stepping into tubs feels unsafe, or when planning a major remodel to prepare your home for long-term comfort and independence."
+      }
+    }
+  ],
+  "description": "Consider updates when mobility changes, stepping into tubs feels unsafe, or when planning a major remodel to prepare your home for long-term comfort and indepen"
+}

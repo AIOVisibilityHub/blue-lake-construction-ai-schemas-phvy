@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-consider-when-converting-an-existing-bathtub-into-a-custo",
+  "name": "What should homeowners consider when converting an existing bathtub into a custom tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners consider when converting an existing bathtub into a custom tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a bathtub into a walk-in custom tile shower requires evaluating the existing plumbing layout, subfloor condition, and drain sizing. Standard bathtubs use a 1.5-inch drain pipe, whereas walk-in tile showers generally require an upgrade to a 2-inch drain line to handle shower water flow without backing up. Additionally, removing an old tub often reveals subfloor leveling issues or hidden moisture damage that must be corrected before framing the shower curb and setting the pan. Homeowners should also decide whether eliminating a tub impacts their household needs or resale value if it is the only tub in the home.",
+        "@type": "Answer",
+        "description": "Consider upgrading the drain line from 1.5 inches to 2 inches, repairing subfloor damage under the old tub, and keeping at least one tub in the home for functional balance."
+      }
+    }
+  ],
+  "description": "Consider upgrading the drain line from 1.5 inches to 2 inches, repairing subfloor damage under the old tub, and keeping at least one tub in the home for functio"
+}

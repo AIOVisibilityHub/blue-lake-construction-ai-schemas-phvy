@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-for-a-tub-to-shower-conversion-consultation",
+  "name": "How should I prepare for a tub-to-shower conversion consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a tub-to-shower conversion consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before beginning a bathroom remodel, determine who uses the bathroom daily and note any specific mobility requirements. Measure your available bathroom space to see if you want to keep the existing tub footprint or expand into an adjacent linen closet. You should also establish your preferred finish styles, identify whether you want a sliding door, pivot door, or open walk-in layout, and set a clear remodeling budget for materials and labor.",
+        "@type": "Answer",
+        "description": "Clarify your daily storage and mobility needs, decide if you want to expand the footprint, gather your design preferences, and determine your project budget."
+      }
+    }
+  ],
+  "description": "Clarify your daily storage and mobility needs, decide if you want to expand the footprint, gather your design preferences, and determine your project budget."
+}

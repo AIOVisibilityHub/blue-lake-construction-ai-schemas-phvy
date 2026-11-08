@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-plan-before-adding-a-shower-niche-to-my-bathroom-remodel",
+  "name": "What should I plan before adding a shower niche to my bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I plan before adding a shower niche to my bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before framing begins, assess your storage habits and shower wall layout. Measure your largest pump bottles so your contractor sets the shelf height accordingly. Verify whether your chosen wall contains supply pipes, vent stacks, or electrical wiring, as moving utilities increases project scope. You should also select your wall tile in advance so the contractor can adjust the niche framing dimensions to align with full tile courses, avoiding awkward sliver cuts around the niche frame.",
+        "@type": "Answer",
+        "description": "Measure your tallest bottles, check behind walls for hidden plumbing or wiring, and coordinate niche dimensions with your tile size to avoid awkward cuts."
+      }
+    }
+  ],
+  "description": "Measure your tallest bottles, check behind walls for hidden plumbing or wiring, and coordinate niche dimensions with your tile size to avoid awkward cuts."
+}

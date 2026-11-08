@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-step-by-step-process-of-opening-up-an-enclosed-kitchen",
+  "name": "What is the step-by-step process of opening up an enclosed kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of opening up an enclosed kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before demolition begins, the process involves an on-site structural assessment and layout planning. Next, crews establish dust protection before removing dividing walls. If a wall is load-bearing, temporary shoring walls are erected to support the ceiling before the framing is removed and a permanent structural beam is set. Afterward, plumbers and electricians reroute pipes, gas lines, and wiring. Drywall patching, continuous ceiling finishing, cabinet installation, island placement, and flooring integration complete the transformation.",
+        "@type": "Answer",
+        "description": "The process involves planning, temporary shoring, wall removal, beam installation, utility rerouting, drywall repairs, and installing new cabinetry and flooring."
+      }
+    }
+  ],
+  "description": "The process involves planning, temporary shoring, wall removal, beam installation, utility rerouting, drywall repairs, and installing new cabinetry and flooring"
+}

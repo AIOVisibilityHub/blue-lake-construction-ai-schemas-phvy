@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/where-is-the-best-place-to-locate-a-bench-inside-a-walk-in-shower",
+  "name": "Where is the best place to locate a bench inside a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where is the best place to locate a bench inside a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a bathroom remodel, a shower bench should be positioned away from the direct water stream of the primary shower head. Placing it on an adjacent or opposite wall keeps the seating area dry enough for comfortable sitting and shaving without being constantly blasted by water. If you plan to use the bench for seated bathing or accessibility, pairing the location with an adjustable handheld shower wand on a slide bar ensures you can comfortably reach water and controls from the seat.",
+        "@type": "Answer",
+        "description": "Position the bench on an adjacent or opposite wall away from the direct spray, ideally near a secondary handheld shower wand for easy seated bathing."
+      }
+    }
+  ],
+  "description": "Position the bench on an adjacent or opposite wall away from the direct spray, ideally near a secondary handheld shower wand for easy seated bathing."
+}

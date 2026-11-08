@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-plan-before-starting-a-guest-bathroom-renovation",
+  "name": "What should I plan before starting a guest bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I plan before starting a guest bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting demolition, confirm plumbing layout decisions, measure your room dimensions, and establish your primary storage requirements. Check whether you want a single or double vanity, and identify whether the existing exhaust ventilation vents directly outside. If you live in an older home, inspect for potential subfloor moisture damage around the current toilet or tub. Having clear preferences for fixture finishes, tile patterns, and storage needs allows your general contractor to build an accurate schedule and order long-lead materials before site work begins.",
+        "@type": "Answer",
+        "description": "Decide whether to keep your existing layout, verify storage and vanity needs, check ventilation routing, and select plumbing fixtures before work begins."
+      }
+    }
+  ],
+  "description": "Decide whether to keep your existing layout, verify storage and vanity needs, check ventilation routing, and select plumbing fixtures before work begins."
+}

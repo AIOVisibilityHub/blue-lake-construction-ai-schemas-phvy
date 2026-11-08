@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-prefabricated-niche-and-a-custom-framed-niche",
+  "name": "What is the difference between a prefabricated niche and a custom-framed niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a prefabricated niche and a custom-framed niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prefabs are pre-formed foam or plastic waterproof boxes that install quickly between studs, whereas custom niches are framed from lumber and lined with waterproof backer board. Prefabricated inserts reduce installation labor and provide factory-sealed corners, lowering leak risks. However, they come in set sizes. A custom-built niche gives complete flexibility in height, width, and shelf layout, which is helpful if you want horizontal niches stretching across multiple studs. The tradeoff with custom framing is extra labor for framing, blocking, and manual waterproofing.",
+        "@type": "Answer",
+        "description": "Prefab niches install faster with guaranteed waterproofing in fixed sizes, while custom niches offer tailored dimensions at the cost of more framing labor."
+      }
+    }
+  ],
+  "description": "Prefab niches install faster with guaranteed waterproofing in fixed sizes, while custom niches offer tailored dimensions at the cost of more framing labor."
+}

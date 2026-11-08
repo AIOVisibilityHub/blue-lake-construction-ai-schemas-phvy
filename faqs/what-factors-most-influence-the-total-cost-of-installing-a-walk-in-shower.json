@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-most-influence-the-total-cost-of-installing-a-walk-in-shower",
+  "name": "What factors most influence the total cost of installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors most influence the total cost of installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a walk-in shower installation varies widely based on plumbing relocation, materials, and built-in features. A straightforward installation using existing plumbing connections costs less than a full bathroom reconfiguration. Primary cost drivers include custom tile selections, frameless glass enclosures, integrated shower niches, built-in benches, and upgraded plumbing hardware such as thermostatic valves or handheld wands. Upgrading subflooring to support curbless designs or addressing older drain sizing also impacts the total budget. Working with a licensed general contractor allows you to establish a comprehensive scope that aligns with your household budget before demolition begins.",
+        "@type": "Answer",
+        "description": "Costs depend on plumbing relocations, shower pan style, custom tile choices, glass enclosures, and built-in features like benches and recessed niches."
+      }
+    }
+  ],
+  "description": "Costs depend on plumbing relocations, shower pan style, custom tile choices, glass enclosures, and built-in features like benches and recessed niches."
+}

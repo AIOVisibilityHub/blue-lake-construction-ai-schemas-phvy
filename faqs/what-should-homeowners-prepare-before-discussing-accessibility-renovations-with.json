@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-discussing-accessibility-renovations-with",
+  "name": "What should homeowners prepare before discussing accessibility renovations with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before discussing accessibility renovations with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, measure your primary circulation paths and note specific daily obstacles, such as high door thresholds or awkward bathroom clearances. Gather a list of present and projected physical needs, including equipment clearances for walkers or wheelchairs. It is also helpful to determine whether you prefer modern, integrated design finishes—like decorative grab bars that double as towel rails—so the updates blend naturally into your home’s aesthetic. Having clear priorities helps your contractor design a practical, budget-conscious renovation.",
+        "@type": "Answer",
+        "description": "Identify current daily challenges, list specific mobility needs, measure restrictive spaces, and decide on desired design finishes before your contractor consultation."
+      }
+    }
+  ],
+  "description": "Identify current daily challenges, list specific mobility needs, measure restrictive spaces, and decide on desired design finishes before your contractor consul"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-a-shower-bench-be-topped-with-a-solid-slab-or-custom-tile",
+  "name": "Should a shower bench be topped with a solid slab or custom tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should a shower bench be topped with a solid slab or custom tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A solid-surface stone slab, such as quartz, granite, or solid marble, is often preferred over individual tiles for the seat top. Solid slabs eliminate grout lines on horizontal surfaces where water can collect, which significantly reduces maintenance and lowers the risk of standing moisture. If you prefer matching custom tile across the bench, choose a high-density, non-porous porcelain tile and ensure the installer incorporates a slight slope toward the shower drain so water sheds easily after every use.",
+        "@type": "Answer",
+        "description": "A solid slab of quartz or stone eliminates grout lines on the seat, making it easier to clean and better at preventing water pooling than tiled tops."
+      }
+    }
+  ],
+  "description": "A solid slab of quartz or stone eliminates grout lines on the seat, making it easier to clean and better at preventing water pooling than tiled tops."
+}

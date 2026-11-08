@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-custom-tile-shower-and-a-prefabricated-shower-s",
+  "name": "What is the difference between a custom tile shower and a prefabricated shower surround?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom tile shower and a prefabricated shower surround?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile showers offer complete design flexibility, allowing you to tailor wall patterns, shower floor mosaics, recessed niches, and built-in benches to your exact bathroom dimensions. However, tile requires meticulous waterproofing and ongoing grout cleaning. Prefabricated acrylic or composite panels offer faster installation and seamless, low-maintenance surfaces, but they come in fixed dimensions and offer fewer design options compared to custom masonry work.",
+        "@type": "Answer",
+        "description": "Custom tile offers endless aesthetic choices and built-in features but requires more maintenance, while prefabricated units install faster with seamless, low-maintenance walls."
+      }
+    }
+  ],
+  "description": "Custom tile offers endless aesthetic choices and built-in features but requires more maintenance, while prefabricated units install faster with seamless, low-ma"
+}

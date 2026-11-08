@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-redesigning-a-kitchen-layout",
+  "name": "What factors have the biggest impact on the cost of redesigning a kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of redesigning a kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen layout redesign depends heavily on whether you move plumbing fixtures, shift gas and electrical supplies, or remove interior walls. While keeping appliances and sinks in their existing spots lowers trade labor expenses, shifting a sink to a new central island or converting a range from an exterior wall to an interior location requires rerouting pipes, drains, and ventilation through floors or ceilings. Custom cabinetry, quartz or granite countertop square footage, and structural headers to open up adjoining rooms are primary drivers of the overall budget.",
+        "@type": "Answer",
+        "description": "Relocating plumbing and gas lines, removing structural walls, rerouting venting, and choosing custom cabinetry have the largest impact on your layout redesign budget."
+      }
+    }
+  ],
+  "description": "Relocating plumbing and gas lines, removing structural walls, rerouting venting, and choosing custom cabinetry have the largest impact on your layout redesign b"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-framed-and-frameless-custom-cabinets",
+  "name": "What is the difference between framed and frameless custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between framed and frameless custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both frameless and framed cabinets offer strong durability, but they differ in construction style and usable interior space. Framed cabinetry features a solid wood face frame on the front of the cabinet box, offering a traditional aesthetic and sturdy hinge mounting. Frameless cabinetry, often called full-access or European-style, eliminates the face frame. This practical tradeoff provides slightly wider drawer openings and easier access to the interior, making it well-suited for modern, streamlined kitchens or tight spaces where every millimeter of interior clearance counts.",
+        "@type": "Answer",
+        "description": "Framed cabinets have a front face frame for a classic look, while frameless cabinets offer full-access interiors and slightly wider drawer space."
+      }
+    }
+  ],
+  "description": "Framed cabinets have a front face frame for a classic look, while frameless cabinets offer full-access interiors and slightly wider drawer space."
+}

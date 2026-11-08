@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-choose-a-kitchen-island-or-a-peninsula-for-my-renovation",
+  "name": "Should I choose a kitchen island or a peninsula for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a kitchen island or a peninsula for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between an island and a peninsula comes down to room dimensions, clearances, and daily use. A freestanding island requires adequate perimeter clearance—typically 36 to 48 inches on all sides—to allow cabinet doors, dishwashers, and ovens to open safely without blocking walkways. An island provides uninterrupted circulation around both sides and serves as a natural gathering hub. A peninsula connects to an existing wall, making it an efficient choice for narrower footprints because it eliminates one walkway while still delivering counter seating and extra cabinet storage.",
+        "@type": "Answer",
+        "description": "Choose an island if your room width allows 36 to 48 inches of perimeter clearance on all sides; choose a peninsula if you have a narrower space and need efficient counter seating."
+      }
+    }
+  ],
+  "description": "Choose an island if your room width allows 36 to 48 inches of perimeter clearance on all sides; choose a peninsula if you have a narrower space and need efficie"
+}

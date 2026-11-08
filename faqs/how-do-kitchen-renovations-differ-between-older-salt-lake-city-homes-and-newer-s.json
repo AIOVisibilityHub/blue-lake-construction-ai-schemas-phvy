@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-kitchen-renovations-differ-between-older-salt-lake-city-homes-and-newer-s",
+  "name": "How do kitchen renovations differ between older Salt Lake City homes and newer suburban builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do kitchen renovations differ between older Salt Lake City homes and newer suburban builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating kitchens in older neighborhoods like Sugar House, The Avenues, or historic Sandy often involves working with non-standard ceiling heights, outdated electrical wiring, and aging plumbing stacks. These homes frequently feature compact, closed-off footprints that require structural verification before removing walls for open-concept layouts. In contrast, newer builds in communities like Daybreak in South Jordan or SunCrest in Draper generally offer modern wiring and taller framing, meaning renovations focus more on reconfiguring existing open layouts, upgrading builder-grade cabinetry, and adding custom pantries.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often require utility updates and structural planning for wall removal, while newer suburban homes usually focus on finish upgrades and custom storage."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often require utility updates and structural planning for wall removal, while newer suburban homes usually focus on finish upgrades a"
+}

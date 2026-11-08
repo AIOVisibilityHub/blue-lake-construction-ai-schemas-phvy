@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-home-age-and-construction-styles-in-salt-lake-valley-affect-bathtub-repla",
+  "name": "How do home age and construction styles in Salt Lake Valley affect bathtub replacements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do home age and construction styles in Salt Lake Valley affect bathtub replacements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake City and surrounding valley communities, homes range from historic properties in neighborhoods like Sugar House and The Avenues to newer developments in South Jordan and Draper. In older homes, remodeling teams frequently encounter non-standard rough-in dimensions, outdated galvanized pipes, or unlevel subfloors that require leveling and reframing before a new tub can sit securely. In newer suburban homes, standard modern plumbing rough-ins make swaps more straightforward, though subfloor inspections remain essential to address any hidden moisture.",
+        "@type": "Answer",
+        "description": "Older valley homes often require plumbing updates and subfloor leveling to fit modern tubs, while newer builds usually have standard layouts that allow direct replacements."
+      }
+    }
+  ],
+  "description": "Older valley homes often require plumbing updates and subfloor leveling to fit modern tubs, while newer builds usually have standard layouts that allow direct r"
+}

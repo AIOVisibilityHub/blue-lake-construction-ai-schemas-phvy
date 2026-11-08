@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-undermount-and-drop-in-sinks-compare-for-a-new-bathroom-countertop",
+  "name": "How do undermount and drop-in sinks compare for a new bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do undermount and drop-in sinks compare for a new bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Undermount sinks are mounted beneath the countertop cutout, creating a smooth, continuous surface that allows you to wipe water and debris directly into the basin. They require water-resistant solid surfaces like quartz, granite, or solid surface. Drop-in sinks rest on top of the counter with a visible rim, making them compatible with almost any material and generally easier to swap out later. However, the raised perimeter rim can trap grime and water, requiring more effort to keep clean.",
+        "@type": "Answer",
+        "description": "Undermount sinks sit below the counter for easy wipe-down cleaning, while drop-in sinks sit over the cutout rim and work across more countertop materials."
+      }
+    }
+  ],
+  "description": "Undermount sinks sit below the counter for easy wipe-down cleaning, while drop-in sinks sit over the cutout rim and work across more countertop materials."
+}

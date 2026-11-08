@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-home-accessibility-modifications",
+  "name": "What factors influence the cost of home accessibility modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of home accessibility modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends on whether the project involves targeted bathroom updates or structural changes across the house. Simple modifications like installing grab bars or replacing a vanity are relatively modest in scope. Complete tub-to-shower conversions, widening load-bearing doorways, or reconfiguring kitchen layouts require plumbing, electrical, and carpentry adjustments, which increase labor and material expenses. Choosing high-end custom tile, specialized fixtures, and structural alterations will impact the budget. Working with a general contractor to coordinate accessibility upgrades alongside broader remodeling helps consolidate labor and permitting costs.",
+        "@type": "Answer",
+        "description": "Costs depend on the scope of work, including plumbing adjustments, structural wall changes to widen doors, custom tile installation, and fixture selections."
+      }
+    }
+  ],
+  "description": "Costs depend on the scope of work, including plumbing adjustments, structural wall changes to widen doors, custom tile installation, and fixture selections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-permits-required-for-plumbing-updates-in-salt-lake-county-renovations",
+  "name": "Are permits required for plumbing updates in Salt Lake County renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for plumbing updates in Salt Lake County renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Municipal building codes in Salt Lake Valley jurisdictions require building and plumbing permits for substantial plumbing alterations. While replacing an identical faucet or toilet usually does not require a permit, altering water lines, relocating drains, adding a bathroom, or doing a full-home repipe does. Working with a licensed general contractor ensures that rough-in lines and venting meet local building codes and receive the necessary municipal rough-in and final plumbing sign-offs.",
+        "@type": "Answer",
+        "description": "Permits are required across Salt Lake County for moving drain or vent lines, installing new fixture rough-ins, adding bathrooms, or replacing extensive water piping."
+      }
+    }
+  ],
+  "description": "Permits are required across Salt Lake County for moving drain or vent lines, installing new fixture rough-ins, adding bathrooms, or replacing extensive water pi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-upgrading-a-bathroom-ventilation-system",
+  "name": "What factors influence the cost of upgrading a bathroom ventilation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of upgrading a bathroom ventilation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost to upgrade bathroom ventilation depends on whether the project is a direct replacement or requires brand-new infrastructure. Key cost drivers include the sound rating (sone level) and smart features of the unit, whether new electrical wiring or wall switches must be pulled, and the labor required to route insulated ductwork through ceilings to an exterior vent cap. Combining a ventilation upgrade with a broader bathroom remodel or layout reconfiguration lowers incremental labor costs compared to executing the installation as an isolated, standalone repair.",
+        "@type": "Answer",
+        "description": "Costs depend on the fan model features, sound rating, electrical adjustments, and whether new exterior ductwork and roof or wall terminations must be installed."
+      }
+    }
+  ],
+  "description": "Costs depend on the fan model features, sound rating, electrical adjustments, and whether new exterior ductwork and roof or wall terminations must be installed."
+}

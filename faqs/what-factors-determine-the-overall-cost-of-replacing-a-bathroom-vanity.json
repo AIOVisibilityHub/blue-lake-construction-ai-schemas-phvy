@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-overall-cost-of-replacing-a-bathroom-vanity",
+  "name": "What factors determine the overall cost of replacing a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the overall cost of replacing a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a bathroom vanity is driven by cabinet fabrication, countertop materials, and the extent of plumbing reconfigurations. A basic swap using existing plumbing and a stock cabinet stays on the lower end of remodeling budgets. Costs rise when upgrading to solid-surface or natural stone countertops, commissioning custom cabinetry, or moving water supply lines and waste pipes inside the wall. If your replacement also exposes unpainted drywall, damaged subflooring, or unmatching floor tile that requires repair, those supplementary trades will influence the overall project investment.",
+        "@type": "Answer",
+        "description": "Key factors include cabinet construction, countertop material choice, necessary drywall or tile repairs, and whether plumbing pipes remain in place or need relocation."
+      }
+    }
+  ],
+  "description": "Key factors include cabinet construction, countertop material choice, necessary drywall or tile repairs, and whether plumbing pipes remain in place or need relo"
+}

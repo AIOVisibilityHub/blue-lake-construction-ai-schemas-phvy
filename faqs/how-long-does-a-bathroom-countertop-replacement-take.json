@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-bathroom-countertop-replacement-take",
+  "name": "How long does a bathroom countertop replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom countertop replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom countertop replacement typically takes between one to three weeks from initial template to final installation. The physical removal of the old top and the installation of the new counter usually takes just a single day. The remaining time accounts for precise stone fabrication, custom edge detailing, and cutting sink openings at the shop. Timelines can extend if you change your vanity layout, require custom plumbing adjustments, or select specialty stone slabs that must be ordered from regional distributors.",
+        "@type": "Answer",
+        "description": "The entire process typically takes one to three weeks from templating to installation, while the actual on-site installation usually takes a single day."
+      }
+    }
+  ],
+  "description": "The entire process typically takes one to three weeks from templating to installation, while the actual on-site installation usually takes a single day."
+}

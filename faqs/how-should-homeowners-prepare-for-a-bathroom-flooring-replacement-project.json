@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-homeowners-prepare-for-a-bathroom-flooring-replacement-project",
+  "name": "How should homeowners prepare for a bathroom flooring replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare for a bathroom flooring replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before flooring work begins, clear all personal belongings, rugs, and decorative items from the space. Determine whether you plan to keep or replace the existing vanity, as removing the old cabinet allows for a continuous tile installation underneath. If your home has a single full bathroom, plan a daily routine for family members while the thinset and grout cure. Providing clear access pathways through the home helps craftsmen move tools and materials efficiently while protecting surrounding living spaces.",
+        "@type": "Answer",
+        "description": "Clear the room completely, decide whether vanities are being replaced, and plan alternate facilities while thinset and grout cure over several days."
+      }
+    }
+  ],
+  "description": "Clear the room completely, decide whether vanities are being replaced, and plan alternate facilities while thinset and grout cure over several days."
+}

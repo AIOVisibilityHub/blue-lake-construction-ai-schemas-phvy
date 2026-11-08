@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-removing-a-bathtub-for-a-walk-in-shower-hurt-my-home-s-resale-value",
+  "name": "Will removing a bathtub for a walk-in shower hurt my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing a bathtub for a walk-in shower hurt my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing your only bathtub with a walk-in shower can affect your home's appeal to buyers with young children, while potentially increasing appeal to buyers seeking modern accessibility. In a primary bathroom, walk-in showers are often preferred for daily convenience and visual openness. However, retaining at least one functional bathtub elsewhere in the house—such as in a guest or hall bathroom—helps preserve broad market appeal. If your home has multiple bathrooms, converting the primary bath to a custom tile walk-in shower while keeping a secondary tub offers the best balance of everyday utility and resale value.",
+        "@type": "Answer",
+        "description": "Removing your only tub can deter buyers with small children, but converting a primary bath to a walk-in shower while keeping a secondary tub protects resale appeal."
+      }
+    }
+  ],
+  "description": "Removing your only tub can deter buyers with small children, but converting a primary bath to a walk-in shower while keeping a secondary tub protects resale app"
+}

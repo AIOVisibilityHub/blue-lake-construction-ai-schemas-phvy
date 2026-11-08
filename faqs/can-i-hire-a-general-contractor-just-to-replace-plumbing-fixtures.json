@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-hire-a-general-contractor-just-to-replace-plumbing-fixtures",
+  "name": "Can I hire a general contractor just to replace plumbing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I hire a general contractor just to replace plumbing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing fixture replacement is included as a core part of bathroom and kitchen remodels or complete whole-home renovation projects. In full remodel scopes, fixtures such as faucets, showerheads, bathtubs, and sinks are updated alongside surrounding finishes like custom tile, vanities, or countertops. Standalone, single-fixture repair calls are typically better served by a service plumber, whereas a general contractor handles fixtures when integrated into larger construction, layout redesigns, or comprehensive surface upgrades.",
+        "@type": "Answer",
+        "description": "General contractors install plumbing fixtures as part of larger remodeling projects, such as kitchen, bathroom, or whole-house renovations, rather than as standalone handyman service calls."
+      }
+    }
+  ],
+  "description": "General contractors install plumbing fixtures as part of larger remodeling projects, such as kitchen, bathroom, or whole-house renovations, rather than as stand"
+}

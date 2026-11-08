@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-and-decide-on-before-starting-a-primary-bathroom-remodel",
+  "name": "What should I prepare and decide on before starting a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare and decide on before starting a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work begins, homeowners should establish functional priorities, finalize layout choices, decide on rough storage needs, and make arrangements for personal routines. You should confirm whether you need dual sinks, linen storage, or a private water closet compartment. You will also need to select and order long-lead items early, including plumbing fixtures, tile, custom vanities, and specialized lighting, to prevent job-site delays. Because a primary bathroom remodel renders the suite unusable during construction, plan which secondary bathroom your household will use for daily showers and routines throughout the project.",
+        "@type": "Answer",
+        "description": "Define your functional priorities, select key fixtures and tile early to avoid delays, and arrange to use a secondary bathroom during active construction."
+      }
+    }
+  ],
+  "description": "Define your functional priorities, select key fixtures and tile early to avoid delays, and arrange to use a secondary bathroom during active construction."
+}

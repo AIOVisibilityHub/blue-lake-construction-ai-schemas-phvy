@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-plumbing-lines-connected-when-building-a-home-addition-or-basement-bathr",
+  "name": "How are plumbing lines connected when building a home addition or basement bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are plumbing lines connected when building a home addition or basement bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom to a home addition or basement involves tying into the existing main water supply and sewer line. For a new addition, the distance to the main sewer line dictates the trenching and grade slope required for proper drainage. In a basement remodel, if the main sewer line exits the foundation above floor level, you must install a sewage ejector pump system or trench concrete to access gravity drains. Assessing these connection points early helps clarify overall project complexity.",
+        "@type": "Answer",
+        "description": "New bathrooms connect to the main water supply and sewer line via subfloor trenching, existing floor joists, or sewage ejector pumps if drainage sits below the sewer exit."
+      }
+    }
+  ],
+  "description": "New bathrooms connect to the main water supply and sewer line via subfloor trenching, existing floor joists, or sewage ejector pumps if drainage sits below the"
+}

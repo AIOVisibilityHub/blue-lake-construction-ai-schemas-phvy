@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-arise-when-installing-walk-in-showers-in-older-salt-lake-city-ho",
+  "name": "What challenges arise when installing walk-in showers in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges arise when installing walk-in showers in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes throughout historic Salt Lake City neighborhoods, such as The Avenues, Sugar House, and Yalecrest, often feature original plumbing and non-standard framing that require careful planning during a shower remodel. Contractors frequently uncover galvanized supply lines, smaller two-inch cast iron drains, or uneven floor joists behind old plaster walls. Upgrading to a walk-in shower often requires replacing aged supply pipes, adjusting drain lines to meet current standards, and leveling subfloors before laying tile. Managing these hidden structural conditions early ensures the new installation meets modern plumbing standards and prevents moisture issues.",
+        "@type": "Answer",
+        "description": "Older local homes often require replacing outdated plumbing lines, resizing drain pipes, and leveling uneven floor joists before installing modern waterproof shower systems."
+      }
+    }
+  ],
+  "description": "Older local homes often require replacing outdated plumbing lines, resizing drain pipes, and leveling uneven floor joists before installing modern waterproof sh"
+}

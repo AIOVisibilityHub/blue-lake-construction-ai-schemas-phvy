@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-standard-exhaust-fan-and-a-humidity-sensing-fan",
+  "name": "What is the difference between a standard exhaust fan and a humidity-sensing fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard exhaust fan and a humidity-sensing fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard bathroom fans are manually operated by a switch, while humidity-sensing fans turn on automatically when moisture reaches a set threshold and turn off once the room clears. Humidity-sensing models prevent moisture damage caused by family members forgetting to run the fan during or after showers. The tradeoff involves upfront fixture cost and occasional sensor calibration, whereas manual fans require strict user habit to run 15 to 20 minutes post-shower. Integrated models can also incorporate quiet motors, continuous low-sone operation, and ambient nightlights.",
+        "@type": "Answer",
+        "description": "Humidity-sensing fans activate automatically when moisture rises and shut off when dry, while standard fans require manual operation and carry a higher risk of moisture buildup if forgotten."
+      }
+    }
+  ],
+  "description": "Humidity-sensing fans activate automatically when moisture rises and shut off when dry, while standard fans require manual operation and carry a higher risk of"
+}

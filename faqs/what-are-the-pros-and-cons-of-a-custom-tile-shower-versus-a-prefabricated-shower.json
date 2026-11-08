@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-pros-and-cons-of-a-custom-tile-shower-versus-a-prefabricated-shower",
+  "name": "What are the pros and cons of a custom tile shower versus a prefabricated shower pan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the pros and cons of a custom tile shower versus a prefabricated shower pan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile showers provide complete design flexibility, allowing exact sizing, custom benches, integrated recessed niches, and flush zero-threshold entries. They create a high-end, tailored appearance and fit non-standard footprints seamlessly. However, custom tile requires meticulous waterproofing membranes, skilled installation, and regular grout cleaning or resealing. Prefabricated shower pans offer lower material and labor costs, quicker installation, and joint-free surfaces that resist leaks easily, but they come in rigid, standard sizes and offer limited aesthetic options for a luxury primary suite.",
+        "@type": "Answer",
+        "description": "Custom tile showers provide tailored sizing, niches, and high-end finishes but require more labor, while prefabricated pans cost less but offer rigid sizing and aesthetics."
+      }
+    }
+  ],
+  "description": "Custom tile showers provide tailored sizing, niches, and high-end finishes but require more labor, while prefabricated pans cost less but offer rigid sizing and"
+}

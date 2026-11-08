@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-home-styles-in-salt-lake-city-affect-bathroom-floor-preparation",
+  "name": "How do home styles in Salt Lake City affect bathroom floor preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do home styles in Salt Lake City affect bathroom floor preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake Valley neighborhoods like Sugar House, The Avenues, or East Millcreek, older homes often have uneven floor joists, settling, or thick mortar beds that must be corrected before laying modern, large-format tile. Proper subfloor preparation, leveling compounds, or new uncoupling membranes are essential to prevent tiles from cracking over time. In contrast, newer builds in communities like Daybreak or Draper typically have standard engineered subfloors, making leveling faster and allowing straightforward transitions to adjacent bedroom carpeting or hardwood.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often require subfloor leveling and reinforcement to prevent tile cracking, while newer homes usually have standard subfloors needing less structural prep."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often require subfloor leveling and reinforcement to prevent tile cracking, while newer homes usually have standard subfloors needing less"
+}

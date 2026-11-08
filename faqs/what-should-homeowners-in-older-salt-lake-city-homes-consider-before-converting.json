@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-in-older-salt-lake-city-homes-consider-before-converting",
+  "name": "What should homeowners in older Salt Lake City homes consider before converting a tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners in older Salt Lake City homes consider before converting a tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City neighborhoods such as Sugar House, The Avenues, or Harvard-Yale, vintage homes often feature original cast iron plumbing, galvanized supply lines, or uneven framing. Converting a tub in these homes frequently involves replacing corroded piping beneath the subfloor and updating old venting systems to comply with modern residential building codes before installing a modern waterproof shower assembly.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often have outdated galvanized or cast iron plumbing and uneven framing that may require updating to meet modern codes before shower installation."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often have outdated galvanized or cast iron plumbing and uneven framing that may require updating to meet modern codes before shower insta"
+}

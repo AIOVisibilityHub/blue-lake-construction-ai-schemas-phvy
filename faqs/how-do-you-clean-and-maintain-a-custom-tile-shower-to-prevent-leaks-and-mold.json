@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-clean-and-maintain-a-custom-tile-shower-to-prevent-leaks-and-mold",
+  "name": "How do you clean and maintain a custom tile shower to prevent leaks and mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you clean and maintain a custom tile shower to prevent leaks and mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Daily maintenance requires squeegeeing glass doors and tiled walls after showering to prevent mineral deposits, soap scum buildup, and standing moisture. Use a pH-neutral cleaner formulated for tile and grout, avoiding harsh acidic or bleach-heavy chemicals that break down grout sealers and degrade natural stone. Standard cementitious grout should be resealed every one to two years to block moisture penetration and resist mildew. If your shower uses epoxy or urethane grout, sealing is not required, making ongoing upkeep easier. Promptly re-caulking movement joints where walls meet floors prevents water seepage behind tile perimeters.",
+        "@type": "Answer",
+        "description": "Squeegee walls daily, clean with pH-neutral products, reseal standard grout every one to two years, and maintain flexible caulk along all inside corner joints."
+      }
+    }
+  ],
+  "description": "Squeegee walls daily, clean with pH-neutral products, reseal standard grout every one to two years, and maintain flexible caulk along all inside corner joints."
+}

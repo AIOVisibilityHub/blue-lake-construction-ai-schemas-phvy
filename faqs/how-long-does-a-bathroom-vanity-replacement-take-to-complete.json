@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-bathroom-vanity-replacement-take-to-complete",
+  "name": "How long does a bathroom vanity replacement take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom vanity replacement take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathroom vanity typically takes one to three days for standard installations. The exact schedule depends on whether the project is a direct swap or requires adjustments to the surrounding space. If your new vanity matches the exact footprint and plumbing lines of the old unit, the physical removal and replacement can often finish in a single day. However, if your renovation involves moving water supply or drain lines, patching and painting drywall, or adjusting tile flooring where an old footprint was exposed, the work generally requires additional time for plumbing adjustments and surface repairs.",
+        "@type": "Answer",
+        "description": "A standard vanity replacement usually takes one to three days. Timelines extend if your project requires relocating plumbing lines, patching drywall, or repairing flooring under the old footprint."
+      }
+    }
+  ],
+  "description": "A standard vanity replacement usually takes one to three days. Timelines extend if your project requires relocating plumbing lines, patching drywall, or repairi"
+}

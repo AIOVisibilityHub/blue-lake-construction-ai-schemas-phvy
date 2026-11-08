@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-powder-room-remodel",
+  "name": "What should I prepare before consulting a contractor about a powder room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a powder room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an estimate, measure the total dimensions of the room, note which way the door swings, and identify your primary storage needs. Look at whether you want to preserve the existing floor plan or move fixtures. It is also helpful to clarify design preferences regarding lighting, mirror styles, and wall treatments. Because guests use this room, decide early whether you want durable, easy-to-clean wall finishes or decorative treatments like wainscoting or wallpaper. Sharing these layout notes and fixture goals helps your contractor create an accurate initial plan.",
+        "@type": "Answer",
+        "description": "Measure room dimensions, check door-swing clearance, clarify storage needs, and decide whether plumbing fixtures will stay in their current locations."
+      }
+    }
+  ],
+  "description": "Measure room dimensions, check door-swing clearance, clarify storage needs, and decide whether plumbing fixtures will stay in their current locations."
+}

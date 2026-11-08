@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-grab-bars-properly-anchored-in-an-accessible-bathroom-remodel",
+  "name": "How are grab bars properly anchored in an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are grab bars properly anchored in an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To securely hold body weight, grab bars must be anchored directly into solid wood framing rather than drywall alone. During the framing phase, contractors install horizontal wood blocking between wall studs behind the shower walls and beside the toilet. If you are updating an existing bathroom without opening the walls, specialized hollow-wall mounting anchors may be used if structural conditions permit, but in-wall blocking remains the most dependable solution. Blue Lake Construction plans blocking placement carefully to support present and future safety accessories.",
+        "@type": "Answer",
+        "description": "Grab bars are secured into solid wood blocking installed between wall studs before tiling, ensuring they can safely support personal weight."
+      }
+    }
+  ],
+  "description": "Grab bars are secured into solid wood blocking installed between wall studs before tiling, ensuring they can safely support personal weight."
+}

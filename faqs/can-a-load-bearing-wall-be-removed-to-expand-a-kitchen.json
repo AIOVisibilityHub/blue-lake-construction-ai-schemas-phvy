@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-load-bearing-wall-be-removed-to-expand-a-kitchen",
+  "name": "Can a load-bearing wall be removed to expand a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a load-bearing wall be removed to expand a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can remove a load-bearing wall to expand your kitchen, but it requires installing an engineered support beam and temporary shoring. During an open-concept conversion or kitchen expansion, removing a structural wall transfers upper-floor or roof loads onto a steel or engineered wood beam supported by new posts and footings. A licensed general contractor coordinates structural engineering assessments to verify load paths before cutting into framing, ensuring ceiling stability and proper transfer of structural weight down to the foundation.",
+        "@type": "Answer",
+        "description": "Yes, load-bearing walls can be removed if an engineered support beam and posts are installed to safely carry the overhead weight."
+      }
+    }
+  ],
+  "description": "Yes, load-bearing walls can be removed if an engineered support beam and posts are installed to safely carry the overhead weight."
+}

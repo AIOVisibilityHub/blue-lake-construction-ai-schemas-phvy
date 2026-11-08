@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-a-single-or-double-vanity-better-for-a-guest-bathroom",
+  "name": "Is a single or double vanity better for a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a single or double vanity better for a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Single vanities preserve valuable floor space and allow room for a wider shower or dedicated linen storage, making them practical for standard 5x8-foot or compact guest bathrooms. Double vanities work best in larger shared hall bathrooms where multiple family members or guests get ready at the same time. The tradeoff with a double vanity is reduced countertop counter space and fewer lower storage drawers, so you must weigh user convenience against overall bathroom layout efficiency.",
+        "@type": "Answer",
+        "description": "A single vanity saves floor and counter space in smaller bathrooms, while a double vanity is ideal for larger, high-traffic shared bathrooms."
+      }
+    }
+  ],
+  "description": "A single vanity saves floor and counter space in smaller bathrooms, while a double vanity is ideal for larger, high-traffic shared bathrooms."
+}

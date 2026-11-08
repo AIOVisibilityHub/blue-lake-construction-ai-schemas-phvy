@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-cost-of-replacing-bathroom-floors",
+  "name": "What factors determine the cost of replacing bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of replacing bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of bathroom flooring depends on the square footage, the selected material, and the extent of subfloor prep required. Basic ceramic tile and luxury vinyl are generally more economical, whereas custom porcelain, marble, or intricate mosaic patterns require higher material and labor investments. Removing existing glued tile, replacing rotted subfloor around toilets, or adding in-floor radiant heating also impacts the final budget. Blue Lake Construction reviews these scope details during the planning phase to ensure finishes align with your overall remodel budget.",
+        "@type": "Answer",
+        "description": "Bathroom flooring costs depend on room size, selected material, required subfloor repairs, and custom additions like heated floor systems or complex tile layouts."
+      }
+    }
+  ],
+  "description": "Bathroom flooring costs depend on room size, selected material, required subfloor repairs, and custom additions like heated floor systems or complex tile layout"
+}

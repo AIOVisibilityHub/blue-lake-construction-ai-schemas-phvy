@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-plumbing-considerations-come-with-adding-a-kitchen-island-sink",
+  "name": "What plumbing considerations come with adding a kitchen island sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing considerations come with adding a kitchen island sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a sink to a kitchen island requires routing supply and drain lines beneath the floor, along with installing dedicated venting. Because an island sits away from wall cavities, plumbers must run waste pipes through the subfloor and use a loop vent or air admittance valve to maintain proper drainage. If your home rests on a concrete slab rather than a basement or crawlspace, trenching concrete is necessary. Decide whether an island sink is essential, as running island lines requires more labor than perimeter wall plumbing.",
+        "@type": "Answer",
+        "description": "An island sink requires running water and drain lines through the floor instead of wall framing, along with specialized island venting or air admittance valves."
+      }
+    }
+  ],
+  "description": "An island sink requires running water and drain lines through the floor instead of wall framing, along with specialized island venting or air admittance valves."
+}

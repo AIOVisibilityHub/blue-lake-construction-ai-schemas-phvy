@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-an-open-concept-kitchen-compare-to-a-semi-open-or-traditional-layout",
+  "name": "How does an open-concept kitchen compare to a semi-open or traditional layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an open-concept kitchen compare to a semi-open or traditional layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full open-concept remodel removes all dividing walls between the kitchen, dining, and living areas for a completely shared floor plan. A semi-open layout uses cased openings, pass-through cutouts, or half-walls with bar seating. While a full conversion maximizes sightlines and entertaining space, it also exposes kitchen clutter to living areas and reduces wall space for upper cabinets. A semi-open layout preserves structural elements and perimeter cabinet storage while still improving light and visual connection.",
+        "@type": "Answer",
+        "description": "Full open concepts maximize space and light but reduce wall storage, whereas semi-open layouts retain partition walls for cabinets while opening sightlines."
+      }
+    }
+  ],
+  "description": "Full open concepts maximize space and light but reduce wall storage, whereas semi-open layouts retain partition walls for cabinets while opening sightlines."
+}

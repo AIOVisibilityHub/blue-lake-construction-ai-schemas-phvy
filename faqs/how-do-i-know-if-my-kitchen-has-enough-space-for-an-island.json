@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-know-if-my-kitchen-has-enough-space-for-an-island",
+  "name": "How do I know if my kitchen has enough space for an island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen has enough space for an island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To add a functional kitchen island, your room generally needs at least 36 to 42 inches of clear walkway space on all sides, with 48 inches preferred for multi-cook kitchens. This clearance ensures that oven doors, dishwashers, and low pull-out cabinets can open fully without blocking passage. If your existing room width is too narrow, an island will obstruct everyday movement. In tighter spaces, practical alternatives include a peninsula layout, which provides extra prep counter space and seating without requiring two separate walking aisles.",
+        "@type": "Answer",
+        "description": "You need at least 36 to 42 inches of open aisle space around all sides of an island so appliances and cabinet doors can open without restricting traffic flow."
+      }
+    }
+  ],
+  "description": "You need at least 36 to 42 inches of open aisle space around all sides of an island so appliances and cabinet doors can open without restricting traffic flow."
+}

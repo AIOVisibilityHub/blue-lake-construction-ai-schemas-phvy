@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-to-remodel-my-bathroom-in-the-salt-lake-valley",
+  "name": "Do I need a building permit to remodel my bathroom in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel my bathroom in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A building permit is generally required across Salt Lake Valley municipalities whenever a bathroom renovation involves moving plumbing lines, adding electrical circuits, altering load-bearing framing, or shifting structural walls. Simple replacements that keep fixtures in the exact same footprint without modifying internal wiring or pipes may not require structural permits, but local codes require licensed trade work for altered infrastructure. Working with a licensed general contractor ensures plans comply with local building codes, required municipal inspections are scheduled, and the work is safely documented for your home's public record.",
+        "@type": "Answer",
+        "description": "Permits are required whenever you relocate plumbing lines, alter electrical circuits, or change walls. Licensed general contractors coordinate these municipal permits and inspections."
+      }
+    }
+  ],
+  "description": "Permits are required whenever you relocate plumbing lines, alter electrical circuits, or change walls. Licensed general contractors coordinate these municipal p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-point-in-a-remodeling-project-is-trim-and-finish-carpentry-installed",
+  "name": "At what point in a remodeling project is trim and finish carpentry installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point in a remodeling project is trim and finish carpentry installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry is installed after drywall hanging, taping, and texturing are finished, and usually after the primary flooring is laid. Installing trim after flooring ensures baseboards sit flush against the finished floor surface without awkward gaps. However, the exact timing depends on the project scope: pre-hanging interior doors and installing window jamb extensions often happens right after drywall, while baseboards, shoe molding, and final decorative trim are completed right before or between coats of interior paint.",
+        "@type": "Answer",
+        "description": "Finish carpentry takes place after drywall is completed and typically after hard flooring is installed so baseboards and casings align cleanly."
+      }
+    }
+  ],
+  "description": "Finish carpentry takes place after drywall is completed and typically after hard flooring is installed so baseboards and casings align cleanly."
+}

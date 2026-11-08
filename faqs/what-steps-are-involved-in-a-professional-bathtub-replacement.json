@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-a-professional-bathtub-replacement",
+  "name": "What steps are involved in a professional bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in a professional bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an existing bathtub typically involves demoing the old tub, inspecting the subfloor and surrounding framing, updating rough-in plumbing, setting the new tub, and finishing the surrounding walls with waterproof backer board and custom tile or panels. If the replacement is part of a larger bathroom remodel, craftsmen may also update nearby vanities, flooring, and electrical fixtures. The entire sequence requires careful coordination between plumbing rough-ins and wall finishes to ensure a watertight installation.",
+        "@type": "Answer",
+        "description": "Bathtub replacement involves removing the old unit, checking subfloors, updating plumbing rough-ins, setting the new tub, and installing waterproof wall surrounds and fixtures."
+      }
+    }
+  ],
+  "description": "Bathtub replacement involves removing the old unit, checking subfloors, updating plumbing rough-ins, setting the new tub, and installing waterproof wall surroun"
+}

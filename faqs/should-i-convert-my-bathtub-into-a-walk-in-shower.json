@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-convert-my-bathtub-into-a-walk-in-shower",
+  "name": "Should I convert my bathtub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I convert my bathtub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathtub with a walk-in shower improves daily accessibility, eliminates high-threshold barriers, and makes smaller bathrooms feel significantly larger. Custom tile showers also allow you to incorporate built-in storage niches, seating benches, and frameless glass enclosures. The main tradeoff involves household needs and future resale flexibility. If your home has only one bathtub, keeping at least one tub in a guest or hall bath is often preferred for bathing young children or pets. In a primary suite, removing an unused garden tub to build a spacious walk-in shower is one of the most common layout reconfigurations homeowners request.",
+        "@type": "Answer",
+        "description": "Converting a tub to a walk-in shower enhances accessibility and creates an open feel, though keeping at least one tub in the home is often helpful for families with small children."
+      }
+    }
+  ],
+  "description": "Converting a tub to a walk-in shower enhances accessibility and creates an open feel, though keeping at least one tub in the home is often helpful for families"
+}

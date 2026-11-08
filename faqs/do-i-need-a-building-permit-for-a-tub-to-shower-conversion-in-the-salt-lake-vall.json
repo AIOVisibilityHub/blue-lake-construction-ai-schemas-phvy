@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-for-a-tub-to-shower-conversion-in-the-salt-lake-vall",
+  "name": "Do I need a building permit for a tub-to-shower conversion in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a tub-to-shower conversion in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing alterations that involve moving supply lines, upsizing drain pipes, or altering structural framing require building permits from local municipal building departments across the Salt Lake Valley. A licensed general contractor handles the permit applications, schedules required rough-in plumbing and framing inspections, and ensures all waterproofing methods and safety standards conform to Utah uniform building codes.",
+        "@type": "Answer",
+        "description": "Yes, converting a tub typically requires permits for plumbing modifications and framing changes, which a licensed contractor manages through local city building offices."
+      }
+    }
+  ],
+  "description": "Yes, converting a tub typically requires permits for plumbing modifications and framing changes, which a licensed contractor manages through local city building"
+}

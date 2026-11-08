@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-custom-cabinet-contractor",
+  "name": "What should I prepare before meeting with a custom cabinet contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a custom cabinet contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your design consultation, compile a clear list of functional needs, pain points with your current layout, and appliances you plan to keep or purchase. Gather appliance specification sheets, because custom boxes, cutouts, and panel fronts must match exact manufacturer dimensions. It also helps to take note of your daily storage habits, such as small appliance storage, trash sorting, or tall pantry needs, and establish your target budget range so the design team can balance wood species, finishes, and interior inserts accordingly.",
+        "@type": "Answer",
+        "description": "Gather appliance specification sheets, outline your specific storage needs, identify current layout issues, and establish your target project budget."
+      }
+    }
+  ],
+  "description": "Gather appliance specification sheets, outline your specific storage needs, identify current layout issues, and establish your target project budget."
+}

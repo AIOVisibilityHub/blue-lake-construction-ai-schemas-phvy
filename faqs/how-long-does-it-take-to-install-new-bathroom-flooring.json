@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-install-new-bathroom-flooring",
+  "name": "How long does it take to install new bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most full bathroom remodels, tile flooring takes between two and four business days to complete. The process involves preparing the subfloor or installing a cement backer board, laying the tile layout, cutting pieces around plumbing drains and vanity rough-ins, allowing the thinset to cure, and applying grout and sealant. If your project includes heated subfloor systems or complex mosaic patterns, installation may require extra curing and detail time. Demolition of old tile or repairing water-damaged subflooring can also adjust project schedules before new material goes down.",
+        "@type": "Answer",
+        "description": "Bathroom tile flooring installation typically takes two to four days, including subfloor preparation, laying tile, curing thinset, and applying grout."
+      }
+    }
+  ],
+  "description": "Bathroom tile flooring installation typically takes two to four days, including subfloor preparation, laying tile, curing thinset, and applying grout."
+}

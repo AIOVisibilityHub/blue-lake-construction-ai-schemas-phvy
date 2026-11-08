@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-bathroom-remodel-should-storage-improvements-be-finalized",
+  "name": "At what stage of a bathroom remodel should storage improvements be finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a bathroom remodel should storage improvements be finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should plan built-in bathroom storage improvements during the initial design phase of a comprehensive bathroom remodel. Because recessed storage, linen towers, and custom vanities interact directly with wall studs, drywall, plumbing supply lines, and electrical boxes, these elements must be established before mechanical rough-ins are inspected and closed up. Attempting to add recessed medicine cabinets or in-shower niches after walls are sheetrocked or tiled requires tearing out finished surfaces, significantly increasing labor time and project costs. Coordinated planning ensures all blocking, wiring, and framing are set beforehand.",
+        "@type": "Answer",
+        "description": "Storage plans must be finalized during the initial design phase so framing, plumbing, and electrical rough-ins can be completed before drywall and tile go up."
+      }
+    }
+  ],
+  "description": "Storage plans must be finalized during the initial design phase so framing, plumbing, and electrical rough-ins can be completed before drywall and tile go up."
+}

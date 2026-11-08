@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-plumbing-fixture-replacements",
+  "name": "What factors influence the cost of plumbing fixture replacements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of plumbing fixture replacements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost depends primarily on the fixture grade, installation labor, and whether rough-in lines require modification. Basic finish trim replacements installed onto existing compatible valves carry minimal labor costs. Expenses rise when a project requires replacing concealed in-wall shower valves, upgrading old galvanized or deteriorating copper supply lines, or adjusting drain placement for a new freestanding tub or double vanity. Premium materials like solid brass, custom thermostatic shower systems, and specialty finishes also impact the fixture budget.",
+        "@type": "Answer",
+        "description": "Costs depend on fixture quality, whether in-wall valves must be replaced, and whether underlying supply or drain lines need modification to fit modern designs."
+      }
+    }
+  ],
+  "description": "Costs depend on fixture quality, whether in-wall valves must be replaced, and whether underlying supply or drain lines need modification to fit modern designs."
+}

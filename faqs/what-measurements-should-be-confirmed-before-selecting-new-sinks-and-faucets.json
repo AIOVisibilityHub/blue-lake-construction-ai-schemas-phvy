@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-measurements-should-be-confirmed-before-selecting-new-sinks-and-faucets",
+  "name": "What measurements should be confirmed before selecting new sinks and faucets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements should be confirmed before selecting new sinks and faucets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering, measure your cabinet widths, countertop depths, and existing rough-in pipe heights. In kitchens, measure the sink base cabinet to verify it accommodates your chosen sink basin width and depth without crowding garbage disposals or pull-out organizers. In bathrooms, check the spacing between wall water supplies and the drain outlet relative to your vanity's internal shelving and drawers. Documenting centerlines and valve depths ensures your new faucets and fixtures fit without requiring on-site carpentry modifications.",
+        "@type": "Answer",
+        "description": "Measure base cabinet dimensions, countertop hole spacing, and the height and centerline of wall water supplies and drain outlets to avoid clearance issues."
+      }
+    }
+  ],
+  "description": "Measure base cabinet dimensions, countertop hole spacing, and the height and centerline of wall water supplies and drain outlets to avoid clearance issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-keep-a-bathtub-in-my-primary-bathroom-or-convert-to-a-large-walk-in-sho",
+  "name": "Should I keep a bathtub in my primary bathroom or convert to a large walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep a bathtub in my primary bathroom or convert to a large walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing an existing tub for a large walk-in shower is popular, but the decision usually hinges on how you use the space and whether another tub exists elsewhere in your home. Eliminating an unused garden or whirlpool tub allows room for an expansive custom tile shower with benches, built-in niches, dual showerheads, or a wider double vanity. The main practical tradeoff relates to resale appeal: keeping at least one functional bathtub in a secondary or guest bathroom is generally recommended for households with young children or pets. If your primary suite currently feels cramped due to a bulky tub deck, converting that footprint into a shower often delivers the greatest daily comfort.",
+        "@type": "Answer",
+        "description": "Converting to a walk-in shower adds daily space and accessibility, provided your home retains at least one bathtub in a secondary bathroom for practical flexibility."
+      }
+    }
+  ],
+  "description": "Converting to a walk-in shower adds daily space and accessibility, provided your home retains at least one bathtub in a secondary bathroom for practical flexibi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-adding-a-shower-bench-impact-overall-bathroom-remodel-costs",
+  "name": "How does adding a shower bench impact overall bathroom remodel costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does adding a shower bench impact overall bathroom remodel costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a custom tiled bench to a shower remodel typically involves extra framing, waterproofing, tile labor, and a solid-surface top. The cost varies based on whether it is a simple corner seat, a full floating bench, or an expansive wall-to-wall design. Factors that influence total expense include the choice of surface material—such as matching porcelain tile versus a single slab of quartz or granite—and the additional waterproofing membranes required to fully seal the seat and prevent moisture intrusion behind adjacent walls.",
+        "@type": "Answer",
+        "description": "A bench adds costs for structural framing, detailed waterproofing, additional tile, and a solid-surface top, with pricing shaped by bench size and material selection."
+      }
+    }
+  ],
+  "description": "A bench adds costs for structural framing, detailed waterproofing, additional tile, and a solid-surface top, with pricing shaped by bench size and material sele"
+}

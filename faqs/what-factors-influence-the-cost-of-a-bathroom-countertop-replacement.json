@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-a-bathroom-countertop-replacement",
+  "name": "What factors influence the cost of a bathroom countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a bathroom countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of replacing a bathroom countertop depends on the square footage, the material selected, and necessary plumbing work. Premium materials like quartz, marble, or quartzite command higher material costs than standard laminate or cultured marble. Additional factors include custom edge profiling, the number of sink cutouts, and whether you are adding a matching stone backsplash. Costs also shift if older shut-off valves, supply lines, or drain pipes require replacement to bring the vanity plumbing up to date.",
+        "@type": "Answer",
+        "description": "Costs depend on surface square footage, chosen stone material, edge profiles, sink cutouts, matching backsplashes, and any required plumbing updates."
+      }
+    }
+  ],
+  "description": "Costs depend on surface square footage, chosen stone material, edge profiles, sink cutouts, matching backsplashes, and any required plumbing updates."
+}

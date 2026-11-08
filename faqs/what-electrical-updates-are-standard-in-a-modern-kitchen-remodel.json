@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-electrical-updates-are-standard-in-a-modern-kitchen-remodel",
+  "name": "What electrical updates are standard in a modern kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical updates are standard in a modern kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen renovations carry specific electrical demands due to safety codes and high-wattage equipment. Countertop areas require split, dedicated small-appliance branch circuits, and outlets near sinks must include ground-fault circuit interrupter (GFCI) protection. Built-in microwave drawers, dishwashers, garbage disposals, and electric ranges often each require their own dedicated circuit back to the panel. Additionally, modern kitchen designs frequently incorporate layered lighting, including task lighting under cabinets, recessed ceiling fixtures, and decorative island pendants, each requiring separate switch controls.",
+        "@type": "Answer",
+        "description": "Kitchens require dedicated circuits for heavy appliances, GFCI protection along countertops, and separate controls for under-cabinet, task, and ambient lighting."
+      }
+    }
+  ],
+  "description": "Kitchens require dedicated circuits for heavy appliances, GFCI protection along countertops, and separate controls for under-cabinet, task, and ambient lighting"
+}

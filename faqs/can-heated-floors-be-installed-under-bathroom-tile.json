@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-heated-floors-be-installed-under-bathroom-tile",
+  "name": "Can heated floors be installed under bathroom tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can heated floors be installed under bathroom tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, radiant floor heating can be installed beneath porcelain, ceramic, and most natural stone bathroom tile. Electric heating mats or cables are embedded in mortar beneath the tile, delivering consistent warmth across cold winter mornings common to the Salt Lake Valley and Wasatch Front. Adding heating requires an electrical circuit evaluation and adds height to the floor assembly, which must be planned around door swings and room thresholds. It also requires careful subfloor preparation to protect the heating elements during tile placement.",
+        "@type": "Answer",
+        "description": "Yes, electric radiant heating systems can be installed directly beneath porcelain, ceramic, or stone tile to provide consistent underfoot warmth."
+      }
+    }
+  ],
+  "description": "Yes, electric radiant heating systems can be installed directly beneath porcelain, ceramic, or stone tile to provide consistent underfoot warmth."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-to-replace-the-shower-valve-inside-the-wall-when-updating-my-shower-tr",
+  "name": "Do I need to replace the shower valve inside the wall when updating my shower trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the shower valve inside the wall when updating my shower trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, existing shower valves usually must be replaced when switching to a different trim brand or updated valve system. Shower trim plates and handles attach directly to the rough-in valve body soldered behind the shower wall. Because valve designs vary significantly by manufacturer and manufacturing year, you cannot install a new brand's trim kit onto an older or mismatched valve. Replacing the valve requires accessing the wall cavity, which is best completed during a shower tile renovation.",
+        "@type": "Answer",
+        "description": "Usually yes. Shower trim is specific to the manufacturer and valve model, meaning a new brand or modernized setup typically requires replacing the concealed rough-in valve."
+      }
+    }
+  ],
+  "description": "Usually yes. Shower trim is specific to the manufacturer and valve model, meaning a new brand or modernized setup typically requires replacing the concealed rou"
+}

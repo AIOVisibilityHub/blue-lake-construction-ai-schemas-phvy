@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-is-duct-insulation-important-for-bathroom-exhaust-fans-in-salt-lake-valley-h",
+  "name": "Why is duct insulation important for bathroom exhaust fans in Salt Lake Valley homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is duct insulation important for bathroom exhaust fans in Salt Lake Valley homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake Valley homes, bathroom exhaust ducts often pass through unconditioned attic spaces that experience freezing winter temperatures. Proper duct insulation and dedicated backdraft dampers are critical in this climate; warm, moist shower air entering cold, uninsulated ducting causes moisture to condense inside the pipe and drip back down through the fan grille. Upgrades across Salt Lake City, Sandy, and surrounding communities should always include insulated duct sleeves and sealed exterior vent caps to withstand seasonal freeze-thaw cycles and prevent drafts.",
+        "@type": "Answer",
+        "description": "In cold Salt Lake winters, uninsulated attic ducts cause warm shower steam to condense into water and drip back through the ceiling fan fixture."
+      }
+    }
+  ],
+  "description": "In cold Salt Lake winters, uninsulated attic ducts cause warm shower steam to condense into water and drip back through the ceiling fan fixture."
+}

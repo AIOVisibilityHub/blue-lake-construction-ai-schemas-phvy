@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-choose-the-right-baseboard-height-for-a-room",
+  "name": "How do you choose the right baseboard height for a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you choose the right baseboard height for a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboard height should correspond directly with your room's ceiling height and architectural style. For standard eight-foot ceilings, baseboards typically measure between three and five inches high to avoid making the room look compressed. For nine- or ten-foot ceilings commonly found in modern or renovated homes, profiles between five and eight inches provide appropriate visual balance. Choosing a profile that is too narrow under high ceilings can look underwhelming, while overly tall moldings under low ceilings make the space feel shorter.",
+        "@type": "Answer",
+        "description": "Match baseboard height to your ceiling height: standard eight-foot ceilings usually take 3- to 5-inch trim, while nine-foot or higher ceilings look best with 5- to 8-inch profiles."
+      }
+    }
+  ],
+  "description": "Match baseboard height to your ceiling height: standard eight-foot ceilings usually take 3- to 5-inch trim, while nine-foot or higher ceilings look best with 5-"
+}

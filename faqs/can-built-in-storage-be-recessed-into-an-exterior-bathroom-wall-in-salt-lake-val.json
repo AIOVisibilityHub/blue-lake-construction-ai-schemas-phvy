@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-built-in-storage-be-recessed-into-an-exterior-bathroom-wall-in-salt-lake-val",
+  "name": "Can built-in storage be recessed into an exterior bathroom wall in Salt Lake Valley homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can built-in storage be recessed into an exterior bathroom wall in Salt Lake Valley homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing built-in storage on an exterior wall in the Salt Lake Valley requires careful attention to thermal insulation and freeze protection. Local building codes require proper exterior wall insulation values to withstand cold Utah winters. Recessing a medicine cabinet, niche, or linen cabinet into an exterior wall reduces the depth available for standard batt or rigid insulation, which can create cold spots or risk freezing water lines placed nearby. For homes in areas like Salt Lake City, Sandy, or Draper, contractors often recommend placing recessed storage along interior partition walls, or building a shallow furred-out wall if an exterior surface is the only option.",
+        "@type": "Answer",
+        "description": "It is generally discouraged because recessing into exterior walls compromises insulation depth and increases freeze risks during cold Utah winters."
+      }
+    }
+  ],
+  "description": "It is generally discouraged because recessing into exterior walls compromises insulation depth and increases freeze risks during cold Utah winters."
+}

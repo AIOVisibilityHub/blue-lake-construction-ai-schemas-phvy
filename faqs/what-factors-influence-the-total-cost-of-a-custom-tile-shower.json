@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-total-cost-of-a-custom-tile-shower",
+  "name": "What factors influence the total cost of a custom tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a custom tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom tile shower varies based on total square footage, the selected tile material, plumbing upgrades, and custom features. Standard ceramic or porcelain subway tiles cost significantly less in both material and labor than intricate glass mosaics or natural stone, which require specialized cutting and sealing. Additional cost drivers include expanding the footprint, upgrading to multiple shower valves or rain heads, building custom recessed niches and floating benches, and installing frameless glass enclosures. Extensive subfloor repairs or relocating drain lines also add to the overall investment.",
+        "@type": "Answer",
+        "description": "Costs depend on shower dimensions, tile material, plumbing fixture upgrades, subfloor modifications, built-in features like benches and niches, and glass enclosure style."
+      }
+    }
+  ],
+  "description": "Costs depend on shower dimensions, tile material, plumbing fixture upgrades, subfloor modifications, built-in features like benches and niches, and glass enclos"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-bathtub-materials-are-available-and-how-do-they-compare",
+  "name": "What bathtub materials are available and how do they compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What bathtub materials are available and how do they compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtubs come in several materials, each with specific advantages. Acrylic and fiberglass are lightweight, budget-friendly, and retain heat well, making them ideal for standard second-story bathrooms. Cast iron and enameled steel are exceptionally rigid, durable, and scratch-resistant, though cast iron is very heavy and may require framing evaluation to ensure adequate subfloor support. Solid surface stone resin tubs offer a high-end, modern look and excellent heat retention for freestanding installations.",
+        "@type": "Answer",
+        "description": "Acrylic is lightweight and cost-effective, enameled steel offers scratch resistance, while cast iron and stone resin provide exceptional durability and heat retention at a heavier weight."
+      }
+    }
+  ],
+  "description": "Acrylic is lightweight and cost-effective, enameled steel offers scratch resistance, while cast iron and stone resin provide exceptional durability and heat ret"
+}

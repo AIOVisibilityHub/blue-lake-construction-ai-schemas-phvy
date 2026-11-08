@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-replacing-my-bathroom-countertop-damage-the-existing-backsplash-or-mirror",
+  "name": "Will replacing my bathroom countertop damage the existing backsplash or mirror?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my bathroom countertop damage the existing backsplash or mirror?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathroom countertop directly affects attached wall tile and mirrors. If the new stone slab differs in thickness or height from the original top, your existing backsplash tile may leave an exposed gap or sit unevenly against the counter edge. Similarly, framed mirrors or low-hanging medicine cabinets resting directly on the old top must be measured carefully to ensure the new slab and backsplash clear them without requiring mirror relocation or drywall repairs.",
+        "@type": "Answer",
+        "description": "It can affect them if the new top has a different thickness; careful measurements prevent gaps against existing wall tile or conflicts with low-hanging mirrors."
+      }
+    }
+  ],
+  "description": "It can affect them if the new top has a different thickness; careful measurements prevent gaps against existing wall tile or conflicts with low-hanging mirrors."
+}

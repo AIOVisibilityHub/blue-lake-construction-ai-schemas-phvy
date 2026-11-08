@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-you-have-to-change-the-plumbing-when-converting-a-tub-to-a-shower",
+  "name": "Do you have to change the plumbing when converting a tub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you have to change the plumbing when converting a tub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually need to alter the plumbing because bathtubs and standalone showers use different drain pipe sizes. Standard bathtubs frequently connect to 1.5-inch drain lines, whereas residential building codes typically require a 2-inch drain pipe for walk-in showers to manage water flow efficiently. Additionally, the shower valve and showerhead height often need adjustment to suit standing adults, and the drain location must be centered or shifted to align with your new shower pan.",
+        "@type": "Answer",
+        "description": "Yes. Standalone showers generally require upgrading from a 1.5-inch tub drain to a 2-inch pipe, along with adjusting the water valve and showerhead height."
+      }
+    }
+  ],
+  "description": "Yes. Standalone showers generally require upgrading from a 1.5-inch tub drain to a 2-inch pipe, along with adjusting the water valve and showerhead height."
+}

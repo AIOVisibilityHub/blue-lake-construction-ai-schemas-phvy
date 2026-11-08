@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-total-cost-of-a-bathtub-replacement",
+  "name": "What factors influence the total cost of a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost is shaped by several factors, including the type of tub selected, the condition of the subfloor and framing behind the walls, and the surrounding finishes you choose. An alcove acrylic tub with standard surrounds costs significantly less than a freestanding cast iron soaking tub paired with floor-to-ceiling custom tile and new plumbing valves. Unexpected water damage or the need to relocate existing drain lines to fit a new design will also impact overall project costs.",
+        "@type": "Answer",
+        "description": "Cost depends on the tub material, whether plumbing or drains must be relocated, any subfloor repairs, and whether you choose custom tile or prefabricated surrounds."
+      }
+    }
+  ],
+  "description": "Cost depends on the tub material, whether plumbing or drains must be relocated, any subfloor repairs, and whether you choose custom tile or prefabricated surrou"
+}

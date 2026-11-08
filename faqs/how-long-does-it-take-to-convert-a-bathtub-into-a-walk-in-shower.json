@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-convert-a-bathtub-into-a-walk-in-shower",
+  "name": "How long does it take to convert a bathtub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to convert a bathtub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion typically takes between one and two weeks of active construction. Simpler installations with prefabricated shower bases and wall panels can be completed faster, while custom tile designs with built-in benches, recessed niches, and frameless glass require more time. Additional days may be required if our crew discovers plumbing adjustments or hidden water damage behind the old tub walls that must be repaired before tiling begins.",
+        "@type": "Answer",
+        "description": "Most conversions take one to two weeks, depending on whether you choose prefabricated wall surrounds or custom tile work requiring mortar setting and grouting."
+      }
+    }
+  ],
+  "description": "Most conversions take one to two weeks, depending on whether you choose prefabricated wall surrounds or custom tile work requiring mortar setting and grouting."
+}

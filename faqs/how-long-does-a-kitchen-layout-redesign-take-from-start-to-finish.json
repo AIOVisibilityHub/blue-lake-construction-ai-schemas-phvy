@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-kitchen-layout-redesign-take-from-start-to-finish",
+  "name": "How long does a kitchen layout redesign take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen layout redesign take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen layout redesign project typically takes between several weeks to a few months of active construction, depending on project complexity. The timeline divides into preliminary design, permitting, demolition, rough-in mechanicals, drywall, custom cabinet installation, and final finish carpentry. Relocating major plumbing lines, moving electrical subpanels, and removing load-bearing walls to connect adjacent living areas will add time compared to keeping appliances along existing supply lines. Final lead times for custom cabinetry and stone countertops also shape the overall construction schedule.",
+        "@type": "Answer",
+        "description": "Most kitchen layout redesigns take several weeks to a few months of active construction, influenced by wall removal, plumbing relocation, and custom cabinet lead times."
+      }
+    }
+  ],
+  "description": "Most kitchen layout redesigns take several weeks to a few months of active construction, influenced by wall removal, plumbing relocation, and custom cabinet lea"
+}

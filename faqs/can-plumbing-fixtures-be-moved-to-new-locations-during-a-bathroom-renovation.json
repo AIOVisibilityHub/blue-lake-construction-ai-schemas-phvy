@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-plumbing-fixtures-be-moved-to-new-locations-during-a-bathroom-renovation",
+  "name": "Can plumbing fixtures be moved to new locations during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can plumbing fixtures be moved to new locations during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing lines is feasible but increases project cost and labor complexity. Relocating a toilet, shower drain, or double vanity requires opening floors and walls to re-route supply pipes and waste-and-vent lines. The practical tradeoff comes down to functionality versus budget. If your existing layout feels cramped, moving fixtures can transform daily usability, but it requires careful coordination with floor joists and venting stacks. If budget is your primary constraint, keeping primary plumbing fixtures in their original footprint allows you to allocate more funds toward premium tile, countertops, and custom cabinetry.",
+        "@type": "Answer",
+        "description": "Yes, fixtures can be moved, but re-routing supply lines and drain pipes increases plumbing labor, permitting requirements, and overall project costs."
+      }
+    }
+  ],
+  "description": "Yes, fixtures can be moved, but re-routing supply lines and drain pipes increases plumbing labor, permitting requirements, and overall project costs."
+}

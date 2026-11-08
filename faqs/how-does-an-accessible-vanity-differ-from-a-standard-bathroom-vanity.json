@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-an-accessible-vanity-differ-from-a-standard-bathroom-vanity",
+  "name": "How does an accessible vanity differ from a standard bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an accessible vanity differ from a standard bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible vanity prioritizes knee clearance and reachability, whereas standard vanities use closed cabinetry that requires standing directly in front of the basin. Roll-under vanities feature open space beneath the sink, insulated pipe protection to prevent burns, and lever-operated or touchless faucets. The functional tradeoff is losing some traditional under-sink storage, which can be resolved by adding accessible recessed medicine cabinets, side linen towers, or open shelving within easy reach.",
+        "@type": "Answer",
+        "description": "Accessible vanities offer open knee space underneath for seated access and use lever faucets, whereas standard vanities feature closed cabinets that block seated use."
+      }
+    }
+  ],
+  "description": "Accessible vanities offer open knee space underneath for seated access and use lever faucets, whereas standard vanities feature closed cabinets that block seate"
+}

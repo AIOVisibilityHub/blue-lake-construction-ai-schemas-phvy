@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-remove-a-wall-to-open-up-my-kitchen-to-the-dining-or-living-room",
+  "name": "Can I remove a wall to open up my kitchen to the dining or living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove a wall to open up my kitchen to the dining or living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can remove a wall to create an open-concept kitchen, but the wall must first be evaluated to determine whether it is load-bearing. Non-load-bearing partition walls can usually be removed with standard framing modifications. If the wall supports ceiling joists, a roof structure, or a second story, a licensed general contractor must install a properly sized structural beam and support posts to carry the weight safely. In addition, electrical wiring, HVAC ductwork, or plumbing stacks hidden inside the wall must be rerouted before the space can open up.",
+        "@type": "Answer",
+        "description": "Yes, but load-bearing walls require engineered support beams and posts, while any electrical, HVAC, or plumbing lines inside the wall must be rerouted."
+      }
+    }
+  ],
+  "description": "Yes, but load-bearing walls require engineered support beams and posts, while any electrical, HVAC, or plumbing lines inside the wall must be rerouted."
+}

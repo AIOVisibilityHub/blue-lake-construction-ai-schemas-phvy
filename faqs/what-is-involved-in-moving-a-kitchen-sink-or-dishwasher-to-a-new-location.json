@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-involved-in-moving-a-kitchen-sink-or-dishwasher-to-a-new-location",
+  "name": "What is involved in moving a kitchen sink or dishwasher to a new location?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in moving a kitchen sink or dishwasher to a new location?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving your kitchen sink or dishwasher requires rerouting supply lines and drain-waste-vent piping under the floor. If your home has an accessible basement or crawlspace, adjusting drain lines and tie-ins is relatively direct. However, if your kitchen sits over a finished basement ceiling or on a concrete slab, rerouting plumbing requires cutting into concrete or opening finished lower-level ceilings, which increases labor and patching scope. The new location must also allow proper drain slope and code-compliant plumbing venting out through the roof or nearby vent stacks.",
+        "@type": "Answer",
+        "description": "Moving a sink requires rerouting water supply, drain, and vent lines under the subfloor or slab, requiring adequate drainage slope and clear basement or ceiling access."
+      }
+    }
+  ],
+  "description": "Moving a sink requires rerouting water supply, drain, and vent lines under the subfloor or slab, requiring adequate drainage slope and clear basement or ceiling"
+}

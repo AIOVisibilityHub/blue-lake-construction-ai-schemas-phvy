@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-ensure-proper-ventilation-and-moisture-control-in-a-new-bathroom",
+  "name": "How do I ensure proper ventilation and moisture control in a new bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure proper ventilation and moisture control in a new bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading bathroom ventilation requires calculating the correct exhaust capacity, measured in cubic feet per minute (CFM), based on your bathroom's square footage and features like enclosed steam showers. Proper ventilation requires smooth, rigid ducting vented directly through an exterior wall or roof rather than into an attic space. In modern renovations, pairing high-efficiency, low-sone exhaust fans with humidity sensors ensures moisture clears automatically after showers, preventing mildew growth and preserving painted walls, cabinetry, and grout lines over the long term.",
+        "@type": "Answer",
+        "description": "Install a properly sized exhaust fan ducted directly outside, and use automated humidity-sensing switches to eliminate condensation before mold or mildew forms."
+      }
+    }
+  ],
+  "description": "Install a properly sized exhaust fan ducted directly outside, and use automated humidity-sensing switches to eliminate condensation before mold or mildew forms."
+}

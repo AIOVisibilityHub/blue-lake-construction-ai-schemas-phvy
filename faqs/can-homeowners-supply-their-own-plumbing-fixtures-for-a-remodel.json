@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-homeowners-supply-their-own-plumbing-fixtures-for-a-remodel",
+  "name": "Can homeowners supply their own plumbing fixtures for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can homeowners supply their own plumbing fixtures for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can choose your own fixtures, but you must ensure they match your plumbing rough-in specifications. Before purchasing, verify whether your sink uses a single-hole, 4-inch center-set, or 8-inch widespread faucet. For showers, confirm whether the trim kit matches the existing or planned rough-in valve inside the wall, as brand valves are rarely interchangeable. Homeowners often purchase finish fixtures directly or coordinate selections through their remodeling contractor to prevent sizing mismatches and construction delays.",
+        "@type": "Answer",
+        "description": "Yes, homeowners can provide fixtures, provided they verify that specifications, valve compatibility, and hole drillings match the rough-in plumbing and countertop layout."
+      }
+    }
+  ],
+  "description": "Yes, homeowners can provide fixtures, provided they verify that specifications, valve compatibility, and hole drillings match the rough-in plumbing and countert"
+}

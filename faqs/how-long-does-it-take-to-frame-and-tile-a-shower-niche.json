@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-frame-and-tile-a-shower-niche",
+  "name": "How long does it take to frame and tile a shower niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to frame and tile a shower niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing and waterproofing a standard niche usually adds one to two days to the overall shower installation timeline. Framing the opening and integrating the waterproof membrane occurs alongside wall preparation. After inspections and waterproofing cure times, setting the tile and detailing trim pieces takes extra precision compared to a flat wall. If your layout requires moving plumbing vents or re-engineering load-bearing studs to accommodate a wide horizontal niche, that structural work can add several days to the rough-in phase.",
+        "@type": "Answer",
+        "description": "Framing, waterproofing, and tiling a standard niche typically adds one to two days to the tile installation phase of a bathroom remodel."
+      }
+    }
+  ],
+  "description": "Framing, waterproofing, and tiling a standard niche typically adds one to two days to the tile installation phase of a bathroom remodel."
+}

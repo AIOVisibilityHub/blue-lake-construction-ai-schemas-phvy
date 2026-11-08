@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-and-measure-before-planning-a-bathtub-replacement",
+  "name": "What should I prepare and measure before planning a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare and measure before planning a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting a general contractor, measure the length, width, and depth of your existing tub space and determine your drain orientation, whether left, right, or center. You should also consider who uses the tub, whether you prefer an alcove tub, freestanding soaking tub, or tub-shower combination, and whether you plan to update surrounding tile, vanity cabinets, or fixtures at the same time. Having photos and clear dimensions helps project managers evaluate your layout and provide accurate estimates.",
+        "@type": "Answer",
+        "description": "Measure your existing tub footprint, note drain placement (left, right, or center), decide on tub style, and consider if you want to update surrounding tile and plumbing fixtures."
+      }
+    }
+  ],
+  "description": "Measure your existing tub footprint, note drain placement (left, right, or center), decide on tub style, and consider if you want to update surrounding tile and"
+}

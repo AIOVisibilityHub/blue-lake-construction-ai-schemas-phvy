@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-an-exhaust-fan-required-when-updating-a-half-bathroom",
+  "name": "Is an exhaust fan required when updating a half-bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is an exhaust fan required when updating a half-bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exhaust fan is strongly recommended and often required by local residential building codes if the powder room does not have an operable window providing natural ventilation. Even without a shower producing steam, half-baths require proper airflow to manage odors and air circulation. If your powder room currently lacks ventilation, adding an exhaust fan involves running electrical wiring and installing dedicated ductwork to vent air completely outside the home, rather than into an attic or crawlspace. Connecting the fan to a separate switch or humidity sensor provides effortless control.",
+        "@type": "Answer",
+        "description": "Building codes usually require an exhaust fan if the room lacks an operable exterior window, ensuring proper airflow and odor control vented outside the home."
+      }
+    }
+  ],
+  "description": "Building codes usually require an exhaust fan if the room lacks an operable exterior window, ensuring proper airflow and odor control vented outside the home."
+}

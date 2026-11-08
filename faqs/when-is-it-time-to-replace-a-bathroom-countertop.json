@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-it-time-to-replace-a-bathroom-countertop",
+  "name": "When is it time to replace a bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace a bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your bathroom countertop needs replacement include deep cracks, persistent staining, water damage, or structural delamination. Laminate surfaces may swell and peel if water gets into the substrate around the sink rim. Older cultured marble tops often show dull, scratched finishes and yellowing that cannot be polished out. If your countertop surface harbors bacteria in unsealed fractures or no longer matches your updated fixtures, replacing the surface restores hygiene, appearance, and utility.",
+        "@type": "Answer",
+        "description": "Replace your countertop when you see cracks, severe staining, swelling from water leaks, dull finishes, or when modernizing outdated sinks and fixtures."
+      }
+    }
+  ],
+  "description": "Replace your countertop when you see cracks, severe staining, swelling from water leaks, dull finishes, or when modernizing outdated sinks and fixtures."
+}

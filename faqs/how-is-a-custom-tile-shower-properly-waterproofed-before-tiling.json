@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-a-custom-tile-shower-properly-waterproofed-before-tiling",
+  "name": "How is a custom tile shower properly waterproofed before tiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a custom tile shower properly waterproofed before tiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing is the most critical step because tile and grout are water-resistant, not completely waterproof. Behind the tile, professional installers build a continuous waterproof barrier using bonded sheet membranes, liquid topical membranes, or sealed waterproof backer boards over a properly sloped shower pan. Before any tile is installed, the shower base undergoes a flood test where the drain is plugged and the pan is filled with water for 24 hours to confirm there are zero leaks. Skipping or improperly executing this stage leads to hidden framing rot, subfloor damage, and mold behind drywall.",
+        "@type": "Answer",
+        "description": "Installers apply a continuous waterproof membrane over sloped backer board and perform a 24-hour flood test on the pan before setting any tile."
+      }
+    }
+  ],
+  "description": "Installers apply a continuous waterproof membrane over sloped backer board and perform a 24-hour flood test on the pan before setting any tile."
+}

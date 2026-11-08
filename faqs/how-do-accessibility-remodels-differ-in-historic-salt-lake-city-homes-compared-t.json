@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-accessibility-remodels-differ-in-historic-salt-lake-city-homes-compared-t",
+  "name": "How do accessibility remodels differ in historic Salt Lake City homes compared to newer builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do accessibility remodels differ in historic Salt Lake City homes compared to newer builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older neighborhoods like Sugar House, The Avenues, or Historic Sandy, homes often feature narrow doorways, multi-level layouts, and smaller bathrooms with cast-iron plumbing. Accessibility updates in these homes frequently require structural framing to expand entryways and reconfiguring subfloors to achieve curbless walk-in showers. In contrast, newer homes in Daybreak or Riverton often have wider initial framing and open plans, making accessibility updates simpler. A licensed local contractor like Blue Lake Construction understands these regional building styles and secures the necessary municipal permits across Salt Lake Valley jurisdictions.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often require doorway framing expansion and subfloor modifications for zero-threshold showers, while newer suburban homes already have wider layouts."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often require doorway framing expansion and subfloor modifications for zero-threshold showers, while newer suburban homes already hav"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-kitchen-expansion-project-typically-take",
+  "name": "How long does a kitchen expansion project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen expansion project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most comprehensive kitchen expansions take several months from demolition to completion, depending on structural scope. Expanding within the existing floor plan by opening interior walls usually takes between six and twelve weeks once on-site construction begins. If your expansion involves an exterior bump-out addition, project duration extends to account for site excavation, foundation curing, framing the building envelope, and weather conditions. Material lead times, such as fabrication schedules for custom cabinets and countertops, also influence the overall timeline.",
+        "@type": "Answer",
+        "description": "A kitchen expansion generally takes between six weeks and several months, depending on whether it involves an exterior addition or interior structural wall removals."
+      }
+    }
+  ],
+  "description": "A kitchen expansion generally takes between six weeks and several months, depending on whether it involves an exterior addition or interior structural wall remo"
+}

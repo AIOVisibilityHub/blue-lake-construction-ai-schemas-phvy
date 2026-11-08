@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-an-open-concept-kitchen-conversion-typically-take",
+  "name": "How long does an open-concept kitchen conversion typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept kitchen conversion typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting to an open-concept kitchen typically requires several weeks to a few months depending on project scope. The timeline begins with planning, design, and structural evaluation. Once construction starts, phases include selective demolition, structural beam installation, mechanical rough-ins for plumbing and electrical updates, drywalling, cabinet and countertop installation, flooring, and final finish carpentry. Complex layouts that require moving plumbing through slabs or floor joists naturally take longer than simply opening a wide doorway or pass-through.",
+        "@type": "Answer",
+        "description": "The construction process generally takes several weeks to a few months, depending on structural beam requirements and the extent of mechanical rerouting."
+      }
+    }
+  ],
+  "description": "The construction process generally takes several weeks to a few months, depending on structural beam requirements and the extent of mechanical rerouting."
+}

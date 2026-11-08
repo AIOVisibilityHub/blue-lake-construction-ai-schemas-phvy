@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-replace-a-bathtub",
+  "name": "How long does it take to replace a bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project duration depends on whether the job is a direct swap or part of a full bathroom renovation. A standard, direct bathtub replacement typically takes a few days to complete, allowing proper time for plumbing connections, wall repairs, and drying for adhesives and caulking. However, if the project includes custom tile work, subfloor repairs, or layout reconfigurations, the timeline will naturally extend. Proper scheduling ensures each phase, from rough-in plumbing to finishing touches, cures and seals correctly.",
+        "@type": "Answer",
+        "description": "A direct bathtub replacement typically takes a few days, while installations involving custom tile work or subfloor repairs will take longer to complete properly."
+      }
+    }
+  ],
+  "description": "A direct bathtub replacement typically takes a few days, while installations involving custom tile work or subfloor repairs will take longer to complete properl"
+}

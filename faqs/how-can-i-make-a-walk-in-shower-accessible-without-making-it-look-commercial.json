@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-can-i-make-a-walk-in-shower-accessible-without-making-it-look-commercial",
+  "name": "How can I make a walk-in shower accessible without making it look commercial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a walk-in shower accessible without making it look commercial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can make a walk-in shower accessible without sacrificing a refined aesthetic by integrating universal design elements that look intentional. Curbless zero-threshold entries eliminate tripping hazards while creating an open, modern aesthetic. Stylish designer grab bars match modern fixture finishes and double as towel rails or shelf supports. Floating or tiled corner benches provide comfortable seating while complementing the wall tile. Additionally, handheld shower wands on adjustable slide bars provide flexible water delivery for seated or standing users while maintaining a sleek, cohesive look.",
+        "@type": "Answer",
+        "description": "Use curbless entries, designer grab bars that match fixture finishes, integrated tile benches, and adjustable handheld shower wands for seamless accessibility."
+      }
+    }
+  ],
+  "description": "Use curbless entries, designer grab bars that match fixture finishes, integrated tile benches, and adjustable handheld shower wands for seamless accessibility."
+}

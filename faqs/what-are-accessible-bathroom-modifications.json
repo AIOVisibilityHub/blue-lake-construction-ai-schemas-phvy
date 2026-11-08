@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-accessible-bathroom-modifications",
+  "name": "What are accessible bathroom modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are accessible bathroom modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible bathroom modifications involve updating fixtures, entryways, and floor layouts so individuals with mobility challenges or changing physical needs can use the space safely. Common updates include tub-to-shower conversions, zero-threshold walk-in showers, reinforced walls with grab bars, comfort-height toilets, and wider doorways. As a decision factor, the scope depends on whether you are planning ahead for aging in place or addressing immediate mobility equipment needs like walkers or wheelchairs. Blue Lake Construction integrates these elements directly into full bathroom renovations so the room remains visually appealing while improving everyday safety.",
+        "@type": "Answer",
+        "description": "Accessible modifications include zero-threshold showers, grab bars, wider entryways, and comfort-height fixtures designed to make bathrooms safer and easier to use."
+      }
+    }
+  ],
+  "description": "Accessible modifications include zero-threshold showers, grab bars, wider entryways, and comfort-height fixtures designed to make bathrooms safer and easier to"
+}

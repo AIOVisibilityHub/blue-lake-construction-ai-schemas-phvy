@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-maintain-enough-storage-after-removing-upper-kitchen-cabinets",
+  "name": "How do you maintain enough storage after removing upper kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you maintain enough storage after removing upper kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Losing a wall usually means losing upper cabinets, so compensating for lost storage requires intentional planning. The most common solution is installing an expanded kitchen island with deep drawers, under-counter shelving, and back-to-back cabinetry. Many homeowners also opt for full-height pantry cabinets running floor-to-ceiling along remaining perimeter walls, built-in dining banquettes with storage, or converting an adjacent closet into a dedicated walk-in pantry to offset the eliminated upper cabinets.",
+        "@type": "Answer",
+        "description": "You can recover storage by installing a multi-functional kitchen island, tall pantry cabinets, ceiling-height perimeter storage, or dedicated walk-in pantries."
+      }
+    }
+  ],
+  "description": "You can recover storage by installing a multi-functional kitchen island, tall pantry cabinets, ceiling-height perimeter storage, or dedicated walk-in pantries."
+}

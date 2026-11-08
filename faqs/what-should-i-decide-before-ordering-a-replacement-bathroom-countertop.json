@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-decide-before-ordering-a-replacement-bathroom-countertop",
+  "name": "What should I decide before ordering a replacement bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I decide before ordering a replacement bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering a new bathroom countertop, verify your sink style, faucet spread, and mirror clearance. Decide whether you want an undermount, drop-in, or vessel sink, as each requires specific cutout dimensions and plumbing rough-in heights. You should also check the faucet hole configuration, such as single-hole or widespread, so the fabricator can drill the stone accurately. Finally, measure the distance between the countertop surface and your existing wall-mounted mirrors or medicine cabinets to ensure adequate clearance for an integrated backsplash.",
+        "@type": "Answer",
+        "description": "Decide on your sink style, faucet hole spread, and countertop thickness, and confirm clearance under existing mirrors and wall fixtures before fabrication begins."
+      }
+    }
+  ],
+  "description": "Decide on your sink style, faucet hole spread, and countertop thickness, and confirm clearance under existing mirrors and wall fixtures before fabrication begin"
+}

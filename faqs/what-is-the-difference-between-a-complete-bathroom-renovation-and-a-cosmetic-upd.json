@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-complete-bathroom-renovation-and-a-cosmetic-upd",
+  "name": "What is the difference between a complete bathroom renovation and a cosmetic update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a complete bathroom renovation and a cosmetic update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete bathroom renovation involves gutting the space down to the wall framing and subfloor to update all plumbing, electrical, and surface finishes. Work includes installing new showers or tubs, vanities, countertops, toilets, ventilation, tile, and flooring. A cosmetic refresh typically keeps the existing layout and mechanical infrastructure in place, swapping out only visible fixtures such as faucets, mirrors, cabinet hardware, or lighting. Deciding between the two depends on the age of your plumbing and whether your current layout meets your daily needs. If you have hidden moisture damage or want to reconfigure your floor plan, a full renovation is the appropriate path.",
+        "@type": "Answer",
+        "description": "A full renovation strips the room to the studs to update plumbing, wiring, and layouts, whereas a cosmetic update only replaces visible fixtures like faucets, mirrors, and paint."
+      }
+    }
+  ],
+  "description": "A full renovation strips the room to the studs to update plumbing, wiring, and layouts, whereas a cosmetic update only replaces visible fixtures like faucets, m"
+}

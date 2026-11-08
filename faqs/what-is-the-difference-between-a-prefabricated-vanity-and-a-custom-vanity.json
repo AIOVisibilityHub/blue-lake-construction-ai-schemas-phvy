@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-prefabricated-vanity-and-a-custom-vanity",
+  "name": "What is the difference between a prefabricated vanity and a custom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a prefabricated vanity and a custom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prefabs offer faster installation and bundled packages with tops and sinks, whereas custom vanities provide exact dimensions, tailored storage, and material flexibility. A prefabricated vanity can present challenges if your existing plumbing exits the wall at an unusual height, often requiring cabinet modification. In contrast, custom cabinetry adapts to awkward room alcoves, uneven walls, or specialized storage configurations. While custom units require longer lead times for fabrication, they prevent gaps along walls and allow you to select specific countertop materials, such as quartz or granite, cut to your exact layout.",
+        "@type": "Answer",
+        "description": "Prefabricated vanities come in fixed sizes with pre-cut tops, while custom vanities are built to fit your room dimensions, plumbing locations, and exact storage preferences."
+      }
+    }
+  ],
+  "description": "Prefabricated vanities come in fixed sizes with pre-cut tops, while custom vanities are built to fit your room dimensions, plumbing locations, and exact storage"
+}

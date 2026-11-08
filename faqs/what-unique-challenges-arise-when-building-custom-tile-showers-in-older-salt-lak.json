@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-unique-challenges-arise-when-building-custom-tile-showers-in-older-salt-lak",
+  "name": "What unique challenges arise when building custom tile showers in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique challenges arise when building custom tile showers in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older neighborhoods like Sugarhouse, The Avenues, or Harvard-Yale in Salt Lake City, historic homes frequently feature aged plumbing, uneven subfloors, and narrow bathroom footprints. Installing a modern custom tile shower in these properties often involves replacing corroded galvanized supply lines or cast-iron drain stacks with modern PEX and PVC. Installers must also inspect and reinforce original wood floor joists to support the weight of a thick mortar bed, tile, and heavy glass doors without flexing. Working with existing structural quirks requires careful planning to maximize tight spaces while meeting current plumbing and building codes.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often require replacing outdated plumbing stacks, leveling uneven framing, and reinforcing subfloor joists to support heavy tile and glass."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often require replacing outdated plumbing stacks, leveling uneven framing, and reinforcing subfloor joists to support heavy tile and"
+}

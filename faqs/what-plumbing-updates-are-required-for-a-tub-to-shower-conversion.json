@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-plumbing-updates-are-required-for-a-tub-to-shower-conversion",
+  "name": "What plumbing updates are required for a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing updates are required for a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion requires upgrading the drain line and adjusting the rough-in valve height. Standard bathtubs typically use a 1.5-inch drain pipe, whereas walk-in showers require a 2-inch drain to handle higher water flow rates safely. The conversion involves opening the subfloor to expand the drain, altering the shower valve height, and positioning the showerhead, niche, and bench plumbing. Addressing these rough-in plumbing details before waterproofing ensures your new walk-in shower drains properly and prevents water buildup.",
+        "@type": "Answer",
+        "description": "Tub-to-shower conversions require upgrading from a 1.5-inch tub drain to a 2-inch shower drain, adjusting valve heights, and rerouting supply lines for showerheads or handheld sprayers."
+      }
+    }
+  ],
+  "description": "Tub-to-shower conversions require upgrading from a 1.5-inch tub drain to a 2-inch shower drain, adjusting valve heights, and rerouting supply lines for showerhe"
+}

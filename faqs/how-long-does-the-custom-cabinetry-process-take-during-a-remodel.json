@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-the-custom-cabinetry-process-take-during-a-remodel",
+  "name": "How long does the custom cabinetry process take during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the custom cabinetry process take during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete custom cabinetry build and installation typically takes several weeks from approved design drawings to completion. Because custom units are fabricated off-site to exact field measurements, fabrication begins only after your room layout, framing, and rough dimensions are verified. While the cabinets are being built in the shop, your general contractor can complete necessary framing, electrical rough-ins, and plumbing updates. Once the cabinetry arrives on-site, the physical installation of boxes, doors, and trim carpentry usually takes a few days.",
+        "@type": "Answer",
+        "description": "Fabrication takes several weeks after design approval and field measurements, followed by a few days for on-site installation and trim work."
+      }
+    }
+  ],
+  "description": "Fabrication takes several weeks after design approval and field measurements, followed by a few days for on-site installation and trim work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-ventilation-upgrades-are-recommended-for-a-guest-bathroom",
+  "name": "What ventilation upgrades are recommended for a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What ventilation upgrades are recommended for a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper ventilation is critical to remove excess humidity, prevent mold buildup, and keep finishes fresh in a room used by multiple visitors. Choose an exhaust fan rated for the bathroom's square footage, ideally one operating at low sones for quiet performance. Venting must lead directly to the home's exterior rather than into an attic cavity. Pairing the fan with a humidity sensor or timer switch ensures the fan runs long enough after showers to fully clear moisture from tile and drywall surfaces.",
+        "@type": "Answer",
+        "description": "Install a quiet, appropriately sized exhaust fan that vents directly outdoors, ideally controlled by a humidity-sensing wall switch or automatic timer."
+      }
+    }
+  ],
+  "description": "Install a quiet, appropriately sized exhaust fan that vents directly outdoors, ideally controlled by a humidity-sensing wall switch or automatic timer."
+}

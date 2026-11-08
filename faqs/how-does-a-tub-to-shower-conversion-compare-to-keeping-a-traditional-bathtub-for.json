@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-a-tub-to-shower-conversion-compare-to-keeping-a-traditional-bathtub-for",
+  "name": "How does a tub-to-shower conversion compare to keeping a traditional bathtub for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a tub-to-shower conversion compare to keeping a traditional bathtub for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tub often creates a major tripping hazard because of its high threshold, whereas a walk-in shower eliminates or minimizes that barrier. Walk-in or curbless showers allow easy entry on foot or with mobility aids. When replacing a tub, you gain seamless entry, custom slip-resistant tile flooring, and space for integrated shower benches and recessed niches. The trade-off is the loss of a soaking tub, so homeowners planning a bathroom remodel often choose to retain one bathtub elsewhere in the home while converting the primary bath into a zero-barrier shower for accessible daily use.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion removes high step-over barriers, providing safer zero-threshold access, custom tile benches, and slip-resistant floors compared to traditional tubs."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion removes high step-over barriers, providing safer zero-threshold access, custom tile benches, and slip-resistant floors compared to tr"
+}

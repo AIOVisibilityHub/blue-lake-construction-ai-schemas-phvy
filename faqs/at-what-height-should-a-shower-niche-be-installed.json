@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-height-should-a-shower-niche-be-installed",
+  "name": "At what height should a shower niche be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what height should a shower niche be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche is typically installed between 36 and 48 inches above the shower floor. This chest-to-shoulder height keeps toiletries within comfortable reach while standing without requiring you to bend down. For combination tub-and-shower units, niches are often positioned lower, around 28 to 36 inches, so you can access items while seated in the tub. Placement also depends on stud bays and plumbing lines; placing the niche away from the direct spray of the showerhead minimizes water pooling and soap scum buildup.",
+        "@type": "Answer",
+        "description": "Most shower niches are positioned 36 to 48 inches off the floor for standing showers, or 28 to 36 inches for combination tub-showers."
+      }
+    }
+  ],
+  "description": "Most shower niches are positioned 36 to 48 inches off the floor for standing showers, or 28 to 36 inches for combination tub-showers."
+}

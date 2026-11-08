@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-for-before-knocking-down-kitchen-walls",
+  "name": "What should homeowners prepare for before knocking down kitchen walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare for before knocking down kitchen walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting an open-concept project, you should examine what runs through your dividing walls. Check for return air vents, baseboard heaters, plumbing stacks from an upper-level bathroom, and electrical switches. You will also need to consider flooring transitions; removing walls reveals gaps in the subfloor where original flooring stops. Determining early whether you want to patch existing flooring or replace the entire level with a continuous material helps establish an accurate scope and budget.",
+        "@type": "Answer",
+        "description": "Identify hidden utilities inside the wall, plan for flooring gaps where the wall stood, and decide on replacement storage solutions before demo starts."
+      }
+    }
+  ],
+  "description": "Identify hidden utilities inside the wall, plan for flooring gaps where the wall stood, and decide on replacement storage solutions before demo starts."
+}

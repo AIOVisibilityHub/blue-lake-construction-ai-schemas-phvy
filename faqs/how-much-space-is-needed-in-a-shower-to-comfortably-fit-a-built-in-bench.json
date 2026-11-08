@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-much-space-is-needed-in-a-shower-to-comfortably-fit-a-built-in-bench",
+  "name": "How much space is needed in a shower to comfortably fit a built-in bench?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space is needed in a shower to comfortably fit a built-in bench?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom built-in bench generally requires a shower footprint of at least 36 by 48 inches, or ideally 42 by 60 inches, to prevent the seat from crowding your standing area. In smaller three-wall enclosures or standard 30-by-60-inch tub-to-shower conversions, a deep built-in bench can make moving around difficult. For tighter layouts, practical alternatives include a compact triangular corner seat, a narrow floating ledge for shaving, or a wall-mounted fold-down bench that folds flat when not in use.",
+        "@type": "Answer",
+        "description": "Showers should ideally be at least 36 by 48 inches for a built-in bench; smaller showers often work better with a compact corner seat or fold-down bench."
+      }
+    }
+  ],
+  "description": "Showers should ideally be at least 36 by 48 inches for a built-in bench; smaller showers often work better with a compact corner seat or fold-down bench."
+}

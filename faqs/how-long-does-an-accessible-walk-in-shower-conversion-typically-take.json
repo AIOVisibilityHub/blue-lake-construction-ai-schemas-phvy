@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-an-accessible-walk-in-shower-conversion-typically-take",
+  "name": "How long does an accessible walk-in shower conversion typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessible walk-in shower conversion typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a standard bathtub into a walk-in shower typically takes between one to three weeks, depending on the plumbing and tile work required. The timeline increases if the project involves moving existing drain lines, replacing subflooring, or widening the shower footprint for full wheelchair access. Blue Lake Construction assigns dedicated craftsmen and project managers to keep daily work organized and minimize disruptions to your household routine. Planning your fixture selections and custom tile choices before demolition begins helps prevent unnecessary scheduling delays.",
+        "@type": "Answer",
+        "description": "A walk-in shower conversion typically takes one to three weeks, depending on plumbing adjustments, custom tile work, and framing changes."
+      }
+    }
+  ],
+  "description": "A walk-in shower conversion typically takes one to three weeks, depending on plumbing adjustments, custom tile work, and framing changes."
+}

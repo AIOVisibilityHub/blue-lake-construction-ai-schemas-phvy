@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-accessibility-features-can-be-added-during-a-shower-conversion",
+  "name": "What accessibility features can be added during a shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility features can be added during a shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a walk-in shower safer and more accessible, you can incorporate a low-profile or barrier-free zero-threshold entry curb to prevent tripping. Adding secure backing behind the walls allows for the installation of sturdy grab bars. Other functional improvements include slip-resistant textured floor tiles, a built-in tiled bench or floating seat, and a handheld shower wand mounted alongside the primary showerhead to simplify seated bathing.",
+        "@type": "Answer",
+        "description": "You can include low-threshold or curb-free entries, slip-resistant floor tile, internal wall blocking for grab bars, handheld sprayers, and built-in seating."
+      }
+    }
+  ],
+  "description": "You can include low-threshold or curb-free entries, slip-resistant floor tile, internal wall blocking for grab bars, handheld sprayers, and built-in seating."
+}

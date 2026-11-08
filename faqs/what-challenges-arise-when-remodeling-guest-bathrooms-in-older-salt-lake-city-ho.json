@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-arise-when-remodeling-guest-bathrooms-in-older-salt-lake-city-ho",
+  "name": "What challenges arise when remodeling guest bathrooms in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges arise when remodeling guest bathrooms in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City neighborhoods such as Sugar House, The Avenues, or Harvard-Yale, guest bathrooms often have historic framing dimensions, aging galvanized supply lines, or cast-iron drain stacks. Remodeling these spaces frequently requires bringing plumbing and electrical systems up to modern standards, leveling uneven subfloors, and working around tighter original floor plans. Blue Lake Construction addresses these historic structural considerations directly during the design and rough-in phases to create modern comfort while preserving the home's character.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often feature aging cast-iron pipes, outdated wiring, and irregular framing that require updates during a guest bath renovation."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often feature aging cast-iron pipes, outdated wiring, and irregular framing that require updates during a guest bath renovation."
+}

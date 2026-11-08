@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-typical-phases-of-a-full-primary-bathroom-renovation",
+  "name": "What are the typical phases of a full primary bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical phases of a full primary bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard primary bathroom remodel follows a structured sequence: initial design planning, demolition, rough-in mechanical work, inspections, waterproofing, surface finishes, and fixture installation. Demolition strips out old fixtures and damaged materials down to the studs and subfloor. Next, licensed trades rough in new plumbing lines, electrical feeds, and ventilation ductwork. Once rough-in building inspections pass, walls are closed with moisture-resistant drywall, and shower wet areas receive dedicated waterproofing systems. Tile flooring, shower walls, vanity cabinetry, and countertop slabs are installed next, followed by final plumbing trim, lighting fixtures, mirrors, and glass shower doors.",
+        "@type": "Answer",
+        "description": "The process moves from design and demo through rough-in plumbing and electrical, framing inspections, waterproofing, tile setting, cabinetry, and final fixture trim."
+      }
+    }
+  ],
+  "description": "The process moves from design and demo through rough-in plumbing and electrical, framing inspections, waterproofing, tile setting, cabinetry, and final fixture"
+}

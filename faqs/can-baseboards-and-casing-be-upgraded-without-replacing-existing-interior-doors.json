@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-baseboards-and-casing-be-upgraded-without-replacing-existing-interior-doors",
+  "name": "Can baseboards and casing be upgraded without replacing existing interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can baseboards and casing be upgraded without replacing existing interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing trim without changing doors is possible, but it requires careful coordination of casing thicknesses. New door casing must be equal to or thicker than the baseboard where the two meet, or you will need to incorporate plinth blocks at the floor transition. Additionally, if existing door jambs are damaged, uneven, or painted heavily over decades, keeping old jambs while installing fresh casing can make older imperfections stand out unless jambs are prepped and repainted.",
+        "@type": "Answer",
+        "description": "Yes, but new casing thickness must coordinate with baseboard dimensions at the floor, and existing jambs may need sanding and repainting to match."
+      }
+    }
+  ],
+  "description": "Yes, but new casing thickness must coordinate with baseboard dimensions at the floor, and existing jambs may need sanding and repainting to match."
+}

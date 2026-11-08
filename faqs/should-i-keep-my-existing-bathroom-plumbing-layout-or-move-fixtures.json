@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-keep-my-existing-bathroom-plumbing-layout-or-move-fixtures",
+  "name": "Should I keep my existing bathroom plumbing layout or move fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my existing bathroom plumbing layout or move fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating plumbing fixtures significantly increases labor, project duration, and cost compared to keeping fixtures in their existing positions. Keeping your sink, tub, and toilet where they are allows you to reuse supply and drain lines, keeping the budget focused on decorative fixtures and tile. Moving fixtures requires opening walls, cutting subfloors, and rerouting drain slopes and vent lines. The practical tradeoff is flexibility versus expense: changing the layout can improve traffic flow and functionality, but it requires substantial rough-in plumbing work.",
+        "@type": "Answer",
+        "description": "Keeping fixtures in place saves labor and budget, while moving them lets you customize layout and flow but requires rerouting water lines, drains, and vents behind walls and subfloors."
+      }
+    }
+  ],
+  "description": "Keeping fixtures in place saves labor and budget, while moving them lets you customize layout and flow but requires rerouting water lines, drains, and vents beh"
+}

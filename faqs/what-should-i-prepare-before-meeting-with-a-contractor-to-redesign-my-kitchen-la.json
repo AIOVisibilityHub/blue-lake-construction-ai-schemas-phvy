@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-to-redesign-my-kitchen-la",
+  "name": "What should I prepare before meeting with a contractor to redesign my kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a contractor to redesign my kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial layout design consultation, start by documenting what currently fails to work in your everyday kitchen routine. Note daily pain points such as lack of pantry storage, overcrowded cooking zones, or insufficient prep counters between the sink and stove. Gather appliance dimensions or wish lists, especially if you plan to upgrade to a larger range or counter-depth refrigerator. Finally, collect photos of kitchen styles you prefer and determine a realistic target investment range so your design team can plan realistic structural and material options.",
+        "@type": "Answer",
+        "description": "List your daily functional frustrations, measure or select preferred appliance sizes, gather reference photos, and establish your target budget parameters."
+      }
+    }
+  ],
+  "description": "List your daily functional frustrations, measure or select preferred appliance sizes, gather reference photos, and establish your target budget parameters."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-between-a-vanity-and-a-pedestal-sink-for-a-small-half-bath",
+  "name": "How do I choose between a vanity and a pedestal sink for a small half-bath?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a vanity and a pedestal sink for a small half-bath?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a pedestal sink and a vanity comes down to storage needs versus visual space. A pedestal sink or wall-hung basin leaves open floor area, making a narrow room feel larger and more open. The tradeoff is a total loss of concealed storage, meaning extra supplies must live elsewhere. A vanity offers closed under-sink cabinetry for cleaning items and toiletries, but its cabinet base occupies physical and visual floor area. Floating vanities serve as an effective middle ground, providing enclosed storage while maintaining exposed flooring underneath.",
+        "@type": "Answer",
+        "description": "Pedestal sinks maximize visible floor space in tight rooms, while vanities provide essential cabinet storage at the expense of a larger footprint."
+      }
+    }
+  ],
+  "description": "Pedestal sinks maximize visible floor space in tight rooms, while vanities provide essential cabinet storage at the expense of a larger footprint."
+}

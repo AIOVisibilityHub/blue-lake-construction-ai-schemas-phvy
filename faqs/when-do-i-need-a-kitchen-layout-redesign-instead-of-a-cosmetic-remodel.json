@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-do-i-need-a-kitchen-layout-redesign-instead-of-a-cosmetic-remodel",
+  "name": "When do I need a kitchen layout redesign instead of a cosmetic remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a kitchen layout redesign instead of a cosmetic remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need a kitchen layout redesign if your space feels cramped, lacks continuous prep counters, or causes traffic jams around key work zones. Homes with original enclosed kitchens or narrow galley setups often trap cooks away from family spaces and bottleneck around open appliance doors. Redesigning reconfigures the fundamental footprint—moving walls, shifting the work triangle, or introducing an island. In contrast, cosmetic refacing only swaps surfaces like cabinet fronts and countertops while leaving layout bottlenecks, poor storage, and awkward traffic patterns untouched.",
+        "@type": "Answer",
+        "description": "You need a layout redesign when poor counter space, tight appliance clearances, or awkward flow limit how your kitchen works, which cosmetic cabinet refacing cannot fix."
+      }
+    }
+  ],
+  "description": "You need a layout redesign when poor counter space, tight appliance clearances, or awkward flow limit how your kitchen works, which cosmetic cabinet refacing ca"
+}

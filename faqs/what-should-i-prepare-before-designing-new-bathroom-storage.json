@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-designing-new-bathroom-storage",
+  "name": "What should I prepare before designing new bathroom storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before designing new bathroom storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning bathroom storage improvements requires cataloging your daily essentials, measuring clearances, and establishing your renovation scope. Before construction starts, document what items must stay in the bathroom versus what can be stored elsewhere, such as backup bulk goods. Measure door swings, shower doors, and walking paths to ensure extended drawers or cabinet doors will not collide with fixtures. You should also decide whether you want integrated electrical outlets inside drawers for items like hair dryers and electric toothbrushes. Identifying these functional preferences early ensures the contractor can run necessary wiring and plumbing rough-ins before drywall and tile installation begin.",
+        "@type": "Answer",
+        "description": "Inventory the items you need to store, measure door and drawer clearance paths, and decide if you want in-cabinet electrical rough-ins before construction begins."
+      }
+    }
+  ],
+  "description": "Inventory the items you need to store, measure door and drawer clearance paths, and decide if you want in-cabinet electrical rough-ins before construction begin"
+}

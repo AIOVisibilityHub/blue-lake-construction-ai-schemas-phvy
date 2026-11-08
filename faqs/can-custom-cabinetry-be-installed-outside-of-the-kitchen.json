@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-custom-cabinetry-be-installed-outside-of-the-kitchen",
+  "name": "Can custom cabinetry be installed outside of the kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom cabinetry be installed outside of the kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry can be designed and installed in nearly any room that requires dedicated storage. Beyond kitchen remodels, common applications include bathroom vanities, linen towers, laundry room storage, and primary suite closet systems. It is also frequently incorporated into broader living-space renovations and home additions as built-in mudroom cubbies, media center consoles, home office desks, wet bars, and basement entertainment centers. Custom units ensure consistent woodwork and finishes throughout multiple adjoining rooms.",
+        "@type": "Answer",
+        "description": "Yes, custom cabinetry is commonly built for bathroom vanities, mudrooms, laundry rooms, home offices, primary closets, and basement entertainment areas."
+      }
+    }
+  ],
+  "description": "Yes, custom cabinetry is commonly built for bathroom vanities, mudrooms, laundry rooms, home offices, primary closets, and basement entertainment areas."
+}

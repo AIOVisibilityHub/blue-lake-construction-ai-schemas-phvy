@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-choose-a-prefabricated-shower-pan-or-a-custom-tiled-shower-floor",
+  "name": "Should I choose a prefabricated shower pan or a custom tiled shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a prefabricated shower pan or a custom tiled shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between custom tile and a prefabricated shower pan comes down to personal design goals versus construction simplicity. Prefabricated pans offer single-piece acrylic or composite construction that installs quickly and has no grout lines to maintain, but they come in standard shapes and sizes. Custom tiled pans provide limitless flexibility for unique layouts, non-standard room dimensions, and built-in benches, allowing for a cohesive look with matching wall tile. However, tiled floors require experienced mud-bed installation, strict waterproofing membranes, and ongoing grout cleaning.",
+        "@type": "Answer",
+        "description": "Prefabricated pans install faster and have no floor grout, while custom tile pans fit any layout, support built-in seating, and offer seamless custom design."
+      }
+    }
+  ],
+  "description": "Prefabricated pans install faster and have no floor grout, while custom tile pans fit any layout, support built-in seating, and offer seamless custom design."
+}

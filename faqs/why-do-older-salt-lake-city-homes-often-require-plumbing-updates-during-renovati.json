@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-do-older-salt-lake-city-homes-often-require-plumbing-updates-during-renovati",
+  "name": "Why do older Salt Lake City homes often require plumbing updates during renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do older Salt Lake City homes often require plumbing updates during renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes in historic areas like Sugar House, The Avenues, or Harvard-Yale often have legacy plumbing materials that require complete replacement during renovations. Many of these properties still feature original galvanized steel supply lines or cast iron waste stacks that suffer from internal corrosion, restricted water pressure, or chronic backups. When completing a kitchen or primary suite remodel in these older neighborhoods, updating lines to modern piping behind exposed framing prevents future wall demolition and avoids pairing modern fixtures with brittle, failing infrastructure.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes frequently have corroded galvanized supply pipes or cast iron drains that restrict water flow, requiring replacement during wall-open renovations to prevent future leaks."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes frequently have corroded galvanized supply pipes or cast iron drains that restrict water flow, requiring replacement during wall-open reno"
+}

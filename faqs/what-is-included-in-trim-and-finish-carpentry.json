@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-included-in-trim-and-finish-carpentry",
+  "name": "What is included in trim and finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in trim and finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry includes all the final woodwork installed inside a home after structural framing, drywall, and basic mechanical work are complete. This involves installing baseboards, door and window casings, crown molding, interior doors, stair parts, and custom woodwork like built-ins or wall paneling. While rough framing provides the skeleton of the house, finish carpentry creates the visible, polished surfaces that define the interior architectural character and cover gaps where drywall meets floors and frames.",
+        "@type": "Answer",
+        "description": "Finish carpentry includes interior doors, baseboards, window and door casings, crown molding, and custom architectural woodwork installed after drywall is complete."
+      }
+    }
+  ],
+  "description": "Finish carpentry includes interior doors, baseboards, window and door casings, crown molding, and custom architectural woodwork installed after drywall is compl"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-know-if-my-bathroom-floor-needs-to-be-replaced-rather-than-repaired",
+  "name": "How do I know if my bathroom floor needs to be replaced rather than repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom floor needs to be replaced rather than repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your bathroom floor needs replacement include cracked tiles, crumbling or mildewed grout that resists cleaning, soft spots near the tub or toilet, and persistent musty odors. A floor that feels spongy underfoot often signals water leaks beneath the surface that compromise structural subflooring. Addressing loose or damaged flooring early prevents moisture from penetrating floor joists and framing. During bathroom renovations, contractors inspect the underlying subfloor after tear-out to verify structural integrity before installing new tile.",
+        "@type": "Answer",
+        "description": "Spongy spots, cracked tiles, crumbling grout, loose planks, or persistent musty odors indicate your bathroom floor and subfloor likely need complete replacement."
+      }
+    }
+  ],
+  "description": "Spongy spots, cracked tiles, crumbling grout, loose planks, or persistent musty odors indicate your bathroom floor and subfloor likely need complete replacement"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-complete-kitchen-renovation-and-a-cosmetic-upda",
+  "name": "What is the difference between a complete kitchen renovation and a cosmetic update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a complete kitchen renovation and a cosmetic update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete kitchen renovation involves stripping the room down and updating structural, mechanical, and aesthetic elements. Unlike a cosmetic refresh that only replaces cabinet faces or paint, a full remodel typically includes reconfiguring the layout, moving or adding plumbing and electrical lines, installing custom cabinetry, fitting new countertops, adding kitchen islands, updating flooring, and installing new appliances. It allows you to address foundational issues, correct poor workflow, and optimize storage rather than simply masking wear and tear. Blue Lake Construction manages this process from custom planning through finish carpentry.",
+        "@type": "Answer",
+        "description": "A complete renovation reconfigures layouts, utilities, custom cabinets, and structural elements, while a cosmetic update only refreshes surfaces like paint, hardware, or cabinet doors."
+      }
+    }
+  ],
+  "description": "A complete renovation reconfigures layouts, utilities, custom cabinets, and structural elements, while a cosmetic update only refreshes surfaces like paint, har"
+}

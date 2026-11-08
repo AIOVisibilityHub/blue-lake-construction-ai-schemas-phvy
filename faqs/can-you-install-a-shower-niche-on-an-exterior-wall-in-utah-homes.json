@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-you-install-a-shower-niche-on-an-exterior-wall-in-utah-homes",
+  "name": "Can you install a shower niche on an exterior wall in Utah homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install a shower niche on an exterior wall in Utah homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a shower niche into an exterior wall requires careful planning around climate and insulation. In the Salt Lake Valley, exterior walls contain essential insulation to protect against winter freezing. Cutting into that insulation cavity to recess a niche compromises thermal performance and can expose interior plumbing to freezing temperatures. When remodeling bathrooms in Salt Lake City, Sandy, or Draper, Blue Lake Construction generally recommends placing niches on interior partition walls. If an exterior wall is the only option, framing out a shallow false wall preserves insulation depth.",
+        "@type": "Answer",
+        "description": "It is possible, but interior walls are strongly preferred in Utah to avoid cutting through exterior insulation and risking frozen pipes."
+      }
+    }
+  ],
+  "description": "It is possible, but interior walls are strongly preferred in Utah to avoid cutting through exterior insulation and risking frozen pipes."
+}

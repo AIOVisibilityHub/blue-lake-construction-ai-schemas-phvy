@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-modifying-a-bathroom-for-accessibility",
+  "name": "What factors influence the cost of modifying a bathroom for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of modifying a bathroom for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary widely based on whether your project is a targeted fixture update or a complete bathroom overhaul. A focused modification like converting a tub into a walk-in shower with grab bars costs significantly less than reconfiguring the entire floor plan, moving plumbing stacks, or expanding entryways. Custom tile work, specialized slip-resistant flooring, and premium plumbing fixtures also influence the final budget. Blue Lake Construction works with homeowners during initial planning to establish clear specifications that match your functional needs and project budget.",
+        "@type": "Answer",
+        "description": "Overall costs depend on whether plumbing lines move, the extent of structural framing changes, tile choices, and whether the remodel involves a single shower or the entire room."
+      }
+    }
+  ],
+  "description": "Overall costs depend on whether plumbing lines move, the extent of structural framing changes, tile choices, and whether the remodel involves a single shower or"
+}

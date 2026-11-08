@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-salt-lake-valley-homes-affect-powder-room-renovations-compared-to-n",
+  "name": "How do older Salt Lake Valley homes affect powder room renovations compared to newer builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older Salt Lake Valley homes affect powder room renovations compared to newer builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake City and across the Salt Lake Valley, older homes in historic areas like The Avenues, Sugar House, or Harvard-Yale frequently feature narrow half-baths retrofitted into unusual spaces, such as under staircases. These historic spaces often conceal aging cast-iron or galvanized plumbing, non-standard wall framing, and outdated wiring that require remediation when opened up. In contrast, newer construction in communities like Daybreak or Draper generally features modern code-compliant rough-ins, allowing remodels to focus almost entirely on cosmetic upgrades, custom cabinetry, and decorative design rather than extensive infrastructure repair.",
+        "@type": "Answer",
+        "description": "Older local homes often require updating outdated wiring or aging plumbing hidden in tight walls, whereas newer homes typically allow focus strictly on aesthetic upgrades."
+      }
+    }
+  ],
+  "description": "Older local homes often require updating outdated wiring or aging plumbing hidden in tight walls, whereas newer homes typically allow focus strictly on aestheti"
+}

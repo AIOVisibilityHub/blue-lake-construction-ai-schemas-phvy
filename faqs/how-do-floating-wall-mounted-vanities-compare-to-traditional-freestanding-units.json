@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-floating-wall-mounted-vanities-compare-to-traditional-freestanding-units",
+  "name": "How do floating wall-mounted vanities compare to traditional freestanding units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do floating wall-mounted vanities compare to traditional freestanding units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floating vanities provide a modern aesthetic and expose more flooring, making compact bathrooms appear larger, while freestanding units offer substantially more enclosed storage space. Wall-hung vanities require reinforced wood blocking installed directly between wall studs to carry the heavy weight of the cabinet and stone top. They also demand that all plumbing drains and supply lines exit neatly through the wall rather than the floor. Freestanding vanities rest securely on the floor, hide lower pipe connections, and maximize lower drawer capacity.",
+        "@type": "Answer",
+        "description": "Floating vanities create an open look but require internal wall blocking and wall-hung plumbing, whereas freestanding models maximize interior storage and conceal floor plumbing."
+      }
+    }
+  ],
+  "description": "Floating vanities create an open look but require internal wall blocking and wall-hung plumbing, whereas freestanding models maximize interior storage and conce"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-remodel-do-rough-in-plumbing-updates-happen",
+  "name": "At what stage of a remodel do rough-in plumbing updates happen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a remodel do rough-in plumbing updates happen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in plumbing updates take place after framing demolition and structural modifications are complete, but before insulation and drywall are installed. This sequence provides trades with open stud bays and exposed subfloors to run new drainpipes, vent stacks, and supply lines. Once the mechanical rough-ins pass the required municipal inspections, walls are closed, insulated, and drywalled. Final trim plumbing—including faucet installation, toilet setting, and shower trim—happens at the final stage after tile, cabinetry, and painting are done.",
+        "@type": "Answer",
+        "description": "Rough plumbing updates happen right after demolition and framing, while wall cavities and subfloors are completely open, before insulation and drywall installation."
+      }
+    }
+  ],
+  "description": "Rough plumbing updates happen right after demolition and framing, while wall cavities and subfloors are completely open, before insulation and drywall installat"
+}

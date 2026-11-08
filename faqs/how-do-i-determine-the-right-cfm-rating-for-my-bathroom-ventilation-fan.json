@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-determine-the-right-cfm-rating-for-my-bathroom-ventilation-fan",
+  "name": "How do I determine the right CFM rating for my bathroom ventilation fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the right CFM rating for my bathroom ventilation fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom fan airflow is rated in CFM (cubic feet per minute). As a baseline rule of thumb, standard residential bathrooms up to 100 square feet require at least 1 CFM per square foot of floor space, with a minimum recommendation of 50 CFM. Bathrooms with ceilings over eight feet or rooms containing jetted tubs, steam showers, or enclosed water closets require additional airflow calculation. Choosing the correct size prevents moisture buildup without creating excessive draft or drawing unnecessary conditioned air out of the home.",
+        "@type": "Answer",
+        "description": "For bathrooms up to 100 square feet, plan for at least 1 CFM per square foot of floor space, adding capacity for high ceilings, separate toilet compartments, or jetted tubs."
+      }
+    }
+  ],
+  "description": "For bathrooms up to 100 square feet, plan for at least 1 CFM per square foot of floor space, adding capacity for high ceilings, separate toilet compartments, or"
+}

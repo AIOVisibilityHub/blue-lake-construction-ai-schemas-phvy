@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-a-custom-recessed-shower-niche-constructed-during-a-remodel",
+  "name": "How is a custom recessed shower niche constructed during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a custom recessed shower niche constructed during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-built shower niches are typically constructed during the rough framing and tile installation phases of a bathroom renovation. The process begins by identifying an interior wall bay free of major plumbing stacks or electrical runs. The contractor frames a structural box between the wall studs, installs waterproof backer board, and applies a liquid or sheet waterproofing membrane. Once sealed, tile is set and sloped slightly forward on the bottom shelf to ensure water drains properly into the shower basin. Planning niche dimensions around your specific bottle sizes prevents layout issues after tiling is finished.",
+        "@type": "Answer",
+        "description": "Contractors frame between wall studs, install waterproof backer board and membrane, and finish with tile sloped slightly forward for proper drainage."
+      }
+    }
+  ],
+  "description": "Contractors frame between wall studs, install waterproof backer board and membrane, and finish with tile sloped slightly forward for proper drainage."
+}

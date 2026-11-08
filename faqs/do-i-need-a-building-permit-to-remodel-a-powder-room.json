@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-to-remodel-a-powder-room",
+  "name": "Do I need a building permit to remodel a powder room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel a powder room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are generally required if your project alters plumbing pipes, adds electrical outlets, or moves structural wall framing. If you are only replacing a toilet, faucet, and vanity in their existing locations without altering rough-in lines, a permit may not be necessary depending on local municipal rules. However, adding dedicated circuits for new light fixtures, installing an exhaust fan, or rerouting supply and waste lines triggers building code requirements and inspections. A licensed general contractor reviews your specific scope, submits the plans, and secures proper city permits before work begins.",
+        "@type": "Answer",
+        "description": "Permits are typically required when altering electrical wiring or moving plumbing lines, but simple surface-level fixture replacements often do not require them."
+      }
+    }
+  ],
+  "description": "Permits are typically required when altering electrical wiring or moving plumbing lines, but simple surface-level fixture replacements often do not require them"
+}

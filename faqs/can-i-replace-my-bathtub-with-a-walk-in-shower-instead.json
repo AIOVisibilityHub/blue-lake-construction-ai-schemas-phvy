@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-replace-my-bathtub-with-a-walk-in-shower-instead",
+  "name": "Can I replace my bathtub with a walk-in shower instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a walk-in shower instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing bathtub into a walk-in shower is a very common remodeling project that improves accessibility and creates an open feel in your bathroom. This project involves demolishing the tub, reconfiguring the drain line to accommodate shower drainage requirements, installing a waterproof shower pan or custom sloped mortar bed, and tiling the walls. It also provides an opportunity to add functional upgrades like built-in shower niches, corner benches, and modern glass doors.",
+        "@type": "Answer",
+        "description": "Yes, a bathtub can be converted into a walk-in shower by modifying the drain line, waterproofing the base and walls, and installing custom tile or modern shower panels."
+      }
+    }
+  ],
+  "description": "Yes, a bathtub can be converted into a walk-in shower by modifying the drain line, waterproofing the base and walls, and installing custom tile or modern shower"
+}

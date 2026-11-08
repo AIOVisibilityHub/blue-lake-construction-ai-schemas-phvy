@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-for-plumbing-updates-before-a-major-remodel",
+  "name": "How should I prepare for plumbing updates before a major remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for plumbing updates before a major remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting your general contractor, determine your desired layout, list any existing plumbing issues, and select appliance specifications. Note problems like low water pressure, slow-draining lines, or clogs, which can indicate broader pipe or sewer issues. If you plan to add high-flow appliances, pot fillers, or multi-head walk-in showers, share the manufacturer specification sheets. Gathering these details early helps your contractor and project manager assess pipe capacity and design appropriate plumbing lines without project delays.",
+        "@type": "Answer",
+        "description": "Document recurring drainage or pressure issues, outline fixture layout goals, and collect spec sheets for high-demand fixtures like body sprays or pot fillers."
+      }
+    }
+  ],
+  "description": "Document recurring drainage or pressure issues, outline fixture layout goals, and collect spec sheets for high-demand fixtures like body sprays or pot fillers."
+}

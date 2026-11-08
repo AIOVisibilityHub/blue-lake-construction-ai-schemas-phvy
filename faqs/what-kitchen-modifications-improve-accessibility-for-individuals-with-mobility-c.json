@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-kitchen-modifications-improve-accessibility-for-individuals-with-mobility-c",
+  "name": "What kitchen modifications improve accessibility for individuals with mobility challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kitchen modifications improve accessibility for individuals with mobility challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible kitchens are planned around reachable storage and clear floor space. Key modifications include installing multi-level countertops or lower prep surfaces, roll-under sinks, and pull-out pantry shelves or base cabinet organizers that eliminate hard-to-reach bending. Relocating appliances, such as installing wall ovens and microwave drawers, keeps hot dishes at safer heights. In open-concept kitchen conversions, widening the work triangle ensures sufficient clearance between islands and perimeter cabinetry, allowing family members with walkers or wheelchairs to move without restriction.",
+        "@type": "Answer",
+        "description": "Accessible kitchens use lowered prep surfaces, pull-out cabinet shelving, drawer appliances, roll-under sinks, and wider clearances around islands for easy movement."
+      }
+    }
+  ],
+  "description": "Accessible kitchens use lowered prep surfaces, pull-out cabinet shelving, drawer appliances, roll-under sinks, and wider clearances around islands for easy move"
+}

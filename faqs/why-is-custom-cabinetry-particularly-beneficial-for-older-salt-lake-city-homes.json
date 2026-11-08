@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-is-custom-cabinetry-particularly-beneficial-for-older-salt-lake-city-homes",
+  "name": "Why is custom cabinetry particularly beneficial for older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is custom cabinetry particularly beneficial for older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older properties in historic neighborhoods—such as The Avenues, Sugar House, or Capitol Hill in Salt Lake City—often feature settled foundations, uneven plaster walls, and non-standard ceiling heights. Stock cabinets rarely align properly against out-of-square walls without extensive, unsightly shimming and wide filler strips. Custom cabinetry allows craftsmen to scribe face frames directly to irregular plaster profiles, design around original architectural details, and maximize ceiling height without disrupting original historic trim lines or window placements.",
+        "@type": "Answer",
+        "description": "Custom cabinetry can be scribed directly to uneven walls and non-standard ceilings common in historic Salt Lake City homes, eliminating wide filler gaps."
+      }
+    }
+  ],
+  "description": "Custom cabinetry can be scribed directly to uneven walls and non-standard ceilings common in historic Salt Lake City homes, eliminating wide filler gaps."
+}

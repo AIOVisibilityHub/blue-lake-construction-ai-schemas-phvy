@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-sones-and-why-do-they-matter-when-selecting-a-bathroom-fan",
+  "name": "What are sones, and why do they matter when selecting a bathroom fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are sones, and why do they matter when selecting a bathroom fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fan loudness is measured in sones, where lower numbers indicate quieter operation. A fan rated at 4.0 sones sounds like a loud television or humming refrigerator, whereas a unit rated at 1.0 sone or below is virtually whisper-quiet. When planning an upgrade, especially in primary suites or guest baths near bedrooms, selecting a fan under 1.5 sones allows comfortable, prolonged use without disruptive noise. Quieter fans encourage homeowners to leave the unit running long enough to clear moisture completely from tile and cabinetry.",
+        "@type": "Answer",
+        "description": "Sones measure fan sound levels; lower ratings under 1.5 sones operate quietly, encouraging consistent use to fully exhaust moisture without disruptive motor noise."
+      }
+    }
+  ],
+  "description": "Sones measure fan sound levels; lower ratings under 1.5 sones operate quietly, encouraging consistent use to fully exhaust moisture without disruptive motor noi"
+}

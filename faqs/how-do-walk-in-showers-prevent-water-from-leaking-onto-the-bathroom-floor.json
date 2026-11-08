@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-walk-in-showers-prevent-water-from-leaking-onto-the-bathroom-floor",
+  "name": "How do walk-in showers prevent water from leaking onto the bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do walk-in showers prevent water from leaking onto the bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water containment in walk-in showers relies on a properly sloped shower pan, strategically placed showerheads, and moisture-resistant splash barriers. In curbless designs, the floor must slope evenly toward a central or linear drain to prevent standing water. Showerheads and body sprays must be oriented away from open entries to prevent water from splashing onto the main bathroom floor. High-performance bathroom exhaust fans are also critical to control humidity and prevent moisture accumulation on nearby drywall and cabinetry.",
+        "@type": "Answer",
+        "description": "Proper water containment requires correct floor slope toward the drain, strategic showerhead placement, and splash barriers or targeted glass panels."
+      }
+    }
+  ],
+  "description": "Proper water containment requires correct floor slope toward the drain, strategic showerhead placement, and splash barriers or targeted glass panels."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-tub-to-shower-conversion-or-walk-in-shower-installation-take",
+  "name": "How long does a tub-to-shower conversion or walk-in shower installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tub-to-shower conversion or walk-in shower installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing bathtub into a walk-in shower typically takes between one and two weeks of on-site construction. The schedule depends on whether the project involves moving existing plumbing lines, updating ventilation, or reframing the wet wall. During the process, the team removes the old tub, inspects the subfloor, reroutes supply and drain pipes as needed, installs a waterproof shower pan, sets custom tile, and installs fixtures and glass enclosures. If your bathroom layout requires structural adjustments, floor leveling, or extensive electrical updates, the installation schedule can extend beyond standard timelines.",
+        "@type": "Answer",
+        "description": "Most walk-in shower installations take one to two weeks, depending on whether plumbing lines move, custom tile is set, or framing adjustments are needed."
+      }
+    }
+  ],
+  "description": "Most walk-in shower installations take one to two weeks, depending on whether plumbing lines move, custom tile is set, or framing adjustments are needed."
+}

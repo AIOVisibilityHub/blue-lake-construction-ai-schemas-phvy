@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/does-a-bathtub-replacement-require-changing-the-existing-plumbing",
+  "name": "Does a bathtub replacement require changing the existing plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a bathtub replacement require changing the existing plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your new bathtub matches the dimensions and drain placement of your existing unit, your current plumbing configuration can often remain in place with minor updates to the rough-in valves. However, if you switch from a standard alcove tub to a freestanding soaking tub, or change your drain orientation, licensed contractors must cut into the subfloor to reroute the drain, overflow, and water supply lines. Updating older supply lines and shut-off valves during the remodel is often recommended to prevent future leaks.",
+        "@type": "Answer",
+        "description": "Plumbing changes depend on layout; keeping the same footprint requires minimal updates, while switching tub styles or drain locations requires rerouting water lines and drains."
+      }
+    }
+  ],
+  "description": "Plumbing changes depend on layout; keeping the same footprint requires minimal updates, while switching tub styles or drain locations requires rerouting water l"
+}

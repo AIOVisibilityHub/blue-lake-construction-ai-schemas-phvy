@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-zero-threshold-shower-and-a-low-curb-shower",
+  "name": "What is the difference between a zero-threshold shower and a low-curb shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a zero-threshold shower and a low-curb shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A zero-threshold shower removes the raised curb entirely, allowing seamless entry flush with the bathroom floor, whereas a low-curb shower retains a shallow lip of several inches to retain water. The practical tradeoff comes down to accessibility needs versus waterproofing complexity. Zero-threshold designs provide easier access for rolling walkers and wheelchairs, but they require recessed floor framing and specialized slope drainage. Low-curb showers work well for individuals who can take small steps and often require less structural subfloor modification during installation.",
+        "@type": "Answer",
+        "description": "Zero-threshold showers sit flush with the floor for seamless roll-in access, while low-curb showers feature a small step-over lip that requires less structural framing adjustment."
+      }
+    }
+  ],
+  "description": "Zero-threshold showers sit flush with the floor for seamless roll-in access, while low-curb showers feature a small step-over lip that requires less structural"
+}

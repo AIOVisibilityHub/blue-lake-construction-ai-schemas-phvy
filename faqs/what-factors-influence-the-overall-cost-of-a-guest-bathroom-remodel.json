@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-overall-cost-of-a-guest-bathroom-remodel",
+  "name": "What factors influence the overall cost of a guest bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the overall cost of a guest bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Guest bathroom remodel costs depend primarily on room dimensions, plumbing adjustments, and chosen finishes. Keeping existing supply lines, drains, and electrical rough-ins in their original positions keeps expenses lower. Upgrading to custom-tiled showers, premium stone countertops, new ventilation fans, and custom cabinetry increases material and labor costs. Larger structural adjustments, like removing a partition wall to open up space, also require more carpentry and framing work, which Blue Lake Construction scopes out in detailed planning sessions.",
+        "@type": "Answer",
+        "description": "Overall costs depend on whether plumbing fixtures stay in place, the choice between custom tile or prefabricated enclosures, and the quality of cabinetry, fixtures, and countertops."
+      }
+    }
+  ],
+  "description": "Overall costs depend on whether plumbing fixtures stay in place, the choice between custom tile or prefabricated enclosures, and the quality of cabinetry, fixtu"
+}

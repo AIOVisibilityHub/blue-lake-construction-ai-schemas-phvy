@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-cost-of-custom-cabinetry",
+  "name": "What factors determine the cost of custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several structural and material choices drive the overall investment in custom cabinets. Key factors include the total linear footage, chosen wood species, door construction style, and interior accessories. Incorporating complex elements like paneled appliance fronts, deep pot drawers, integrated pull-out pantries, or specialty corner carousels increases labor and hardware costs. Your finishing choice also matters: custom multi-step stained finishes or painted lacquer coatings require distinct shop time compared to basic finishes. Planning your must-have interior organizers early helps manage the overall budget.",
+        "@type": "Answer",
+        "description": "Cost is driven by overall linear footage, wood species, door style, specialized interior organizers like pullouts, and the complexity of the finish."
+      }
+    }
+  ],
+  "description": "Cost is driven by overall linear footage, wood species, door style, specialized interior organizers like pullouts, and the complexity of the finish."
+}

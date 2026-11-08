@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-kitchen-layout-redesign-and-a-kitchen-refresh",
+  "name": "What is the difference between a kitchen layout redesign and a kitchen refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen layout redesign and a kitchen refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen layout redesign changes how walls, plumbing, and electrical lines are arranged, which requires full architectural planning, demolition, and rough-in work before finishes are installed. A cosmetic update keeps appliances, sinks, and partition walls in place while updating finishes like paint, backsplash tile, or cabinet fronts. A complete layout reconfiguration involves structural assessments for open-concept conversions, relocating utility lines under subfloors, and framing new cabinet footprints, making it a more comprehensive construction project than a surface refresh.",
+        "@type": "Answer",
+        "description": "A layout redesign moves walls, sinks, appliances, and cabinetry footprints, whereas a refresh keeps the footprint identical and only replaces surface finishes."
+      }
+    }
+  ],
+  "description": "A layout redesign moves walls, sinks, appliances, and cabinetry footprints, whereas a refresh keeps the footprint identical and only replaces surface finishes."
+}

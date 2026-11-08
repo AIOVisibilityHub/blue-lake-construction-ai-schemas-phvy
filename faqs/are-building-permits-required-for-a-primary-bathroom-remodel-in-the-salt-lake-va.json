@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-building-permits-required-for-a-primary-bathroom-remodel-in-the-salt-lake-va",
+  "name": "Are building permits required for a primary bathroom remodel in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are building permits required for a primary bathroom remodel in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake City and across Salt Lake County municipalities, building permits are typically required whenever a primary bathroom remodel alters structural framing, moves or expands plumbing waste lines, or installs new electrical circuits. Minor cosmetic updates like swapping a vanity top, replacing a faucet in the same position, or re-tiling an existing shower base generally do not require permits. Working with a licensed general contractor ensures that plans meet local building codes, necessary permits are pulled, and required plumbing, electrical, and framing rough-in inspections pass before walls are sealed.",
+        "@type": "Answer",
+        "description": "Permits are required whenever remodeling involves moving plumbing lines, reconfiguring structural walls, or adding electrical circuits, ensuring work meets local building codes."
+      }
+    }
+  ],
+  "description": "Permits are required whenever remodeling involves moving plumbing lines, reconfiguring structural walls, or adding electrical circuits, ensuring work meets loca"
+}

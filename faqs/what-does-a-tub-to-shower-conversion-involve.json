@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-does-a-tub-to-shower-conversion-involve",
+  "name": "What does a tub-to-shower conversion involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a tub-to-shower conversion involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tub-to-shower conversion involves removing your existing bathtub, adjusting the underlying plumbing, and installing a new walk-in shower. The process starts with demolition and an inspection of the subfloor and wall framing for moisture damage. A general contractor relocates the drain line if needed, updates the mixing valve, installs waterproof backing boards, and constructs the shower pan. The renovation finishes with wall tile or surround panels, custom fixtures, built-in storage niches, and a glass enclosure or door.",
+        "@type": "Answer",
+        "description": "It involves removing the old tub, updating the drain and valve plumbing, repairing any subfloor damage, waterproofing the walls, and installing a new shower pan, tile, and doors."
+      }
+    }
+  ],
+  "description": "It involves removing the old tub, updating the drain and valve plumbing, repairing any subfloor damage, waterproofing the walls, and installing a new shower pan"
+}

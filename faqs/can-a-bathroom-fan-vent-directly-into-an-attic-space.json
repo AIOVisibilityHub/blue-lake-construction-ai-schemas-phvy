@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-bathroom-fan-vent-directly-into-an-attic-space",
+  "name": "Can a bathroom fan vent directly into an attic space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bathroom fan vent directly into an attic space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom exhaust fans should always vent directly to the outdoors through an exterior wall, soffit, or roof cap. They should never terminate inside an attic, crawlspace, or floor joist cavity. Discharging moist shower air into an unconditioned attic introduces warm humidity into cold spaces, which can saturate insulation, rot structural roof decking, and foster hidden mold growth. During a renovation, general contractors inspect existing duct routing to verify that rigid or semi-rigid ducting carries the exhaust all the way through the building envelope to the outside.",
+        "@type": "Answer",
+        "description": "No. Bathroom fans must vent directly outside through an exterior wall or roof to prevent moisture buildup, rotted roof framing, and mold growth in attic spaces."
+      }
+    }
+  ],
+  "description": "No. Bathroom fans must vent directly outside through an exterior wall or roof to prevent moisture buildup, rotted roof framing, and mold growth in attic spaces."
+}

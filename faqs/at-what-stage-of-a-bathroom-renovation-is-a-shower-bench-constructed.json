@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-bathroom-renovation-is-a-shower-bench-constructed",
+  "name": "At what stage of a bathroom renovation is a shower bench constructed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a bathroom renovation is a shower bench constructed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower benches are framed directly into the shower footprint during the rough carpentry and tile prep stage of a bathroom renovation. Constructing the framing, applying backing boards, sealing the membrane, and tiling the seat typically adds one to two working days to the tile installation phase of the project. Because waterproofing inspections and proper mortar drying times must occur before grouting, planning the bench layout early prevents delays during your overall bathroom remodel schedule.",
+        "@type": "Answer",
+        "description": "The bench is framed and waterproofed during the rough shower preparation stage, adding about one to two days to the overall tile and waterproofing phase."
+      }
+    }
+  ],
+  "description": "The bench is framed and waterproofed during the rough shower preparation stage, adding about one to two days to the overall tile and waterproofing phase."
+}

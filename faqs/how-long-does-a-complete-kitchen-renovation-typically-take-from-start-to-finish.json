@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-complete-kitchen-renovation-typically-take-from-start-to-finish",
+  "name": "How long does a complete kitchen renovation typically take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete kitchen renovation typically take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel generally takes several weeks to a few months from demolition to final walkthrough, depending on project complexity. Straightforward replacements within the existing floor plan move faster, whereas major reconfigurations—such as knocking down walls to join the kitchen to adjacent living areas or relocating main plumbing stacks—add construction time. Custom cabinetry fabrication and precision templating for stone countertops also have specific lead times that dictate the schedule. Blue Lake Construction assigns project managers to coordinate trade schedules and keep construction moving predictably.",
+        "@type": "Answer",
+        "description": "A full remodel usually takes several weeks to a few months, depending on layout reconfigurations, wall removals, utility relocations, and lead times for custom cabinets and countertops."
+      }
+    }
+  ],
+  "description": "A full remodel usually takes several weeks to a few months, depending on layout reconfigurations, wall removals, utility relocations, and lead times for custom"
+}

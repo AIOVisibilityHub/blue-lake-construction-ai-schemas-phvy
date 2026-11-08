@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-typical-process-for-planning-an-accessible-home-renovation",
+  "name": "What is the typical process for planning an accessible home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for planning an accessible home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an in-home assessment to evaluate entryways, room layouts, and daily routines. Next, your contractor creates a design plan tailored to your functional needs, whether that involves floor plan reconfiguration, cabinetry updates, or plumbing relocations. Once plans and permits are finalized, construction proceeds through demolition, rough-in plumbing and electrical, structural framing (such as adding wall backing for grab bars), finish installations, and final walkthroughs. Blue Lake Construction coordinates all trades under a dedicated project manager to keep the remodeling timeline organized and transparent.",
+        "@type": "Answer",
+        "description": "The process starts with an in-home assessment, followed by layout design, permitting, rough framing and plumbing updates, finish installations, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process starts with an in-home assessment, followed by layout design, permitting, rough framing and plumbing updates, finish installations, and a final walk"
+}

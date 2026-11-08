@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-new-custom-cabinets-be-matched-to-my-home-s-existing-trim-and-woodwork",
+  "name": "Can new custom cabinets be matched to my home's existing trim and woodwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new custom cabinets be matched to my home's existing trim and woodwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, coordinating new cabinetry with existing millwork is a primary benefit of custom construction. Experienced carpenters can replicate the profiles of existing baseboards, casing, and crown molding to ensure your new built-ins look original to the home. Finishes and wood grains can also be matched through custom stain blending and tinting. This coordination is especially important in open-concept conversions and room additions, where new kitchen or living area cabinetry must harmonize with neighboring architectural trim.",
+        "@type": "Answer",
+        "description": "Yes, custom cabinetry can be designed with matching molding profiles, wood species, and custom stains to integrate with your existing millwork."
+      }
+    }
+  ],
+  "description": "Yes, custom cabinetry can be designed with matching molding profiles, wood species, and custom stains to integrate with your existing millwork."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-before-consulting-a-contractor-about-expanding-my-kitchen",
+  "name": "How should I prepare before consulting a contractor about expanding my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before consulting a contractor about expanding my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, gather ideas on how you use your space, document structural pain points, and outline your storage priorities. Note whether you want a larger island, seating, a walk-in pantry, or an open-concept connection to the family room. Check whether you have crawlspace or basement access underneath the kitchen, as this simplifies plumbing and electrical rerouting. Having clear functional priorities helps your contractor evaluate whether an interior wall reconfiguration or an exterior bump-out best suits your property.",
+        "@type": "Answer",
+        "description": "Identify your layout goals, note traffic bottlenecks, establish storage priorities like pantries or islands, and determine your target budget."
+      }
+    }
+  ],
+  "description": "Identify your layout goals, note traffic bottlenecks, establish storage priorities like pantries or islands, and determine your target budget."
+}

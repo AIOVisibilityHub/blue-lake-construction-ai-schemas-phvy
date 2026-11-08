@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-standard-size-and-depth-for-a-shower-niche",
+  "name": "What is the standard size and depth for a shower niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the standard size and depth for a shower niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard shower niche is typically framed 12 inches wide by 24 inches high, recessed between wall studs spaced 16 inches on center. The finished depth usually measures about 3.5 inches, matching standard 2x4 framing behind backer board and tile. When deciding on height and placement, consider the tallest shampoo or body wash bottles you store, which often measure 10 to 12 inches tall. Blue Lake Construction often incorporates an adjustable or fixed shelf to divide taller bottles from smaller items like bar soap or razors, keeping daily essentials organized without crowding the stall.",
+        "@type": "Answer",
+        "description": "A typical shower niche is 12 inches wide, 24 inches high, and about 3.5 inches deep, fitting neatly between standard 16-inch wall studs."
+      }
+    }
+  ],
+  "description": "A typical shower niche is 12 inches wide, 24 inches high, and about 3.5 inches deep, fitting neatly between standard 16-inch wall studs."
+}

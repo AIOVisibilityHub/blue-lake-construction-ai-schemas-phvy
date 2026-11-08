@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-local-home-foundations-in-the-salt-lake-area-affect-shower-bench-construc",
+  "name": "How do local home foundations in the Salt Lake area affect shower bench construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do local home foundations in the Salt Lake area affect shower bench construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When remodeling bathrooms in Salt Lake Valley homes—from historic properties in Sugar House and The Avenues to newer builds in South Jordan—subfloor construction dictates framing requirements. Older homes often feature dimensional lumber joists or settling foundations that require subfloor reinforcement before building heavy masonry benches. Newer developments frequently use engineered I-joists. Consulting with a local licensed general contractor ensures the underlying floor framing and wall anchors meet Utah structural codes and can support the combined load of the bench, tile, and occupants.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often need subfloor reinforcement before installing heavy tiled benches, whereas modern valley builds require specific framing tie-ins to support the load."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often need subfloor reinforcement before installing heavy tiled benches, whereas modern valley builds require specific framing tie-ins to"
+}

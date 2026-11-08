@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-salt-lake-city-homes-affect-accessible-bathroom-renovations",
+  "name": "How do older Salt Lake City homes affect accessible bathroom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older Salt Lake City homes affect accessible bathroom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes throughout Salt Lake Valley neighborhoods, such as Sugar House or The Avenues, frequently feature narrow door frames and tight compartmentalized layouts that cannot fit walkers or wheelchairs. In these homes, accessibility remodels often require widening doors, shifting non-load-bearing walls, or combining adjacent closet space to achieve adequate turning radius. Additionally, older plumbing and uneven subflooring must be brought up to modern standards before barrier-free showers can be safely installed. Experienced local contractors evaluate these structural conditions before work starts.",
+        "@type": "Answer",
+        "description": "Older homes often have narrow doors and compact footprints, requiring structural wall adjustments, doorway widening, and subfloor leveling to accommodate accessible layouts."
+      }
+    }
+  ],
+  "description": "Older homes often have narrow doors and compact footprints, requiring structural wall adjustments, doorway widening, and subfloor leveling to accommodate access"
+}

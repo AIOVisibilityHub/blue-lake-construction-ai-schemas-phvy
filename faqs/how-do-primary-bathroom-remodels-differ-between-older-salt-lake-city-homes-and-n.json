@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-primary-bathroom-remodels-differ-between-older-salt-lake-city-homes-and-n",
+  "name": "How do primary bathroom remodels differ between older Salt Lake City homes and newer suburban properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do primary bathroom remodels differ between older Salt Lake City homes and newer suburban properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling older homes in historic Salt Lake City neighborhoods like The Avenues, Sugar House, or Harvard-Yale often reveals ungrounded wiring, aging galvanized or cast-iron plumbing, and uneven framing. When updating primary suites in these historic areas, licensed general contractors frequently need to upgrade electrical circuits to meet modern GFCI requirements and replace old supply lines to handle modern multi-head showers. In contrast, newer homes in suburban communities like South Jordan or Draper usually have modern infrastructure, allowing remodeling efforts to focus immediately on layout reconfigurations, walk-in tile showers, and aesthetic updates without extensive utility overhauls.",
+        "@type": "Answer",
+        "description": "Older homes in areas like The Avenues often require electrical and plumbing updates, whereas newer suburban homes focus mainly on layout and modern aesthetic updates."
+      }
+    }
+  ],
+  "description": "Older homes in areas like The Avenues often require electrical and plumbing updates, whereas newer suburban homes focus mainly on layout and modern aesthetic up"
+}

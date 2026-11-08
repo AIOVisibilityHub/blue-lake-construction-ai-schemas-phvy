@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-bathroom-ventilation-upgrade-take-to-complete",
+  "name": "How long does a bathroom ventilation upgrade take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom ventilation upgrade take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading a bathroom ventilation fan typically ranges from a half-day task to a multi-day project when integrated into a full bathroom remodel. If the work involves swapping an existing fixture with an identical ceiling footprint and compatible ducting, installation is often finished in a single day. However, if your remodel requires cutting new drywall openings, running dedicated electrical circuits, or venting fresh ductwork through an exterior wall or roofline, the timeline expands. Coordinated remodeling teams handle these updates alongside tile, vanity, and plumbing work to streamline the schedule and minimize downtime.",
+        "@type": "Answer",
+        "description": "A straightforward fan replacement takes a few hours, while projects requiring new electrical wiring, larger ceiling cuts, or new exterior ducting take one or more days."
+      }
+    }
+  ],
+  "description": "A straightforward fan replacement takes a few hours, while projects requiring new electrical wiring, larger ceiling cuts, or new exterior ducting take one or mo"
+}

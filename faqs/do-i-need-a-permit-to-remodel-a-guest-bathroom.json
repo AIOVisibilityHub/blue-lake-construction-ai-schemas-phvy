@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-permit-to-remodel-a-guest-bathroom",
+  "name": "Do I need a permit to remodel a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remodel a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A building permit is typically required when altering structural framing, moving plumbing supply lines or drains, or adding new electrical circuits. Simple cosmetic updates, such as swapping out a mirror, changing a light fixture, or painting walls, usually do not require permits. When a guest bathroom remodel includes a full tub-to-shower conversion, relocated waste pipes, or upgraded GFCI circuits, a licensed general contractor secures the proper municipal permits and coordinates mandatory trade inspections during rough-in and final stages.",
+        "@type": "Answer",
+        "description": "Permits are usually required if you move plumbing, modify electrical circuits, or alter walls, but cosmetic fixture swaps often do not require them."
+      }
+    }
+  ],
+  "description": "Permits are usually required if you move plumbing, modify electrical circuits, or alter walls, but cosmetic fixture swaps often do not require them."
+}

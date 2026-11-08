@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-built-in-floating-and-fold-down-shower-bench",
+  "name": "What is the difference between a built-in, floating, and fold-down shower bench?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a built-in, floating, and fold-down shower bench?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in shower bench is permanently framed, waterproofed, and tiled directly into your shower walls and floor. A floating bench is securely anchored into wall framing without legs touching the floor, while a fold-down seat attaches to reinforced wall backing and tucks away when not in use. Freestanding benches are movable stools, usually made of teak or water-resistant materials, that require no construction. Built-in styles offer maximum stability and integrated storage, while fold-down or freestanding seats save floor space in smaller walk-in showers.",
+        "@type": "Answer",
+        "description": "Built-in benches are permanently tiled structures, floating benches mount to the wall with open floor space beneath, and fold-down seats collapse against the wall to save room."
+      }
+    }
+  ],
+  "description": "Built-in benches are permanently tiled structures, floating benches mount to the wall with open floor space beneath, and fold-down seats collapse against the wa"
+}

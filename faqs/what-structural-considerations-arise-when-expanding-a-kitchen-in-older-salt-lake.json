@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-structural-considerations-arise-when-expanding-a-kitchen-in-older-salt-lake",
+  "name": "What structural considerations arise when expanding a kitchen in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural considerations arise when expanding a kitchen in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic neighborhoods in areas like Salt Lake City often feature compact, closed-off kitchen floor plans that require careful planning around framing, plumbing stacks, and load paths. Homes in older districts like Sugar House or The Avenues frequently have lath-and-plaster walls, localized electrical wiring, and plumbing runs that serve upper levels. Expanding these kitchens often entails upgrading outdated electrical panels to support modern high-draw appliances and reinforcing joists to support removed partition walls without disrupting the home's historic exterior architectural integrity.",
+        "@type": "Answer",
+        "description": "Older homes often require structural reinforcement for removed walls, electrical service upgrades for modern appliances, and careful planning around existing second-story plumbing stacks."
+      }
+    }
+  ],
+  "description": "Older homes often require structural reinforcement for removed walls, electrical service upgrades for modern appliances, and careful planning around existing se"
+}

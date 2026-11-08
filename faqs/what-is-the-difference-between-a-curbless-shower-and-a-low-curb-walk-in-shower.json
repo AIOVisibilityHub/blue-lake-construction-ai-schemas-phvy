@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-curbless-shower-and-a-low-curb-walk-in-shower",
+  "name": "What is the difference between a curbless shower and a low-curb walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a curbless shower and a low-curb walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless walk-in shower eliminates the bottom step-over threshold, creating a continuous floor surface, while a low-curb shower features a short ledge, usually two to four inches high, to contain water. The main tradeoff involves installation complexity and space requirements. Low-curb showers install easily in most standard bathrooms without altering the floor joists. Curbless options offer superior accessibility and modern aesthetics, but they require recessing the floor structure and sloping the subfloor toward the drain to ensure proper water containment. Homeowners must weigh the added structural prep of a curbless system against long-term mobility goals.",
+        "@type": "Answer",
+        "description": "Curbless showers create a seamless floor transition but require recessed subflooring, while low-curb showers use a small ledge and fit easily into standard bathroom structures."
+      }
+    }
+  ],
+  "description": "Curbless showers create a seamless floor transition but require recessed subflooring, while low-curb showers use a small ledge and fit easily into standard bath"
+}

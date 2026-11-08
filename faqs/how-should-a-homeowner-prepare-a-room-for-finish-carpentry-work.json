@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-a-homeowner-prepare-a-room-for-finish-carpentry-work",
+  "name": "How should a homeowner prepare a room for finish carpentry work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare a room for finish carpentry work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finish carpenters arrive on site, clear the work area completely of furniture, window treatments, and personal belongings. Ensure that finished flooring is thoroughly protected with heavy paper or builder board if flooring was laid first. It is also helpful to have your door styles, trim profiles, and paint or stain specifications finalized and ordered well in advance to prevent staging delays or material acclimation issues inside the conditioned home environment.",
+        "@type": "Answer",
+        "description": "Clear all furniture and decor from the room, protect finished flooring, and confirm all trim profiles and door orders are selected and on site."
+      }
+    }
+  ],
+  "description": "Clear all furniture and decor from the room, protect finished flooring, and confirm all trim profiles and door orders are selected and on site."
+}

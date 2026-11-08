@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-should-i-replace-my-bathtub-instead-of-repairing-or-relining-it",
+  "name": "When should I replace my bathtub instead of repairing or relining it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my bathtub instead of repairing or relining it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that you need a replacement include structural cracks, persistent leaks, severe surface chipping, recurring mold behind surrounds, and outdated dimensions that no longer meet your physical needs. While minor cosmetic flaws can sometimes be reglazed, underlying water damage or broken seals around the drain and wall framing require a full replacement. Removing the tub allows contractors to inspect the subfloor for hidden rot or moisture issues before serious structural damage develops.",
+        "@type": "Answer",
+        "description": "Replace your tub if you notice persistent leaks, deep cracks, subfloor soft spots, or mold behind the wall framing that simple reglazing cannot fix."
+      }
+    }
+  ],
+  "description": "Replace your tub if you notice persistent leaks, deep cracks, subfloor soft spots, or mold behind the wall framing that simple reglazing cannot fix."
+}

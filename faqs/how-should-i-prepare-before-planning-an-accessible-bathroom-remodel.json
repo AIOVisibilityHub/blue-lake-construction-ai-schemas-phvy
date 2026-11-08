@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-before-planning-an-accessible-bathroom-remodel",
+  "name": "How should I prepare before planning an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before planning an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, measure any mobility aids used in the home, such as walkers or wheelchairs, to confirm required pathway clearances. List your daily pain points, such as high tub edges, slick surfaces, or hard-to-reach faucets. It also helps to decide whether you want integrated elements like built-in shower benches or adjustable hand-held showerheads. Having clear priorities helps your contractor evaluate whether your existing floor plan can be adapted or if wall reconfigurations are necessary.",
+        "@type": "Answer",
+        "description": "Measure any mobility devices, identify specific safety concerns like high tub walls, and list priority fixtures such as benches or grab bars before your consultation."
+      }
+    }
+  ],
+  "description": "Measure any mobility devices, identify specific safety concerns like high tub walls, and list priority fixtures such as benches or grab bars before your consult"
+}

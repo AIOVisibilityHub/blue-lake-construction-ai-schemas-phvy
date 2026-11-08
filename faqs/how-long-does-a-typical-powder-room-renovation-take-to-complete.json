@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-typical-powder-room-renovation-take-to-complete",
+  "name": "How long does a typical powder room renovation take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical powder room renovation take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most powder room renovations take about one to three weeks of active construction once all materials arrive. The exact timeline depends on the overall scope of your project. Swapping an existing vanity, toilet, and light fixture in the same locations is straightforward and quick. If your plan involves moving plumbing lines through the subfloor, adding new electrical circuits, hanging custom cabinetry, or laying detailed tile, construction takes longer. Lead times for custom vanity fabrication or specialty wall finishes must be ordered well in advance to prevent mid-project delays.",
+        "@type": "Answer",
+        "description": "A standard powder room remodel takes one to three weeks of active labor, with timelines shifting if plumbing lines, electrical boxes, or custom vanities require relocation."
+      }
+    }
+  ],
+  "description": "A standard powder room remodel takes one to three weeks of active labor, with timelines shifting if plumbing lines, electrical boxes, or custom vanities require"
+}

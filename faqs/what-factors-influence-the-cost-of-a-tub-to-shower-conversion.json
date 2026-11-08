@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-a-tub-to-shower-conversion",
+  "name": "What factors influence the cost of a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tub-to-shower conversion varies based on the shower materials, fixture quality, and required plumbing modifications. Key cost drivers include whether the existing drain line must be relocated from the tub edge to the center, the condition of the subfloor, and your choice between custom tile versus prefabricated panels. Adding features like frameless glass doors, thermostatic shower valves, multiple showerheads, or recessed storage niches will also shape the final investment.",
+        "@type": "Answer",
+        "description": "Costs depend on plumbing changes like drain relocation, framing repairs, tile selection, glass enclosures, and extra features such as built-in benches or recessed niches."
+      }
+    }
+  ],
+  "description": "Costs depend on plumbing changes like drain relocation, framing repairs, tile selection, glass enclosures, and extra features such as built-in benches or recess"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-redesigning-a-kitchen-layout-differ-in-older-salt-lake-valley-homes",
+  "name": "How does redesigning a kitchen layout differ in older Salt Lake Valley homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does redesigning a kitchen layout differ in older Salt Lake Valley homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older neighborhoods like Sugarhouse, The Avenues, or Historic Sandy, kitchens often have historic framing dimensions, smaller footprints, and plaster walls that require careful structural evaluation. Shifting layouts in these historic properties frequently uncovers outdated knob-and-tube or ungrounded wiring, undersized galvanized plumbing, or uneven subfloors that must be modernized during rough-in work. Remodeling older homes involves tailoring custom cabinetry to non-standard ceiling heights and securing building permits that align with local building codes while respecting the home's original architectural character.",
+        "@type": "Answer",
+        "description": "Older homes in areas like Sugarhouse or Sandy often require leveling uneven subfloors, updating legacy wiring and plumbing, and custom-fitting cabinetry to vintage dimensions."
+      }
+    }
+  ],
+  "description": "Older homes in areas like Sugarhouse or Sandy often require leveling uneven subfloors, updating legacy wiring and plumbing, and custom-fitting cabinetry to vint"
+}

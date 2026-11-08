@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-type-of-tile-works-best-for-custom-shower-walls-and-floors",
+  "name": "What type of tile works best for custom shower walls and floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of tile works best for custom shower walls and floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain and ceramic tile are popular choices for shower walls because they are dense, non-porous, and simple to clean. For shower floors, smaller tiles—such as mosaics, penny rounds, or textured porcelain—are preferred because the increased grout joints provide natural slip resistance on a wet, sloped surface. Natural stone like marble, slate, or travertine offers high-end beauty, but it requires regular sealing and careful maintenance with pH-neutral cleaners to prevent staining and water absorption. Choosing larger tiles for walls reduces grout lines, while smaller tiles on the floor ensure safety and follow pan contours cleanly.",
+        "@type": "Answer",
+        "description": "Porcelain and ceramic tile work best for walls due to low maintenance, while smaller mosaic tiles are ideal for shower floors to provide slip resistance on sloped pans."
+      }
+    }
+  ],
+  "description": "Porcelain and ceramic tile work best for walls due to low maintenance, while smaller mosaic tiles are ideal for shower floors to provide slip resistance on slop"
+}

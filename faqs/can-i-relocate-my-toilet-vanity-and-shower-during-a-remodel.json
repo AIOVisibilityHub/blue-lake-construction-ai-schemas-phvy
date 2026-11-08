@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-relocate-my-toilet-vanity-and-shower-during-a-remodel",
+  "name": "Can I relocate my toilet, vanity, and shower during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I relocate my toilet, vanity, and shower during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can relocate fixtures depends on your home's foundation, subfloor construction, and joist direction. Moving a toilet, shower drain, or vanity requires sufficient slope on waste lines (typically 1/4 inch per foot) and clear pathways through or beneath floor joists without compromising structural integrity. Homes built on crawlspaces or unfinished basements allow relatively straightforward access to reroute pipes and vents. Homes on concrete slabs require concrete cutting and trenching, which adds time and expense. A qualified general contractor assesses the structural framing and plumbing stack location during planning to determine feasibility.",
+        "@type": "Answer",
+        "description": "Yes, fixtures can be moved if floor joists, plumbing slope, and foundation type allow proper drain lines and venting without compromising structural integrity."
+      }
+    }
+  ],
+  "description": "Yes, fixtures can be moved if floor joists, plumbing slope, and foundation type allow proper drain lines and venting without compromising structural integrity."
+}

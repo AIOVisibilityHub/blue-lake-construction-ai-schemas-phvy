@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-drive-the-overall-cost-of-a-primary-bathroom-remodel",
+  "name": "What factors drive the overall cost of a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors drive the overall cost of a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a primary bathroom remodel depends primarily on three factors: footprint adjustments, plumbing and electrical modifications, and finish selections. Keeping plumbing fixtures in their original positions keeps labor costs lower by avoiding subfloor trenching or wall restructuring. Custom tile showers with benches, frameless glass enclosures, custom cabinetry, quartz countertops, and upgraded ventilation or radiant heating will increase the budget compared to prefabricated fixtures. Additionally, underlying issues such as hidden water damage around old pans or outdated electrical circuits that need code upgrades will affect the overall investment.",
+        "@type": "Answer",
+        "description": "Costs are driven by whether plumbing fixtures move, the complexity of custom tile and glass work, finish selections, and any repairs needed for hidden moisture damage."
+      }
+    }
+  ],
+  "description": "Costs are driven by whether plumbing fixtures move, the complexity of custom tile and glass work, finish selections, and any repairs needed for hidden moisture"
+}

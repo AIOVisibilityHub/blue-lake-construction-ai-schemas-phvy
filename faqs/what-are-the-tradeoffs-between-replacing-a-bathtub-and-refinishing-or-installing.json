@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-tradeoffs-between-replacing-a-bathtub-and-refinishing-or-installing",
+  "name": "What are the tradeoffs between replacing a bathtub and refinishing or installing a liner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tradeoffs between replacing a bathtub and refinishing or installing a liner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a tub allows you to fix hidden moisture damage and install modern, durable materials, but it requires demolition, new wall surrounds, and careful plumbing adjustments. Refinishing or relining is initially faster and less invasive, but it is purely cosmetic. Liners can trap moisture underneath if improperly sealed, and refinishing coatings can peel or chip after heavy use. Homeowners investing in long-term durability generally choose a complete replacement to ensure structural integrity and updated design.",
+        "@type": "Answer",
+        "description": "A full replacement resolves underlying water damage and lasts longer, whereas liners or refinishing are quicker cosmetic fixes that can peel or trap moisture over time."
+      }
+    }
+  ],
+  "description": "A full replacement resolves underlying water damage and lasts longer, whereas liners or refinishing are quicker cosmetic fixes that can peel or trap moisture ov"
+}

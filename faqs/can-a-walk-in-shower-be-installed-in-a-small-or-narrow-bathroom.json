@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-walk-in-shower-be-installed-in-a-small-or-narrow-bathroom",
+  "name": "Can a walk-in shower be installed in a small or narrow bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a walk-in shower be installed in a small or narrow bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, professional contractors can install walk-in showers in smaller bathrooms by optimizing the layout and selecting the right enclosure style. Replacing an existing 60-inch tub alcove with a walk-in shower is one of the most common space-efficient upgrades. In compact spaces, sliding bypass glass doors, single fixed glass splash panels, or open walk-in configurations avoid the clearance issues of swinging hinged doors. Integrating recessed wall niches also adds shampoo and soap storage directly inside wall cavities, keeping the shower footprint open and uncluttered.",
+        "@type": "Answer",
+        "description": "Yes. Replacing a standard tub alcove with a walk-in shower using sliding glass, fixed panels, and recessed wall niches maximizes usable space in small bathrooms."
+      }
+    }
+  ],
+  "description": "Yes. Replacing a standard tub alcove with a walk-in shower using sliding glass, fixed panels, and recessed wall niches maximizes usable space in small bathrooms"
+}

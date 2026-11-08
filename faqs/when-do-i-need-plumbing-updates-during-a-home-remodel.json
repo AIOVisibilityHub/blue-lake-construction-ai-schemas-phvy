@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-do-i-need-plumbing-updates-during-a-home-remodel",
+  "name": "When do I need plumbing updates during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need plumbing updates during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing updates are typically necessary when altering an existing floor plan, replacing old fixtures, or modernizing older piping. In whole-home remodels, kitchen overhauls, or bathroom updates, reconfiguring the layout often means relocating supply lines, drain pipes, and vent stacks. If your home has aging galvanized steel or polybutylene pipes, replacing them with modern materials prevents sudden leaks and improves water pressure before finishing walls or laying new tile. Checking the plumbing system early prevents tearing into newly remodeled spaces later.",
+        "@type": "Answer",
+        "description": "Plumbing updates are needed when relocating sinks, showers, or appliances, upgrading aging supply lines, or reconfiguring layouts during a kitchen, bathroom, or whole-home remodel."
+      }
+    }
+  ],
+  "description": "Plumbing updates are needed when relocating sinks, showers, or appliances, upgrading aging supply lines, or reconfiguring layouts during a kitchen, bathroom, or"
+}

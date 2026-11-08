@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-accessible-bathroom-modifications-require-building-permits-in-the-salt-lake-a",
+  "name": "Do accessible bathroom modifications require building permits in the Salt Lake area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do accessible bathroom modifications require building permits in the Salt Lake area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Major layout changes, structural alterations, and significant plumbing or electrical work require building permits from your local municipal building department across the Salt Lake Valley. Swapping an existing shower for a walk-in unit typically requires plumbing and building inspections to verify proper pan waterproofing, drain sizing, and wall reinforcement. Working with a licensed general contractor like Blue Lake Enterprises Inc. (license 6085795-5501) ensures all permits are filed and construction complies with local building codes.",
+        "@type": "Answer",
+        "description": "Yes, modifications involving plumbing relocation, electrical adjustments, or structural changes require local building permits and inspections to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, modifications involving plumbing relocation, electrical adjustments, or structural changes require local building permits and inspections to ensure code co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-custom-tile-shower-and-a-prefabricated-shower-u",
+  "name": "What is the difference between a custom tile shower and a prefabricated shower unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom tile shower and a prefabricated shower unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom tile shower is built on-site from the subfloor up, allowing complete flexibility in dimensions, wall layout, waterproofing systems, tile materials, and built-in features like benches or recessed niches. Prefabricated shower units come as pre-molded fiberglass or acrylic enclosures with fixed standard measurements and limited visual styles. While prefab units install faster and cost less upfront, custom tile showers accommodate irregular bathroom footprints, allow curb-free walk-in designs, and blend seamlessly with surrounding bathroom finishes. The tradeoff is that custom tile requires skilled labor, detailed waterproofing, and a longer construction timeline.",
+        "@type": "Answer",
+        "description": "Custom tile showers are built to exact dimensions with flexible finishes and niches, while prefab units are molded acrylic or fiberglass with fixed sizes and limited design options."
+      }
+    }
+  ],
+  "description": "Custom tile showers are built to exact dimensions with flexible finishes and niches, while prefab units are molded acrylic or fiberglass with fixed sizes and li"
+}

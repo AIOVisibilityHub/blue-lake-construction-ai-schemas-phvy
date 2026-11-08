@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-salt-lake-valley-homeowners-consider-when-updating-plumbing-fixtures",
+  "name": "What should Salt Lake Valley homeowners consider when updating plumbing fixtures in older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should Salt Lake Valley homeowners consider when updating plumbing fixtures in older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older properties across areas like Sugar House or The Avenues often have original plumbing lines, including galvanized steel or older cast iron. When replacing fixtures in older homes, threading new fixtures onto corroded, narrow pipes can cause leaks or restrict water pressure. Remodeling older bathrooms or kitchens frequently reveals a need to update supply and drain connections back to the main stack to ensure modern high-flow or thermostatic fixtures function reliably without damaging historic plaster or framing.",
+        "@type": "Answer",
+        "description": "Older homes often contain aging galvanized or cast-iron pipes, which may require supply or drain line updates behind the wall before modern fixtures can be securely installed."
+      }
+    }
+  ],
+  "description": "Older homes often contain aging galvanized or cast-iron pipes, which may require supply or drain line updates behind the wall before modern fixtures can be secu"
+}

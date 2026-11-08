@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-built-in-and-freestanding-bathroom-storage",
+  "name": "What is the difference between built-in and freestanding bathroom storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between built-in and freestanding bathroom storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in bathroom storage typically includes custom or semi-custom cabinetry, recessed medicine cabinets, built-in linen towers, and tiled shower niches integrated directly into the framing. In contrast, freestanding storage refers to standalone furniture pieces like ladder shelves, rolling carts, or detached linen cabinets. The primary tradeoff comes down to floor space and design cohesion. Built-in solutions maximize every available inch, keep floor areas clear, and match the room's trim and finishes. However, built-ins require wall opening, framing adjustments, and professional installation during a remodel. Freestanding pieces offer flexibility and zero construction impact, but they take up valuable floor space and rarely provide an exact fit.",
+        "@type": "Answer",
+        "description": "Built-in storage is framed directly into walls or cabinetry for a seamless fit that saves floor space, while freestanding storage uses standalone furniture that requires no construction."
+      }
+    }
+  ],
+  "description": "Built-in storage is framed directly into walls or cabinetry for a seamless fit that saves floor space, while freestanding storage uses standalone furniture that"
+}

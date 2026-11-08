@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-shower-benches-waterproofed-to-prevent-leaks-behind-the-walls",
+  "name": "How are shower benches waterproofed to prevent leaks behind the walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are shower benches waterproofed to prevent leaks behind the walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing is critical because a bench creates additional horizontal seams, corners, and joints where water tends to sit. Professional installers integrate continuous waterproofing membranes across the bench frame, floor pan, and surrounding walls before setting any tile. Additionally, the seat surface must be installed with a subtle pitch—typically about 1/4 inch per foot forward toward the drain—so water naturally runs off rather than puddling against wall corners, which protects your wall assemblies and subflooring from moisture damage.",
+        "@type": "Answer",
+        "description": "Benches are sealed with continuous waterproofing membranes tied into the shower pan and built with a slight forward slope so water drains off the seat."
+      }
+    }
+  ],
+  "description": "Benches are sealed with continuous waterproofing membranes tied into the shower pan and built with a slight forward slope so water drains off the seat."
+}

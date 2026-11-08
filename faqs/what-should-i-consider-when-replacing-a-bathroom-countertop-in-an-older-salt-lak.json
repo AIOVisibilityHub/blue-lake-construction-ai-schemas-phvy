@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-consider-when-replacing-a-bathroom-countertop-in-an-older-salt-lak",
+  "name": "What should I consider when replacing a bathroom countertop in an older Salt Lake City home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when replacing a bathroom countertop in an older Salt Lake City home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City neighborhoods such as The Avenues, Sugar House, or Harvard-Yale, homes frequently feature uneven plaster walls and settled framing. When replacing a bathroom countertop in these properties, walls are rarely perfectly square. Fabricators must take detailed digital or laser templates to scribe the stone accurately against the plaster, avoiding awkward gaps. Additionally, historical homes may have aged galvanized plumbing lines behind the vanity that should be inspected and modernized while the countertop and sink are disconnected.",
+        "@type": "Answer",
+        "description": "Older local homes often have uneven walls and aged pipes, requiring precise templating to fit irregular surfaces and an inspection of older plumbing fixtures."
+      }
+    }
+  ],
+  "description": "Older local homes often have uneven walls and aged pipes, requiring precise templating to fit irregular surfaces and an inspection of older plumbing fixtures."
+}

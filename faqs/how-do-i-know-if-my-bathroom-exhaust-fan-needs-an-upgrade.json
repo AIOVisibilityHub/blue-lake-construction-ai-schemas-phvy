@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-know-if-my-bathroom-exhaust-fan-needs-an-upgrade",
+  "name": "How do I know if my bathroom exhaust fan needs an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom exhaust fan needs an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your bathroom ventilation needs an upgrade include persistent mirror fog that takes more than 15 minutes to clear, lingering moisture on walls, musty odors, and visible mold or peeling paint around ceilings and trim. Older exhaust fans often lack sufficient airflow capacity or have worn motors that make excessive noise without effectively pulling humid air outside. When upgrading during a bathroom renovation, contractors evaluate your room square footage, ceiling height, and duct run length to ensure the replacement unit moves enough air to protect your finishes, cabinetry, and drywall from moisture buildup.",
+        "@type": "Answer",
+        "description": "Persistent mirror fog, wall moisture, musty odors, and noisy fan motors indicate your bathroom fan lacks the capacity to clear humidity and should be upgraded."
+      }
+    }
+  ],
+  "description": "Persistent mirror fog, wall moisture, musty odors, and noisy fan motors indicate your bathroom fan lacks the capacity to clear humidity and should be upgraded."
+}

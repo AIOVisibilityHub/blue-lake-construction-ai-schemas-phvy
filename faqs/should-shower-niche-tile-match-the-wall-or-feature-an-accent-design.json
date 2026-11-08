@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-shower-niche-tile-match-the-wall-or-feature-an-accent-design",
+  "name": "Should shower niche tile match the wall or feature an accent design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should shower niche tile match the wall or feature an accent design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose an accent tile if you want the niche to serve as an intentional focal point, or match the main shower tile for a seamless, minimalist appearance. Using a contrasting mosaic, herringbone pattern, or darker tone draws the eye and highlights architectural detail. However, smaller mosaic tiles mean more grout lines, which require diligent cleaning in wet zones. If you prefer low maintenance, use the main wall tile or install a single slab of solid surface quartz for the bottom sill to eliminate bottom grout lines entirely.",
+        "@type": "Answer",
+        "description": "Accent tile creates an attractive focal feature, while matching tile provides a clean, seamless look with fewer grout lines to maintain."
+      }
+    }
+  ],
+  "description": "Accent tile creates an attractive focal feature, while matching tile provides a clean, seamless look with fewer grout lines to maintain."
+}

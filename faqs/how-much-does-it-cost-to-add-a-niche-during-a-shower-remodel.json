@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-much-does-it-cost-to-add-a-niche-during-a-shower-remodel",
+  "name": "How much does it cost to add a niche during a shower remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to add a niche during a shower remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a shower niche typically ranges from $300 to $900 as part of an overall bathroom remodel. Factors affecting the price include whether you choose a standard prefab unit or a custom-framed design spanning multiple stud bays. Custom framing that requires cutting studs and adding structural headers increases labor costs. Tile complexity also influences pricing; intricate mosaic inlays, mitered tile edges, or solid quartz sill slabs require meticulous hand cuts and detailed grouting compared to basic porcelain tile.",
+        "@type": "Answer",
+        "description": "Adding a shower niche generally costs between $300 and $900 during a remodel, depending on framing complexity, custom sizing, and tile detailing."
+      }
+    }
+  ],
+  "description": "Adding a shower niche generally costs between $300 and $900 during a remodel, depending on framing complexity, custom sizing, and tile detailing."
+}

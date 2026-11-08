@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-stock-cabinets-and-custom-cabinetry",
+  "name": "What is the difference between stock cabinets and custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between stock cabinets and custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry is built to the exact dimensions of your room, whereas stock cabinets come in fixed, factory-standard sizes with three-inch increments. The primary tradeoff comes down to flexibility versus upfront lead time. Stock units often leave unused gaps that require wide filler strips, limiting your storage potential. Built-to-order cabinets allow craftsmen to maximize every inch of wall space, accommodate uneven walls or historic ceiling heights, and incorporate tailored interior features like pull-out spice racks, vertical pan dividers, and built-in trash pullouts.",
+        "@type": "Answer",
+        "description": "Custom cabinetry is built to your room's exact dimensions and storage needs, while stock cabinets come in fixed sizes that often require filler strips to fit."
+      }
+    }
+  ],
+  "description": "Custom cabinetry is built to your room's exact dimensions and storage needs, while stock cabinets come in fixed sizes that often require filler strips to fit."
+}

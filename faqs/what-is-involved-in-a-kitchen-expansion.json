@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-involved-in-a-kitchen-expansion",
+  "name": "What is involved in a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion enlarges your cooking space either by taking down interior walls to absorb adjacent rooms or by building an exterior bump-out addition. Blue Lake Construction assesses your home's structural framing to determine whether interior reconfiguration or an exterior extension fits best. Reconfiguring interior space by removing non-load-bearing walls or adding support beams keeps work within the existing footprint. In contrast, an exterior bump-out requires foundation work and exterior siding integration, providing significant square footage without sacrificing surrounding dining or living areas.",
+        "@type": "Answer",
+        "description": "A kitchen expansion increases your kitchen footprint by removing interior walls to absorb adjacent rooms or building an exterior bump-out addition."
+      }
+    }
+  ],
+  "description": "A kitchen expansion increases your kitchen footprint by removing interior walls to absorb adjacent rooms or building an exterior bump-out addition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-plumbing-and-electrical-routed-to-a-new-kitchen-island",
+  "name": "How are plumbing and electrical routed to a new kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are plumbing and electrical routed to a new kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen islands in open-concept layouts frequently house sinks, dishwashers, and cooktops, requiring utilities to be brought up through the floor. Running new water supply lines, drain vents, and electrical conduits means accessing the space below, whether via an unfinished basement, crawlspace, or concrete slab. In open layouts, island cooktops also require careful ventilation planning, such as an overhead island range hood vented through the ceiling or a downdraft ventilation system channeled under the floor.",
+        "@type": "Answer",
+        "description": "Plumbing, gas, and power lines are routed through floor joists from the basement or subfloor below, requiring careful venting and subfloor access."
+      }
+    }
+  ],
+  "description": "Plumbing, gas, and power lines are routed through floor joists from the basement or subfloor below, requiring careful venting and subfloor access."
+}

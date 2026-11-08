@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-expanding-a-kitchen-affect-existing-plumbing-and-gas-lines",
+  "name": "How does expanding a kitchen affect existing plumbing and gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does expanding a kitchen affect existing plumbing and gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating sinks, gas ranges, or refrigerators requires rerouting the underlying drain, supply, gas, and electrical lines. Moving a sink to a new kitchen island involves cutting into subfloors or accessing the basement or crawlspace beneath to establish proper drainage slope and venting. Shifting a gas range means extending rigid gas piping and installing dedicated electrical outlets alongside proper exterior exhaust venting. These mechanical updates must be mapped early during layout redesigns to prevent conflicts with floor joists and framing.",
+        "@type": "Answer",
+        "description": "Relocating appliances or sinks requires rerouting supply pipes, drain lines, vents, and gas piping through floors or wall framing before new finishes are installed."
+      }
+    }
+  ],
+  "description": "Relocating appliances or sinks requires rerouting supply pipes, drain lines, vents, and gas piping through floors or wall framing before new finishes are instal"
+}

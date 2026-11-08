@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-primary-bathroom-remodel-usually-take-to-complete",
+  "name": "How long does a primary bathroom remodel usually take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary bathroom remodel usually take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom remodel typically takes between 4 and 9 weeks of active construction, depending on the scope of work. Simple updates that keep the existing layout and replace surfaces like vanities, tile, and fixtures sit at the shorter end of that window. Projects that involve moving plumbing lines, reconfiguring the floor plan, building custom walk-in tile showers, or installing custom double vanities require more time for framing, rough-in mechanicals, inspections, and waterproofing cure times. Material lead times, such as custom glass shower enclosures or specialty cabinetry, also impact the overall project duration.",
+        "@type": "Answer",
+        "description": "Most primary bathroom remodels take 4 to 9 weeks of construction, depending on layout changes, plumbing updates, and custom tile or vanity installations."
+      }
+    }
+  ],
+  "description": "Most primary bathroom remodels take 4 to 9 weeks of construction, depending on layout changes, plumbing updates, and custom tile or vanity installations."
+}

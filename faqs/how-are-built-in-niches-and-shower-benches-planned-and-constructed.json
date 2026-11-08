@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-built-in-niches-and-shower-benches-planned-and-constructed",
+  "name": "How are built-in niches and shower benches planned and constructed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are built-in niches and shower benches planned and constructed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in niche or bench must be planned and framed during the initial carpentry and rough plumbing stage, before any backer board or waterproofing is installed. Niches must be placed between existing wall studs and positioned away from exterior plumbing runs or electrical wiring. Proper construction requires pre-sloping the bottom ledge of the niche and the top seat of the bench slightly toward the shower drain so water runs off rather than pooling. The entire structure is then fully integrated into the wall's continuous waterproofing membrane before tile is applied.",
+        "@type": "Answer",
+        "description": "Niches and benches are framed between studs during rough construction, sloped slightly toward the drain to shed water, and fully waterproofed before tiling."
+      }
+    }
+  ],
+  "description": "Niches and benches are framed between studs during rough construction, sloped slightly toward the drain to shed water, and fully waterproofed before tiling."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-a-homeowner-prepare-before-starting-a-complete-kitchen-renovation",
+  "name": "How should a homeowner prepare before starting a complete kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare before starting a complete kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare effectively, inventory what works and what fails in your current kitchen workflow. Document your storage needs, note whether your prep surfaces feel cramped, and determine if you need specialized pantry additions or a larger island. Gather appliance specifications early, as custom cabinet dimensions and electrical or plumbing rough-ins must be tailored around exact model dimensions. You will also want to establish a functional temporary kitchen in another room with essentials like a microwave, coffee maker, and small refrigerator to handle daily meals during construction.",
+        "@type": "Answer",
+        "description": "Inventory your storage needs, select appliance models early for exact cabinet planning, establish project priorities, and set up a functional temporary meal station outside the work area."
+      }
+    }
+  ],
+  "description": "Inventory your storage needs, select appliance models early for exact cabinet planning, establish project priorities, and set up a functional temporary meal sta"
+}

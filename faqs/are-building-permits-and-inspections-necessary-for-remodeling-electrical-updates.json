@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-building-permits-and-inspections-necessary-for-remodeling-electrical-updates",
+  "name": "Are building permits and inspections necessary for remodeling electrical updates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are building permits and inspections necessary for remodeling electrical updates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are required for nearly all residential electrical modifications, including running new circuits, installing subpanels, and moving outlet boxes. Your general contracting team handles the permit application process with your local city or county building division, such as Salt Lake City, Millcreek, or Sandy. The municipality requires at least two inspections: a rough-in inspection before drywall goes up and a final inspection after all fixtures, switches, and cover plates are secured and functional.",
+        "@type": "Answer",
+        "description": "Yes, permits and municipal inspections are required for new circuits, service modifications, and wiring rough-ins before walls are closed and at project completion."
+      }
+    }
+  ],
+  "description": "Yes, permits and municipal inspections are required for new circuits, service modifications, and wiring rough-ins before walls are closed and at project complet"
+}

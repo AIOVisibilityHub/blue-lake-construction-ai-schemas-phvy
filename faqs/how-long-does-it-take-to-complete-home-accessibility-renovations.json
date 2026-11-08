@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-home-accessibility-renovations",
+  "name": "How long does it take to complete home accessibility renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete home accessibility renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standalone ramp or doorway widening can take a few days, but comprehensive accessibility remodeling depends on project scope. A complete bathroom remodel featuring a tub-to-shower conversion, new vanity, and slip-resistant flooring typically takes several weeks from demolition to tile finishing. Larger projects, such as open-concept kitchen reconfigurations or building an accessible main-floor in-law suite addition, require extended timelines for structural framing, plumbing, electrical inspections, and drywall. Blue Lake Construction outlines clear construction schedules during planning to help homeowners prepare for each phase.",
+        "@type": "Answer",
+        "description": "Targeted bathroom conversions generally take several weeks, while major structural alterations, open floor plan reconfigurations, or additions require more time."
+      }
+    }
+  ],
+  "description": "Targeted bathroom conversions generally take several weeks, while major structural alterations, open floor plan reconfigurations, or additions require more time"
+}

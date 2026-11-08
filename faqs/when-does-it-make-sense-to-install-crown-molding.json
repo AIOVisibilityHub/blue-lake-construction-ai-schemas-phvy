@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-does-it-make-sense-to-install-crown-molding",
+  "name": "When does it make sense to install crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does it make sense to install crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding softens the sharp transition where interior walls meet the ceiling, adding formal structure and depth to a room. It is particularly effective in formal living rooms, dining rooms, primary suites, or homes with traditional architectural detailing. However, if your rooms have low ceilings below eight feet, or if you prefer an ultra-minimalist modern design, crown molding may make the ceiling feel lower or conflict with clean, frameless design lines.",
+        "@type": "Answer",
+        "description": "Crown molding works best in rooms with ceilings eight feet or higher where you want traditional architectural detail and a finished transition between wall and ceiling."
+      }
+    }
+  ],
+  "description": "Crown molding works best in rooms with ceilings eight feet or higher where you want traditional architectural detail and a finished transition between wall and"
+}

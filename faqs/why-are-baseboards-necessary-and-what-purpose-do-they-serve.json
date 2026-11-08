@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-are-baseboards-necessary-and-what-purpose-do-they-serve",
+  "name": "Why are baseboards necessary, and what purpose do they serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are baseboards necessary, and what purpose do they serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards protect the bottom of drywall walls from everyday impacts such as vacuum cleaners, shoes, and furniture while concealing the expansion gap left between the flooring and the wall. Without baseboards, unfinished drywall edges and irregular floor borders remain visible. In addition to physical wall protection, baseboard profiles tie a room's aesthetic together, bridging transitions between different flooring types across adjacent living spaces.",
+        "@type": "Answer",
+        "description": "Baseboards protect the lower drywall from foot traffic and cleaning equipment while covering the structural expansion gap between the floor and the wall."
+      }
+    }
+  ],
+  "description": "Baseboards protect the lower drywall from foot traffic and cleaning equipment while covering the structural expansion gap between the floor and the wall."
+}

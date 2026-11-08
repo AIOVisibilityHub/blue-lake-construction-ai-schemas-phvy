@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-point-in-a-bathroom-remodel-should-the-new-flooring-be-installed",
+  "name": "At what point in a bathroom remodel should the new flooring be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point in a bathroom remodel should the new flooring be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom flooring is normally installed after drywall finishing, painting, and primary plumbing rough-ins, but before the vanity, base trim, and toilet are set. Placing tile underneath freestanding vanities and toilets ensures a seamless, watertight barrier across the entire floor plan. This sequence also allows future fixture updates without leaving exposed subfloor gaps. If a heavy custom vanity is planned, craftsmen coordinate height and plumbing alignment carefully so the flooring underlayment integrates cleanly with adjacent room transitions.",
+        "@type": "Answer",
+        "description": "Flooring is installed after plumbing rough-ins and wall painting, but before installing the vanity, toilet, and baseboards to ensure complete, watertight coverage."
+      }
+    }
+  ],
+  "description": "Flooring is installed after plumbing rough-ins and wall painting, but before installing the vanity, toilet, and baseboards to ensure complete, watertight covera"
+}

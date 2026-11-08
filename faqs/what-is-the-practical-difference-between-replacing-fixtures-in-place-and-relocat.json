@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-practical-difference-between-replacing-fixtures-in-place-and-relocat",
+  "name": "What is the practical difference between replacing fixtures in place and relocating them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the practical difference between replacing fixtures in place and relocating them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Swapping fixtures in place is straightforward, but moving fixtures requires altering water supply lines, drainage slopes, and venting. Relocating a toilet or shower means opening walls or floors to re-route drain lines with proper gravitational fall. In multi-level homes or homes with finished basements, relocating plumbing lines adds framing, drywall, and finish carpentry repair work to the project scope, whereas retaining the existing layout focuses your investment strictly on surface upgrades and modern fixtures.",
+        "@type": "Answer",
+        "description": "Replacing fixtures in place uses existing plumbing lines. Moving them requires cutting into walls or floors to alter supply, drain, and vent configurations, expanding the scope."
+      }
+    }
+  ],
+  "description": "Replacing fixtures in place uses existing plumbing lines. Moving them requires cutting into walls or floors to alter supply, drain, and vent configurations, exp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-measure-before-choosing-a-replacement-vanity",
+  "name": "What should I measure before choosing a replacement vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I measure before choosing a replacement vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering a new vanity, you must measure total width, depth, and height, while checking the swing path of entry doors, shower glass, and drawers. Beyond exterior dimensions, record the exact placement of your existing plumbing pipes, including drain rough-in height and water shutoff valves coming out of the wall or floor. You should also confirm the location of electrical outlets, medicine cabinets, and light fixtures. Ensuring your new vanity leaves ample clearance for toilet spacing and walkway movement prevents functional conflicts once installed.",
+        "@type": "Answer",
+        "description": "Measure wall width, depth clearance, and height, along with plumbing rough-in locations, shutoff valve positions, and door swing paths for showers, entries, and nearby drawers."
+      }
+    }
+  ],
+  "description": "Measure wall width, depth clearance, and height, along with plumbing rough-in locations, shutoff valve positions, and door swing paths for showers, entries, and"
+}

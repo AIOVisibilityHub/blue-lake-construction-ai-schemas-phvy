@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-install-a-custom-tile-shower",
+  "name": "How long does it take to install a custom tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a custom tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile shower installations typically take between one and two weeks of active construction, depending on the scope. Demolition and framing adjustments take one to two days, followed by rough plumbing for valves and showerheads. Building the shower pan, mud bed, and complete waterproofing membrane takes another one to two days, which includes critical cure times and mandatory flood testing to confirm a watertight seal. Setting tile, building intricate elements like niches or benches, grouting, and sealing require several additional days, followed by final plumbing trim and glass door installation.",
+        "@type": "Answer",
+        "description": "Most custom tile shower installations take one to two weeks, accounting for plumbing rough-ins, waterproofing, flood testing, tile setting, grouting, and glass installation."
+      }
+    }
+  ],
+  "description": "Most custom tile shower installations take one to two weeks, accounting for plumbing rough-ins, waterproofing, flood testing, tile setting, grouting, and glass"
+}

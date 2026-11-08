@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-replacing-plumbing-fixtures-typically-take-during-a-renovation",
+  "name": "How long does replacing plumbing fixtures typically take during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does replacing plumbing fixtures typically take during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple direct replacement takes a few hours, but fixtures replaced during a full remodel depend on the broader construction schedule. When replacing fixtures in an existing space without altering supply lines, installation and testing move quickly. However, if your remodel involves relocating a sink, converting a tub to a walk-in shower, or running new drain vents, rough-in plumbing must occur before wall board, waterproofing, and tile work can proceed. Fixture trim is then installed toward the final stages of the renovation.",
+        "@type": "Answer",
+        "description": "Replacing fixtures in existing locations takes a few hours, but projects requiring pipe relocation or tile work are sequenced across the broader remodeling timeline."
+      }
+    }
+  ],
+  "description": "Replacing fixtures in existing locations takes a few hours, but projects requiring pipe relocation or tile work are sequenced across the broader remodeling time"
+}

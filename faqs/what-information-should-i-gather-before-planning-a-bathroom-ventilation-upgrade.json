@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-information-should-i-gather-before-planning-a-bathroom-ventilation-upgrade",
+  "name": "What information should I gather before planning a bathroom ventilation upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before planning a bathroom ventilation upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a ventilation upgrade estimate, measure your bathroom dimensions, note ceiling height, and inspect where your current fan appears to vent. Check whether your bathroom has an existing dedicated wall switch, a shared light-and-fan combo switch, or an accessible attic space above the ceiling. Knowing your finish preferences—such as integrated LED lighting, heating elements, or quiet continuous-run capabilities—helps your contractor provide an accurate scope of work and confirm electrical panel capacity during the project walk-through.",
+        "@type": "Answer",
+        "description": "Gather room dimensions, ceiling heights, current switch configurations, attic accessibility, and preferences for built-in lights, quiet motors, or automated humidity sensors."
+      }
+    }
+  ],
+  "description": "Gather room dimensions, ceiling heights, current switch configurations, attic accessibility, and preferences for built-in lights, quiet motors, or automated hum"
+}

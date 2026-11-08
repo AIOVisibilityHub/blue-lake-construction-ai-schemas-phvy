@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-expanding-a-kitchen-inside-the-home-versus-buildi",
+  "name": "What is the difference between expanding a kitchen inside the home versus building an exterior bump-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between expanding a kitchen inside the home versus building an exterior bump-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding within your existing footprint alters interior partition walls, while a bump-out addition extends the home's exterior walls outward onto a new foundation. Modifying interior space to claim an underused dining area or pantry is generally faster because the building envelope remains untouched. An exterior bump-out adds true new square footage, which is ideal when surrounding interior rooms cannot be sacrificed. However, bump-outs require excavation, concrete foundation work, roofing tie-ins, and exterior finish matching, adding construction steps.",
+        "@type": "Answer",
+        "description": "Expanding inside takes space from adjacent rooms without altering exterior walls, whereas a bump-out builds outward on a new foundation to create brand-new square footage."
+      }
+    }
+  ],
+  "description": "Expanding inside takes space from adjacent rooms without altering exterior walls, whereas a bump-out builds outward on a new foundation to create brand-new squa"
+}
