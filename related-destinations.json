@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-08T20:52:10.889Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Blue Lake Construction",
+    "canonicalUrl": "https://bluelakeconstruction.aiovisibility.net",
+    "primaryWebsiteUrl": "bluelakeconstruction.com",
+    "aiDataHub": "https://bluelakeconstruction.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://www.houzz.com/professionals/general-contractors/blue-lake-enterprises-pfvwus-pf~975491478",
+      "https://www.yelp.com/biz/blue-lake-enterprises-riverton-2",
+      "https://local.yahoo.com/info-202843177-blue-lake-enterprises-riverton/",
+      "https://www.zoominfo.com/c/blue-lake-construction/528140486",
+      "https://www.zoominfo.com/p/Ryan-Gardner/8189800372",
+      "https://www.linkedin.com/in/ryan-gardner-b37a4372",
+      "https://www.facebook.com/p/Blue-Lake-Enterprises-100065684131746/",
+      "https://www.bizapedia.com/ut/blue-lake-enterprises-inc.html",
+      "https://a1cleaningrestoration.com/business/blue-lake-enterprises-ut-39340/"
+    ]
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Blue Lake Construction — canonical website",
+      "url": "https://bluelakeconstruction.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Blue Lake Construction — AI Data Hub",
+      "url": "https://bluelakeconstruction.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on houzz.com",
+      "url": "https://www.houzz.com/professionals/general-contractors/blue-lake-enterprises-pfvwus-pf~975491478"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on yelp.com",
+      "url": "https://www.yelp.com/biz/blue-lake-enterprises-riverton-2"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on local.yahoo.com",
+      "url": "https://local.yahoo.com/info-202843177-blue-lake-enterprises-riverton/"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on zoominfo.com",
+      "url": "https://www.zoominfo.com/c/blue-lake-construction/528140486"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on zoominfo.com",
+      "url": "https://www.zoominfo.com/p/Ryan-Gardner/8189800372"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on linkedin.com",
+      "url": "https://www.linkedin.com/in/ryan-gardner-b37a4372"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on facebook.com",
+      "url": "https://www.facebook.com/p/Blue-Lake-Enterprises-100065684131746/"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on bizapedia.com",
+      "url": "https://www.bizapedia.com/ut/blue-lake-enterprises-inc.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on a1cleaningrestoration.com",
+      "url": "https://a1cleaningrestoration.com/business/blue-lake-enterprises-ut-39340/"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy"
+    }
+  }
+}
