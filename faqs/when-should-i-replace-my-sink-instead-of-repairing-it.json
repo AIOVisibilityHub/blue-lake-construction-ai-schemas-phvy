@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-should-i-replace-my-sink-instead-of-repairing-it",
+  "name": "When should I replace my sink instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my sink instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that point toward replacement include structural cracks in porcelain or cast iron, persistent leaks around mounting seals, deep surface staining that resists cleaning, and severe corrosion around the drain flange. Additionally, homeowners often replace functional sinks during kitchen and bathroom layout redesigns when shifting from a double-bowl to a large single basin, or when upgrading to modern materials that better handle high-heat cookware and daily family use.",
+        "@type": "Answer",
+        "description": "Replace your sink if you notice structural cracks, chronic leaks, severe surface wear, or if you need a different bowl configuration during a remodel."
+      }
+    }
+  ],
+  "description": "Replace your sink if you notice structural cracks, chronic leaks, severe surface wear, or if you need a different bowl configuration during a remodel."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-bathroom-addition",
+  "name": "What should I prepare before consulting a contractor about a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a contractor, determine your household goals, such as relieving daily family morning routines, adding an en-suite primary bath, or accommodating overnight guests. Identify potential locations in your home, whether that involves sacrificing an oversized closet, repurposing an unused spare room, finishing basement space, or expanding your home's exterior footprint. It is also helpful to establish a preliminary budget range, gather fixture and finish preferences (such as walk-in tile showers, freestanding tubs, or double vanities), and note any existing home plumbing or electrical quirks you have observed.",
+        "@type": "Answer",
+        "description": "Define your primary goals for the new space, identify potential locations in your floor plan, set a target budget, and gather fixture and layout preferences."
+      }
+    }
+  ],
+  "description": "Define your primary goals for the new space, identify potential locations in your floor plan, set a target budget, and gather fixture and layout preferences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-much-space-is-needed-to-install-a-kitchen-island",
+  "name": "How much space is needed to install a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space is needed to install a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen generally needs at least 36 to 42 inches of open clearance on all sides of an island to allow comfortable walking and cabinet door clearance. If multiple cooks share the space, 48 inches of aisle width provides smoother flow. Rooms narrower than 13 feet often struggle to house a permanent island without causing pinch points around refrigerators and ovens. For narrower layouts, a peninsula or a smaller movable work table may preserve floor space better than a fixed island structure.",
+        "@type": "Answer",
+        "description": "A kitchen island typically requires at least 36 to 42 inches of clear walking space on all sides, meaning the room itself usually needs to be at least 13 feet wide."
+      }
+    }
+  ],
+  "description": "A kitchen island typically requires at least 36 to 42 inches of clear walking space on all sides, meaning the room itself usually needs to be at least 13 feet w"
+}

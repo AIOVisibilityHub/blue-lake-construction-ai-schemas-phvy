@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-plumbing-and-electrical-lines-need-to-be-moved-if-i-change-my-appliance-layou",
+  "name": "Do plumbing and electrical lines need to be moved if I change my appliance layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do plumbing and electrical lines need to be moved if I change my appliance layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, relocating major appliances usually requires licensed trades to reconfigure underlying infrastructure. Moving a sink or dishwasher means extending supply lines and drain pipes to meet proper slope standards. Shifting an electric range, induction cooktop, or double wall oven requires running dedicated electrical circuits from the panel to the new location. Gas ranges require rerouting rigid gas piping. When planning layout redesigns or open-concept kitchen conversions, our project team coordinates these rough-ins before drywall, flooring, and custom cabinetry are put in place.",
+        "@type": "Answer",
+        "description": "Yes. Moving appliances requires licensed plumbing and electrical rough-ins to relocate water, waste, gas, or dedicated circuits before cabinets and finishes are installed."
+      }
+    }
+  ],
+  "description": "Yes. Moving appliances requires licensed plumbing and electrical rough-ins to relocate water, waste, gas, or dedicated circuits before cabinets and finishes are"
+}

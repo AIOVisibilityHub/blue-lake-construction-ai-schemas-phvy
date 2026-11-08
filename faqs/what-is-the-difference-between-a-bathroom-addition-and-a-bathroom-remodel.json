@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-bathroom-addition-and-a-bathroom-remodel",
+  "name": "What is the difference between a bathroom addition and a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bathroom addition and a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition creates an entirely new bathroom where none previously existed, either by building an exterior bump-out addition or claiming unused interior space such as a closet, hallway alcove, or basement corner. In contrast, a bathroom remodel updates or reconfigures an existing bathroom's layout, fixtures, tile, and finishes. Adding a bathroom requires extending fresh water supply lines, running new waste and vent stacks, tying into the main sewer line, and adding dedicated electrical circuits. Choosing between them often comes down to household demand; adding a bathroom increases total capacity for growing families, whereas remodeling simply improves the comfort and utility of an existing footprint.",
+        "@type": "Answer",
+        "description": "A bathroom addition builds a brand-new bathroom where none existed before, requiring new plumbing and electrical lines, whereas a remodel updates an existing bathroom space."
+      }
+    }
+  ],
+  "description": "A bathroom addition builds a brand-new bathroom where none existed before, requiring new plumbing and electrical lines, whereas a remodel updates an existing ba"
+}

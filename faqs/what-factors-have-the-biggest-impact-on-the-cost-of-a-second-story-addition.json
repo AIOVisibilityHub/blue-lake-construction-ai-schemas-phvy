@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-second-story-addition",
+  "name": "What factors have the biggest impact on the cost of a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost drivers for a second-story addition depend heavily on structural readiness, overall square footage, and chosen room functions. If your foundation or bearing walls require concrete underpinning or steel posts, site preparation costs rise. Adding plumbing-heavy spaces, such as a primary bathroom suite or laundry room, costs more than building open bedrooms or an office because of extended supply lines and drain stacks. Other factors include roof design complexity, exterior siding matching, window selections, and any main-floor remodeling needed to integrate the new stairs.",
+        "@type": "Answer",
+        "description": "Major cost factors include foundation reinforcement needs, total square footage, staircase integration, roof complexity, and whether you are adding bathrooms versus simple bedrooms."
+      }
+    }
+  ],
+  "description": "Major cost factors include foundation reinforcement needs, total square footage, staircase integration, roof complexity, and whether you are adding bathrooms ve"
+}

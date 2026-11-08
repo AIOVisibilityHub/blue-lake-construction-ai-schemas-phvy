@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-contractors-blend-a-new-primary-suite-addition-with-an-existing-home",
+  "name": "How do contractors blend a new primary suite addition with an existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors blend a new primary suite addition with an existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An addition must integrate into your home’s existing architecture so it looks original rather than attached as an afterthought. Achieving this requires matching or complementing existing roof pitch, exterior siding or brick, window proportions, and trim details. Inside the home, interior remodeling is often needed to establish a logical hallway or entryway into the new suite without disrupting adjacent bedroom layouts. Licensed contractors evaluate structural roof tie-ins, load-bearing walls, and flooring transitions to create continuity between the new addition and the existing house.",
+        "@type": "Answer",
+        "description": "Contractors match exterior rooflines, siding, and trim, while carefully redesigning interior floor plans to create a natural hallway and access point into the new space."
+      }
+    }
+  ],
+  "description": "Contractors match exterior rooflines, siding, and trim, while carefully redesigning interior floor plans to create a natural hallway and access point into the n"
+}

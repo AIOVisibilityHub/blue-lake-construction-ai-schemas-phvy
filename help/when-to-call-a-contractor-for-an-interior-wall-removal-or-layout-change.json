@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Contractor for an Interior Wall Removal or Layout Change",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tearing down an interior partition wall might look straightforward on home renovation shows, but altering your home's layout carries serious structural and safety implications. Knowing when to call in an experienced general contractor prevents structural sagging and code violations.\n\nWhen Professional Guidance Helps:\n- You want to remove or relocate a wall and need to determine whether it carries roof, ceiling, or upper-floor loads.\n- A proposed opening requires installing an engineered support beam, posts, or new foundation pads.\n- The wall you plan to remove houses plumbing vents, water supply pipes, electrical conduits, or HVAC ducts.\n- Your project alters staircases, entryways, or emergency bedroom egress windows that must meet specific building dimensions.\n- Your city or county requires stamped architectural drawings or technical permit documents before framing starts.\n- The new layout changes how rooms function, triggering fresh electrical circuit and ventilation requirements.\n\nAltering load-bearing framing without proper temporary shoring can compromise your entire house. Partnering with a licensed general contractor ensures your new layout is structurally sound and passes every required inspection.\n\nTo discuss your layout ideas with a licensed contractor serving the Salt Lake Valley, call Blue Lake Construction at 385-202-5987 today.",
+  "datePublished": "2026-11-08"
+}

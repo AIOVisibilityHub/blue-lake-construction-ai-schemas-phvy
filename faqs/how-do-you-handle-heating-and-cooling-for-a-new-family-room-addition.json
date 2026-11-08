@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-handle-heating-and-cooling-for-a-new-family-room-addition",
+  "name": "How do you handle heating and cooling for a new family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle heating and cooling for a new family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to tie into your current heating and cooling setup depends on the capacity and age of your existing equipment. A licensed HVAC technician evaluates if your main furnace and air conditioner can handle the extra cubic footage. If the existing unit has surplus capacity, ductwork can be extended into the new addition. If your central system is already operating near peak load, adding an independent ductless mini-split system provides customized heating and cooling without requiring an immediate replacement of your primary HVAC unit.",
+        "@type": "Answer",
+        "description": "We evaluate whether your existing HVAC unit has sufficient capacity to extend ductwork or if installing an independent ductless mini-split is the practical choice."
+      }
+    }
+  ],
+  "description": "We evaluate whether your existing HVAC unit has sufficient capacity to extend ductwork or if installing an independent ductless mini-split is the practical choi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-much-space-is-needed-to-add-a-new-bathroom-to-a-house",
+  "name": "How much space is needed to add a new bathroom to a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space is needed to add a new bathroom to a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a full bathroom typically requires at least 35 to 40 square feet to fit a standard vanity, toilet, and combination tub-shower or walk-in shower. A half-bath or powder room can fit into as little as 18 to 20 square feet under stairs or within repurposed closet space. If you want a spacious primary suite bathroom with a double-sink vanity, freestanding soaking tub, custom tile shower with benches and niches, and an enclosed water closet, plan for 100 square feet or more. Measuring available adjacent hallway, bedroom, or closet space helps determine whether your goals require an exterior bump-out addition.",
+        "@type": "Answer",
+        "description": "A half-bath requires around 18 to 20 square feet, a standard full bath needs 35 to 40 square feet, and a primary suite bath typically takes 100 square feet or more."
+      }
+    }
+  ],
+  "description": "A half-bath requires around 18 to 20 square feet, a standard full bath needs 35 to 40 square feet, and a primary suite bath typically takes 100 square feet or m"
+}

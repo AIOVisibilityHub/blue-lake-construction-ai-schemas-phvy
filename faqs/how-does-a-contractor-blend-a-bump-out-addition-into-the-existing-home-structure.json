@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-a-contractor-blend-a-bump-out-addition-into-the-existing-home-structure",
+  "name": "How does a contractor blend a bump-out addition into the existing home structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a contractor blend a bump-out addition into the existing home structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contractors ensure a seamless transition by closely evaluating your home’s existing roofline, exterior cladding, and floor structure. For the exterior, rooflines are tied in using small shed roofs, gable extensions, or integrated eaves that blend with existing roof slopes, paired with matching siding or complementary accent trim. On the interior, subflooring must be leveled precisely across the joint where the old wall stood so new continuous flooring spans without awkward thresholds. Wall framing is reinforced with properly sized structural headers to carry ceiling and roof loads, creating an open, natural flow into the expanded area.",
+        "@type": "Answer",
+        "description": "Contractors install matching roof pitches, coordinated siding, load-bearing headers, and level subflooring to make the addition look and feel native to the home."
+      }
+    }
+  ],
+  "description": "Contractors install matching roof pitches, coordinated siding, load-bearing headers, and level subflooring to make the addition look and feel native to the home"
+}

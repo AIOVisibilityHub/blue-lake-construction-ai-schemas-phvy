@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-build-a-ground-floor-primary-suite-addition-or-build-onto-a-second-stor",
+  "name": "Should I build a ground-floor primary suite addition or build onto a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a ground-floor primary suite addition or build onto a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a ground-floor addition provides easier long-term accessibility and avoids disturbing your current roof structure, but it consumes yard space and requires laying a new foundation. A second-story addition preserves your property footprint and outdoor living space, but it introduces structural complexity. Adding upstairs requires evaluating whether your existing foundation and framing can support extra weight, and construction may cause more disruption to the living areas below. Your choice depends on your lot size, local setback requirements, and whether you plan on aging in place. Evaluating your yard versus your home’s existing structural capacity is the best starting point.",
+        "@type": "Answer",
+        "description": "Ground-floor additions offer easier accessibility but reduce yard space. Second-story additions preserve your yard but require structural reinforcement of your existing foundation and framing."
+      }
+    }
+  ],
+  "description": "Ground-floor additions offer easier accessibility but reduce yard space. Second-story additions preserve your yard but require structural reinforcement of your"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-permits-to-add-a-primary-suite-to-my-home",
+  "name": "Do I need permits to add a primary suite to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to add a primary suite to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a primary suite addition almost always requires building, electrical, and plumbing permits from your local city or county building department. Because additions expand your home’s footprint and tie into major utility systems, plans must comply with local building codes, structural standards, and zoning setbacks. Setback rules dictate how close the new structure can sit to property lines. Blue Lake Construction, led by licensed contractor Ryan Gardner, manages the permitting and plan-submission process with local municipal offices, ensuring that all framing, electrical, and plumbing work is inspected and approved by city officials.",
+        "@type": "Answer",
+        "description": "Yes. Room additions require municipal building, plumbing, and electrical permits to verify code compliance, property setback rules, and structural safety."
+      }
+    }
+  ],
+  "description": "Yes. Room additions require municipal building, plumbing, and electrical permits to verify code compliance, property setback rules, and structural safety."
+}

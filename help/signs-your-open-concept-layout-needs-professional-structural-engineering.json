@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Open-Concept Layout Needs Professional Structural Engineering",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Opening up a crowded main floor sounds straightforward until you run into structural elements that keep your roof and ceiling level. Knowing when a partition wall requires formal calculation saves you from sagging headers, cracked drywall, and failed inspections.\n\n### When Professional Guidance Helps\nWatch for these clear signals that your wall removal needs an experienced contractor and engineered plans:\n- Perpendicular joists overhead: If your ceiling joists or roof trusses end or overlap directly on top of the wall plate, it is carrying active weight.\n- Multi-story alignment: Walls that stack directly beneath a second-floor partition or support points usually support overhead living space.\n- Utility chase runs: If you spot large cold-air returns, plumbing stacks, or main electrical conduits passing through, simple demolition is off the table.\n- Wide clear spans: Removing a central wall to span twenty feet or more requires an engineered flush or drop beam supported by dedicated posts and footings.\n- Local permit triggers: Structural modifications and trade rerouting require formal plan review and sign-offs from your local building department.\n\nAttempting to knock out a partition without verifying load paths can create permanent settling. Blue Lake Construction manages structural reviews, framing, and clean open conversions across Salt Lake City and Sandy. Reach out at 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

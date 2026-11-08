@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-you-need-a-building-permit-to-add-a-pantry",
+  "name": "Do you need a building permit to add a pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you need a building permit to add a pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A building permit is typically required if your pantry project involves moving walls, altering structural framing, or adding electrical circuits. Minor interior cabinet installations inside an existing footprint without electrical or framing changes often do not require permits. However, if a general contractor removes a partition wall, alters a load-bearing support, or adds dedicated electrical outlets for pantry appliances, local building departments require approved plans and inspections. A licensed contractor plans the drawings and coordinates the necessary city building permits and trade inspections.",
+        "@type": "Answer",
+        "description": "Permits are generally required if the project alters framing, removes walls, or adds electrical wiring, whereas simple cabinet additions within existing walls often are not."
+      }
+    }
+  ],
+  "description": "Permits are generally required if the project alters framing, removes walls, or adds electrical wiring, whereas simple cabinet additions within existing walls o"
+}

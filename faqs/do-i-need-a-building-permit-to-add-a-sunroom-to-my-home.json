@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-to-add-a-sunroom-to-my-home",
+  "name": "Do I need a building permit to add a sunroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to add a sunroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a sunroom addition requires local building permits across municipalities in the Salt Lake Valley. Because a sunroom involves structural footings, framing, electrical work, and exterior tie-ins to your existing house, cities require plan reviews to ensure compliance with local building and energy codes. Working with a licensed general contractor ensures that architectural plans, engineering, and permit applications are submitted to your local city building department before site excavation or construction starts. This prevents costly inspection delays or compliance issues later.",
+        "@type": "Answer",
+        "description": "Yes, local building permits are required because sunroom additions involve structural framing, foundation footings, and electrical work tied into your home."
+      }
+    }
+  ],
+  "description": "Yes, local building permits are required because sunroom additions involve structural framing, foundation footings, and electrical work tied into your home."
+}

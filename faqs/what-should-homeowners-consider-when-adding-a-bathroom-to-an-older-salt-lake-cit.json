@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-consider-when-adding-a-bathroom-to-an-older-salt-lake-cit",
+  "name": "What should homeowners consider when adding a bathroom to an older Salt Lake City home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners consider when adding a bathroom to an older Salt Lake City home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City neighborhoods such as Sugar House, The Avenues, and Harvard-Yale, homes often feature compact footprints, single shared bathrooms, and historic infrastructure. Adding a bathroom in these properties frequently involves evaluating existing cast iron plumbing stacks and electrical service panels to confirm they can handle expanded capacity. Exterior bump-outs or second-story additions in historic or designated districts must also respect established property setbacks, lot coverage limitations, and neighborhood preservation guidelines. Planning early for these structural and zoning conditions ensures new bathrooms integrate cleanly into historic layouts.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often require electrical panel or drain stack evaluations, along with careful planning for tight lot setbacks in historic neighborhoods."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often require electrical panel or drain stack evaluations, along with careful planning for tight lot setbacks in historic neighborhoods."
+}

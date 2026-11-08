@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-affect-the-total-cost-of-a-home-addition",
+  "name": "What factors affect the total cost of a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the total cost of a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends on square footage, site conditions, foundation requirements, and interior finishes. Simple ground-level bump-outs or single-room extensions cost significantly less than complex additions that require plumbing and specialized mechanical systems, such as in-law suites or primary bathrooms. Second-story additions require structural reinforcement of main-floor walls and existing foundations, which alters the investment. During the initial consultation, a general contractor assesses your existing structure and reviews material selections to establish a realistic scope that matches your budget.",
+        "@type": "Answer",
+        "description": "Costs depend on square footage, foundation needs, plumbing, electrical work, roofline integration, interior finishes, and whether you are building outward or upward."
+      }
+    }
+  ],
+  "description": "Costs depend on square footage, foundation needs, plumbing, electrical work, roofline integration, interior finishes, and whether you are building outward or up"
+}

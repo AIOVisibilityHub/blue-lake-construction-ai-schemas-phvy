@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-my-existing-hvac-system-handle-heating-and-cooling-for-a-new-bedroom-additio",
+  "name": "Can my existing HVAC system handle heating and cooling for a new bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my existing HVAC system handle heating and cooling for a new bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most bedroom additions require modifications to your heating and cooling system to keep the new space comfortable. Your contractor must evaluate whether your existing central furnace and air conditioner have the blower and heating capacity to support the additional square footage. If the current system is adequate, ductwork can be extended into the new addition. If extending ductwork is impractical or would strain your central equipment, installing an independent ductless mini-split heat pump provides dedicated temperature control without replacing your main HVAC units.",
+        "@type": "Answer",
+        "description": "It depends on your current HVAC capacity; existing ductwork can be extended if equipment size allows, or an independent ductless mini-split system can be installed."
+      }
+    }
+  ],
+  "description": "It depends on your current HVAC capacity; existing ductwork can be extended if equipment size allows, or an independent ductless mini-split system can be instal"
+}

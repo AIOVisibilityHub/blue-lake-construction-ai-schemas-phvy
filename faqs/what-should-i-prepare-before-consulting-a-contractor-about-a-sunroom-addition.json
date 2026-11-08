@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-sunroom-addition",
+  "name": "What should I prepare before consulting a contractor about a sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by determining how you plan to use the space, such as an everyday family lounge, breakfast nook, or plant room, and gather photos of styles you like. Check your property plat or survey to identify exterior setbacks, utility easements, and lot boundaries that limit how far outward your home can expand. It is also helpful to establish a target budget range and note whether you want direct access into an existing living area or kitchen. This preparation gives your general contractor the details needed for an accurate initial consultation.",
+        "@type": "Answer",
+        "description": "Clarify how you plan to use the space, locate your property survey to check setback lines, establish a realistic budget, and gather style inspiration photos."
+      }
+    }
+  ],
+  "description": "Clarify how you plan to use the space, locate your property survey to check setback lines, establish a realistic budget, and gather style inspiration photos."
+}

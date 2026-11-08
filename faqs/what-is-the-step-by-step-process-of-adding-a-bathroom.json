@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-step-by-step-process-of-adding-a-bathroom",
+  "name": "What is the step-by-step process of adding a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of adding a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and site evaluation to inspect your home's layout, existing plumbing connections, and electrical capacity. Next, design plans and fixture selections are developed, followed by pulling necessary building, plumbing, and electrical permits from the local building department. Construction begins with demolition or excavation and structural framing, followed by rough-in installations for plumbing supply, drains, vents, and wiring. After rough-in city inspections are approved, the team installs insulation, drywall, waterproof shower systems, tile, flooring, cabinetry, countertops, fixtures, and final trim work before final inspection.",
+        "@type": "Answer",
+        "description": "The process moves from layout design and permitting to framing, rough plumbing and electrical, drywall, waterproofing, tile and fixture installation, and final inspections."
+      }
+    }
+  ],
+  "description": "The process moves from layout design and permitting to framing, rough plumbing and electrical, drywall, waterproofing, tile and fixture installation, and final"
+}

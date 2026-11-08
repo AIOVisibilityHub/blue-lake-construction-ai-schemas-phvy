@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-the-tile-installation-crew-begins",
+  "name": "What should homeowners prepare before the tile installation crew begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before the tile installation crew begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before backsplash installers arrive, clear all small appliances, dish racks, and decorative items off your countertops so technicians have full access to the workspace. You should also decide whether you want electrical outlet covers, switchplates, and under-cabinet light fixtures updated to match your new tile style. If your remodel involves new countertops, ensure they are fully secured and caulked at the wall. Having extra tiles on hand from the original dye lot is also important in case irregular wall cuts or job adjustments require extra pieces.",
+        "@type": "Answer",
+        "description": "Clear all counters completely, confirm outlet placement and fixture finishes, and ensure spare tile is on site to account for cuts and pattern matching."
+      }
+    }
+  ],
+  "description": "Clear all counters completely, confirm outlet placement and fixture finishes, and ensure spare tile is on site to account for cuts and pattern matching."
+}

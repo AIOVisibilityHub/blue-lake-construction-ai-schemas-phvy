@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-is-caulk-used-instead-of-grout-where-the-tile-meets-the-countertop",
+  "name": "Why is caulk used instead of grout where the tile meets the countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is caulk used instead of grout where the tile meets the countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caulk should always be applied where the bottom row of tile meets the horizontal countertop, as well as in inside corners where walls meet. Grout is rigid and will crack over time due to normal house settling, temperature shifts, and countertop expansion. Flexible 100 percent silicone caulk accommodates this subtle movement while keeping water and food debris from slipping behind your cabinets. High-quality installations use caulk that matches the grout color, keeping perimeter expansion joints waterproof without drawing attention away from the tilework.",
+        "@type": "Answer",
+        "description": "Silicone caulk expands and contracts with home movement. Rigid grout will crack along the countertop seam and wall corners, allowing moisture to seep behind cabinetry."
+      }
+    }
+  ],
+  "description": "Silicone caulk expands and contracts with home movement. Rigid grout will crack along the countertop seam and wall corners, allowing moisture to seep behind cab"
+}

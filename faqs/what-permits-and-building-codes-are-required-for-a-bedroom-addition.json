@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-permits-and-building-codes-are-required-for-a-bedroom-addition",
+  "name": "What permits and building codes are required for a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and building codes are required for a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bedroom additions require building permits issued by your local municipal building department, such as Salt Lake City, Sandy, or Draper. Before permits are approved, plans must document compliance with zoning setbacks, property lines, and structural codes. Bedrooms have specific life-safety requirements, including minimum square footage, ceiling heights, emergency egress windows, smoke alarms, and heating supply. Blue Lake Construction coordinates the architectural drafting, structural engineering, and submission process with city building departments to secure all required construction permits before breaking ground.",
+        "@type": "Answer",
+        "description": "Permits from your local city building department are mandatory, requiring compliance with zoning setbacks, structural engineering, egress window codes, and electrical standards."
+      }
+    }
+  ],
+  "description": "Permits from your local city building department are mandatory, requiring compliance with zoning setbacks, structural engineering, egress window codes, and elec"
+}

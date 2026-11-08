@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-we-stay-in-our-home-while-a-room-addition-is-being-built",
+  "name": "Can we stay in our home while a room addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can we stay in our home while a room addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, homeowners can stay in their home, but your comfort depends on the room's location and project scope. Because an addition involves external excavation, foundation work, and new framing, much of the heavy construction happens outside your main living quarters. Dust barriers and temporary partition walls keep construction zones sealed from your daily routines. However, you will experience noise, contractor traffic, and short utility interruptions when workers tie electrical and plumbing lines into your existing systems.",
+        "@type": "Answer",
+        "description": "Yes, homeowners often remain in the home because heavy work happens outside, though you should expect daytime noise, contractor traffic, and temporary utility cutovers."
+      }
+    }
+  ],
+  "description": "Yes, homeowners often remain in the home because heavy work happens outside, though you should expect daytime noise, contractor traffic, and temporary utility c"
+}

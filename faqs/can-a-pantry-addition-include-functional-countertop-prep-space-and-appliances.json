@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-pantry-addition-include-functional-countertop-prep-space-and-appliances",
+  "name": "Can a pantry addition include functional countertop prep space and appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pantry addition include functional countertop prep space and appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can turn a walk-in pantry into a working prep station by adding countertops, dedicated electrical outlets, and ventilation. Homeowners frequently request butler-style pantry setups where coffee machines, microwaves, and toasters stay plugged in and ready for use off main kitchen counters. When planning a working pantry, your contractor must account for heat dissipation, adequate task lighting, appropriate shelf clearances, and dedicated electrical circuits that handle high-draw appliances without tripping kitchen breakers. If you plan to add a prep sink, plumbing supply and drain lines must also be evaluated.",
+        "@type": "Answer",
+        "description": "Yes, pantries can include prep counters and small appliances if planned with dedicated electrical circuits, task lighting, and adequate clearances."
+      }
+    }
+  ],
+  "description": "Yes, pantries can include prep counters and small appliances if planned with dedicated electrical circuits, task lighting, and adequate clearances."
+}

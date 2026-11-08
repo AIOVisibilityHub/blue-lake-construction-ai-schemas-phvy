@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/does-blue-lake-construction-install-appliances-as-a-standalone-service",
+  "name": "Does Blue Lake Construction install appliances as a standalone service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Blue Lake Construction install appliances as a standalone service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blue Lake Construction handles appliance installations as an integral component of our comprehensive kitchen remodeling and full home renovation projects. We ensure your new range, wall oven, dishwasher, refrigerator, or ventilation hood fits seamlessly into your custom cabinetry and aligns with your layout. If you only need a standalone replacement for a single appliance without any surrounding cabinetry, electrical, plumbing, or structural remodeling work, calling a dedicated retail appliance delivery technician or specialty handyman is generally the most practical, cost-effective choice.",
+        "@type": "Answer",
+        "description": "We install appliances as part of broader kitchen remodels, additions, and full renovations rather than as isolated single-appliance replacement calls."
+      }
+    }
+  ],
+  "description": "We install appliances as part of broader kitchen remodels, additions, and full renovations rather than as isolated single-appliance replacement calls."
+}

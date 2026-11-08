@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-for-a-kitchen-addition-in-the-salt-lake-valley",
+  "name": "Do I need a building permit for a kitchen addition in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a kitchen addition in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, expanding your kitchen's exterior footprint requires local building permits, including plan reviews for structural, electrical, plumbing, and mechanical work. Depending on where you live in the Salt Lake Valley, such as Salt Lake City, Sandy, or Millcreek, plans must comply with municipal setback rules, lot coverage maximums, and local zoning ordinances before ground breaks. An experienced licensed general contractor manages the entire permitting submittal, coordinates structural engineering reviews, and schedules required municipal inspections throughout framing, rough utility work, insulation, and final occupancy approval.",
+        "@type": "Answer",
+        "description": "Yes, building permits and plan reviews are required for structural, electrical, and plumbing changes to verify compliance with local setback and building codes."
+      }
+    }
+  ],
+  "description": "Yes, building permits and plan reviews are required for structural, electrical, and plumbing changes to verify compliance with local setback and building codes."
+}

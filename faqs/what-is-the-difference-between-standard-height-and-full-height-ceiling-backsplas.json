@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-standard-height-and-full-height-ceiling-backsplas",
+  "name": "What is the difference between standard height and full-height ceiling backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard height and full-height ceiling backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard backsplash layouts run from the countertop to the bottom of the upper wall cabinets, spanning roughly 18 inches. Full-height installations carry tile all the way to the ceiling, often surrounding open floating shelves, picture windows, or behind a wall-mounted range hood. Running tile to the ceiling creates a seamless visual impact and draws the eye upward, but it requires more tile, additional wall prep, and careful planning around electrical boxes and crown molding. Standard heights save on materials while still protecting the primary splatter zone.",
+        "@type": "Answer",
+        "description": "Standard backsplashes cover the 18 inches between counters and cabinets. Full-height designs run tile all the way to the ceiling, which requires more tile and wall preparation."
+      }
+    }
+  ],
+  "description": "Standard backsplashes cover the 18 inches between counters and cabinets. Full-height designs run tile all the way to the ceiling, which requires more tile and w"
+}

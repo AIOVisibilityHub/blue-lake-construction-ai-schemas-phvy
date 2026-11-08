@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-repair-a-leaking-faucet-or-replace-it-entirely",
+  "name": "Should I repair a leaking faucet or replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair a leaking faucet or replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair works well if the issue is a simple worn cartridge, O-ring, or loose connection on a modern fixture. However, replacement is the better path if the faucet body is corroded, replacement parts are discontinued, or you are already updating your countertop, vanity, or kitchen layout. Swapping out an old fixture during a kitchen or bathroom renovation gives you updated finishes, modern sprayer functions, and proper compatibility with your new sink without paying for repeat plumbing service calls later.",
+        "@type": "Answer",
+        "description": "Repair minor leaks if parts are accessible, but replace the faucet if it suffers from internal corrosion or if you are already remodeling your vanity or countertops."
+      }
+    }
+  ],
+  "description": "Repair minor leaks if parts are accessible, but replace the faucet if it suffers from internal corrosion or if you are already remodeling your vanity or counter"
+}

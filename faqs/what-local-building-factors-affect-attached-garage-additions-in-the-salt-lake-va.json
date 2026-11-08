@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-local-building-factors-affect-attached-garage-additions-in-the-salt-lake-va",
+  "name": "What local building factors affect attached garage additions in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What local building factors affect attached garage additions in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake City and the surrounding Salt Lake Valley communities, attached garage foundations must extend below the local frost depth to prevent soil heaving during cold winters. Roof framing must be engineered to handle regional ground snow loads, especially along the East Bench, Cottonwood Heights, and Sandy near the Wasatch foothills. Salt Lake City zoning ordinances also enforce specific residential side-yard setbacks and design standards, particularly in historic neighborhoods like Sugar House or The Avenues. Working with a contractor familiar with Salt Lake Valley building divisions ensures plans account for local snow weights and neighborhood-specific setbacks.",
+        "@type": "Answer",
+        "description": "Additions in the Salt Lake area must meet local frost depth requirements for footings, satisfy regional snow load engineering, and comply with city-specific setback rules."
+      }
+    }
+  ],
+  "description": "Additions in the Salt Lake area must meet local frost depth requirements for footings, satisfy regional snow load engineering, and comply with city-specific set"
+}

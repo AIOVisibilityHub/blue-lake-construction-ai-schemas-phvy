@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/does-a-bump-out-addition-require-a-concrete-foundation",
+  "name": "Does a bump-out addition require a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a bump-out addition require a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your bump-out requires a foundation depends on the distance the structure extends from your exterior wall. Small bump-outs extending about two to three feet can often be cantilevered, meaning existing floor joists are extended outward without touching the ground beneath. For bump-outs extending deeper, such as four to ten feet, building codes typically require structural ground support such as concrete footings, piers, or a continuous stem wall foundation. The decision factor comes down to structural load and soil support; cantilevering avoids digging but limits total depth and heavy floor loads, whereas footings support heavy features like large tile showers or masonry.",
+        "@type": "Answer",
+        "description": "Small bump-outs up to three feet can often cantilever from existing floor joists, while deeper extensions require ground support like concrete footings or stem walls."
+      }
+    }
+  ],
+  "description": "Small bump-outs up to three feet can often cantilever from existing floor joists, while deeper extensions require ground support like concrete footings or stem"
+}

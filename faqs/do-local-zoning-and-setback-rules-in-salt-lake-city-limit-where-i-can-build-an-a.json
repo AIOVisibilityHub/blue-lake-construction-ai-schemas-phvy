@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-local-zoning-and-setback-rules-in-salt-lake-city-limit-where-i-can-build-an-a",
+  "name": "Do local zoning and setback rules in Salt Lake City limit where I can build an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do local zoning and setback rules in Salt Lake City limit where I can build an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. Building an addition in Salt Lake City and across Salt Lake County requires adhering to specific residential zoning codes, which establish mandatory front, side, and rear yard setbacks, as well as maximum lot coverage limits. In historic neighborhoods such as Sugar House or the Avenues, design guidelines and footprint restrictions can be tighter than in newer subdivisions in Riverton or South Jordan. Reviewing your lot survey early ensures your planned room or bump-out fits within legal property line allowances.",
+        "@type": "Answer",
+        "description": "Yes. Salt Lake City and county zoning ordinances enforce strict property setbacks and lot coverage limits that determine exactly how close an addition can sit to property lines."
+      }
+    }
+  ],
+  "description": "Yes. Salt Lake City and county zoning ordinances enforce strict property setbacks and lot coverage limits that determine exactly how close an addition can sit t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-drive-up-the-cost-of-adding-a-kitchen-island",
+  "name": "What factors drive up the cost of adding a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors drive up the cost of adding a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen island installation costs vary widely depending on cabinetry design, stone slab choice, and whether plumbing or electrical lines must be routed under the floor. Running new water lines, drain vents, and 240-volt appliance circuits through a finished basement or slab foundation increases labor compared to setting base cabinets over existing subflooring. High-end customizations such as waterfall countertop edges, integrated trash pullouts, custom paneling, and built-in microwave drawers also increase material and fabrication expenses.",
+        "@type": "Answer",
+        "description": "Major cost drivers include running new plumbing and electrical lines under the floor, selecting premium countertop materials like quartz or waterfall edges, and adding built-in appliances."
+      }
+    }
+  ],
+  "description": "Major cost drivers include running new plumbing and electrical lines under the floor, selecting premium countertop materials like quartz or waterfall edges, and"
+}

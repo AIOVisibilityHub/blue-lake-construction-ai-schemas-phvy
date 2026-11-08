@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-handle-interior-connections-in-older-salt-lake-city-homes",
+  "name": "How do you handle interior connections in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle interior connections in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting additions to older properties, such as historic homes in Salt Lake City neighborhoods like Sugar House, The Avenues, or Harvard-Yale, involves managing legacy construction methods. These older homes frequently feature lath-and-plaster walls, non-standard framing dimensions, and settle-induced floor level variations. Blue Lake Construction addresses these challenges by custom-shimming subfloors for smooth transitions, matching historic trim profiles, and carefully joining modern drywall with existing plaster walls to prevent future cracking.",
+        "@type": "Answer",
+        "description": "We manage lath-and-plaster walls, true up uneven floor heights, and match custom historic millwork found in historic Salt Lake neighborhoods."
+      }
+    }
+  ],
+  "description": "We manage lath-and-plaster walls, true up uneven floor heights, and match custom historic millwork found in historic Salt Lake neighborhoods."
+}

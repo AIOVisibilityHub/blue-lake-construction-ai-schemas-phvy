@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-contractors-make-a-kitchen-addition-match-the-existing-style-of-the-home",
+  "name": "How do contractors make a kitchen addition match the existing style of the home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors make a kitchen addition match the existing style of the home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful kitchen addition blends seamlessly with your home by carefully matching exterior siding, brick, roof pitch, window trim, and interior architectural elements. During the planning phase, your design and construction team will select exterior materials that coordinate with your existing facade and design roof lines that look original rather than tacked on. Inside, craftsmen match ceiling heights, casing profiles, and flooring transitions between the original home and the new addition. This unified approach protects your home's curb appeal and preserves architectural continuity throughout the property.",
+        "@type": "Answer",
+        "description": "Contractors match existing rooflines, exterior siding, window proportions, ceiling heights, and interior trim so the addition looks original to the house."
+      }
+    }
+  ],
+  "description": "Contractors match existing rooflines, exterior siding, window proportions, ceiling heights, and interior trim so the addition looks original to the house."
+}

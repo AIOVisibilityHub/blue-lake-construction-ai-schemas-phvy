@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-permits-and-zoning-clearance-to-add-an-attached-garage",
+  "name": "Do I need permits and zoning clearance to add an attached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits and zoning clearance to add an attached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an attached garage addition requires both zoning approval and building permits from your local city or county jurisdiction. Local zoning codes dictate mandatory setbacks, which define the required minimum distance between your new garage walls and the front, rear, and side property lines. Zoning rules also regulate maximum lot coverage, height limits, and driveway curb-cut locations. A licensed contractor submits engineered plans showing structural loads, foundation footings, and electrical layouts to ensure the addition meets regional safety standards before any excavation or construction starts.",
+        "@type": "Answer",
+        "description": "Yes, you must obtain municipal permits and zoning approval to ensure your garage respects property setback limits, lot coverage caps, and structural safety codes."
+      }
+    }
+  ],
+  "description": "Yes, you must obtain municipal permits and zoning approval to ensure your garage respects property setback limits, lot coverage caps, and structural safety code"
+}

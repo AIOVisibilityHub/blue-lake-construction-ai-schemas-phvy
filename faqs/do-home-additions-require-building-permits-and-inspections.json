@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-home-additions-require-building-permits-and-inspections",
+  "name": "Do home additions require building permits and inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do home additions require building permits and inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, home additions require building permits across Salt Lake City and surrounding valley communities. Building departments require approved architectural drawings, structural engineering reviews, and site plans to verify compliance with local building codes, property setbacks, and height limits. As a licensed general contractor, Blue Lake Construction prepares and submits the necessary documentation to local municipal offices and coordinates all required building, electrical, and plumbing inspections throughout the construction schedule.",
+        "@type": "Answer",
+        "description": "Yes. Home additions require building permits and municipal inspections to verify structural safety, zoning setbacks, electrical, and plumbing code compliance."
+      }
+    }
+  ],
+  "description": "Yes. Home additions require building permits and municipal inspections to verify structural safety, zoning setbacks, electrical, and plumbing code compliance."
+}

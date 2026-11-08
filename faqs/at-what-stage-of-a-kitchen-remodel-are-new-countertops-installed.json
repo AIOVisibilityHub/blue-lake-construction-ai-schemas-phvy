@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-kitchen-remodel-are-new-countertops-installed",
+  "name": "At what stage of a kitchen remodel are new countertops installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a kitchen remodel are new countertops installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen countertop installation typically happens after base cabinets are completely secured, level, and plumb. In a full kitchen remodel, trades first finish framing, rough plumbing, and rough electrical, followed by drywall and cabinet installation. Once cabinets are locked in place, precise templates are created to match your layout. Installing counters before cabinets are permanently fixed risks misaligned seams, cracked stone, or uneven surfaces. Backsplash tile, finish plumbing, and appliance hookups follow immediately after the countertops are set.",
+        "@type": "Answer",
+        "description": "Countertops are installed after base cabinets are fully secured and leveled, but before the backsplash tile, final sink plumbing, and appliance hookups are completed."
+      }
+    }
+  ],
+  "description": "Countertops are installed after base cabinets are fully secured and leveled, but before the backsplash tile, final sink plumbing, and appliance hookups are comp"
+}

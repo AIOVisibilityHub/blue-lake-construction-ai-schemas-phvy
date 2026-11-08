@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-handle-heating-and-cooling-when-connecting-an-addition-to-the-main-ho",
+  "name": "How do you handle heating and cooling when connecting an addition to the main house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle heating and cooling when connecting an addition to the main house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can choose between tying the addition into their current HVAC or adding an independent supplemental system, such as a ductless mini-split. Connecting to existing ductwork creates uniform controls but requires evaluating your furnace and air conditioner capacity to ensure they can handle the added cubic footage. If the existing system lacks sufficient capacity, installing a dedicated zone prevents overworking the main unit and avoids hot or cold spots in the expanded layout.",
+        "@type": "Answer",
+        "description": "You can extend existing ductwork if your system has enough capacity, or install a separate zoned unit, such as a ductless mini-split."
+      }
+    }
+  ],
+  "description": "You can extend existing ductwork if your system has enough capacity, or install a separate zoned unit, such as a ductless mini-split."
+}

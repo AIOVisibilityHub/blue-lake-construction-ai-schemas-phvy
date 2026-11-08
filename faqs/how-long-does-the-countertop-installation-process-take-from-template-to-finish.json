@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-the-countertop-installation-process-take-from-template-to-finish",
+  "name": "How long does the countertop installation process take from template to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the countertop installation process take from template to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen countertop installations take between one and two days on-site, though the overall fabrication lead time takes longer. After base cabinets are installed, technicians measure and create digital or physical templates, which takes a few hours. Slab fabrication at the shop typically takes one to three weeks depending on material availability and edge detailing. On installation day, setting the slabs, cutting sink openings, and bonding seams usually wraps up within four to eight hours for a standard layout.",
+        "@type": "Answer",
+        "description": "The physical installation takes one to two days. However, custom slab fabrication between templating and final installation usually takes one to three weeks."
+      }
+    }
+  ],
+  "description": "The physical installation takes one to two days. However, custom slab fabrication between templating and final installation usually takes one to three weeks."
+}

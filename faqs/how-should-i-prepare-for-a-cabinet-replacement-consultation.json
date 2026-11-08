@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-for-a-cabinet-replacement-consultation",
+  "name": "How should I prepare for a cabinet replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a cabinet replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a cabinet replacement project, determine your layout goals, measure your major appliances, and list your essential storage needs. Note whether your current kitchen workflow feels cramped or lacks dedicated space for cookware, small appliances, or trash pullouts. If you plan to keep existing appliances, record their exact widths, depths, and heights so your new cabinetry accommodates them neatly. You should also decide early if your project requires shifting sink plumbing or appliance circuits, as these adjustments must be completed during the rough-in stage before cabinets arrive.",
+        "@type": "Answer",
+        "description": "Measure current appliances, identify functional storage issues, and decide if you want to change your room layout or adjust existing plumbing and electrical lines."
+      }
+    }
+  ],
+  "description": "Measure current appliances, identify functional storage issues, and decide if you want to change your room layout or adjust existing plumbing and electrical lin"
+}

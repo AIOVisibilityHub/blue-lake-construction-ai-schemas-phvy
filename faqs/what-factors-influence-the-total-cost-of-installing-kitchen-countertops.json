@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-total-cost-of-installing-kitchen-countertops",
+  "name": "What factors influence the total cost of installing kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of installing kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop costs depend on slab material, square footage, edge profiles, and installation complexity. Premium natural stones and complex quartz patterns carry higher material costs than standard slabs. Beyond the stone itself, total pricing depends on labor factors such as custom cutouts for undermount sinks or cooktops, structural reinforcement for large island overhangs, and removal of existing surfaces. Coordinated plumbing disconnects and reconnections also factor into your overall project budget.",
+        "@type": "Answer",
+        "description": "Total costs depend on material selection, total square footage, slab thickness, edge details, cutouts for sinks or cooktops, and any required structural support for overhangs."
+      }
+    }
+  ],
+  "description": "Total costs depend on material selection, total square footage, slab thickness, edge details, cutouts for sinks or cooktops, and any required structural support"
+}

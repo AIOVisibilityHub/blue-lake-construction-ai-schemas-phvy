@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-before-consulting-a-contractor-for-a-primary-suite-addition",
+  "name": "How should I prepare before consulting a contractor for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before consulting a contractor for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, gather your property survey or plat map to clarify property lines and understand setback limits. Determine a realistic budget range and compile a list of non-negotiable features, such as a walk-in shower, soaking tub, or dual walk-in closets. It is also helpful to locate your main electrical panel and plumbing lines, as tie-in locations influence design feasibility. Having clear goals regarding how you want the space to function and noting any existing issues with your heating or cooling system will streamline initial design consultations.",
+        "@type": "Answer",
+        "description": "Gather your property plat map, establish a clear budget range, identify must-have bathroom and storage features, and note the locations of your existing utility panels."
+      }
+    }
+  ],
+  "description": "Gather your property plat map, establish a clear budget range, identify must-have bathroom and storage features, and note the locations of your existing utility"
+}

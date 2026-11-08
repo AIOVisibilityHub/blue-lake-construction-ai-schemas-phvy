@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-the-right-time-to-add-a-pantry-to-your-kitchen-layout",
+  "name": "When is the right time to add a pantry to your kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to add a pantry to your kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adding a pantry when your current countertops remain cluttered and kitchen base cabinets can no longer store dry goods and small appliances efficiently. A dedicated pantry is also worth planning if you are already undertaking a complete kitchen remodel or reconfiguring an open-concept floor plan. Bundling a pantry addition into a broader kitchen renovation allows you to match cabinetry finishes, coordinate electrical updates, and adjust wall layouts in a single, well-managed construction phase rather than performing disruptive standalone updates later.",
+        "@type": "Answer",
+        "description": "The ideal time is when countertops lack storage for dry goods and small appliances, or during a full kitchen remodel when walls and layouts are already being updated."
+      }
+    }
+  ],
+  "description": "The ideal time is when countertops lack storage for dry goods and small appliances, or during a full kitchen remodel when walls and layouts are already being up"
+}

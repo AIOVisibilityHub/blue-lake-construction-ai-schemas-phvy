@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-between-a-single-hole-and-a-widespread-faucet",
+  "name": "How do I choose between a single-hole and a widespread faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a single-hole and a widespread faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing a new fixture, check the number of mounting holes in your sink or countertop, the hole spacing (such as 4-inch or 8-inch spread), and the clearance under overhead cabinets. Single-hole faucets offer a clean look, while widespread faucets spread handles and spouts across multiple holes. If you choose a single-hole faucet for a pre-drilled three-hole sink, you will need an escutcheon deck plate to conceal the unused holes. Confirming these dimensions ensures the new fixture fits your cabinetry and backsplash seamlessly.",
+        "@type": "Answer",
+        "description": "Check your sink or countertop hole pattern: single-hole faucets fit compact spaces or use deck plates, while widespread faucets need three separate holes set 8 inches apart."
+      }
+    }
+  ],
+  "description": "Check your sink or countertop hole pattern: single-hole faucets fit compact spaces or use deck plates, while widespread faucets need three separate holes set 8"
+}

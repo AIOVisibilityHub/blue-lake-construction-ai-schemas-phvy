@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-addition-requirements-differ-between-older-salt-lake-neighborhoods-and-ne",
+  "name": "How do addition requirements differ between older Salt Lake neighborhoods and newer suburban areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do addition requirements differ between older Salt Lake neighborhoods and newer suburban areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing structural tie-ins in older neighborhoods, such as Sugarhouse or historic areas, often involves accommodating settled foundations, unique roof profiles, and vintage building materials. Newer developments in suburban communities like Riverton, Herriman, or South Jordan typically feature modern trusses, standard lot depths, and uniform construction standards. In older properties, project managers must carefully evaluate existing framing, electrical service panel capacity, and foundation height differences to ensure the new addition ties into the original house safely and smoothly.",
+        "@type": "Answer",
+        "description": "Older homes often require electrical panel upgrades and custom framing tie-ins, while newer suburban homes feature standardized framing and consistent foundation depths."
+      }
+    }
+  ],
+  "description": "Older homes often require electrical panel upgrades and custom framing tie-ins, while newer suburban homes feature standardized framing and consistent foundatio"
+}

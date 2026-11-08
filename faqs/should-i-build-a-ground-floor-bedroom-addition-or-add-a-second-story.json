@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-build-a-ground-floor-bedroom-addition-or-add-a-second-story",
+  "name": "Should I build a ground-floor bedroom addition or add a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a ground-floor bedroom addition or add a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ground-level bedroom addition extends your home’s footprint outward, while a second-story addition builds upward over existing space. A main-floor extension preserves your interior structure during initial framing but reduces yard space and requires foundation excavation. In contrast, building upward preserves your lot size but often requires structural reinforcement of existing lower-level framing and foundations. Choosing between them depends on your lot setbacks, municipal height limits, and whether your household prefers single-level living over stairs. Blue Lake Construction evaluates existing framing and lot boundaries across Salt Lake Valley properties to determine which layout functions best.",
+        "@type": "Answer",
+        "description": "A ground-floor addition uses yard space and requires a foundation, while a second-story addition preserves lot space but requires reinforcing existing lower-level framing."
+      }
+    }
+  ],
+  "description": "A ground-floor addition uses yard space and requires a foundation, while a second-story addition preserves lot space but requires reinforcing existing lower-lev"
+}

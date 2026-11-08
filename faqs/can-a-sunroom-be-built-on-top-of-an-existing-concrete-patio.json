@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-sunroom-be-built-on-top-of-an-existing-concrete-patio",
+  "name": "Can a sunroom be built on top of an existing concrete patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a sunroom be built on top of an existing concrete patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sunroom addition requires structural foundation support, such as concrete footings, piers, or a poured stem-wall foundation built below the local frost line. In northern Utah climates like Salt Lake City, Sandy, and Draper, standard four-inch patio slabs are rarely thick enough or engineered to carry the structural dead load of framed walls, heavy glass, and snow loads on the roof. A contractor must inspect your patio to determine if it can be structurally underpinned or if it must be excavated and replaced with a code-compliant foundation.",
+        "@type": "Answer",
+        "description": "Only if the patio slab meets local footing and frost-depth engineering requirements. Most standard patios must be reinforced or replaced with proper structural footings."
+      }
+    }
+  ],
+  "description": "Only if the patio slab meets local footing and frost-depth engineering requirements. Most standard patios must be reinforced or replaced with proper structural"
+}

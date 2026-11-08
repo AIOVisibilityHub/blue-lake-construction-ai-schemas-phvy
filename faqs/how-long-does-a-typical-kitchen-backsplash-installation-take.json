@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-typical-kitchen-backsplash-installation-take",
+  "name": "How long does a typical kitchen backsplash installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen backsplash installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen backsplash installation typically takes two to four days from start to finish. The first day involves wall inspection, drywall patching or backer board installation, and setting the tile with mortar. The mortar must cure for at least 24 hours before the crew can apply grout. On the final day, the installer applies grout, wipes down haze, seals porous grout lines, and adds color-matched silicone caulking along the countertop perimeter. Complex patterns like herringbone or intricate mosaics require extra layout time and can extend the schedule.",
+        "@type": "Answer",
+        "description": "Most kitchen backsplashes take two to four days to install, allowing necessary drying time between setting the tile, applying grout, and sealing the joints."
+      }
+    }
+  ],
+  "description": "Most kitchen backsplashes take two to four days to install, allowing necessary drying time between setting the tile, applying grout, and sealing the joints."
+}

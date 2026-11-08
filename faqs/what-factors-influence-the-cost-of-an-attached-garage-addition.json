@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-an-attached-garage-addition",
+  "name": "What factors influence the cost of an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an attached garage addition depends on square footage, foundation requirements, and your choice of finishes. Key factors that influence the total investment include whether you are building a single-, double-, or three-car bay, and whether the space includes finished living quarters or a primary suite above. Excavation, matching exterior finishes like brick or custom siding, tying into an intricate roofline, and upgrading your home’s electrical service to support workshop tools or EV chargers also alter the overall scope. Basic unfinished garages cost significantly less than insulated, fully finished structures with custom storage and interior access redesigns.",
+        "@type": "Answer",
+        "description": "Total cost is driven by garage size, foundation work, roof integration, exterior materials matching your home, and electrical upgrades such as EV chargers or workshop outlets."
+      }
+    }
+  ],
+  "description": "Total cost is driven by garage size, foundation work, roof integration, exterior materials matching your home, and electrical upgrades such as EV chargers or wo"
+}

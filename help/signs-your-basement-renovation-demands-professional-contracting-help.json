@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Basement Renovation Demands Professional Contracting Help",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finishing an empty lower level involves structural, mechanical, and safety standards that go far beyond standard carpentry. Here are signals it is time to bring in a licensed contractor:\n\n- Water Seepage or Concrete Cracking: Noticeable efflorescence, damp floor joints, or recurring wet spots require drainage correction and proper moisture control before framing walls.\n- Adding a Full or Half Bathroom: Cutting concrete slabs to trench drain lines and tying into your main sewer stack requires precision, proper venting, and code compliance.\n- Installing Legal Egress Windows: Cutting into poured concrete foundation walls to install egress windows and window wells for basement bedrooms demands structural shoring and excavation skills.\n- Low Ductwork and Obstructions: Rerouting HVAC trunks or framing around support posts requires planning to maintain required headroom and safe clearances.\n- Pre-1978 Remodeling Work: Older properties may have hazardous materials or lead paint that require certified lead-safe practices to handle safely.\n\nWhen Professional Guidance Helps\nCovering up moisture issues or improper framing with drywall creates hidden structural and mold issues that are expensive to fix later. Blue Lake Construction provides skilled project management and finish carpentry for basement renovations across the Salt Lake Valley. Contact Ryan and the team at 385-202-5987 to schedule an on-site consultation.",
+  "datePublished": "2026-11-08"
+}

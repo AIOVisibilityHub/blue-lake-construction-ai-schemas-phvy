@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-build-an-attached-garage-addition",
+  "name": "How long does it take to build an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an attached garage typically takes several months from initial design to final inspection. The process begins with property surveys, structural architectural drawings, and municipal permitting, which can take four to eight weeks depending on your local building department. Once permits are approved, site preparation, excavation, foundation pouring, framing, roofing, electrical rough-ins, drywall, and siding installation follow. Unforeseen weather delays, complex roofline tie-ins, or necessary electrical service panel upgrades can extend this schedule. Planning your project well ahead of seasonal weather changes helps ensure concrete and exterior finishes cure under appropriate conditions.",
+        "@type": "Answer",
+        "description": "Building an attached garage generally takes several months, including four to eight weeks for design and permitting followed by site work, framing, and interior and exterior finishes."
+      }
+    }
+  ],
+  "description": "Building an attached garage generally takes several months, including four to eight weeks for design and permitting followed by site work, framing, and interior"
+}

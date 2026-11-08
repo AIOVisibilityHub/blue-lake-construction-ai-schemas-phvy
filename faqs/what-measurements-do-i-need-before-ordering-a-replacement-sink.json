@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-measurements-do-i-need-before-ordering-a-replacement-sink",
+  "name": "What measurements do I need before ordering a replacement sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements do I need before ordering a replacement sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should measure the interior cabinet width first, as the sink basin must fit inside the base cabinet walls with room for mounting hardware. Next, measure the length, width, and depth of the current basin, as well as the outer rim dimensions if it is a drop-in style. Take note of your plumbing layout underneath, including drain pipe height and water supply line positions, because a significantly deeper sink can drop the drain outlet below your rough-in pipe, requiring wall plumbing modifications.",
+        "@type": "Answer",
+        "description": "Measure the interior base cabinet width, the sink cutout length and width, bowl depth, and the existing drain pipe height beneath the counter."
+      }
+    }
+  ],
+  "description": "Measure the interior base cabinet width, the sink cutout length and width, bowl depth, and the existing drain pipe height beneath the counter."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-a-homeowner-prepare-for-appliance-delivery-and-installation",
+  "name": "How should a homeowner prepare for appliance delivery and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare for appliance delivery and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your appliances arrive at the job site, verify that all pathways from the entry door to the kitchen have sufficient clearance, including doorways, stairwells, and hallways. Protect finished hardwood or tile floors with heavy-duty floor runners or cardboard sheets. Ensure that electrical shutoffs, main water valves, and gas shutoff valves are accessible and clearly identified. If you purchased the appliances directly, unbox and inspect them upon delivery for shipping dents or glass damage before our team begins final placement and connection.",
+        "@type": "Answer",
+        "description": "Clear delivery paths through the home, protect finished floors, ensure utility shutoffs are accessible, and inspect all units for shipping damage prior to installation."
+      }
+    }
+  ],
+  "description": "Clear delivery paths through the home, protect finished floors, ensure utility shutoffs are accessible, and inspect all units for shipping damage prior to insta"
+}

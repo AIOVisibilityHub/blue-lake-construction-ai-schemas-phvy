@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-arise-when-replacing-cabinets-in-older-salt-lake-city-area-homes",
+  "name": "What challenges arise when replacing cabinets in older Salt Lake City area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges arise when replacing cabinets in older Salt Lake City area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older neighborhoods like Sugar House, The Avenues, or Historic Sandy, cabinet replacements frequently involve uneven plaster walls, unlevel subfloors, and historic architectural quirks. Unlike modern tract homes with plumb framing, historic properties require specialized shimming, scribing, and custom filler techniques so new cabinets sit square and true. In addition, older homes may retain legacy electrical circuits or galvanized plumbing that require updates behind the wall before new cabinetry and modern built-in appliances can be safely anchored.",
+        "@type": "Answer",
+        "description": "Older homes often have uneven walls and floors requiring meticulous scribing and leveling, along with aging electrical and plumbing lines that may need updates."
+      }
+    }
+  ],
+  "description": "Older homes often have uneven walls and floors requiring meticulous scribing and leveling, along with aging electrical and plumbing lines that may need updates."
+}

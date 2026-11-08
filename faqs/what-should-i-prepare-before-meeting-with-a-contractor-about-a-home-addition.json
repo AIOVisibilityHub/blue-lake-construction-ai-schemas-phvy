@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-about-a-home-addition",
+  "name": "What should I prepare before meeting with a contractor about a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a contractor about a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting with a contractor, gather property documents such as an existing plat map or plot survey showing your property lines and utility easements. Identify the primary function of the space, whether you need extra bedrooms, a dedicated in-law suite, or an enlarged kitchen. Establishing a target budget and collecting layout ideas or finish preferences also helps. Knowing whether your property belongs to an HOA with architectural guidelines will save time during preliminary design.",
+        "@type": "Answer",
+        "description": "Gather your property survey, identify your functional goals, establish a budget range, note HOA guidelines, and collect design or floor plan ideas."
+      }
+    }
+  ],
+  "description": "Gather your property survey, identify your functional goals, establish a budget range, note HOA guidelines, and collect design or floor plan ideas."
+}

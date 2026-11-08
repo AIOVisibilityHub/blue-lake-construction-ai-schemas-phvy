@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-custom-cabinets-compare-to-stock-or-semi-custom-options",
+  "name": "How do custom cabinets compare to stock or semi-custom options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do custom cabinets compare to stock or semi-custom options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry is designed and built to the exact dimensions, architectural features, and storage needs of your specific room. Stock cabinets come pre-manufactured in standard three-inch width increments with limited finish selections, while semi-custom options offer standard sizing with adjustable door styles and depth modifications. Custom cabinets eliminate filler strips, maximize wall-to-wall space, and accommodate ceiling-height storage or awkward corners. The tradeoff is that fully custom work requires longer lead times and higher investment than selecting modular stock boxes.",
+        "@type": "Answer",
+        "description": "Custom cabinets are built to exact room dimensions and functional preferences, while stock cabinets use fixed, standardized dimensions with limited finish choices."
+      }
+    }
+  ],
+  "description": "Custom cabinets are built to exact room dimensions and functional preferences, while stock cabinets use fixed, standardized dimensions with limited finish choic"
+}

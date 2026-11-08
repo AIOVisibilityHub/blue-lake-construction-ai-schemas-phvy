@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-build-out-with-a-ground-floor-addition-or-build-up-with-a-second-story",
+  "name": "Should I build out with a ground-floor addition or build up with a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build out with a ground-floor addition or build up with a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-floor additions expand your home's footprint onto your yard, while second-story additions build upward over the existing structure. Building out requires foundation excavation, concrete work, and sufficient lot space while adhering to property boundary setbacks. Building up preserves your yard and landscaping but requires evaluating the existing foundation and main-level framing to confirm they can support the added weight. Second-story projects also require installing stairs, which takes up existing interior floor space on the main level.",
+        "@type": "Answer",
+        "description": "Building out requires available yard space and new foundation work, while building up preserves your yard but demands structural reinforcement and interior space for stairs."
+      }
+    }
+  ],
+  "description": "Building out requires available yard space and new foundation work, while building up preserves your yard but demands structural reinforcement and interior spac"
+}

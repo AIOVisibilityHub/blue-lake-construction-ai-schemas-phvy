@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-cabinet-replacement-and-cabinet-refacing",
+  "name": "What is the difference between cabinet replacement and cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet replacement and cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement involves removing existing cabinetry down to the wall framing and installing entirely new cabinet boxes, face frames, doors, and interior hardware. In contrast, refacing leaves the existing cabinet boxes intact while applying new veneers to the exterior surfaces and replacing only the cabinet doors and drawer fronts. Cabinet replacement is ideal if you want to alter your kitchen layout, add custom storage accessories, install taller upper cabinets, or replace damaged structural boxes. While refacing preserves your current footprint at a lower scope, full replacement allows you to reconfigure work zones, incorporate islands, and upgrade overall construction quality.",
+        "@type": "Answer",
+        "description": "Cabinet replacement installs brand-new cabinet boxes and hardware from scratch, whereas refacing merely covers your existing cabinet frames and installs new door fronts."
+      }
+    }
+  ],
+  "description": "Cabinet replacement installs brand-new cabinet boxes and hardware from scratch, whereas refacing merely covers your existing cabinet frames and installs new doo"
+}

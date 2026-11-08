@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Flooring Replacement Estimates: Common Mistakes Homeowners Make When Reviewing Quotes",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing your floors involves far more than picking out plank samples and buying boxes of material. When comparing contractor estimates, overlooking hidden preparation steps can lead to costly change orders and failed warranties.\n\nCommon Mistakes to Avoid:\n- Skipping subfloor checks: Installing over an unlevel, cracked, or damp subfloor ruins locking mechanisms. Insist on a written inspection of the subfloor condition before installation begins.\n- Rushing material acclimation: Hardwood and engineered materials often require one to two days to adjust to indoor temperature and humidity. Skipping this step causes warping.\n- Forgetting door and trim clearance: Failing to measure transitions against interior doors, baseboards, and cabinet toe kicks creates clearance conflicts once the new floor adds height.\n- Ignoring appliance disconnections: Moving kitchen ranges or utility appliances requires certified disconnects. Ensure your estimate details who handles gas appliances and plumbing lines.\n- Premature foot traffic: Walking on glued floors or placing heavy furniture down before the manufacturer's cure time expires breaks the adhesive bond.\n\nWhat to Do Next:\nGetting clear, written specifications on prep work, cleanup, and curing schedules keeps your remodel on track. Blue Lake Construction provides detailed project management for residential flooring updates across the Salt Lake Valley. Call our team at 385-202-5987 to review your project scope.",
+  "datePublished": "2026-11-08"
+}

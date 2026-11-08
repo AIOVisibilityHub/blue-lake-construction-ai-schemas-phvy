@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-an-in-law-suite-addition",
+  "name": "How long does it take to complete an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for an attached in-law suite addition varies based on scope, site conditions, and permit processing. Pre-construction planning, architectural design, and municipal permit reviews typically take several weeks before physical work begins on-site. Once excavation starts, structural framing, exterior dry-in, and utility routing require steady coordination across multiple trades. Interior finishes—such as waterproofing walk-in showers, setting tile, hanging custom vanities, and laying flooring—require precise craftsmanship before final inspections. Unforeseen structural retrofits on older homes or supply delivery schedules for specialized plumbing and cabinetry can also extend the overall project duration.",
+        "@type": "Answer",
+        "description": "Timelines depend on design reviews, municipal permitting, utility rough-ins, and finish work such as tile and custom cabinetry, with site construction taking several months."
+      }
+    }
+  ],
+  "description": "Timelines depend on design reviews, municipal permitting, utility rough-ins, and finish work such as tile and custom cabinetry, with site construction taking se"
+}

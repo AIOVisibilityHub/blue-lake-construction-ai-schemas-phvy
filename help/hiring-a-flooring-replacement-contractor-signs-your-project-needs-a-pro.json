@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Flooring Replacement Contractor: Signs Your Project Needs a Pro",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping out old floors seems straightforward until you pull back the first board and find unexpected structural issues. Knowing when to hire a licensed general contractor can save you thousands in damaged materials and stalled timelines.\n\nSigns It Is Time to Call a Professional:\n- Soft or uneven subflooring: If your floor bounces, dips, or shows water staining, the subfloor must be leveled or replaced before new planks go down.\n- Tricky stairs and transitions: Stair treads, landings, and varied heights between tiled kitchens and hardwood halls demand precise cuts and structural anchoring.\n- Glued or site-finished materials: Adhesives and poured finishes carry strict open-time and curing demands that leave zero margin for error.\n- Gas appliance disconnections: Moving stoves or water heaters requires a qualified technician to disconnect lines safely before flooring work begins.\n- Heavy furniture logistics: Large cabinetry, islands, or grand pianos complicate clearing and reinstalling work areas.\n\nWhen Professional Guidance Helps:\nA proper installation requires an accurate moisture evaluation, structural subfloor repairs, and exact trim heights. Blue Lake Construction manages complete interior renovations across Salt Lake City and the valley. Contact Ryan Gardner and our team at 385-202-5987 to schedule an on-site evaluation for your home.",
+  "datePublished": "2026-11-08"
+}

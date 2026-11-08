@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-an-attached-in-law-suite-addition-and-a-detached",
+  "name": "What is the difference between an attached in-law suite addition and a detached unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attached in-law suite addition and a detached unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached in-law suite shares at least one common wall with your primary home and connects through an interior doorway, whereas a detached unit is a standalone structure built elsewhere on the lot. An attached addition generally streamlines plumbing, heating, and electrical tie-ins because connections run directly from the existing structure. It also offers immediate indoor access, which makes caregiving, shared meals, and daily check-ins much easier. A detached unit provides greater acoustic separation and visual privacy, but it requires independent trenching for utilities and must comply with separate yard setback regulations.",
+        "@type": "Answer",
+        "description": "An attached suite shares a wall and connects indoors to the main house, whereas a detached unit is a standalone structure requiring independent utility trenching."
+      }
+    }
+  ],
+  "description": "An attached suite shares a wall and connects indoors to the main house, whereas a detached unit is a standalone structure requiring independent utility trenchin"
+}

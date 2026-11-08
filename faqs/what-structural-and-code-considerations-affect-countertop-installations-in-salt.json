@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-structural-and-code-considerations-affect-countertop-installations-in-salt",
+  "name": "What structural and code considerations affect countertop installations in Salt Lake Valley homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural and code considerations affect countertop installations in Salt Lake Valley homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full kitchen renovations across Salt Lake Valley communities—from older bungalows in Sugar House and The Avenues to newer developments in Daybreak or Draper—frequently involve updating plumbing and electrical systems alongside new countertops. Historic homes often have out-of-level walls or subfloors that require shimming and stabilization before heavy slabs can sit flat. Additionally, modern local building codes require GFCI-protected countertop outlets and dedicated circuits, making coordinated electrical updates essential when replacing surfaces.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often need cabinet and floor leveling to bear heavy stone, while all local installations must meet updated GFCI and dedicated circuit codes."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often need cabinet and floor leveling to bear heavy stone, while all local installations must meet updated GFCI and dedicated circuit code"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid During a Whole-House Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Renovating an entire home requires careful coordination. When homeowners jump in without a structured plan, small oversights can lead to major budget overruns. Here are typical pitfalls and how to avoid them:\n\n- Treating the project as disconnected rooms: Remodeling room by room without a master plan leads to mismatched flooring heights, inconsistent trim, and redundant plumbing runs. Design your home as a single unified system.\n- Ignoring aging utility systems: Installing luxury kitchen cabinets over fifty-year-old galvanized pipes or ungrounded wiring invites future leaks and hazards. Address infrastructure before finishes.\n- Delaying appliance and fixture selections: Failing to provide exact appliance specifications early leaves cabinet makers and electricians guessing on rough openings and dedicated circuit locations.\n- Underestimating site protection and temporary storage: Leaving furniture on-site or failing to seal HVAC returns fills vents and upholstery with fine construction dust. Plan for off-site storage.\n- Failing to verify licensing and insurance: Hiring unvetted labor without verifying state contractor licensing exposes you to liability and uninspected work.\n\nBlue Lake Construction provides full project coordination across the Salt Lake Valley. Call 385-202-5987 to schedule your renovation consultation.",
+  "datePublished": "2026-11-08"
+}

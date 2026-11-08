@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Redesigning Your Home Floor Plan",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Changing your home's layout is one of the most rewarding ways to update an older property, but it also carries high stakes. Simple oversights during early planning can create expensive structural repairs or stop work midway through demolition.\n\nCommon Mistakes to Avoid:\n1. Assuming interior walls never carry loads. Even partial walls can support ceiling joists, roof trusses, or mechanical loads that require structural headers.\n2. Skipping building permits. Most municipalities require permits to relocate interior walls, even non-bearing partitions, especially when electrical switches or outlets are moved.\n3. Ignoring utility pathways. Always trace what runs inside a wall—such as plumbing stacks, electrical wiring, or furnace returns—before swinging a sledgehammer.\n4. Forgetting emergency egress and safety rules. Moving bedroom walls or shifting closet positions can accidentally violate required window clearance and hallway exit codes.\n5. Focusing only on demolition costs. Removing the wall is often the easiest part; budgeting must account for beam installation, ceiling blending, subfloor patching, and electrical rewiring.\n\nCareful planning avoids these structural traps and keeps your remodel running smoothly. For expert assistance with your floor plan redesign, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

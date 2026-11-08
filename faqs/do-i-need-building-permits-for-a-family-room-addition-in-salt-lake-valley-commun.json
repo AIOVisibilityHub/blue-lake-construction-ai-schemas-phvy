@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-building-permits-for-a-family-room-addition-in-salt-lake-valley-commun",
+  "name": "Do I need building permits for a family room addition in Salt Lake Valley communities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for a family room addition in Salt Lake Valley communities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, residential additions across the Salt Lake Valley require building permits to ensure compliance with local building codes, structural standards, and zoning ordinances. In communities like Salt Lake City, Sandy, and Draper, plans must meet specific property line setback limits and maximum lot coverage ratios before permits are approved. Working with a licensed general contractor ensures structural drawings, electrical updates, and foundation plans are properly prepared and submitted to your specific city building department for review and inspections.",
+        "@type": "Answer",
+        "description": "Yes, local building departments require permits and plan reviews to confirm zoning setbacks, structural framing, foundation safety, and electrical code compliance."
+      }
+    }
+  ],
+  "description": "Yes, local building departments require permits and plan reviews to confirm zoning setbacks, structural framing, foundation safety, and electrical code complian"
+}

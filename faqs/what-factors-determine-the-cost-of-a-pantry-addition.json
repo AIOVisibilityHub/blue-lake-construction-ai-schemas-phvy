@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-cost-of-a-pantry-addition",
+  "name": "What factors determine the cost of a pantry addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of a pantry addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of adding a pantry depends heavily on whether you are reconfiguring existing interior walls or expanding the foundation with a bump-out addition. Integrating tall custom cabinetry or framing a basic closet into an existing kitchen layout requires carpentry, drywall, and finish work, making it a budget-conscious option. In contrast, building a walk-in pantry that requires moving electrical wiring, relocating plumbing lines, or expanding exterior walls with a structural addition increases labor, materials, and permitting requirements. Finish choices like custom shelving, specialized lighting, and countertop prep stations also influence the total investment.",
+        "@type": "Answer",
+        "description": "Cost factors include whether you reconfigure existing interior space or build a structural addition, along with electrical relocations, custom cabinetry, and finish selections."
+      }
+    }
+  ],
+  "description": "Cost factors include whether you reconfigure existing interior space or build a structural addition, along with electrical relocations, custom cabinetry, and fi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-room-additions-require-building-permits-and-city-inspections",
+  "name": "Do room additions require building permits and city inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do room additions require building permits and city inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building permits and plan approvals are mandatory for any room addition because the project expands your home's structural footprint. Blue Lake Construction manages this step by coordinating with local municipal building departments across the Salt Lake Valley. Before construction starts, plans must detail foundation engineering, framing layouts, energy code compliance, and utility connections. The project must then pass sequential city inspections—including footing, framing, electrical, plumbing, insulation, and final building sign-off—before the space can be legally occupied.",
+        "@type": "Answer",
+        "description": "Yes. All room additions require engineered building plans, municipal permits, and mandatory city inspections for foundations, framing, utilities, and final occupancy."
+      }
+    }
+  ],
+  "description": "Yes. All room additions require engineered building plans, municipal permits, and mandatory city inspections for foundations, framing, utilities, and final occu"
+}

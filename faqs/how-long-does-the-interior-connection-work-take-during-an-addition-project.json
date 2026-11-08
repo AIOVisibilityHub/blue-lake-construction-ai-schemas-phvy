@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-the-interior-connection-work-take-during-an-addition-project",
+  "name": "How long does the interior connection work take during an addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the interior connection work take during an addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The interior connection phase usually takes two to six weeks, depending on structural and mechanical complexity. The overall addition exterior is typically framed, roofed, and weathered-in first to protect the home from the elements. Once the new structure is secure, craftsmen open the existing exterior wall, install structural framing, run wiring and piping, and complete interior drywall, flooring transitions, and trim carpentry.",
+        "@type": "Answer",
+        "description": "Interior remodeling to connect the addition typically takes two to six weeks after the exterior addition shell is fully enclosed."
+      }
+    }
+  ],
+  "description": "Interior remodeling to connect the addition typically takes two to six weeks after the exterior addition shell is fully enclosed."
+}

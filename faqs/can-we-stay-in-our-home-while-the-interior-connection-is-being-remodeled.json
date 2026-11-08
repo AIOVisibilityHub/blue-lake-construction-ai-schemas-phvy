@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-we-stay-in-our-home-while-the-interior-connection-is-being-remodeled",
+  "name": "Can we stay in our home while the interior connection is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can we stay in our home while the interior connection is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can usually remain in the home during construction, though short-term disruptions will occur when breaking through the shared wall. Blue Lake Construction seals off the immediate work area with heavy plastic containment barriers and zipper doors to control dust and maintain clean air in the rest of the house. If the connection involves rerouting essential plumbing lines or kitchen circuits, temporary service shutoffs will be scheduled and coordinated in advance.",
+        "@type": "Answer",
+        "description": "Yes, containment barriers are used to isolate dust, though temporary utility interruptions may occur during mechanical tie-ins."
+      }
+    }
+  ],
+  "description": "Yes, containment barriers are used to isolate dust, though temporary utility interruptions may occur during mechanical tie-ins."
+}

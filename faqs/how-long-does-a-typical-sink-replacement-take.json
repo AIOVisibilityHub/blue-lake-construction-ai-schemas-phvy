@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-typical-sink-replacement-take",
+  "name": "How long does a typical sink replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sink replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an existing sink with the exact same dimensions and mounting style generally takes two to four hours. However, if your project involves shifting plumbing lines, cutting larger countertop openings, modifying cabinet structures, or replacing the faucet and garbage disposal at the same time, the work can extend across a full day. During kitchen and bathroom renovations, sink installations are coordinated alongside countertop templating and plumbing updates, which naturally integrates the work into the broader construction schedule.",
+        "@type": "Answer",
+        "description": "A direct sink swap usually takes two to four hours, while reconfiguring plumbing, modifying cabinetry, or coordinating with new countertops can take a full day or longer."
+      }
+    }
+  ],
+  "description": "A direct sink swap usually takes two to four hours, while reconfiguring plumbing, modifying cabinetry, or coordinating with new countertops can take a full day"
+}

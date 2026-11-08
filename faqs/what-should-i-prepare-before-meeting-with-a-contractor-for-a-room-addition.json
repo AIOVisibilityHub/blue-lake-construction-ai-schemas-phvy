@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-for-a-room-addition",
+  "name": "What should I prepare before meeting with a contractor for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a contractor for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting a general contractor, gather your property survey or plot plan, a list of functional goals, and a realistic budget target. Check your property lines to see where your home can legally expand without crossing local setback boundaries. Identify how the new room will flow into adjoining rooms and whether you need plumbing fixtures, such as in an in-law suite or bathroom addition. Knowing your heating and cooling preferences, such as extending central ductwork or using a ductless split, also streamlines planning.",
+        "@type": "Answer",
+        "description": "Gather your property survey, identify your budget target, list your functional goals, and note where the addition can tie into existing rooms and utilities."
+      }
+    }
+  ],
+  "description": "Gather your property survey, identify your budget target, list your functional goals, and note where the addition can tie into existing rooms and utilities."
+}

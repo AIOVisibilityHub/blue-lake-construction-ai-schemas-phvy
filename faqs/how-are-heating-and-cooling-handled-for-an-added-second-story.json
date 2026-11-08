@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-heating-and-cooling-handled-for-an-added-second-story",
+  "name": "How are heating and cooling handled for an added second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are heating and cooling handled for an added second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heating and cooling an added upper floor usually requires a dedicated system rather than connecting to your existing furnace and air conditioner. Upper levels absorb significant heat through the roof, making temperature control difficult if tied to a single ground-level thermostat. Contractors generally recommend installing either a separate secondary HVAC unit with its own ductwork or multi-zone ductless mini-split heat pumps. Evaluating your electrical panel capacity is an important early step, as adding new climate control systems often requires a panel upgrade.",
+        "@type": "Answer",
+        "description": "Upper floors usually require a dedicated HVAC system or ductless mini-split units, as existing ground-floor furnaces rarely have the capacity to heat and cool both levels."
+      }
+    }
+  ],
+  "description": "Upper floors usually require a dedicated HVAC system or ductless mini-split units, as existing ground-floor furnaces rarely have the capacity to heat and cool b"
+}

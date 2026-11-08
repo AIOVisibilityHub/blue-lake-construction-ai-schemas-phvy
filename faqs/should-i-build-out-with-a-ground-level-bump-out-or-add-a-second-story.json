@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-build-out-with-a-ground-level-bump-out-or-add-a-second-story",
+  "name": "Should I build out with a ground-level bump-out or add a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build out with a ground-level bump-out or add a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-level bump-outs expand your ground-floor footprint, while second-story additions build upward over existing rooms. A ground-level addition preserves your home’s existing roof and upper structure but sacrifices yard space and requires adequate property setbacks. A second-story addition protects your yard area, which is helpful on narrow urban lots, but it requires reinforcing existing foundations, retrofitting lower-level load-bearing walls, and installing a new staircase, which removes some square footage from the main floor.",
+        "@type": "Answer",
+        "description": "Building out preserves your existing structure but uses yard space; building up protects your lot size but requires foundation reinforcement and interior staircase space."
+      }
+    }
+  ],
+  "description": "Building out preserves your existing structure but uses yard space; building up protects your lot size but requires foundation reinforcement and interior stairc"
+}

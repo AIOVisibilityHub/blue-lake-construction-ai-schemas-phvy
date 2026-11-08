@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-typical-steps-in-the-home-addition-construction-process",
+  "name": "What are the typical steps in the home addition construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps in the home addition construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The addition process begins with an initial consultation to assess your property, needs, and budget. From there, customized design plans and engineering specifications are developed to ensure the addition integrates with your existing house. Once plans are finalized, required municipal building permits are secured. Construction then proceeds through foundation excavation, framing, roofing, mechanical rough-ins for plumbing and electrical, insulation, drywall, and finish carpentry. Finally, interior remodeling blends the transition between the original house and the new living space.",
+        "@type": "Answer",
+        "description": "The process includes initial design, architectural planning, permitting, foundation pouring, framing, mechanical installations, drywall, interior finishes, and final tie-ins."
+      }
+    }
+  ],
+  "description": "The process includes initial design, architectural planning, permitting, foundation pouring, framing, mechanical installations, drywall, interior finishes, and"
+}

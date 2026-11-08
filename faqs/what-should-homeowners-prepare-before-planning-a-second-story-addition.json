@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-planning-a-second-story-addition",
+  "name": "What should homeowners prepare before planning a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before planning a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with an architect or general contractor, gather your property's original blueprints or tax records, survey your lot boundaries, and list the specific rooms you need. It is also helpful to check for any neighborhood covenants or HOA restrictions on roof heights and view corridors. Consider which ground-floor rooms you are comfortable reconfiguring for the staircase, and determine your relocation housing options during construction. Documenting clear functional goals helps the builder assess structural feasibility and build an accurate scope of work.",
+        "@type": "Answer",
+        "description": "Gather property records or plans, review local height or HOA rules, identify flexible main-floor space for stairs, and establish a priority list of needed upper-level rooms."
+      }
+    }
+  ],
+  "description": "Gather property records or plans, review local height or HOA rules, identify flexible main-floor space for stairs, and establish a priority list of needed upper"
+}

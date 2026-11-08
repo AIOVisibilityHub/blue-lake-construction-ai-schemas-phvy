@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-affect-the-cost-of-replacing-a-kitchen-or-bathroom-faucet",
+  "name": "What factors affect the cost of replacing a kitchen or bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of replacing a kitchen or bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary factors influencing cost include the fixture style, valve type, and the condition of the underlying plumbing. A standard single-hole replacement costs less than installing an expansive wall-mounted faucet or an extensive widespread setup that requires plumbing line reconfigurations behind drywall. Additional costs can emerge if shutoff valves need replacement or if the existing rough-in plumbing must be relocated during a kitchen island installation or bathroom reconfiguration. Detailed estimates reflect the full scope of plumbing updates needed.",
+        "@type": "Answer",
+        "description": "Costs depend on faucet style, mounting requirements, and whether supply lines, shutoff valves, or wall plumbing need modifications during installation."
+      }
+    }
+  ],
+  "description": "Costs depend on faucet style, mounting requirements, and whether supply lines, shutoff valves, or wall plumbing need modifications during installation."
+}

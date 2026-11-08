@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-adding-a-bathroom",
+  "name": "What factors have the biggest impact on the cost of adding a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of adding a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost to add a bathroom is determined primarily by whether the new space expands the home's exterior foundation or fits within the existing layout. Ground-up bump-out additions involve excavation, framing, roofing, and exterior siding, which require higher investment than converting interior square footage. Other significant cost variables include proximity to existing plumbing and waste stacks, the type of bathroom being built, and fixture selections such as custom tile showers, specialty vanities, and upgraded ventilation. Tying into distant drain lines beneath concrete slabs or across finished ceilings adds labor and material costs compared to tying into readily accessible lines.",
+        "@type": "Answer",
+        "description": "Costs depend mainly on whether you are expanding the home's footprint, how far plumbing lines must run to tie into the main sewer, and the complexity of fixtures and tile."
+      }
+    }
+  ],
+  "description": "Costs depend mainly on whether you are expanding the home's footprint, how far plumbing lines must run to tie into the main sewer, and the complexity of fixture"
+}

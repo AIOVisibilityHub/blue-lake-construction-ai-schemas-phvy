@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Costly Mistakes Homeowners Make During Open-Concept Floor Plan Conversions",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Opening up your living space delivers great light and better flow, but treating it like simple cosmetic demolition often leads to surprise expenses. Homeowners who plan ahead save time and protect their budgets.\n\n### Common Mistakes to Avoid\nHere are five frequent slip-ups to watch for when taking down interior walls:\n- Guessing on load-bearing status: Assuming a thin wall is nonstructural without checking the attic or basement framing can cause ceiling sag. Always verify load paths first.\n- Forgetting hidden utilities: Opening drywall without scanning for plumbing vents, electrical home runs, or HVAC ducts leads to unexpected relocation costs. Inspect accessible cavities in advance.\n- Skipping ceiling and floor patching budgets: Removing a wall leaves uneven floor gaps and ceiling seams that require dedicated drywall blending and floor repair. Include finish patches in your initial scope.\n- Demolishing before permits: Starting demolition before building and trade permits are secured risks stop-work orders. Confirm local permit requirements prior to tear-out.\n- Underestimating temporary shoring: Setting a new beam requires temporary support walls to carry the overhead load safely during framing.\n\nWorking with a licensed general contractor prevents these expensive oversights. Blue Lake Construction handles permitting, structural framing, and full finish work across Millcreek and Draper. Call 385-202-5987 to schedule an on-site consultation.",
+  "datePublished": "2026-11-08"
+}

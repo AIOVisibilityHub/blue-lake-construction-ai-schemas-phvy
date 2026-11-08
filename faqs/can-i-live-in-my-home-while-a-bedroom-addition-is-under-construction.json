@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-live-in-my-home-while-a-bedroom-addition-is-under-construction",
+  "name": "Can I live in my home while a bedroom addition is under construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home while a bedroom addition is under construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can typically remain in their house during a standard ground-floor bedroom addition because most initial framing happens outside the existing building envelope. Heavy site work, excavation, and exterior wall construction stay separate from your daily living areas until the tie-in phase. When workers cut through existing exterior walls to link hallways, dust barriers and temporary partitions are set up to contain debris. If the addition involves main-panel electrical shutoffs or extensive interior remodeling, short-term schedule adjustments may be helpful.",
+        "@type": "Answer",
+        "description": "Yes, homeowners usually stay in their homes because initial framing occurs outside, with containment barriers set up when connecting the addition to existing hallways."
+      }
+    }
+  ],
+  "description": "Yes, homeowners usually stay in their homes because initial framing occurs outside, with containment barriers set up when connecting the addition to existing ha"
+}

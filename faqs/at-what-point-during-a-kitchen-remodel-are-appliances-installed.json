@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-point-during-a-kitchen-remodel-are-appliances-installed",
+  "name": "At what point during a kitchen remodel are appliances installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point during a kitchen remodel are appliances installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance installation is typically scheduled near the very end of a kitchen remodel or home renovation project. Placing and connecting major units happens after custom cabinetry, countertops, backsplashes, and finished flooring are fully installed and cured. Installing early risks scratching new hardwood or denting surfaces while other trades work. Once plumbing lines, dedicated electrical circuits, and exterior vent ducts are inspected and completed, the crew slides the appliances into place, secures panel-ready faces, anchors dishwashers or wall ovens, and tests all connections.",
+        "@type": "Answer",
+        "description": "Appliances are installed near the end of a remodel, after flooring, cabinets, and countertops are complete, to protect new surfaces and ensure all utility rough-ins are ready."
+      }
+    }
+  ],
+  "description": "Appliances are installed near the end of a remodel, after flooring, cabinets, and countertops are complete, to protect new surfaces and ensure all utility rough"
+}

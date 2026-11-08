@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Kitchen Layout Redesign: Essential Decisions Before Ordering Cabinets",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A successful kitchen renovation turns a cramped work zone into an inviting place to cook and gather. However, jumping straight into tile and cabinet colors before locking down your functional layout can cause major headaches down the road.\n\n### What to Prepare Before You Start\nTake these practical steps before signing cabinet orders or scheduling tear-out:\n- Establish your appliance clearances: Confirm exact dimensions for your refrigerator, range, and dishwasher so doors and drawers open fully without hitting adjacent panels.\n- Map out dedicated work zones: Keep food preparation, cleanup, and cooking paths separate so multiple people can use the space comfortably.\n- Audit your electrical capacity: Modern kitchens often require dedicated 20-amp circuits, under-cabinet lighting feeds, and GFCI-protected countertop outlets.\n- Inspect plumbing and venting access: Moving your sink or gas range across the room adds significant labor if floor joists or exterior walls block your path.\n- Plan for daily meals: Set up a temporary cooking station with a microwave and coffee maker since full kitchen renovations typically take several weeks to complete.\n\nWhen a remodel involves shifting walls, moving gas lines, or upgrading electrical panels, licensed guidance keeps the project on track. Blue Lake Construction designs and installs custom kitchens throughout West Jordan and South Jordan. Call 385-202-5987 to discuss your layout options.",
+  "datePublished": "2026-11-08"
+}

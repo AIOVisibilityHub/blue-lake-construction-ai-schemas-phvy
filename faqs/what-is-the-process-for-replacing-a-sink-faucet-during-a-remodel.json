@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-process-for-replacing-a-sink-faucet-during-a-remodel",
+  "name": "What is the process for replacing a sink faucet during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sink faucet during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faucet replacement involves disconnecting the supply lines, unbolting the old fixture, cleaning the mounting surface, securing the new faucet, and reconnecting water lines. During a kitchen or bathroom remodel, our team manages this as part of broader plumbing updates and countertop installations. We also test shutoff valves and inspect existing lines to ensure leak-free connections. Choosing to update faucets alongside new sinks or countertops avoids extra labor down the road, as accessing the underside of the basin is easiest before final trim and plumbing connections are finished.",
+        "@type": "Answer",
+        "description": "The process involves removing the old fixture, prepping the mounting surface, installing the new faucet, securing supply lines, and testing water flow and shutoff valves."
+      }
+    }
+  ],
+  "description": "The process involves removing the old fixture, prepping the mounting surface, installing the new faucet, securing supply lines, and testing water flow and shuto"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-primary-suite-addition-from-start-to-finish",
+  "name": "How long does it take to complete a primary suite addition from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a primary suite addition from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a primary suite addition generally ranges from four to eight months once construction begins, with planning and permitting taking additional time beforehand. The schedule involves multiple phases, starting with architectural drafting and city permit approvals. Once physical work begins, crews complete site excavation, foundation pouring, framing, and weatherproofing. After the exterior shell is secure, trade work begins for plumbing, electrical wiring, insulation, and drywall, followed by tile work, cabinetry, and finish trim. Complex custom bathrooms, material delivery delays, and municipal inspection schedules can impact total project duration.",
+        "@type": "Answer",
+        "description": "Most primary suite additions take four to eight months of construction, preceded by architectural design and municipal permitting phases."
+      }
+    }
+  ],
+  "description": "Most primary suite additions take four to eight months of construction, preceded by architectural design and municipal permitting phases."
+}

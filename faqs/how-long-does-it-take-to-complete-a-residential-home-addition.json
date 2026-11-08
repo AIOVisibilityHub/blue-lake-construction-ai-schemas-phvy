@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-residential-home-addition",
+  "name": "How long does it take to complete a residential home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a residential home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timelines vary widely based on the addition's size, design complexity, and local municipal permit review times. Planning, design, and permitting generally take between one and three months before breaking ground. Physical construction typically spans three to six months for standard room additions or bump-outs, while extensive multi-room or second-story projects can take longer. Weather conditions, site excavation factors, and custom finish lead times also play a direct role in the final schedule.",
+        "@type": "Answer",
+        "description": "Most additions take three to six months of active construction, following one to three months of architectural planning, engineering, and city permitting."
+      }
+    }
+  ],
+  "description": "Most additions take three to six months of active construction, following one to three months of architectural planning, engineering, and city permitting."
+}

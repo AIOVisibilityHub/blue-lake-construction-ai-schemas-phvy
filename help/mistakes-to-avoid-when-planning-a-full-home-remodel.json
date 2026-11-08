@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Planning a Full Home Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking on a full home remodel is exciting, but common oversights can quickly drain your budget and stall progress. Here are key mistakes to avoid before you begin:\n\n- Choosing the lowest bid without checking scope details: Always compare exclusions line by line. An unusually low quote often leaves out essential permits, dumpster fees, or realistic finish allowances.\n- Changing designs after construction starts: Mid-project layout alterations cause rework, schedule delays, and extra labor costs. Lock down your floor plan during initial planning.\n- Postponing fixture and finish decisions: Waiting to choose tile, vanities, or flooring holds up rough-in trades and extends your timeline. Select key materials before demo begins.\n- Overlooking behind-the-wall infrastructure: Spending the entire budget on cosmetic upgrades while ignoring outdated electrical wiring or old plumbing leads to expensive repairs later.\n- Forgetting a contingency reserve: Hidden conditions inside older framing can surface. Keep a buffer ready for unexpected framing or pipe repairs.\n\nReady to plan your remodel with transparent allowances and clear contracts? Contact Blue Lake Construction at 385-202-5987 today.",
+  "datePublished": "2026-11-08"
+}

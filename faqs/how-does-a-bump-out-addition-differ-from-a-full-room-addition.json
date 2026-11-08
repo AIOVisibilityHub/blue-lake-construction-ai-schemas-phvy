@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-a-bump-out-addition-differ-from-a-full-room-addition",
+  "name": "How does a bump-out addition differ from a full room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a bump-out addition differ from a full room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out addition expands an existing room by a few feet, whereas a standard room addition constructs an entirely new enclosed room from scratch. A major practical tradeoff is cost and structural scope. Standard full additions typically require extensive excavation, full perimeter concrete foundations, and dedicated heating and cooling systems. A bump-out often cantilevers over an existing foundation or rests on simple piers or minimal stem walls, avoiding substantial ground disturbance. While a full addition yields hundreds of square feet of new living area, a bump-out solves specific layout constraints—like fitting a bathtub or breakfast area—at a lower total investment.",
+        "@type": "Answer",
+        "description": "A bump-out expands the footprint of an existing room by a few feet, while a full room addition builds an entirely new standalone room requiring extensive foundation and utility work."
+      }
+    }
+  ],
+  "description": "A bump-out expands the footprint of an existing room by a few feet, while a full room addition builds an entirely new standalone room requiring extensive founda"
+}

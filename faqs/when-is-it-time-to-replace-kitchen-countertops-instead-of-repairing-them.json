@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-it-time-to-replace-kitchen-countertops-instead-of-repairing-them",
+  "name": "When is it time to replace kitchen countertops instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace kitchen countertops instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your kitchen surfaces need replacement include deep structural cracks, severe staining, persistent water damage near the sink, or outdated materials that hurt functionality. Laminate surfaces often suffer from peeling edges and water-swollen substrates that cannot be repaired. If you are reconfiguring your kitchen layout, adding an island, or upgrading to an undermount sink, installing new countertops is necessary to achieve a cohesive, durable finish.",
+        "@type": "Answer",
+        "description": "Replace counters if you have deep cracks, water-damaged core material, peeling laminate, or if you are upgrading your layout and plumbing to undermount fixtures."
+      }
+    }
+  ],
+  "description": "Replace counters if you have deep cracks, water-damaged core material, peeling laminate, or if you are upgrading your layout and plumbing to undermount fixtures"
+}

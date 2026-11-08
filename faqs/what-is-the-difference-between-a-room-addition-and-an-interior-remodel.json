@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-room-addition-and-an-interior-remodel",
+  "name": "What is the difference between a room addition and an interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a room addition and an interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition involves building brand new square footage outward or upward from your existing structure, requiring new foundations, framing, exterior roofing, and utility tie-ins. In contrast, a remodel reconfigures space inside your home’s existing walls, such as finishing an unfinished basement or taking down interior partitions. An addition is ideal if your current footprint feels cramped and your yard has sufficient setback space. However, additions require more extensive structural integration and permitting because they expand the building exterior.",
+        "@type": "Answer",
+        "description": "A room addition builds new square footage outward or upward, while a remodel reconfigures your existing floor plan without expanding the building exterior."
+      }
+    }
+  ],
+  "description": "A room addition builds new square footage outward or upward, while a remodel reconfigures your existing floor plan without expanding the building exterior."
+}

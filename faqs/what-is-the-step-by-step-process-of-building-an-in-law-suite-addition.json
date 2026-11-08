@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-step-by-step-process-of-building-an-in-law-suite-addition",
+  "name": "What is the step-by-step process of building an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of building an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical in-law suite addition involves several structured stages, starting with architectural planning, zoning checks, and engineering. Once building permits are secured, the team begins site preparation, excavation, and pouring the concrete foundation for an exterior addition. Framing walls and roofing come next, followed by rough-in installations for plumbing, electrical wiring, and climate control. After municipal rough inspections pass, work shifts to insulation, drywall, flooring, custom tile showers, cabinetry, and interior painting. Finally, Blue Lake Construction completes trim carpentry, installs plumbing fixtures, and integrates entryways connecting the addition directly to your main home.",
+        "@type": "Answer",
+        "description": "The process includes design and permitting, foundation and framing, electrical and plumbing rough-ins, drywall, tile and cabinetry installation, and final interior tie-ins."
+      }
+    }
+  ],
+  "description": "The process includes design and permitting, foundation and framing, electrical and plumbing rough-ins, drywall, tile and cabinetry installation, and final inter"
+}

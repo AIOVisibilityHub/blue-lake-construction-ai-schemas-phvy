@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-choose-a-kitchen-bump-out-or-a-full-room-expansion",
+  "name": "Should I choose a kitchen bump-out or a full room expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a kitchen bump-out or a full room expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out addition extends an exterior wall by a few feet without a full-depth basement foundation, while a full kitchen addition builds out an entirely new room footprint on a dedicated foundation. A bump-out is an efficient choice if you only need an extra two to four feet to fit a center island, add a row of floor-to-ceiling cabinets, or widen a cramped cooking zone. However, if your goal is an open-concept great room, a dedicated casual dining nook, or a secondary prep kitchen and walk-in pantry, a full home addition provides the necessary structural volume and layout flexibility.",
+        "@type": "Answer",
+        "description": "Choose a bump-out to gain a few feet for an island or cabinets; choose a full expansion if you want a significantly larger room, pantry, or dining area."
+      }
+    }
+  ],
+  "description": "Choose a bump-out to gain a few feet for an island or cabinets; choose a full expansion if you want a significantly larger room, pantry, or dining area."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-replace-my-sink-without-replacing-the-countertop",
+  "name": "Can I replace my sink without replacing the countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my sink without replacing the countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but it depends on your current countertop material and the size of the existing opening. An undermount or drop-in sink can typically be replaced without changing the counter if the new model fits the exact same cutout or is slightly larger so the opening can be modified. However, cutting installed stone surfaces inside a finished kitchen creates significant dust and carries a risk of chipping. In many comprehensive kitchen or bathroom remodels, homeowners choose to replace the sink alongside new countertops to ensure clean seams, structurally sound mounting clips, and proper alignment.",
+        "@type": "Answer",
+        "description": "Yes, provided the new sink matches the existing cutout dimensions or fits within an enlarged opening, though pairing it with new countertops ensures the cleanest fit."
+      }
+    }
+  ],
+  "description": "Yes, provided the new sink matches the existing cutout dimensions or fits within an enlarged opening, though pairing it with new countertops ensures the cleanes"
+}

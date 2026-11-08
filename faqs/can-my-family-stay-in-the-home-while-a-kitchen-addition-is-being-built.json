@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-my-family-stay-in-the-home-while-a-kitchen-addition-is-being-built",
+  "name": "Can my family stay in the home while a kitchen addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family stay in the home while a kitchen addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners can remain in their home, but you must plan for significant noise, dust, and a temporary loss of cooking facilities during construction. Because an addition involves opening an exterior wall, your contractor will build dust barriers and temporary weatherproofing to isolate the work zone and protect your living areas. However, once existing plumbing and gas lines are disconnected to tie into the new addition, you will need an alternative meal-prep setup. Many homeowners establish a temporary kitchenette with a microwave, mini-fridge, and small appliances in a dining room or basement.",
+        "@type": "Answer",
+        "description": "Yes, families can usually stay, but you will need a temporary kitchenette setup and should prepare for construction noise and partitioned work zones."
+      }
+    }
+  ],
+  "description": "Yes, families can usually stay, but you will need a temporary kitchenette setup and should prepare for construction noise and partitioned work zones."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-types-of-home-additions-can-you-build",
+  "name": "What types of home additions can you build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home additions can you build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blue Lake Construction handles a wide range of residential additions across the Salt Lake Valley. Common projects include primary suite additions, kitchen expansions, extra bedrooms, family room extensions, in-law suites, and attached garages. Homeowners also hire general contractors for bump-out additions to add square footage to an existing room, sunroom extensions, or full second-story additions. Each type requires dedicated structural planning, foundation work, and interior remodeling to connect the new footprint seamlessly to the rest of your existing floor plan.",
+        "@type": "Answer",
+        "description": "We build room additions, primary suites, kitchen expansions, in-law suites, bump-outs, second-story additions, sunrooms, and attached garages tailored to your home's layout."
+      }
+    }
+  ],
+  "description": "We build room additions, primary suites, kitchen expansions, in-law suites, bump-outs, second-story additions, sunrooms, and attached garages tailored to your h"
+}

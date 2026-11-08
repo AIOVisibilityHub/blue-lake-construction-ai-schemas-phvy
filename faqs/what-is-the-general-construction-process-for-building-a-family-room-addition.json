@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-general-construction-process-for-building-a-family-room-addition",
+  "name": "What is the general construction process for building a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general construction process for building a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with initial consultations to review your spatial needs, budget expectations, and site conditions. Next, architectural plans and structural details are finalized, and required permits are submitted to the local building department. Once approved, construction advances from ground excavation and foundation work to framing, exterior roofing, window installation, plumbing, and electrical rough-ins. Craftsmen then complete drywall, flooring, custom trim carpentry, and painting, coordinating closely with project managers to keep work aligned with agreed specifications.",
+        "@type": "Answer",
+        "description": "The process moves through design planning, permitting, excavation, foundation pouring, framing, system rough-ins, drywall, and finish carpentry."
+      }
+    }
+  ],
+  "description": "The process moves through design planning, permitting, excavation, foundation pouring, framing, system rough-ins, drywall, and finish carpentry."
+}

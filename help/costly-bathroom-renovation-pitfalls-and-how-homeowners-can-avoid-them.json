@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Costly Bathroom Renovation Pitfalls and How Homeowners Can Avoid Them",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Bathroom renovations can quickly become frustrating when unexpected challenges arise behind sheetrock and under subfloors. Here are common mistakes to watch out for:\n\n- Skipping Behind-the-Wall Waterproofing: Simply installing cement board is not enough; without a dedicated waterproof barrier system behind your tile, water eventually reaches framing.\n- Inadequate Exhaust Ventilation: Installing an undersized fan or ducting it poorly leaves moisture trapped, damaging trim, ceilings, and paint.\n- Ordering Finishes Too Late: Waiting until demolition starts to order specialty tile or custom vanities creates costly work stoppages.\n- Overlooking Plumbing Compatibility: Buying a rough-in valve that does not match your trim kit or choosing fixtures that exceed drain capacities leads to rework.\n- Ignoring Subfloor Deflection: Heavy stone or tile laid over bouncy subflooring leads to cracked grout and broken tiles within months.\n- Rushing Past Hidden Moisture: Closing up walls without repairing rotted wood or addressing previous leaks guarantees recurring damage.\n\nWhat Can Change the Right Choice\nBalancing your fixture preferences with your home’s existing plumbing layout saves considerable budget. Working with a dedicated project manager ensures materials are on-site and inspected before tearing things apart. Blue Lake Construction helps Salt Lake Valley homeowners plan durable bathroom remodels. Call 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

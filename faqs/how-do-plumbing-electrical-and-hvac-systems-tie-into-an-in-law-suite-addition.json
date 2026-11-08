@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-plumbing-electrical-and-hvac-systems-tie-into-an-in-law-suite-addition",
+  "name": "How do plumbing, electrical, and HVAC systems tie into an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbing, electrical, and HVAC systems tie into an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an in-law suite with a private bathroom, bedroom, and living space requires your existing home's electrical and mechanical systems to handle the increased load. During planning, a general contractor assesses your main electrical panel to see if it has sufficient amperage or if a secondary subpanel is required. Plumbing lines must be tied into existing supply and sewer stacks, taking slope and pipe distance into account. For heating and cooling, many homeowners select a ductless mini-split system, which gives the suite occupant independent climate control without overtaxing your home’s central furnace and air conditioning unit.",
+        "@type": "Answer",
+        "description": "Contractors inspect main electrical capacity, tie into primary plumbing stacks, and often install independent mini-split systems for dedicated heating and cooling control."
+      }
+    }
+  ],
+  "description": "Contractors inspect main electrical capacity, tie into primary plumbing stacks, and often install independent mini-split systems for dedicated heating and cooli"
+}

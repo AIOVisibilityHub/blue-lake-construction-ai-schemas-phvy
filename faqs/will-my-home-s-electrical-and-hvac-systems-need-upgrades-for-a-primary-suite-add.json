@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-my-home-s-electrical-and-hvac-systems-need-upgrades-for-a-primary-suite-add",
+  "name": "Will my home’s electrical and HVAC systems need upgrades for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home’s electrical and HVAC systems need upgrades for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a new bathroom and expanding square footage places higher demand on your home’s infrastructure. Your existing electrical panel must have sufficient breaker capacity to handle dedicated circuits for bathroom lighting, ventilation, and outlets; if it is full, a panel upgrade may be necessary. Similarly, you must decide whether to extend your current furnace and air conditioning ductwork or install an independent ductless mini-split system for zoned climate control. Water heater capacity and existing drainage slopes must also be verified during the planning stage to ensure proper bathroom water pressure and waste management.",
+        "@type": "Answer",
+        "description": "Depending on current capacity, you may need an electrical panel upgrade or an independent heating and cooling solution, such as a mini-split, to service the new space."
+      }
+    }
+  ],
+  "description": "Depending on current capacity, you may need an electrical panel upgrade or an independent heating and cooling solution, such as a mini-split, to service the new"
+}

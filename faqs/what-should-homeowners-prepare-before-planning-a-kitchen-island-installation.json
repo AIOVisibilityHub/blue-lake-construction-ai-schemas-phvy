@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-planning-a-kitchen-island-installation",
+  "name": "What should homeowners prepare before planning a kitchen island installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before planning a kitchen island installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting a contractor about an island, measure your kitchen floor space, locate existing appliances, and note access to the space below the kitchen floor. If your home has an unfinished basement or crawlspace, running water, gas, or electrical lines to the center of the room is straightforward; finished ceilings or concrete slabs require alternative planning. It also helps to decide your primary use—whether you prioritize casual bar stool seating, food preparation space, a cooktop, or deep storage drawers.",
+        "@type": "Answer",
+        "description": "Homeowners should measure room dimensions, check whether subfloor utility access exists below the kitchen, and identify their main priorities for seating, storage, and appliances."
+      }
+    }
+  ],
+  "description": "Homeowners should measure room dimensions, check whether subfloor utility access exists below the kitchen, and identify their main priorities for seating, stora"
+}

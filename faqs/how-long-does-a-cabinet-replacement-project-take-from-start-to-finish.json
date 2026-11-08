@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-cabinet-replacement-project-take-from-start-to-finish",
+  "name": "How long does a cabinet replacement project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a cabinet replacement project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The physical installation of replacement cabinets typically takes two to five days, but the complete project timeline spans several weeks. Custom and semi-custom cabinetry orders carry distinct manufacturing lead times that must be scheduled into the overall remodeling calendar. After the cabinets are leveled and anchored to the wall studs, countertop fabricators create precise templates, which usually adds one to two weeks before solid-surface counters can be installed and plumbing reconnected. Coordinating these phases in advance ensures smooth progress.",
+        "@type": "Answer",
+        "description": "On-site cabinet installation takes two to five days, though overall timelines depend on manufacturing lead times and subsequent countertop templating and installation."
+      }
+    }
+  ],
+  "description": "On-site cabinet installation takes two to five days, though overall timelines depend on manufacturing lead times and subsequent countertop templating and instal"
+}

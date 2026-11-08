@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Flooring Replacement: Complete Guide to Scope, Prep, and Timeline",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your flooring transforms how your entire home looks and feels, whether you are refreshing a single room or completing a full interior remodel.\n\nOverview:\nQuality flooring replacement balances aesthetic goals with subfloor strength, moisture conditions, and household traffic demands.\n\nKey Benefits:\nA professionally managed replacement eliminates creaks, levels sloping walking surfaces, updates worn finishes, and ensures smooth transitions between adjacent living spaces.\n\nProcess Breakdown:\n- Product Selection and Measurement: Assessing moisture levels, durability needs, and square footage.\n- Demo and Subfloor Preparation: Removing old flooring, inspecting the subfloor, and completing leveling or structural repairs.\n- Acclimation: Allowing boxed materials to sit inside your home for one to two days to adjust to indoor humidity.\n- Installation and Finishing: Laying planks, setting thresholds, and reinstalling trim.\n- Curing and Final Walkthrough: Allowing adhesives to set before heavy furniture returns.\n\nReal Examples:\nA homeowner updating their kitchen often pairs durable luxury planks with custom cabinetry updates, ensuring proper subfloor heights match dining areas seamlessly.\n\nGet Started:\nFor dependable installation backed by experienced project management, contact Ryan and Amy Gardner at Blue Lake Construction. Call 385-202-5987 to schedule your flooring replacement consultation in Salt Lake City.",
+  "datePublished": "2026-11-08"
+}

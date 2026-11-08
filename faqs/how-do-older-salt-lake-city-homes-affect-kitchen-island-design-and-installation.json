@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-salt-lake-city-homes-affect-kitchen-island-design-and-installation",
+  "name": "How do older Salt Lake City homes affect kitchen island design and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older Salt Lake City homes affect kitchen island design and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When remodeling older properties in Salt Lake City neighborhoods like Sugar House, The Avenues, or Harvard-Yale, kitchen layouts are often partitioned into separate, smaller rooms with narrow footprints. Installing a functional kitchen island in these historic homes frequently requires removing load-bearing walls or converting to an open-concept layout to secure proper clearance. Contractors must assess structural framing, install support beams, and work through older electrical wiring or lath-and-plaster assemblies before anchoring a modern central island.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often have smaller, closed-off kitchens that require removing walls and installing support beams to create enough space for an island."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often have smaller, closed-off kitchens that require removing walls and installing support beams to create enough space for an island"
+}

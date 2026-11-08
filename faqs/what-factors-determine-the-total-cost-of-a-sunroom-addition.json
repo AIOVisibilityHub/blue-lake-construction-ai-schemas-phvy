@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-total-cost-of-a-sunroom-addition",
+  "name": "What factors determine the total cost of a sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the total cost of a sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends on whether you select a three-season or four-season design, the square footage, foundation requirements, and window specifications. Key cost drivers include whether a new poured concrete foundation is required versus reinforcing an existing patio, the grade of insulated glass packages, and electrical additions. For four-season spaces, running heating and cooling extensions or tying rooflines into the existing structure adds to framing and mechanical labor. Developing a clear project budget and detailed architectural plan early helps prevent unexpected scope adjustments.",
+        "@type": "Answer",
+        "description": "Costs depend on the room size, foundation needs, whether it is built for four-season use with HVAC, window quality, and how the roof and walls tie into your existing home."
+      }
+    }
+  ],
+  "description": "Costs depend on the room size, foundation needs, whether it is built for four-season use with HVAC, window quality, and how the roof and walls tie into your exi"
+}

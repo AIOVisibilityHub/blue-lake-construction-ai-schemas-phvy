@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-we-stay-in-our-home-while-a-second-story-addition-is-being-built",
+  "name": "Can we stay in our home while a second-story addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can we stay in our home while a second-story addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners must temporarily relocate during major phases of a second-story addition. Building an upper floor requires completely removing the roof, exposing the main level to outdoor weather conditions until the new structure is framed and made weather-tight. In addition, routing new plumbing stacks, electrical lines, and ductwork through the ground level creates significant disruption, dust, and utility outages. While partial additions over a garage or isolated wing may allow you to stay in an unaffected area, full second-story additions generally require alternate living arrangements for several months.",
+        "@type": "Answer",
+        "description": "Usually not for a full addition. Removing the roof and running new mechanical systems through the main floor creates severe exposure, noise, and utility shutoffs."
+      }
+    }
+  ],
+  "description": "Usually not for a full addition. Removing the roof and running new mechanical systems through the main floor creates severe exposure, noise, and utility shutoff"
+}

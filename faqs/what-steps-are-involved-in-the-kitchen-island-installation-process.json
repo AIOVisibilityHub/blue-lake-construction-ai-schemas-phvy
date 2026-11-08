@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-the-kitchen-island-installation-process",
+  "name": "What steps are involved in the kitchen island installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the kitchen island installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen island installations begin with site measurements, layout design, and checking access beneath the floor for necessary utility feeds. After finalizing the blueprint, contractors remove existing floor obstacles, frame blocking, and run electrical conduits or plumbing pipes into the island footprint. Installers then level and securely fasten the base cabinets to the subfloor. Once cabinetry is anchored, fabricators template and set the countertops, followed by installing bar seating overhang supports, pendant lighting, outlets, and plumbing fixtures.",
+        "@type": "Answer",
+        "description": "The process involves design planning, roughing in underfloor utilities, anchoring base cabinets, templating and installing countertops, and finishing electrical or plumbing trim."
+      }
+    }
+  ],
+  "description": "The process involves design planning, roughing in underfloor utilities, anchoring base cabinets, templating and installing countertops, and finishing electrical"
+}

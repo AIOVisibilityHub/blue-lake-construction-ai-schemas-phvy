@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-an-attached-garage-connect-structurally-and-safely-to-an-existing-home",
+  "name": "How does an attached garage connect structurally and safely to an existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an attached garage connect structurally and safely to an existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an attached garage involves structural framing modifications, foundation tie-ins, and mandatory building code requirements for shared walls. Because the garage connects to your living space, building codes require fire-rated drywall on all shared walls and ceilings, self-closing solid-core or fire-rated doors, and airtight seals to prevent vehicle exhaust and carbon monoxide from entering the home. Structurally, the foundation must match local frost depth requirements and tie securely into your existing footings. The roofline must also be engineered to shed water and snow away from the existing structure without causing leaks or structural overload.",
+        "@type": "Answer",
+        "description": "The addition ties into your existing foundation and roof, using fire-rated drywall, sealed penetrations, and a fire-rated door to keep fumes and hazards out of living spaces."
+      }
+    }
+  ],
+  "description": "The addition ties into your existing foundation and roof, using fire-rated drywall, sealed penetrations, and a fire-rated door to keep fumes and hazards out of"
+}

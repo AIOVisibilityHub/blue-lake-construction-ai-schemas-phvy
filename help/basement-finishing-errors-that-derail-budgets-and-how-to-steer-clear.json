@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Basement Finishing Errors That Derail Budgets and How to Steer Clear",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Turning an unfinished basement into polished living space is exciting, but common errors can quickly compromise your investment. Here are frequent mistakes and how to avoid them:\n\n- Trapping Moisture Behind Insulation: Placing standard fiberglass against damp foundation walls invites mold; foundation cracks must be sealed and appropriate vapor barriers or rigid insulation used.\n- Blocking Access to Critical Utilities: Boxed-in water shutoffs, electrical junction boxes, or cleanouts without access panels create major headaches during emergency repairs.\n- Overlooking Emergency Egress Rules: Adding a finished bedroom without an approved egress window violates residential building codes and creates a serious safety hazard.\n- Neglecting Floor Level and Drainage: Laying luxury vinyl or laminate over uneven, damp concrete without moisture testing or leveling leads to separated seams and cupping.\n- Skipping Trade Inspections: Hanging drywall before rough plumbing, electrical, and gas lines are inspected by the local building official risks having to tear walls back open.\n- Underestimating Heating and Ventilation: Forgetting dedicated return air runs leaves finished basements cold, musty, and poorly ventilated.\n\nCommon Mistakes to Avoid\nA comprehensive moisture assessment and detailed design keep your project on schedule. Blue Lake Construction manages every phase of basement remodeling throughout Riverton, Herriman, and Taylorsville. Call 385-202-5987 to plan your basement project properly.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-it-better-to-build-an-exterior-addition-or-convert-basement-space-into-a-bedr",
+  "name": "Is it better to build an exterior addition or convert basement space into a bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to build an exterior addition or convert basement space into a bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing basement or attic into a bedroom is generally faster and less disruptive to your lot than building a ground-up addition. An interior conversion uses your existing roof and foundation, avoiding excavation, concrete footing pours, and exterior siding tie-ins. However, interior spaces must meet strict legal requirements, including ceiling height minimums and digging an egress window well in basements. A ground-up addition provides full control over room dimensions and ceiling heights, but it involves higher material costs and site disruption.",
+        "@type": "Answer",
+        "description": "Basement conversions use existing structural shells and cost less, but ground-up additions provide complete control over dimensions, light, and main-floor accessibility."
+      }
+    }
+  ],
+  "description": "Basement conversions use existing structural shells and cost less, but ground-up additions provide complete control over dimensions, light, and main-floor acces"
+}

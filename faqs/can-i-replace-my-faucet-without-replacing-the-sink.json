@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-replace-my-faucet-without-replacing-the-sink",
+  "name": "Can I replace my faucet without replacing the sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my faucet without replacing the sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a kitchen or bathroom faucet does not always mandate a new sink, provided the new fixture matches the existing sink's hole configuration and deck thickness. However, if you are updating kitchen countertops, replacing worn bathroom vanities, or changing sink styles (such as switching to an undermount basin), replacing both elements together is standard practice. Installing the faucet while the sink or countertop is uninstalled makes the installation far simpler and ensures proper alignment of water lines and drains.",
+        "@type": "Answer",
+        "description": "Yes, you can keep your existing sink as long as the new faucet matches the sink’s hole layout and clear deck space."
+      }
+    }
+  ],
+  "description": "Yes, you can keep your existing sink as long as the new faucet matches the sink’s hole layout and clear deck space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-features-are-typically-included-in-a-primary-suite-addition",
+  "name": "What features are typically included in a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features are typically included in a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition typically includes a spacious bedroom area, an attached private bathroom, and dedicated walk-in closet storage. Homeowners often incorporate features like custom tile showers, double vanity countertops, soaking tubs, private water closets, and integrated linen cabinets. Depending on available space and budget, you can also add architectural details such as vaulted ceilings, private patio access, or built-in dressers. Because an addition ties directly into your existing plumbing and electrical systems, the design must account for utility capacity alongside the interior layout. Blue Lake Construction helps configure these layouts to ensure seamless transitions between the new suite and your existing home.",
+        "@type": "Answer",
+        "description": "A primary suite addition typically includes a spacious bedroom, a private en-suite bathroom with custom features, and walk-in closet space tailored to your layout."
+      }
+    }
+  ],
+  "description": "A primary suite addition typically includes a spacious bedroom, a private en-suite bathroom with custom features, and walk-in closet space tailored to your layo"
+}

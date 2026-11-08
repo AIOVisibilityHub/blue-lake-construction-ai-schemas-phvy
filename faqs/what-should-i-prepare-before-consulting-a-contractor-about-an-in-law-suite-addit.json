@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-an-in-law-suite-addit",
+  "name": "What should I prepare before consulting a contractor about an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling your initial design consultation, take time to gather essential details about your property and your family's daily routine. Determine whether the occupant needs complete independence, such as a private outdoor entrance and a kitchenette, or if shared meals in the main kitchen are planned. Document your property boundaries, locate exterior hose bibs and electrical meters, and note any physical mobility requirements. Having an idea of preferred bathroom features, desired square footage, and your overall project budget will help Blue Lake Construction develop a coordinated layout that integrates smoothly with your home's existing architecture.",
+        "@type": "Answer",
+        "description": "Identify the occupant's daily needs, private entrance preferences, accessibility requirements, property boundary details, and your intended project investment range."
+      }
+    }
+  ],
+  "description": "Identify the occupant's daily needs, private entrance preferences, accessibility requirements, property boundary details, and your intended project investment r"
+}

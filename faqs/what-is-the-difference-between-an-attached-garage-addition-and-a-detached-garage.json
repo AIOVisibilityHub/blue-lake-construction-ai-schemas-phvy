@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-an-attached-garage-addition-and-a-detached-garage",
+  "name": "What is the difference between an attached garage addition and a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attached garage addition and a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached garage addition connects directly to your home's structural framing and shares at least one common wall, whereas a detached garage stands completely separate on the lot. An attached layout provides direct, weather-protected access into your living areas and makes running electrical extensions from your existing panel more straightforward. However, an attached build requires careful structural tie-ins to your foundation and roofline, strict fire separation between the garage and living spaces, and sufficient lot setbacks on the side of your house. Detached garages offer more placement flexibility and eliminate vehicle noise against bedroom walls, but they require walking outdoors in rain or snow and often involve digging deeper utility trenches across your yard.",
+        "@type": "Answer",
+        "description": "An attached garage shares a wall and connects directly to your home for easy interior access, while a detached garage stands separate on your lot and requires walking outside."
+      }
+    }
+  ],
+  "description": "An attached garage shares a wall and connects directly to your home for easy interior access, while a detached garage stands separate on your lot and requires w"
+}

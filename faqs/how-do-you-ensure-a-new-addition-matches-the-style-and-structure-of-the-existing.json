@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-ensure-a-new-addition-matches-the-style-and-structure-of-the-existing",
+  "name": "How do you ensure a new addition matches the style and structure of the existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure a new addition matches the style and structure of the existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating the addition involves careful structural engineering and architectural alignment. Contractors match exterior materials such as siding, brick, trim, and roofing profiles so the new structure looks original rather than tacked on. Inside, floor transitions must be leveled, ceiling heights aligned, and doorways widened or reconfigured. Mechanical systems like heating, ventilation, air conditioning, and electrical panels must also be evaluated to confirm they can handle the expanded square footage without straining existing equipment.",
+        "@type": "Answer",
+        "description": "We coordinate rooflines, exterior siding, and interior trim while aligning floor heights and upgrading HVAC and electrical systems for seamless structural continuity."
+      }
+    }
+  ],
+  "description": "We coordinate rooflines, exterior siding, and interior trim while aligning floor heights and upgrading HVAC and electrical systems for seamless structural conti"
+}

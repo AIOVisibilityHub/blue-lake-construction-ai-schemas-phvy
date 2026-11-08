@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-my-kitchen-for-countertop-installation-day",
+  "name": "How should I prepare my kitchen for countertop installation day?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen for countertop installation day?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installers arrive, clear everything off your existing surfaces and empty all base cabinets beneath the work areas. Installers need direct access to secure brackets, attach undermount sinks, and fasten mechanical clips. Create a clear walking path from your home entrance to the kitchen to accommodate heavy stone slabs. Disconnect plumbing to the existing sink and shut off the water supply before tear-out begins to ensure an efficient, safe workspace.",
+        "@type": "Answer",
+        "description": "Clear off counters, empty base cabinets beneath work zones, clear a wide path from the entryway, and disconnect the sink plumbing and water supply lines."
+      }
+    }
+  ],
+  "description": "Clear off counters, empty base cabinets beneath work zones, clear a wide path from the entryway, and disconnect the sink plumbing and water supply lines."
+}

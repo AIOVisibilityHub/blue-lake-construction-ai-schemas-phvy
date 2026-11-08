@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-between-stainless-steel-composite-granite-and-fireclay-sinks",
+  "name": "How do I choose between stainless steel, composite granite, and fireclay sinks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between stainless steel, composite granite, and fireclay sinks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stainless steel is lightweight, heat-resistant, and forgiving against dropped dishware, though thinner gauges can be noisier and show water spots. Composite granite offers superior scratch resistance and uniform color throughout, but its rigid surface requires careful handling of delicate glassware. Fireclay and cast iron deliver timeless durability and deep gloss, yet their immense weight requires robust cabinet reinforcement. Balancing how your household cooks, cleans, and maintains surfaces determines the ideal choice.",
+        "@type": "Answer",
+        "description": "Choose stainless steel for low-maintenance durability, composite granite for scratch resistance, or fireclay for classic styling backed by heavy cabinet support."
+      }
+    }
+  ],
+  "description": "Choose stainless steel for low-maintenance durability, composite granite for scratch resistance, or fireclay for classic styling backed by heavy cabinet support"
+}

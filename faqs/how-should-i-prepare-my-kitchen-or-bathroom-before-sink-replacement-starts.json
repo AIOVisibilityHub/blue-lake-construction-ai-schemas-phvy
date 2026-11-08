@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-my-kitchen-or-bathroom-before-sink-replacement-starts",
+  "name": "How should I prepare my kitchen or bathroom before sink replacement starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen or bathroom before sink replacement starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, clear everything out from inside the base cabinet, including cleaning supplies, water filtration canisters, and storage bins. Ensure there is clear physical access from the entryway to the work area so technicians can bring tools and fixtures in without obstruction. It is also wise to locate your home’s main water shutoff valve ahead of time in case the local stop valves beneath the sink are frozen or corroded from age.",
+        "@type": "Answer",
+        "description": "Empty the vanity or base cabinet completely, clear a pathway for the crew, and confirm the location of your home's main water shutoff valve."
+      }
+    }
+  ],
+  "description": "Empty the vanity or base cabinet completely, clear a pathway for the crew, and confirm the location of your home's main water shutoff valve."
+}

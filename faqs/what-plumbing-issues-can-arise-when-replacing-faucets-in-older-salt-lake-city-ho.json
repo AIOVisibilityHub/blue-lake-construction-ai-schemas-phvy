@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-plumbing-issues-can-arise-when-replacing-faucets-in-older-salt-lake-city-ho",
+  "name": "What plumbing issues can arise when replacing faucets in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing issues can arise when replacing faucets in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older Salt Lake Valley homes, especially historic properties in neighborhoods like Sugar House, The Avenues, or East Central, often feature legacy galvanized pipes or aged copper lines. In these homes, shutoff valves frequently freeze or fail to seal completely, requiring new quarter-turn stops before installing modern fixtures. Additionally, mineral buildup from regional hard water can restrict flow. Updating underlying supply connections during a remodel protects new high-end faucets from sudden pressure drops and leaks.",
+        "@type": "Answer",
+        "description": "Older homes often have fragile galvanized piping and seized shutoff valves that should be updated to modern quarter-turn stops when installing new faucets."
+      }
+    }
+  ],
+  "description": "Older homes often have fragile galvanized piping and seized shutoff valves that should be updated to modern quarter-turn stops when installing new faucets."
+}

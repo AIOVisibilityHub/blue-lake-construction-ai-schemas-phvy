@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-make-an-addition-feel-like-a-natural-part-of-the-original-home",
+  "name": "How do you make an addition feel like a natural part of the original home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you make an addition feel like a natural part of the original home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful transition depends on unifying visual lines, matching structural heights, and blending architectural finishes. Blue Lake Construction ensures cohesion by aligning ceiling heights where possible, matching baseboard and casing profiles, and feathering new drywall into old framing. Flooring choices play a critical role: matching and refinishing existing hardwood across the threshold creates continuity, while transitional thresholds work best when moving between distinctly different materials like tile and wood.",
+        "@type": "Answer",
+        "description": "Aligning ceiling heights, matching millwork profiles, feathering drywall, and weaving continuous flooring ensure the addition blends seamlessly."
+      }
+    }
+  ],
+  "description": "Aligning ceiling heights, matching millwork profiles, feathering drywall, and weaving continuous flooring ensure the addition blends seamlessly."
+}

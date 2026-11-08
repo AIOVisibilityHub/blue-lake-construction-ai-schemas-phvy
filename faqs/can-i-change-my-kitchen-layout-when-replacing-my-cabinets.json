@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-change-my-kitchen-layout-when-replacing-my-cabinets",
+  "name": "Can I change my kitchen layout when replacing my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my kitchen layout when replacing my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing cabinets often presents the ideal opportunity to adjust your existing floor plan. Because existing cabinets are removed down to the drywall and framing, you can shift sink locations, open up walls to adjacent dining areas, or build a central island with integrated seating. Changing your layout does require additional preparation, as supply lines, drains, and electrical circuits must be re-routed through subfloors or open walls before the new cabinetry is set. Careful floor plan drawings ensure that clearances around appliances and walkways remain comfortable.",
+        "@type": "Answer",
+        "description": "Yes. Replacing cabinets allows you to reconfigure work zones, add islands, or remove walls, provided plumbing and electrical lines are updated during rough-in."
+      }
+    }
+  ],
+  "description": "Yes. Replacing cabinets allows you to reconfigure work zones, add islands, or remove walls, provided plumbing and electrical lines are updated during rough-in."
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Full Home Remodels: What to Plan Before Work Begins",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tackling a major renovation across multiple rooms requires a clear plan from day one. When you remodel several spaces together, you get consistent finishes, updated plumbing and electrical work, and a layout that actually flows with how you live every day.\n\nWhat to Expect During the Process\nA successful whole-home update follows a clear sequence. First, you define priorities, review structural needs, and set realistic allowances. Next, plans are drafted and municipal permits are pulled before anyone swings a hammer. Once demolition happens, licensed trades update rough wiring, pipes, and framing behind the walls. After building inspections pass, insulation and drywall go up, followed by custom cabinetry, trim carpentry, flooring, and interior paint. For example, a homeowner in Sugar House opened up their main floor by taking down partition walls between the kitchen and living room while updating bathroom plumbing at the same time.\n\nReady to start? Call Ryan and the team at Blue Lake Construction at 385-202-5987 to talk through your scope and schedule an estimate.",
+  "datePublished": "2026-11-08"
+}

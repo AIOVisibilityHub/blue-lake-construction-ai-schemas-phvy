@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Planning an Interior Remodel for Your Salt Lake Valley Home",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a complete interior remodel involves far more than picking out new paint colors or updating trim. When you want to refresh multiple living spaces, having clear expectations keeps your budget intact and ensures the finished rooms match your everyday lifestyle. \n\nKey benefits of a coordinated renovation include better lighting, modern fixtures, and cohesive finishes throughout your home. Rather than tackling disconnected updates room by room, an integrated approach handles electrical wiring, plumbing, and finish carpentry together under one organized timeline.\n\nWhat to Expect During the Process:\nA successful project moves through several distinct phases. First, you define your scope and budget while documenting current conditions. Next, detailed plans and material specifications are prepared. Before any construction starts, required building permits must be confirmed and pulled. Once rough electrical and plumbing updates are installed, mandatory municipal inspections take place before walls are closed up, followed by trim work, flooring, and final cleanup.\n\nA common pitfall is hiring based purely on the lowest estimate without checking what is included for waste removal, inspections, or change orders.\n\nReady to plan your home update? Reach out to Ryan and the team at Blue Lake Construction in Salt Lake City at 385-202-5987 to talk through your project goals.",
+  "datePublished": "2026-11-08"
+}

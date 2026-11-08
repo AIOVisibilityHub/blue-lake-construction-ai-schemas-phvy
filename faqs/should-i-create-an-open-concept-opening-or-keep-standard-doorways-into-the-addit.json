@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-create-an-open-concept-opening-or-keep-standard-doorways-into-the-addit",
+  "name": "Should I create an open-concept opening or keep standard doorways into the addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I create an open-concept opening or keep standard doorways into the addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modifying interior spaces for an addition often means choosing between an open-concept layout or maintaining traditional room separation. Creating a wide, open walkway improves traffic flow and brings natural light deeper into older parts of the home. However, it requires larger structural support beams, temporary shoring, and potential ductwork relocation. Preserving a standard cased doorway reduces structural restructuring and lower drywall patching needs, but it can leave the new addition feeling somewhat detached.",
+        "@type": "Answer",
+        "description": "Open openings improve light and traffic flow but require larger beams; standard doorways cost less structurally but may feel less integrated."
+      }
+    }
+  ],
+  "description": "Open openings improve light and traffic flow but require larger beams; standard doorways cost less structurally but may feel less integrated."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-three-season-and-a-four-season-sunroom-addition",
+  "name": "What is the difference between a three-season and a four-season sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a three-season and a four-season sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A four-season sunroom is built as a fully integrated extension of your living space, whereas a three-season room is designed primarily for spring through autumn. A four-season addition includes full insulation, high-efficiency double or triple-pane glass, and dedicated heating and cooling, such as an extension of your HVAC system or a mini-split. A three-season room uses lighter framing and minimal insulation, which makes it less comfortable during cold winter months. Choosing between them comes down to whether you want daily year-round square footage or a budget-conscious, enclosed seasonal space.",
+        "@type": "Answer",
+        "description": "A four-season sunroom includes full insulation and HVAC integration for year-round living, while a three-season room lacks climate control and is built for spring through autumn use."
+      }
+    }
+  ],
+  "description": "A four-season sunroom includes full insulation and HVAC integration for year-round living, while a three-season room lacks climate control and is built for spri"
+}

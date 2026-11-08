@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-starting-interior-remodeling-for-a-home-addition",
+  "name": "What should I prepare before starting interior remodeling for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting interior remodeling for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before breaking through interior walls, homeowners should locate structural and utility elements behind the boundary. Identify whether the shared wall is load-bearing, locate existing plumbing stacks, and assess electrical panels to determine if extra breaker space exists for the expansion. Gathering original blueprints or previous remodel permits helps project managers plan header placements and avoid unexpected disruptions to adjacent kitchens, bathrooms, or living spaces.",
+        "@type": "Answer",
+        "description": "Check for load-bearing walls, inspect electrical panel capacity, locate hidden plumbing lines, and gather any original house plans."
+      }
+    }
+  ],
+  "description": "Check for load-bearing walls, inspect electrical panel capacity, locate hidden plumbing lines, and gather any original house plans."
+}

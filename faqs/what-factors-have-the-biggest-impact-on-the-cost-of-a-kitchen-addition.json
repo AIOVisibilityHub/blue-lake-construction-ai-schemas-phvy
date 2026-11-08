@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-kitchen-addition",
+  "name": "What factors have the biggest impact on the cost of a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen addition costs are driven by the total square footage, foundation requirements, structural wall removals, utility relocations, and selected interior finishes. Extending an exterior wall requires new concrete footings, framing, siding, and roofing tie-ins, which add structural labor compared to standard interior remodels. Inside the space, costs vary based on whether you select custom cabinetry, premium stone countertops, expanded plumbing lines for a prep sink, or high-amp electrical circuits for modern commercial-grade appliances. Removing existing load-bearing exterior walls to create an open transition also requires structural steel or engineered lumber, which impacts total investment.",
+        "@type": "Answer",
+        "description": "Costs depend on addition size, foundation type, roof tie-ins, load-bearing wall removal, utility relocations, and your choice of cabinetry and finishes."
+      }
+    }
+  ],
+  "description": "Costs depend on addition size, foundation type, roof tie-ins, load-bearing wall removal, utility relocations, and your choice of cabinetry and finishes."
+}

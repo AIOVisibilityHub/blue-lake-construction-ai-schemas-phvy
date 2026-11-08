@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-kitchen-renovation-should-under-cabinet-lighting-be-planned",
+  "name": "At what stage of a kitchen renovation should under-cabinet lighting be planned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a kitchen renovation should under-cabinet lighting be planned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting is best planned during the initial design phase before drywall, electrical rough-in, and custom cabinet installation begin. Planning ahead allows electricians to run low-voltage wiring behind wall studs and through designated cabinet framing points before the backsplash goes in. If you delay until after cabinet and tile installation, adding hardwired lighting becomes significantly more complex and may require cutting drywall or running exposed wire tracks. Working with your remodeling contractor early ensures power supplies, driver locations, and switch locations coordinate smoothly with your overall kitchen layout.",
+        "@type": "Answer",
+        "description": "Plan under-cabinet lighting during the design phase before drywall and electrical rough-ins, allowing wiring to be concealed cleanly behind walls and custom cabinetry."
+      }
+    }
+  ],
+  "description": "Plan under-cabinet lighting during the design phase before drywall and electrical rough-ins, allowing wiring to be concealed cleanly behind walls and custom cab"
+}

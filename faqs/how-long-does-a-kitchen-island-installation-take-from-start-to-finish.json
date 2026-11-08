@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-kitchen-island-installation-take-from-start-to-finish",
+  "name": "How long does a kitchen island installation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen island installation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a custom kitchen island as part of a kitchen remodel generally takes between one and three weeks once cabinetry arrives, depending on utilities and countertop materials. The rough carpentry, wiring, and plumbing rough-ins take several days, followed by cabinet anchoring, electrical trim, and templating. Fabricating stone or quartz countertops adds roughly one to two weeks between initial template measurement and final placement. Once the slab is set, final sink connections, under-cabinet lighting, and finish trim take another couple of days.",
+        "@type": "Answer",
+        "description": "A kitchen island installation usually takes one to three weeks once materials arrive, with countertop templating and fabrication requiring the largest share of time."
+      }
+    }
+  ],
+  "description": "A kitchen island installation usually takes one to three weeks once materials arrive, with countertop templating and fabrication requiring the largest share of"
+}

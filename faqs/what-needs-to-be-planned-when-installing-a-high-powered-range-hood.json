@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-needs-to-be-planned-when-installing-a-high-powered-range-hood",
+  "name": "What needs to be planned when installing a high-powered range hood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be planned when installing a high-powered range hood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ventilation hoods require careful planning for duct size, exterior exhaust routes, and make-up air requirements. Range hoods should exhaust directly to the exterior of the home through rigid metal ducting rather than into an attic, crawlspace, or interior wall. High-powered professional hoods exceeding 400 CFM often require a dedicated make-up air system to replace exhausted air and prevent backdrafting from water heaters or furnaces. Determining the duct pathway through exterior walls or the roof deck is a critical step handled during the framing and mechanical rough-in stage.",
+        "@type": "Answer",
+        "description": "High-powered hoods require planning rigid exterior duct pathways, adequate electrical circuits, and potentially a make-up air damper system if airflow exceeds 400 CFM."
+      }
+    }
+  ],
+  "description": "High-powered hoods require planning rigid exterior duct pathways, adequate electrical circuits, and potentially a make-up air damper system if airflow exceeds 4"
+}

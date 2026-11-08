@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-new-countertops-be-installed-on-my-existing-kitchen-cabinets",
+  "name": "Can new countertops be installed on my existing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new countertops be installed on my existing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can reuse existing cabinets if they are structurally sound, level, and capable of bearing heavy loads. Materials like granite and quartz weigh between 15 and 25 pounds per square foot, so cabinets with sagging frames, water damage, or weak fasteners cannot safely support them. If your current layout works well and the cabinet boxes are in prime condition, you can replace just the countertops. If you plan to change your kitchen layout, replacing cabinets and counters together is the better approach.",
+        "@type": "Answer",
+        "description": "Yes, provided existing cabinets are completely level, structurally sound, and undamaged. Heavy stone requires sturdy framing without water damage or settling."
+      }
+    }
+  ],
+  "description": "Yes, provided existing cabinets are completely level, structurally sound, and undamaged. Heavy stone requires sturdy framing without water damage or settling."
+}

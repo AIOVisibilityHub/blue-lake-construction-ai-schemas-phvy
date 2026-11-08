@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Whole-House Renovations: Managing a Cohesive Build",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A whole-house renovation transforms an entire property, bringing structural integrity, updated systems, and modern comfort under one cohesive plan. Instead of living through endless disjointed projects, a complete renovation tackles everything from the subfloors to the ceiling framing at once.\n\nWhat to Expect During the Process\nA whole-house project begins with assessing existing conditions and structural framing. Coordinated drawings and specifications are drawn up, and permit applications are submitted to local officials. Demolition follows, opening walls so licensed specialists can complete rough-in mechanical, electrical, and plumbing updates. Once framing and rough inspections pass, insulation and drywall are hung. Finish carpenters install trim, cabinetry, interior doors, and custom built-ins, followed by painting, flooring installation, and final fixture connections. For instance, a family in Cottonwood Heights updated their entire 1970s split-level by reconfiguring the kitchen, replacing all plumbing, and finishing the basement into usable living space.\n\nTo discuss your whole-house renovation goals, contact Blue Lake Construction at 385-202-5987 to get started on your estimate.",
+  "datePublished": "2026-11-08"
+}

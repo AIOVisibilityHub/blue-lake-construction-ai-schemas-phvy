@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-a-bump-out-addition",
+  "name": "What is a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out addition is a micro-extension that expands an existing room outward by roughly two to ten feet without building a full-scale room addition. Rather than creating an entirely new standalone space, a bump-out enhances the footprint of a room you already use. Homeowners commonly use bump-outs to create space for a kitchen island, insert a dining nook, fit a double vanity or soaking tub in a bathroom, or add a walk-in closet to a bedroom. This approach gives you the exact square footage needed for functional layout improvements without consuming substantial yard space or requiring the broader structural support of an entire room build.",
+        "@type": "Answer",
+        "description": "A bump-out addition is a small-scale home extension extending 2 to 10 feet outward to enlarge an existing room, such as adding space for a kitchen island or a larger bathroom vanity."
+      }
+    }
+  ],
+  "description": "A bump-out addition is a small-scale home extension extending 2 to 10 feet outward to enlarge an existing room, such as adding space for a kitchen island or a l"
+}

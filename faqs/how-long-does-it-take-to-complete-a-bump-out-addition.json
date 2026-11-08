@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-bump-out-addition",
+  "name": "How long does it take to complete a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bump-out addition takes roughly two to three months to complete from framing through final interior finishes. The timeline starts with architectural planning, permitting, and exterior staging. Once work begins, framing the extension and cutting the existing exterior wall takes one to two weeks, followed by weatherproofing and roofing tie-ins. The remainder of the schedule involves trades such as plumbing rough-ins, electrical updates, insulation, drywall, exterior siding integration, and interior finishes like tile, flooring, and paint. Specialized custom cabinetry or plumbing fixtures can influence the overall finish schedule.",
+        "@type": "Answer",
+        "description": "Most bump-out additions take about two to three months to complete, depending on structural foundation needs, plumbing requirements, and custom interior finishes."
+      }
+    }
+  ],
+  "description": "Most bump-out additions take about two to three months to complete, depending on structural foundation needs, plumbing requirements, and custom interior finishe"
+}

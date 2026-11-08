@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-ensure-a-new-family-room-addition-blends-in-with-the-existing-home",
+  "name": "How do you ensure a new family room addition blends in with the existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure a new family room addition blends in with the existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seamless integration requires matching both interior architectural details and exterior materials with your original home. During the design and framing phase, rooflines, roof pitch, exterior siding, and trim profiles are coordinated to blend naturally with the existing structure. Inside, continuity is achieved by aligning floor heights, extending matching flooring materials, updating adjacent paint, and carrying consistent baseboards, casing, and lighting design across the boundary between the original house and the new living space.",
+        "@type": "Answer",
+        "description": "We align rooflines, exterior materials, trim profiles, and interior floor levels to ensure the new addition matches the architecture of your existing home."
+      }
+    }
+  ],
+  "description": "We align rooflines, exterior materials, trim profiles, and interior floor levels to ensure the new addition matches the architecture of your existing home."
+}

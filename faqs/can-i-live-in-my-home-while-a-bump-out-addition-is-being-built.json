@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-live-in-my-home-while-a-bump-out-addition-is-being-built",
+  "name": "Can I live in my home while a bump-out addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home while a bump-out addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, you can remain in your home during a bump-out addition, especially if the project involves a single bedroom, dining area, or secondary living space. Contractors erect temporary plastic dust barriers and interior partitions to seal off the work area, keeping dust and drafts out of the main house. However, if the bump-out is part of a complete kitchen remodel or your only full bathroom renovation, you will experience temporary disruption to cooking or bathing facilities. Planning an alternate prep station or temporary bathroom routine ahead of construction is essential.",
+        "@type": "Answer",
+        "description": "Yes, homeowners usually stay in their homes because temporary dust barriers isolate the work zone, though kitchen or sole-bathroom projects cause practical disruptions."
+      }
+    }
+  ],
+  "description": "Yes, homeowners usually stay in their homes because temporary dust barriers isolate the work zone, though kitchen or sole-bathroom projects cause practical disr"
+}

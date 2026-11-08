@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Bathroom Remodeling Contractor: What to Review Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a primary or guest bath update takes more than picking tile samples. Here is a clear guide on evaluating quotes and establishing project scope.\n\nKey Benefits\nA properly planned bathroom remodel enhances daily routines, increases storage, and upgrades ventilation to protect against chronic humidity.\n\nProcess Breakdown\nBegin with detailed measurements and an inspection of your subflooring, framing, and rough plumbing. Next, confirm layout requirements and permitting needs before any demolition starts. Quality installations include verified waterproof assemblies, code-compliant ventilation, and exact plumbing rough-ins before setting vanities, tubs, or custom tile.\n\nReal Examples\nUpdating an older Salt Lake Valley home from an acrylic tub surround to a walk-in tile shower requires checking framing integrity, relocating supply valves, and confirming the drain line size can support a modern shower setup without backing up.\n\nQuestions to Ask Before You Decide\nAlways ask your contractor how they address concealed rot, who handles permitting and trade inspections, and how material lead times get tracked before demo starts.\n\nGet Started\nBlue Lake Construction provides end-to-end bathroom renovations, walk-in showers, and layout updates across Salt Lake City and nearby areas. Call us at 385-202-5987 to talk through your project.",
+  "datePublished": "2026-11-08"
+}

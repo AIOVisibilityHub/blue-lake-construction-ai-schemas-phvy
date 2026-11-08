@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-it-necessary-to-replace-cabinets-instead-of-repairing-or-painting-them",
+  "name": "When is it necessary to replace cabinets instead of repairing or painting them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace cabinets instead of repairing or painting them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your cabinets when the structural boxes are warped, cracked, or sagging, or when your current layout no longer supports how you use the room. Water damage around sinks, mold growth, or broken interior joinery are clear signs that cosmetic fixes will not suffice. Replacement is also the appropriate path if you are upgrading kitchen countertops to heavy natural stone and require sturdy support, or if you plan to reconfigure appliances, add a pantry, or expand storage into adjacent living areas during a remodel.",
+        "@type": "Answer",
+        "description": "Replace cabinets when the structural boxes have water damage, sag, or break, or when you need to change your room layout, upgrade countertops, or add functional storage."
+      }
+    }
+  ],
+  "description": "Replace cabinets when the structural boxes have water damage, sag, or break, or when you need to change your room layout, upgrade countertops, or add functional"
+}

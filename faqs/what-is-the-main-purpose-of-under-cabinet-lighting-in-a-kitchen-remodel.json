@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-main-purpose-of-under-cabinet-lighting-in-a-kitchen-remodel",
+  "name": "What is the main purpose of under-cabinet lighting in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the main purpose of under-cabinet lighting in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting directly illuminates countertop workspaces, eliminating shadows cast by ceiling fixtures and upper cabinetry. During a kitchen remodel, adding task lighting under upper cabinets improves food preparation safety and highlights tile backsplashes and stone countertops. A practical tradeoff involves selecting between hardwired systems and plug-in options. Hardwired fixtures connect directly to wall switches or dimmers for a clean, wire-free look, whereas plug-in fixtures cost less upfront but require visible cords and occupy valuable wall outlets. Integrating this feature early during custom cabinetry and electrical rough-in ensures wires remain completely concealed within the cabinetry framing.",
+        "@type": "Answer",
+        "description": "Under-cabinet lighting provides focused task light on countertops, eliminating shadows cast by overhead fixtures while accenting your backsplash and countertops without visible cords."
+      }
+    }
+  ],
+  "description": "Under-cabinet lighting provides focused task light on countertops, eliminating shadows cast by overhead fixtures while accenting your backsplash and countertops"
+}

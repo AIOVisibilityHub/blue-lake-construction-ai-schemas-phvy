@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-steps-involved-in-replacing-cabinets-during-a-home-remodel",
+  "name": "What are the steps involved in replacing cabinets during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the steps involved in replacing cabinets during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement generally follows a structured multi-step sequence. First, existing cabinets, counters, and connected fixtures are carefully disconnected and removed. Next, trades complete rough-in framing, electrical updates for under-cabinet lighting, and necessary plumbing line shifts. Walls are patched, leveled, and prepared. Once the space is plumb and square, installers secure base and wall cabinets, shim boxes for exact alignment, mount doors and drawer fronts, and install finish trim and molding. Countertop templating, fabrication, and final hardware installation conclude the installation.",
+        "@type": "Answer",
+        "description": "The process includes demo, rough-in utility updates, wall prep, cabinet leveling and mounting, trim installation, countertop templating, and hardware placement."
+      }
+    }
+  ],
+  "description": "The process includes demo, rough-in utility updates, wall prep, cabinet leveling and mounting, trim installation, countertop templating, and hardware placement."
+}

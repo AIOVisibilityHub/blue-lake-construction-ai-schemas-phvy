@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-point-during-a-kitchen-remodel-is-the-backsplash-installed",
+  "name": "At what point during a kitchen remodel is the backsplash installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point during a kitchen remodel is the backsplash installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backsplash installation occurs after your countertops and upper cabinets are fully secured, but before final electrical faceplates and plumbing trim are placed. This sequencing ensures the tile meets the solid surface of the counter with an exact seam and fits neatly around cabinet light rails. If you are adding under-cabinet lighting or moving outlets, all rough-in electrical work must be completed before the tile wall board goes up. Blue Lake Construction coordinates this step within broader kitchen remodels so surfaces line up without awkward tile cuts or exposed gaps.",
+        "@type": "Answer",
+        "description": "The backsplash is installed after the countertops and upper cabinetry are set in place, but before the final electrical covers and under-cabinet light fixtures are finished."
+      }
+    }
+  ],
+  "description": "The backsplash is installed after the countertops and upper cabinetry are set in place, but before the final electrical covers and under-cabinet light fixtures"
+}

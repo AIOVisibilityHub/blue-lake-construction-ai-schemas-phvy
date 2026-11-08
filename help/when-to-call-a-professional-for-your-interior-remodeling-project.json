@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Your Interior Remodeling Project",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It is easy to start an interior project thinking it is just cosmetic, only to discover you are dealing with complex building systems behind your drywall. Recognizing when a project exceeds basic weekend updates protects both your home's safety and your investment.\n\nWhen Professional Guidance Helps:\n- You are updating wiring, lighting circuits, or your main electrical panel to handle modern appliances.\n- Plumbing fixtures need relocation, or you are adding new supply and drain lines across different rooms.\n- The project touches heating, cooling, or ventilation ducts that affect airflow throughout the house.\n- Moisture barriers, subflooring, or fire separations between living areas require modification.\n- Your local jurisdiction requires formal plan reviews, building permits, and scheduled trade inspections before closing walls.\n- You must coordinate multiple specialty trades, like drywallers, electricians, and finish carpenters, on a strict schedule.\n\nHandling these elements without proper licensing often leads to failed inspections, project delays, or costly teardowns. When your renovation involves mechanical systems or permit requirements, bringing in an experienced team keeps everything up to code. \n\nIf your renovation plans involve trade updates or structural checks, contact Blue Lake Construction at 385-202-5987 to get your project moving on solid ground.",
+  "datePublished": "2026-11-08"
+}

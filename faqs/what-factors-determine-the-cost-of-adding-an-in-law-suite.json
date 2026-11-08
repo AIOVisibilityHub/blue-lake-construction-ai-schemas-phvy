@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-cost-of-adding-an-in-law-suite",
+  "name": "What factors determine the cost of adding an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of adding an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for building an in-law suite depend heavily on whether you are expanding your home's foundation outward or building within the existing structure. Ground-level bump-out additions require excavation, concrete foundation work, exterior tie-ins, and roofing, which increases the overall investment compared to converting existing square footage like a basement. Adding dedicated plumbing lines for a walk-in shower, running separate electrical subpanels, and installing heating and cooling systems also shape the final budget. Blue Lake Construction works with homeowners during initial planning to align room dimensions, custom cabinetry, and plumbing fixtures with their specific project budget.",
+        "@type": "Answer",
+        "description": "In-law suite costs depend on whether you build a new foundation or remodel existing space, plus the complexity of dedicated plumbing, electrical, and HVAC connections."
+      }
+    }
+  ],
+  "description": "In-law suite costs depend on whether you build a new foundation or remodel existing space, plus the complexity of dedicated plumbing, electrical, and HVAC conne"
+}

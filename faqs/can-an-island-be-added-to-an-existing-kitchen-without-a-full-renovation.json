@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-an-island-be-added-to-an-existing-kitchen-without-a-full-renovation",
+  "name": "Can an island be added to an existing kitchen without a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an island be added to an existing kitchen without a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen island can be added to an existing kitchen if adequate walkway clearance exists, but matching flooring and utilities requires careful planning. If the island covers bare subfloor or replaces existing base cabinets, you may need to patch hardwood or replace continuous flooring across the room. Additionally, bringing code-required electrical outlets into a new island means finding an accessible route from the basement, crawlspace, or ceiling to pull wiring without damaging surrounding finished surfaces.",
+        "@type": "Answer",
+        "description": "Yes, provided there is enough clearance, though patching flooring and routing electrical lines through the subfloor are key technical details to resolve."
+      }
+    }
+  ],
+  "description": "Yes, provided there is enough clearance, though patching flooring and routing electrical lines through the subfloor are key technical details to resolve."
+}

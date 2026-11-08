@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-overall-cost-of-cabinet-replacement",
+  "name": "What factors determine the overall cost of cabinet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the overall cost of cabinet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall investment for cabinet replacement depends on the linear footage of cabinetry, the construction grade, and custom interior features. A modest powder room vanity replacement requires far fewer materials than a comprehensive kitchen remodel involving perimeter units, a large central island, and floor-to-ceiling pantry cabinets. Key drivers of cost include box construction materials, drawer glide systems, custom organizational inserts, integrated under-cabinet lighting, and whether wall framing, plumbing, or electrical lines must be relocated to suit a revised floor plan.",
+        "@type": "Answer",
+        "description": "Costs depend on overall linear footage, box materials, door styles, custom storage inserts, and whether layout changes require moving plumbing or electrical lines."
+      }
+    }
+  ],
+  "description": "Costs depend on overall linear footage, box materials, door styles, custom storage inserts, and whether layout changes require moving plumbing or electrical lin"
+}

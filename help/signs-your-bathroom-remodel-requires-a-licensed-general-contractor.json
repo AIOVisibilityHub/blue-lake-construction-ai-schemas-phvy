@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Bathroom Remodel Requires a Licensed General Contractor",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "While cosmetic swaps like changing a mirror or cabinet hardware are simple weekend jobs, substantial bathroom alterations need experienced construction oversight. Here are key signals it is time to call in a licensed professional:\n\n- Relocating Plumbing or Supply Lines: Moving a toilet, moving a drain, or converting a tub into a walk-in shower requires structural knowledge so you do not notch joists improperly or run into venting issues.\n- Persistent Water Damage or Soft Flooring: If subflooring yields underfoot or walls show swelling, moisture has seeped into the structure and framing repairs must happen before finishes go up.\n- Upgrading Electrical and Ventilation: Adding dedicated circuits, radiant heat, or quiet, high-capacity exhaust fans to handle moisture buildup demands certified trade work.\n- Pre-1978 Construction: Older homes often feature lead-based paint or older materials that require EPA lead-safe work practices and specialized containment.\n- Removing Partition or Pocket Walls: Altering bathroom walls can impact structural loads or conceal hidden vent stacks.\n\nWhen Professional Guidance Helps\nAttempting major structural or plumbing alterations without general contracting experience risks persistent leaks and failed inspections. Blue Lake Construction handles comprehensive bathroom remodeling throughout Salt Lake City, Sandy, and Millcreek. Contact us at 385-202-5987 to review your space.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-zoning-and-building-rules-in-older-salt-lake-city-neighborhoods-affect-se",
+  "name": "How do zoning and building rules in older Salt Lake City neighborhoods affect second-story additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do zoning and building rules in older Salt Lake City neighborhoods affect second-story additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City neighborhoods like Sugar House, The Avenues, or Harvard-Yale, local zoning ordinances impose strict height limits, setback rules, and historic district design standards. Properties in these areas frequently feature older masonry or stone foundations that need specific seismic and structural upgrades before carrying upper-floor loads. In contrast, newer subdivisions in areas like South Jordan or Riverton generally have standard poured concrete foundations but are often governed by private HOA design review boards with strict rules on exterior materials and rooflines.",
+        "@type": "Answer",
+        "description": "Older areas often enforce strict building height limits, historic review, and older foundation upgrades, whereas newer valley suburbs deal mainly with standard setbacks and HOA rules."
+      }
+    }
+  ],
+  "description": "Older areas often enforce strict building height limits, historic review, and older foundation upgrades, whereas newer valley suburbs deal mainly with standard"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/where-do-stairs-usually-go-when-adding-a-second-story",
+  "name": "Where do stairs usually go when adding a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where do stairs usually go when adding a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an upper story requires sacrificing between 80 and 120 square feet on your main floor to accommodate a standard, code-compliant staircase. Finding the best location involves balancing functional traffic flow with minimal impact on essential spaces like kitchens or living rooms. Often, contractors reconfigure an existing hallway, convert an unused closet, or reduce the size of a secondary bedroom to install the stairs. Planning this placement early is critical because it dictates how you move through both the lower and upper floor plans.",
+        "@type": "Answer",
+        "description": "Stairs typically take 80 to 120 square feet of main-floor space, often repurposed from an existing hallway, large closet, or secondary bedroom to maintain smooth traffic flow."
+      }
+    }
+  ],
+  "description": "Stairs typically take 80 to 120 square feet of main-floor space, often repurposed from an existing hallway, large closet, or secondary bedroom to maintain smoot"
+}

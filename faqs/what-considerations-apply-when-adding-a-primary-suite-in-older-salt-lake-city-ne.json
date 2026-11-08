@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-considerations-apply-when-adding-a-primary-suite-in-older-salt-lake-city-ne",
+  "name": "What considerations apply when adding a primary suite in older Salt Lake City neighborhoods like Sugar House or The Avenues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations apply when adding a primary suite in older Salt Lake City neighborhoods like Sugar House or The Avenues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In historic Salt Lake City neighborhoods such as Sugar House, The Avenues, or the Yalecrest (Harvard-Yale) area, primary suite additions must often adhere to local historic district guidelines and zoning restrictions. These regulations can limit changes to street-facing facades, establish strict height or lot coverage limits, and mandate exterior materials that match the historic character of the home. Additions in these areas frequently require ground-floor rear extensions or carefully designed second-story dormers that remain unobtrusive from the street. Working with a contractor experienced in local municipal building departments ensures compliance with district guidelines.",
+        "@type": "Answer",
+        "description": "Older neighborhoods often have historic district guidelines, strict lot coverage limits, and specific design rules regarding exterior materials, setbacks, and rooflines visible from the street."
+      }
+    }
+  ],
+  "description": "Older neighborhoods often have historic district guidelines, strict lot coverage limits, and specific design rules regarding exterior materials, setbacks, and r"
+}

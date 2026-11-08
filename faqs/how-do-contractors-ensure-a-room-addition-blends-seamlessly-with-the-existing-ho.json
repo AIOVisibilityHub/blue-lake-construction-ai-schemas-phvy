@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-contractors-ensure-a-room-addition-blends-seamlessly-with-the-existing-ho",
+  "name": "How do contractors ensure a room addition blends seamlessly with the existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors ensure a room addition blends seamlessly with the existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching a room addition to your existing home requires thoughtful alignment of rooflines, exterior cladding, and interior transitions. Blue Lake Construction evaluates your exterior roof pitches, siding, brick, and window trim to make the new structure look like an original part of the house rather than an obvious add-on. Inside, craftsmen align subfloor heights, match baseboards and casing profiles, and tie in ceiling planes and flooring to create a unified, continuous look between old and new spaces.",
+        "@type": "Answer",
+        "description": "Contractors match exterior roof pitches, siding, and trim, while carefully leveling subfloors, matching interior moldings, and coordinating flooring transitions inside."
+      }
+    }
+  ],
+  "description": "Contractors match exterior roof pitches, siding, and trim, while carefully leveling subfloors, matching interior moldings, and coordinating flooring transitions"
+}

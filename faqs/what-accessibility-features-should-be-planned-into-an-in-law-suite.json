@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-accessibility-features-should-be-planned-into-an-in-law-suite",
+  "name": "What accessibility features should be planned into an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility features should be planned into an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessibility upgrades should be decided during the initial design phase to ensure doors, hallways, and bathrooms accommodate mobility changes over time. Prioritize wider doorways and zero-threshold entryways connecting the suite to the main home and exterior. In the bathroom, design a barrier-free, curbless walk-in shower with integrated wall backing for secure grab bars, built-in shower benches, and slip-resistant flooring. Comfort-height vanities, rocker-style light switches, and single-handle plumbing faucets also simplify everyday tasks. Incorporating these Universal Design elements during rough framing and plumbing prevents the need for invasive, costly remodels in the future.",
+        "@type": "Answer",
+        "description": "Plan for wider doorways, zero-threshold entries, curbless walk-in showers with grab-bar backing, comfort-height vanities, and slip-resistant flooring from the start."
+      }
+    }
+  ],
+  "description": "Plan for wider doorways, zero-threshold entries, curbless walk-in showers with grab-bar backing, comfort-height vanities, and slip-resistant flooring from the s"
+}

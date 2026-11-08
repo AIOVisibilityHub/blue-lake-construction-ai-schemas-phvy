@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-to-select-my-sink-and-fixtures-before-ordering-countertops",
+  "name": "Do I need to select my sink and fixtures before ordering countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to select my sink and fixtures before ordering countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should choose and purchase your sink and faucet before the countertop templating appointment. Fabricators require the physical sink on-site or its exact manufacturer specification sheet to cut and polish precise openings. Undermount sinks, drop-in basins, and farmhouse apron-front sinks each demand distinct cabinet adjustments and countertop cuts. Securing your sink, faucet, cooktop, and soap dispensers early prevents measurement delays and ensures cutouts match your fixtures exactly.",
+        "@type": "Answer",
+        "description": "Yes. Fabricators need your exact sink, faucet, and cooktop specifications before templating to ensure accurate cutouts and proper fit during installation."
+      }
+    }
+  ],
+  "description": "Yes. Fabricators need your exact sink, faucet, and cooktop specifications before templating to ensure accurate cutouts and proper fit during installation."
+}

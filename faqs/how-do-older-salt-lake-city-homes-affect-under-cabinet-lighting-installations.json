@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-salt-lake-city-homes-affect-under-cabinet-lighting-installations",
+  "name": "How do older Salt Lake City homes affect under-cabinet lighting installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older Salt Lake City homes affect under-cabinet lighting installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in Salt Lake City historic neighborhoods like The Avenues, Harvard-Yale, or Capitol Hill often face unique structural constraints when remodeling older kitchens. Older lath-and-plaster walls, shallow original cabinetry, and ungrounded electrical circuits require careful investigation before adding modern low-voltage systems. In these homes, general contractors often run new dedicated circuits from the main panel through floor joists or basements to avoid damaging historic plaster. Using shallow-depth, high-output LED tape channels ensures modern brightness fits within historic cabinet frames without altering original architectural millwork.",
+        "@type": "Answer",
+        "description": "Older homes with lath-and-plaster walls or original cabinetry often require new dedicated circuit runs from below and shallow fixture profiles to preserve historic trim."
+      }
+    }
+  ],
+  "description": "Older homes with lath-and-plaster walls or original cabinetry often require new dedicated circuit runs from below and shallow fixture profiles to preserve histo"
+}

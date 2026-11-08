@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-do-kitchen-island-countertop-overhangs-require-extra-support",
+  "name": "When do kitchen island countertop overhangs require extra support?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do kitchen island countertop overhangs require extra support?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen island overhangs require hidden steel support brackets when extending past standard cantilever limits. As a general rule, quartz or granite overhangs extending beyond 10 to 12 inches require support brackets mounted to the island frame, or structural corbels spaced every 24 inches. Cantilevering stone without proper reinforcement creates a severe tipping or cracking hazard. Factoring in support requirements during the island design phase ensures stability without interfering with barstool knee clearance.",
+        "@type": "Answer",
+        "description": "Overhangs exceeding 10 to 12 inches require hidden steel brackets or structural corbels spaced every 24 inches to prevent stone cracking and tipping."
+      }
+    }
+  ],
+  "description": "Overhangs exceeding 10 to 12 inches require hidden steel brackets or structural corbels spaced every 24 inches to prevent stone cracking and tipping."
+}

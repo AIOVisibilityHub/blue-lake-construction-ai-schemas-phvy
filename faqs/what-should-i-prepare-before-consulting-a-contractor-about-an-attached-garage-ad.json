@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-an-attached-garage-ad",
+  "name": "What should I prepare before consulting a contractor about an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a general contractor for an attached garage addition, gather your property survey or plot plan to verify your property lines and existing setbacks. Check the location of your main electrical panel to see if it has open capacity for garage circuits or electric vehicle charging. Consider how you want the interior entry to connect to your home, such as through a mudroom, kitchen, or hallway. You should also decide whether you need bonus living space above the garage, determine your target budget, and review any neighborhood HOA covenants regarding exterior siding and roof pitches so your builder can coordinate a matching design.",
+        "@type": "Answer",
+        "description": "Locate your property survey, assess your electrical panel's capacity, decide on your interior entry point, and determine if you want storage or living space above the garage."
+      }
+    }
+  ],
+  "description": "Locate your property survey, assess your electrical panel's capacity, decide on your interior entry point, and determine if you want storage or living space abo"
+}

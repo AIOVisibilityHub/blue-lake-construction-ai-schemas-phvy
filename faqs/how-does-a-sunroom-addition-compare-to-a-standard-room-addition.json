@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-a-sunroom-addition-compare-to-a-standard-room-addition",
+  "name": "How does a sunroom addition compare to a standard room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a sunroom addition compare to a standard room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sunroom is engineered with wall-to-wall windows and glass doors to maximize natural light and outdoor views, whereas a standard home addition uses conventional insulated stud walls with standard window openings. The practical tradeoff is light versus wall utility. Sunrooms provide an airy garden atmosphere, but they offer limited interior wall space for hanging artwork, mounting cabinetry, or placing tall furniture. A standard room addition costs less to insulate and temperature-control, but lacks the panoramic, open-air feel that defines a sunroom.",
+        "@type": "Answer",
+        "description": "Sunrooms focus on expansive glass for daylight and outdoor views, while standard additions use conventional insulated walls that provide more privacy and wall storage."
+      }
+    }
+  ],
+  "description": "Sunrooms focus on expansive glass for daylight and outdoor views, while standard additions use conventional insulated walls that provide more privacy and wall s"
+}

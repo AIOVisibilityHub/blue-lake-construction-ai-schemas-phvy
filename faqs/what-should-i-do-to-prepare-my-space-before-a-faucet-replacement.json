@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-do-to-prepare-my-space-before-a-faucet-replacement",
+  "name": "What should I do to prepare my space before a faucet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my space before a faucet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before replacement begins, clear all cleaning supplies, baskets, and personal items from the vanity or under-sink cabinet to give the installation team clear access to the plumbing rough-ins. Locate your home’s main water shutoff valve in case the local stop valves under the sink do not hold. If you have already chosen your faucet, have the box, mounting hardware, and specification sheet ready so the crew can verify supply line connections and required clearance.",
+        "@type": "Answer",
+        "description": "Empty the under-sink cabinet, verify where your main water shutoff is located, and keep the new fixture and included hardware on hand for the team."
+      }
+    }
+  ],
+  "description": "Empty the under-sink cabinet, verify where your main water shutoff is located, and keep the new fixture and included hardware on hand for the team."
+}

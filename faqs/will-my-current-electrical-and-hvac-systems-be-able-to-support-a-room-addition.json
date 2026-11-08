@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-my-current-electrical-and-hvac-systems-be-able-to-support-a-room-addition",
+  "name": "Will my current electrical and HVAC systems be able to support a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my current electrical and HVAC systems be able to support a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition requires verifying that your current heating, cooling, and electrical infrastructure can handle extra load. Adding substantial square footage or a primary suite with heated bathroom floors and extensive lighting may require upgrading your main electrical service panel. For heating and cooling, an HVAC specialist checks whether your current furnace and air conditioner have enough capacity to support new ductwork or if a dedicated ductless mini-split system provides a more efficient, independent temperature control solution.",
+        "@type": "Answer",
+        "description": "It depends on existing capacity; some homes support simple duct extensions and open circuits, while others require panel upgrades or dedicated mini-split systems."
+      }
+    }
+  ],
+  "description": "It depends on existing capacity; some homes support simple duct extensions and open circuits, while others require panel upgrades or dedicated mini-split system"
+}

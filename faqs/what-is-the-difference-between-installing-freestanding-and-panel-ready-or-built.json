@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-installing-freestanding-and-panel-ready-or-built",
+  "name": "What is the difference between installing freestanding and panel-ready or built-in appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between installing freestanding and panel-ready or built-in appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard freestanding units slide into pre-measured openings between cabinets and have finished sides, allowing straightforward placement. Panel-ready and built-in appliances mount flush with adjacent cabinetry and often require custom cabinet panels attached directly to the appliance doors to blend into the kitchen design. While built-ins deliver a seamless, high-end appearance, they require exact manufacturer cutout dimensions, precise electrical or plumbing rough-ins behind the unit, and custom finish carpentry during installation, which can increase planning time and overall carpentry labor compared to freestanding models.",
+        "@type": "Answer",
+        "description": "Built-in and panel-ready units sit flush and require custom panels and exact clearances, whereas freestanding models slide into standard openings between cabinets."
+      }
+    }
+  ],
+  "description": "Built-in and panel-ready units sit flush and require custom panels and exact clearances, whereas freestanding models slide into standard openings between cabine"
+}

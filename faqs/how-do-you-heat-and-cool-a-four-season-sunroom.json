@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-heat-and-cool-a-four-season-sunroom",
+  "name": "How do you heat and cool a four-season sunroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you heat and cool a four-season sunroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can heat and cool a four-season sunroom by either extending your home's central HVAC ductwork or installing an independent ductless mini-split heat pump. Because sunrooms feature extensive glass walls, they experience faster heat gain in summer and heat loss in winter than standard drywalled rooms. Extending existing ductwork requires evaluating whether your current furnace and air conditioner have enough capacity to handle the extra volume. A ductless mini-split is often preferred because it offers dedicated zone control without overburdening your primary HVAC system.",
+        "@type": "Answer",
+        "description": "Homeowners typically choose between extending central HVAC ductwork or installing an independent ductless mini-split, which offers dedicated zone temperature control."
+      }
+    }
+  ],
+  "description": "Homeowners typically choose between extending central HVAC ductwork or installing an independent ductless mini-split, which offers dedicated zone temperature co"
+}

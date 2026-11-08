@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a General Contractor for Your Full Home Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about updating several rooms at once? It is easy to wonder if you can manage individual handymen or if you need a licensed general contractor to take the lead. Here are clear signals it is time to bring in professional general contracting oversight:\n\n- Your project involves removing load-bearing walls or changing interior floor plans to create open-concept living.\n- You are updating wiring, main panels, or rough plumbing across kitchens, basements, and multiple bathrooms.\n- Municipal permits and formal building inspections are required by your local building department.\n- You do not have the time to schedule, supervise, and coordinate multiple separate specialty trade crews.\n- Hidden structural or moisture issues appear once existing walls or subfloors are opened up.\n\nWhen multiple trades converge on your house at once, a licensed contractor keeps work compliant, safe, and on schedule. \n\nIf your remodel involves structural changes or complex systems, call Blue Lake Construction at 385-202-5987 to review your plans and get professional guidance.",
+  "datePublished": "2026-11-08"
+}

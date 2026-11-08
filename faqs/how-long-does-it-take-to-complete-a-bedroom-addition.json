@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-bedroom-addition",
+  "name": "How long does it take to complete a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bedroom addition typically spans several months from architectural planning through final inspections. The initial phase involves design work, engineering, and city permitting, followed by excavation, foundation pouring, and framing. Once the exterior shell is weather-tight, trades install electrical wiring, HVAC ductwork, insulation, and drywall before trim and interior finishes are installed. If your addition includes an en-suite bathroom or walk-in closet, plumbing rough-ins and tile work will add time. Unforeseen weather conditions and municipal inspection schedules also influence the overall duration.",
+        "@type": "Answer",
+        "description": "A bedroom addition generally takes several months, covering architectural planning, municipal permitting, foundation work, framing, rough-ins, and final interior finishes."
+      }
+    }
+  ],
+  "description": "A bedroom addition generally takes several months, covering architectural planning, municipal permitting, foundation work, framing, rough-ins, and final interio"
+}

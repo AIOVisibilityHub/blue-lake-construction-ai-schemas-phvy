@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-bump-out",
+  "name": "What should I prepare before consulting a contractor about a bump-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a bump-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor to discuss a bump-out addition, prepare clear details about your property lines and your functional goals. Locate your property survey or plot plan so you know your property boundaries and municipal setback requirements. Measure the current room and identify the exact limitation you want to solve, such as needing four additional feet to add a kitchen island or fit a larger vanity. Gathering photos of exterior siding, rooflines, and interior layout inspirations will also help the builder evaluate structural feasibility and material transitions during your initial consultation.",
+        "@type": "Answer",
+        "description": "Gather your property survey to check boundary setbacks, note your target interior layout goals, and photograph exterior rooflines and siding for the initial review."
+      }
+    }
+  ],
+  "description": "Gather your property survey to check boundary setbacks, note your target interior layout goals, and photograph exterior rooflines and siding for the initial rev"
+}

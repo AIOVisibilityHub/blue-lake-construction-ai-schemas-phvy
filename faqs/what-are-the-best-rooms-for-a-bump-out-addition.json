@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-best-rooms-for-a-bump-out-addition",
+  "name": "What are the best rooms for a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best rooms for a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common rooms for bump-out additions are kitchens and bathrooms. In kitchens, extending an exterior wall by three to four feet creates adequate clearance to add a center island, expand counter workspace, or install a row of floor-to-ceiling pantry cabinets. In bathrooms, a bump-out provides the extra depth required to install a freestanding soaking tub, expand a standard shower into a walk-in custom tile shower, or accommodate a double-sink vanity. Other common uses include bedroom walk-in closets, mudroom entries, and sunny dining banquettes.",
+        "@type": "Answer",
+        "description": "Kitchens and bathrooms are the most common rooms for bump-outs, providing extra space for islands, pantries, double vanities, or walk-in showers."
+      }
+    }
+  ],
+  "description": "Kitchens and bathrooms are the most common rooms for bump-outs, providing extra space for islands, pantries, double vanities, or walk-in showers."
+}

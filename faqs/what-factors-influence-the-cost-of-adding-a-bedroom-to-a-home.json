@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-adding-a-bedroom-to-a-home",
+  "name": "What factors influence the cost of adding a bedroom to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of adding a bedroom to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall investment for a bedroom addition depends on size, architectural complexity, foundation requirements, and whether plumbing is included. A standard bedroom bump-out requiring only framing, drywall, and electrical costs significantly less than a primary suite featuring an en-suite bathroom and custom walk-in closet. Major cost drivers include tie-ins to existing rooflines, extending HVAC runs or installing mini-split units, and upgrading electrical service panels. Integrating interior hallways to access the new room smoothly can also affect the final project budget.",
+        "@type": "Answer",
+        "description": "Costs are driven by addition size, foundation type, roof tie-in complexity, HVAC extensions, and whether the project includes an en-suite bathroom or custom closet."
+      }
+    }
+  ],
+  "description": "Costs are driven by addition size, foundation type, roof tie-in complexity, HVAC extensions, and whether the project includes an en-suite bathroom or custom clo"
+}

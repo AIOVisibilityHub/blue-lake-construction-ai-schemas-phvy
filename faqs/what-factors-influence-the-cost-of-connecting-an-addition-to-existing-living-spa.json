@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-connecting-an-addition-to-existing-living-spa",
+  "name": "What factors influence the cost of connecting an addition to existing living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of connecting an addition to existing living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of the interior connection depends primarily on the scope of structural framing, utility rerouting, and finish integration. Opening a primary exterior load-bearing wall requires engineered beams and temporary shoring, which increases labor and material costs compared to utilizing existing door openings. Additionally, if the interior connection disrupts existing kitchen cabinetry, bathroom plumbing, or requires whole-floor refinishing to match boards, costs adjust upward to accommodate those adjacent repairs.",
+        "@type": "Answer",
+        "description": "Costs depend on structural beam sizing, utility rerouting in the shared wall, drywall blending, and whether flooring must be matched or replaced."
+      }
+    }
+  ],
+  "description": "Costs depend on structural beam sizing, utility rerouting in the shared wall, drywall blending, and whether flooring must be matched or replaced."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-total-cost-of-building-a-primary-suite-addition",
+  "name": "What factors determine the total cost of building a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the total cost of building a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary significantly based on square footage, foundation requirements, and interior finish selections. Major financial variables include the complexity of plumbing runs for the new bathroom, structural roof tie-ins, and mechanical adjustments such as extending heating and cooling ducts. Luxury finishes like custom tile showers, high-end vanity counters, and specialty lighting will also raise investments compared to standard fixtures. In addition, site-specific factors such as lot slope, utility access, and zoning permit fees influence overall costs. Requesting a comprehensive consultation with a licensed general contractor helps establish an accurate budget based on your scope.",
+        "@type": "Answer",
+        "description": "Total cost depends on overall square footage, foundation and roofing tie-ins, plumbing and electrical extensions, permit fees, and your selection of bathroom and interior finishes."
+      }
+    }
+  ],
+  "description": "Total cost depends on overall square footage, foundation and roofing tie-ins, plumbing and electrical extensions, permit fees, and your selection of bathroom an"
+}

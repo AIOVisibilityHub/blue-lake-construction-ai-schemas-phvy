@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-the-timeline-for-a-kitchen-addition-compare-to-an-interior-kitchen-remo",
+  "name": "How does the timeline for a kitchen addition compare to an interior kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the timeline for a kitchen addition compare to an interior kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition usually takes longer than a standard interior remodel because it includes exterior excavation, concrete curing, weather-tight framing, and exterior siding or roofing. While an interior kitchen update might take several weeks to a few months, building an exterior room addition typically spans several months from site preparation to final walk-through. Factors that influence the timeline include local permit approval speeds, site access for excavation machinery, weather conditions during foundation and framing stages, and lead times on custom-ordered items like cabinetry, windows, and exterior materials.",
+        "@type": "Answer",
+        "description": "Kitchen additions take longer because they require site excavation, foundation pouring, framing, exterior weatherproofing, and final interior finishing."
+      }
+    }
+  ],
+  "description": "Kitchen additions take longer because they require site excavation, foundation pouring, framing, exterior weatherproofing, and final interior finishing."
+}

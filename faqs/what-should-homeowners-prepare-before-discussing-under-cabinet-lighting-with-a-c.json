@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-discussing-under-cabinet-lighting-with-a-c",
+  "name": "What should homeowners prepare before discussing under-cabinet lighting with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before discussing under-cabinet lighting with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with your general contractor, gather your cabinet elevation drawings, list your countertop materials, and identify how you intend to control the lights. Note where cabinet runs are divided by windows, cooktops, or corner transitions, as these breaks require distinct wiring considerations. Decide whether you prefer lighting controlled by a dedicated wall switch, an integrated dimmer, a smart home automation system, or motion sensors. Measuring cabinet face frame lips also helps determine whether standard light strips will be hidden or if your cabinetry package needs custom light rails added.",
+        "@type": "Answer",
+        "description": "Identify cabinet run breaks, choose preferred control switches or dimmers, check countertop reflectivity, and note whether cabinets need added valance trim to hide fixtures."
+      }
+    }
+  ],
+  "description": "Identify cabinet run breaks, choose preferred control switches or dimmers, check countertop reflectivity, and note whether cabinets need added valance trim to h"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-most-common-types-of-pantry-additions-for-a-home",
+  "name": "What are the most common types of pantry additions for a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common types of pantry additions for a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry addition can be built as a reach-in cabinet pantry, a framed walk-in closet pantry, or a bump-out exterior addition. A reach-in cabinet pantry integrates directly alongside existing cabinetry, taking up minimal floor space while using pull-out shelving. A framed walk-in pantry converts adjacent interior square footage—such as an underutilized closet, hallway alcove, or laundry area—into a dedicated storage room. A bump-out addition physically expands the home footprint to create extra kitchen depth. The right option depends on your available floor plan, whether you want open shelving or enclosed cabinets, and your overall project scope.",
+        "@type": "Answer",
+        "description": "Common pantry additions include built-in cabinet pantries, converted walk-in closets, and bump-out home additions that expand the kitchen footprint."
+      }
+    }
+  ],
+  "description": "Common pantry additions include built-in cabinet pantries, converted walk-in closets, and bump-out home additions that expand the kitchen footprint."
+}

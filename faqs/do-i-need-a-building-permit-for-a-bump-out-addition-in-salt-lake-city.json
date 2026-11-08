@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-a-building-permit-for-a-bump-out-addition-in-salt-lake-city",
+  "name": "Do I need a building permit for a bump-out addition in Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a bump-out addition in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a bump-out addition alters the exterior envelope and structural framing of your home, requiring plan review and building permits. In Salt Lake City and across Salt Lake County, municipal building departments review plans to confirm that the extension complies with local structural codes, snow load standards, and setback minimums. Historic overlay districts—such as Sugar House, The Avenues, or the Draper Historic District—may also require architectural review to ensure exterior materials harmonize with neighborhood standards. A licensed general contractor handles the construction drawings, submits permit applications, and schedules required structural inspections.",
+        "@type": "Answer",
+        "description": "Yes, building permits are required across Salt Lake City and the valley to verify structural engineering, insulation compliance, and property line setbacks."
+      }
+    }
+  ],
+  "description": "Yes, building permits are required across Salt Lake City and the valley to verify structural engineering, insulation compliance, and property line setbacks."
+}

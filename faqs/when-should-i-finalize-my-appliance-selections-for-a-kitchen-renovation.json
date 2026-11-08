@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-should-i-finalize-my-appliance-selections-for-a-kitchen-renovation",
+  "name": "When should I finalize my appliance selections for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I finalize my appliance selections for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting all kitchen appliances before building or ordering custom cabinetry is essential. Cabinet makers and installers rely on exact manufacturer specification sheets to frame cutouts, plan ventilation clearances, accommodate door swings, and set countertop heights. If appliance models change late in the renovation, existing cabinet openings or island depths may not fit the new units, leading to costly structural modifications or delivery delays. Having final model numbers confirmed during initial layout design guarantees every appliance fits smoothly into place.",
+        "@type": "Answer",
+        "description": "Finalize all appliance choices during initial design planning so cabinet cutouts, counter depths, and utility rough-ins match exact manufacturer specifications."
+      }
+    }
+  ],
+  "description": "Finalize all appliance choices during initial design planning so cabinet cutouts, counter depths, and utility rough-ins match exact manufacturer specifications."
+}

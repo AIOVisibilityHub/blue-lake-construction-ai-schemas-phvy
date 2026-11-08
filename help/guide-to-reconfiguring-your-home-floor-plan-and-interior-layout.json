@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Reconfiguring Your Home Floor Plan and Interior Layout",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Opening up cramped rooms or converting to an open-concept layout can dramatically improve everyday flow, natural light, and usable space. However, modifying an existing floor plan requires thorough structural and mechanical planning before any demolition begins.\n\nA major benefit of layout reconfiguration is creating shared gathering spaces that fit modern routines. Repositioning walls lets you add kitchen islands, expand pantries, or build functional primary suites within your existing footprint.\n\nWhat to Prepare Before You Start:\nThe process begins by accurately measuring your current layout and identifying structural constraints, such as posts, headers, and roof-framing loads. Next, detailed drawings show both existing and proposed floor plans, pinpointing where utility lines run. Once plans are drafted and municipal permits are approved, structural supports are installed before old partition or load-bearing walls come down. Finally, electrical, plumbing, and mechanical runs are relocated to fit the new design.\n\nA frequent oversight is forgetting that changing a layout alters natural lighting and room exits. Planning these elements early keeps your living spaces comfortable and code-compliant.\n\nIf you are thinking about opening up your home's layout, connect with the craftsmen at Blue Lake Construction by calling 385-202-5987 to schedule an on-site consultation.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-a-bump-out-addition",
+  "name": "What factors influence the cost of a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bump-out addition depends on structural support requirements, square footage, exterior finish matching, and interior utilities. A cantilevered bump-out that only requires framing, insulation, and basic drywall will sit at the lower end of the project spectrum. Conversely, an extension designed for a master bathroom or kitchen requires plumbing tie-ins, electrical work, custom tile, or cabinetry, which increases labor and material costs. Adding ground footings or concrete piers also adds to the total compared to an ungrounded cantilevered design.",
+        "@type": "Answer",
+        "description": "Costs are driven by whether foundation footings are needed, the square footage added, exterior siding matching, and the complexity of plumbing or electrical work."
+      }
+    }
+  ],
+  "description": "Costs are driven by whether foundation footings are needed, the square footage added, exterior siding matching, and the complexity of plumbing or electrical wor"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-exist-when-adding-a-bedroom-to-older-salt-lake-city-homes",
+  "name": "What challenges exist when adding a bedroom to older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges exist when adding a bedroom to older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a ground-floor bedroom addition in established Salt Lake City neighborhoods often involves tight property boundary setbacks and historic overlay rules. Areas like Sugar House or The Avenues frequently feature narrower lots, requiring precise boundary verifications to ensure new exterior walls do not encroach on required side or rear setbacks. Additionally, older homes in these neighborhoods may have aging electrical services or foundation variations that require upgrades to support new living space. Builders must ensure the exterior siding and roof pitch blend with historic neighborhood architectural styles.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City neighborhoods feature strict boundary setbacks, smaller lot footprints, and aging electrical or foundation systems that need careful coordination."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City neighborhoods feature strict boundary setbacks, smaller lot footprints, and aging electrical or foundation systems that need careful coordi"
+}

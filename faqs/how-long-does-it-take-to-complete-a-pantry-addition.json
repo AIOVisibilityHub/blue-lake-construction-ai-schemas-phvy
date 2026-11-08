@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-pantry-addition",
+  "name": "How long does it take to complete a pantry addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a pantry addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry addition timeline varies from a couple of weeks to several months depending on structural complexity. Converting an existing closet or installing modular custom pantry cabinetry typically takes two to three weeks of on-site construction once materials arrive. A custom framed walk-in pantry involving wall reconfiguration, lighting updates, and finish trim generally requires three to five weeks. If your pantry involves a structural exterior bump-out addition with foundation work and exterior siding, the schedule extends longer to account for framing inspections and weather-dependent exterior tasks.",
+        "@type": "Answer",
+        "description": "A cabinet conversion takes about two to three weeks, while a framed walk-in or structural bump-out pantry can take four weeks or more depending on project scope."
+      }
+    }
+  ],
+  "description": "A cabinet conversion takes about two to three weeks, while a framed walk-in or structural bump-out pantry can take four weeks or more depending on project scope"
+}

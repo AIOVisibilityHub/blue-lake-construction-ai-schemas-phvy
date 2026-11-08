@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-my-electrical-panel-need-an-upgrade-to-support-an-attached-garage-addition",
+  "name": "Will my electrical panel need an upgrade to support an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my electrical panel need an upgrade to support an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most attached garage additions require electrical upgrades, and some homes may need a main panel replacement. Standard garages require dedicated 20-amp circuits for general lighting, receptacles, and automatic door openers. If you plan to charge an electric vehicle, run heavy workshop equipment, or install an electric heater, you will need dedicated 240-volt circuits. During the planning phase, your contractor checks your existing service panel. If your panel is at capacity, you may need a subpanel installed in the new garage or an overall service upgrade to handle the additional electrical demand safely.",
+        "@type": "Answer",
+        "description": "Your panel may need an upgrade or a subpanel if you plan to install electric vehicle chargers, 240-volt workshop tools, or supplemental electric heating."
+      }
+    }
+  ],
+  "description": "Your panel may need an upgrade or a subpanel if you plan to install electric vehicle chargers, 240-volt workshop tools, or supplemental electric heating."
+}

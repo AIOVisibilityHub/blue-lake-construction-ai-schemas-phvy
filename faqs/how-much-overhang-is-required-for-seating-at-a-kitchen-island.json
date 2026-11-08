@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-much-overhang-is-required-for-seating-at-a-kitchen-island",
+  "name": "How much overhang is required for seating at a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much overhang is required for seating at a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop overhangs for island seating typically range from 12 to 18 inches, with 15 inches serving as the standard balance between comfort and room clearance. Standard counter-height islands need 12 inches of knee clearance, while 15 inches gives taller adults comfortable seating. Any stone or quartz countertop overhang exceeding 10 to 12 inches requires hidden steel support brackets or decorative corbels to prevent cracking and support weight safely.",
+        "@type": "Answer",
+        "description": "A comfortable seating overhang is usually 12 to 15 inches, with overhangs past 10 to 12 inches requiring structural steel brackets for stone stability."
+      }
+    }
+  ],
+  "description": "A comfortable seating overhang is usually 12 to 15 inches, with overhangs past 10 to 12 inches requiring structural steel brackets for stone stability."
+}

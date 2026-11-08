@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Kitchen Remodel Requires Trade Permits and Layout Redesign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a worn faucet or swapping out cabinet hardware is easy weekend work, but larger kitchen overhauls trigger formal building codes and trade standards. Knowing when your scope shifts from cosmetic updates to permitted construction keeps your home safe and compliant.\n\n### When Professional Guidance Helps\nLook for these project signals that show it is time to bring in a licensed contractor:\n- Relocating the sink or dishwasher: Running new drain, waste, or supply lines requires plumbing inspections to prevent leaks and venting issues.\n- Adding dedicated appliance circuits: Upgrading to an induction cooktop, wall ovens, or a high-draw microwave demands dedicated electrical home runs and trade permits.\n- Installing exterior-vented range hoods: Punching ductwork through an exterior wall or roof deck requires correct sizing, make-up air planning, and proper flashing.\n- Removing pantry walls or half-walls: Opening the kitchen into an adjoining dining room or living area requires framing review and structural permits.\n- Reconfiguring the core footprint: Moving base cabinets and islands alters walking clearances and outlet spacing dictated by regional building codes.\n\nBringing in an experienced contractor ensures permits, inspections, and trade work pass inspection without delay. Blue Lake Construction coordinates complete kitchen renovations across Cottonwood Heights and Riverton. Call 385-202-5987 to start planning your remodel.",
+  "datePublished": "2026-11-08"
+}

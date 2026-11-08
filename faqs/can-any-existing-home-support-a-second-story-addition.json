@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-any-existing-home-support-a-second-story-addition",
+  "name": "Can any existing home support a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any existing home support a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before framing an upper story, an engineer and general contractor evaluate your existing foundation, footings, and load-bearing walls to verify they can support the weight of a new level. Many single-story homes built decades ago require structural upgrades before framing starts. This process often includes adding concrete underpinning or widening footings, reinforcing foundation walls, and installing new support posts or structural steel beams on the main level. If structural changes are required, they must be addressed on the ground floor before upper-level framing begins.",
+        "@type": "Answer",
+        "description": "Not automatically. A structural engineer and contractor must first inspect your foundation and framing to determine if footings, posts, and bearing walls need reinforcement."
+      }
+    }
+  ],
+  "description": "Not automatically. A structural engineer and contractor must first inspect your foundation and framing to determine if footings, posts, and bearing walls need r"
+}

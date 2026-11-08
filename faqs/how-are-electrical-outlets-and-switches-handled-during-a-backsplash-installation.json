@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-electrical-outlets-and-switches-handled-during-a-backsplash-installation",
+  "name": "How are electrical outlets and switches handled during a backsplash installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are electrical outlets and switches handled during a backsplash installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard outlets sit flush with drywall, so when tile adds 1/4 to 1/2 inch of thickness to the wall, the electrical boxes sit recessed behind the tile surface. Electricians or remodelers must install box extenders or spacer shims so the outlets and switches mount flush with the face of the new backsplash. Installing extenders complies with local building codes, eliminates wobble when plugging in appliances, and prevents fire hazards. All electrical box adjustments should be planned before the final tile cuts around outlets are set.",
+        "@type": "Answer",
+        "description": "Box extenders are installed so outlets and switches sit flush with the new tile surface, preventing loose fixtures and ensuring compliance with electrical safety codes."
+      }
+    }
+  ],
+  "description": "Box extenders are installed so outlets and switches sit flush with the new tile surface, preventing loose fixtures and ensuring compliance with electrical safet"
+}

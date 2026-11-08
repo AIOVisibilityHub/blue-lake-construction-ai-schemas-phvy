@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional Contractor for a Whole-House Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Undergoing a major renovation raises serious logistical questions, especially around daily living arrangements and site safety. Here are key signals that indicate it is time to call a professional contractor and evaluate temporary housing:\n\n- Daily utility shutoffs: Rough electrical rewiring and whole-house repiping mean water and power will be cut for extended stretches.\n- Multiple active work zones: Having crews working in your kitchen and all bathrooms simultaneously leaves no functioning spaces for cooking or personal hygiene.\n- Structural modifications: Removing structural posts or reframing bearing walls requires shoring, heavy equipment, and dust containment that make the home unsafe for kids or pets.\n- Widespread airborne debris: Demolition and drywall sanding throughout the main living areas impact interior air quality, even with plastic barriers.\n- Fast-track timelines: Vacating the home allows trade crews to work across multiple rooms at once without spending hours cleaning up daily living paths.\n\nWhen whole-house work reaches this level of complexity, professional planning keeps your build organized. Call Blue Lake Construction at 385-202-5987 to talk about your project timeline.",
+  "datePublished": "2026-11-08"
+}

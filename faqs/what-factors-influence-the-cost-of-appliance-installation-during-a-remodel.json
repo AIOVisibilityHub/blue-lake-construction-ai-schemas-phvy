@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-appliance-installation-during-a-remodel",
+  "name": "What factors influence the cost of appliance installation during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of appliance installation during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost to install appliances within a kitchen remodel depends on whether units fit existing utility connections or require extensive modifications. Simple slide-in replacements using pre-existing lines carry modest labor costs. Conversely, jobs involving running new 240V electrical lines, re-piping gas supplies, extending plumbing lines across a room for an island sink, building custom integration panels, or venting through multiple exterior roof levels increase trade labor and material expenses. Choosing high-end built-in units also involves more detailed trim and finish carpentry than standard freestanding models.",
+        "@type": "Answer",
+        "description": "Costs depend on whether utility lines must be moved, if electrical panels need upgrades, and whether units are standard slide-in models or complex built-in, panel-ready designs."
+      }
+    }
+  ],
+  "description": "Costs depend on whether utility lines must be moved, if electrical panels need upgrades, and whether units are standard slide-in models or complex built-in, pan"
+}

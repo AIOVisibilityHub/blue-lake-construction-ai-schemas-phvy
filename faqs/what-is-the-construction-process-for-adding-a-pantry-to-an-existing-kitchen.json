@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-construction-process-for-adding-a-pantry-to-an-existing-kitchen",
+  "name": "What is the construction process for adding a pantry to an existing kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the construction process for adding a pantry to an existing kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a pantry involves design planning, rough construction, and finish carpentry. During planning, a general contractor assesses your floor plan, measures clearances, and determines whether walls are load-bearing. Demolition and framing follow, along with any necessary electrical rough-ins for interior outlets and lighting. Once drywall is hung, taped, and painted, carpenters install shelving, custom cabinetry, trim, and doors. A professional contractor manages trade sequencing and material delivery to coordinate the new pantry with your broader kitchen layout.",
+        "@type": "Answer",
+        "description": "The process covers layout planning, framing, rough electrical work, drywall installation, custom shelving or cabinetry, and final trim and painting."
+      }
+    }
+  ],
+  "description": "The process covers layout planning, framing, rough electrical work, drywall installation, custom shelving or cabinetry, and final trim and painting."
+}

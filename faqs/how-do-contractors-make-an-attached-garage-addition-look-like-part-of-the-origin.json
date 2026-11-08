@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-contractors-make-an-attached-garage-addition-look-like-part-of-the-origin",
+  "name": "How do contractors make an attached garage addition look like part of the original house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors make an attached garage addition look like part of the original house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contractors blend an attached garage by mirroring your home's existing roof pitch, eave details, siding materials, and trim styles. A seamless addition uses matching or complementary roofing shingles, paint colors, and window profiles so the new structure looks original rather than tacked on. Inside, the connection point must be planned carefully; converting a window into a doorway or modifying a hallway, laundry room, or mudroom allows smooth passage between spaces. Addressing transition details such as matching interior baseboards, flooring transitions, and step heights ensures the interior connection feels integrated with the rest of the floor plan.",
+        "@type": "Answer",
+        "description": "Builders match roof pitches, siding, trim, and paint, while designing interior access through mudrooms or hallways so the addition aligns with your existing layout."
+      }
+    }
+  ],
+  "description": "Builders match roof pitches, siding, trim, and paint, while designing interior access through mudrooms or hallways so the addition aligns with your existing lay"
+}

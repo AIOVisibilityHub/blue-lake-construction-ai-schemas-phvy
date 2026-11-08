@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-complete-a-family-room-addition",
+  "name": "How long does it take to complete a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a family room addition typically spans several phases, including design, permitting, site preparation, foundation pouring, framing, interior rough-ins, and finish work. Overall project duration depends directly on project scale, structural complexity, permit turnaround times with your local municipality, and material availability. Modifying load-bearing exterior walls to create wide, open-concept transitions into the main house can also add structural steps to the schedule before drywall and interior trim carpentry begin.",
+        "@type": "Answer",
+        "description": "Timelines depend on design complexity, permitting, foundation installation, and finish carpentry, with custom structural tie-ins extending total build duration."
+      }
+    }
+  ],
+  "description": "Timelines depend on design complexity, permitting, foundation installation, and finish carpentry, with custom structural tie-ins extending total build duration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-occur-when-opening-kitchens-in-older-salt-lake-city-homes",
+  "name": "What challenges occur when opening kitchens in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges occur when opening kitchens in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many historic homes in neighborhoods like Sugar House, The Avenues, and Central City feature smaller, compartmentalized rooms and load-bearing interior brick or lath-and-plaster walls. Opening these spaces requires careful structural evaluation, as these older homes often carry roof or second-story loads through central partitions. Remodeling also frequently reveals legacy wiring or plumbing stacks servicing upper floors, requiring tailored rerouting plans to modernize the layout while maintaining the structural integrity of the home.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often feature lath-and-plaster, structural brick, and legacy utilities that require custom beam engineering and careful rerouting."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often feature lath-and-plaster, structural brick, and legacy utilities that require custom beam engineering and careful rerouting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-homeowners-prepare-before-consulting-a-contractor-about-a-pantry-addi",
+  "name": "How should homeowners prepare before consulting a contractor about a pantry addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare before consulting a contractor about a pantry addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a contractor, assess what items you plan to store and measure potential spaces near your kitchen. Take inventory of dry goods, bulk groceries, and small appliances you want off the counter, such as blenders, coffee makers, or air fryers. Identify potential adjacent areas that could be repurposed, such as an awkward hallway closet, an oversized laundry room, or dead space under a staircase. Having a clear inventory and understanding how you use your cooking zones helps the contractor design an efficient storage layout with proper shelf depths.",
+        "@type": "Answer",
+        "description": "List the items and appliances you need to store, identify nearby closets or rooms that could be repurposed, and note how you move through your cooking space."
+      }
+    }
+  ],
+  "description": "List the items and appliances you need to store, identify nearby closets or rooms that could be repurposed, and note how you move through your cooking space."
+}

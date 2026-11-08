@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-a-bathroom-be-added-anywhere-in-a-house",
+  "name": "Can a bathroom be added anywhere in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bathroom be added anywhere in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can be located almost anywhere in a home, but positioning it directly above, below, or adjacent to existing plumbing stacks simplifies the build. Running new water supply lines, electrical circuits, and dedicated vent pipes through attics or crawlspaces is relatively straightforward. The primary technical constraint is the waste line; toilets require a three-inch or four-inch drain pipe sloped properly down to the main sewer line. In homes on concrete slabs or finished basements, trenching concrete or installing specialized sewage ejector pumps may be necessary if gravity drainage cannot be achieved directly.",
+        "@type": "Answer",
+        "description": "Yes, though placing it close to existing plumbing walls is easiest. Away from existing stacks, gravity drainage for waste lines and vent routing determine feasibility."
+      }
+    }
+  ],
+  "description": "Yes, though placing it close to existing plumbing walls is easiest. Away from existing stacks, gravity drainage for waste lines and vent routing determine feasi"
+}

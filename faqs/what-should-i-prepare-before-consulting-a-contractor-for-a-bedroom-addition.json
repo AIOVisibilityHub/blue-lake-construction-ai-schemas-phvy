@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-consulting-a-contractor-for-a-bedroom-addition",
+  "name": "What should I prepare before consulting a contractor for a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor for a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, gather your property survey, mark potential property lines, and clarify your layout goals. Determine whether the room will serve as a child’s bedroom, guest room, or full primary suite with an attached bathroom. Check for exterior obstructions such as buried utility lines, air conditioning condensers, mature trees, or patio slabs where framing will sit. Having your initial budget and target start dates ready helps the builder review feasibility and identify necessary structural connections during the first site walk.",
+        "@type": "Answer",
+        "description": "Gather your property plat or survey, establish your target budget and room purpose, and note any exterior obstacles like utility lines or trees in the build zone."
+      }
+    }
+  ],
+  "description": "Gather your property plat or survey, establish your target budget and room purpose, and note any exterior obstacles like utility lines or trees in the build zon"
+}

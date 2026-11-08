@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-typical-phases-of-a-kitchen-addition-project",
+  "name": "What are the typical phases of a kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical phases of a kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition generally involves design, architectural planning, zoning and building permitting, foundation excavation, structural framing, exterior tie-ins, rough MEP installations, and interior finishing. Before construction starts, your general contractor will assess property setbacks and draft plans that seamlessly connect the new structure to your home's existing roofline and floor system. Once the foundation and weather-tight shell are complete, trades install updated electrical, plumbing, and mechanical lines. Next come drywall, flooring, custom cabinetry, countertops, and appliances. Finally, the contractor completes interior trim, painting, and connections between the new expansion and your main living areas.",
+        "@type": "Answer",
+        "description": "Key phases include architectural planning and permitting, foundation excavation, exterior framing, rough utility updates, drywall, cabinetry, and interior integration."
+      }
+    }
+  ],
+  "description": "Key phases include architectural planning and permitting, foundation excavation, exterior framing, rough utility updates, drywall, cabinetry, and interior integ"
+}

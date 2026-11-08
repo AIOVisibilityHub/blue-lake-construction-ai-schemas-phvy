@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-under-cabinet-lighting-be-added-to-existing-cabinets-without-a-full-kitchen",
+  "name": "Can under-cabinet lighting be added to existing cabinets without a full kitchen tear-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can under-cabinet lighting be added to existing cabinets without a full kitchen tear-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, under-cabinet lighting can be installed on existing cabinets, though wire concealment requires different techniques than during a down-to-the-studs remodel. In an existing kitchen, electricians often route wiring through cabinet interiors, behind false bottoms, or inside color-matched surface raceways beneath the face frames. A primary tradeoff involves power access: if an existing circuit cannot be pulled through finished walls without cutting tile or drywall, a transformer plugged into an existing appliance circuit or pantry outlet may be required. Planning cabinet trim or light rails helps conceal added fixtures and cords.",
+        "@type": "Answer",
+        "description": "Yes, existing cabinets can accommodate lighting using interior cabinet routing, hidden power supplies, or lower light rails to conceal the fixtures and cabling."
+      }
+    }
+  ],
+  "description": "Yes, existing cabinets can accommodate lighting using interior cabinet routing, hidden power supplies, or lower light rails to conceal the fixtures and cabling."
+}

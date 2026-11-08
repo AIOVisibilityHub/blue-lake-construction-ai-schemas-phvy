@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Removing an Interior Wall: What to Verify Before Getting Bids",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking down an interior partition completely changes how your home feels, but it involves much more than swinging a sledgehammer. Before you start collecting bids from local builders, you want a clear picture of what sits behind the drywall and overhead in the framing.\n\n### What Can Change the Right Choice\nEvery wall removal project comes down to structural loads and hidden infrastructure. Here are the core factors that dictate your project scope:\n- Structural framing: Determining if the wall carries weight from ceiling joists, roof rafters, or a second story requires careful attic or basement inspection.\n- Mechanical and plumbing lines: Walls often hide plumbing vents, water supply pipes, or heating ducts that must be relocated rather than simply removed.\n- Electrical routing: Outlets and switches along the partition must be rerouted, often requiring updated wiring back to your main panel.\n- Flooring transitions: Taking out a wall leaves an open gap across your subfloor that requires matching existing hardwood or installing fresh flooring throughout.\n\nWhen structural framing, roof loads, or major utility runs are involved, having a licensed professional handle engineering design and local permits keeps your project safe. Blue Lake Construction helps Salt Lake Valley homeowners plan and execute clean structural changes. Call 385-202-5987 to talk through your floor plan ideas.",
+  "datePublished": "2026-11-08"
+}

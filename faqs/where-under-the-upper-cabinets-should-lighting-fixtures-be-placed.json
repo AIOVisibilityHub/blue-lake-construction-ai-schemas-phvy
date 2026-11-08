@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/where-under-the-upper-cabinets-should-lighting-fixtures-be-placed",
+  "name": "Where under the upper cabinets should lighting fixtures be placed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where under the upper cabinets should lighting fixtures be placed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best placement depends on your countertop finish, cabinet depth, and whether you need task light or ambient glow. Positioning fixtures toward the front underside of the cabinet directs light straight down onto the primary work area without shining into your eyes when seated nearby. If mounted at the very back against the wall, fixtures highlight tile texture but leave the front cutting surface in partial shadow. For glossy quartz or polished granite, placing tape lights in angled aluminum channels with frosted diffusers prevents harsh LED diode reflections on the polished stone surface.",
+        "@type": "Answer",
+        "description": "Mount fixtures near the front edge of the cabinet facing downward to focus light directly on food prep areas and reduce glare on polished countertop surfaces."
+      }
+    }
+  ],
+  "description": "Mount fixtures near the front edge of the cabinet facing downward to focus light directly on food prep areas and reduce glare on polished countertop surfaces."
+}

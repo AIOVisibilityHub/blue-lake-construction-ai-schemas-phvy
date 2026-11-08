@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-an-in-law-suite-addition-and-what-does-it-typically-include",
+  "name": "What is an in-law suite addition and what does it typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite addition and what does it typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite addition is a dedicated secondary living space built onto or within an existing home, designed for aging parents, extended family, or long-term guests. These spaces typically feature a private bedroom, a full or three-quarter bathroom, a sitting or living area, and often a kitchenette or small kitchen. Depending on the lot and existing layout, an in-law suite can be built as a ground-floor bump-out, a second-story extension, or tied into a converted basement remodel. Blue Lake Construction coordinates the framing, electrical, plumbing, and interior remodeling required to seamlessly connect the new addition with the rest of your primary residence.",
+        "@type": "Answer",
+        "description": "An in-law suite is an attached secondary living area featuring a private bedroom, bathroom, living space, and often a kitchenette to accommodate multi-generational living."
+      }
+    }
+  ],
+  "description": "An in-law suite is an attached secondary living area featuring a private bedroom, bathroom, living space, and often a kitchenette to accommodate multi-generatio"
+}

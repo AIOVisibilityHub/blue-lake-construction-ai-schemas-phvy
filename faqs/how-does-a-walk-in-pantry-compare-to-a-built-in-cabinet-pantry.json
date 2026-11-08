@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-a-walk-in-pantry-compare-to-a-built-in-cabinet-pantry",
+  "name": "How does a walk-in pantry compare to a built-in cabinet pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a walk-in pantry compare to a built-in cabinet pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in pantry offers expansive storage and room for small countertop appliances, while a cabinet pantry preserves valuable kitchen floor space. A walk-in pantry allows you to step inside, view inventory on open shelving, and tuck away countertop items like microwaves and stand mixers, but it requires at least 15 to 25 square feet of floor area. A built-in cabinet pantry takes up much less space and blends seamlessly with existing kitchen millwork using deep roll-out drawers, but it cannot accommodate standing prep work or bulky equipment. Homeowners often weigh trading adjacent floor space against keeping an open kitchen layout.",
+        "@type": "Answer",
+        "description": "A walk-in pantry provides dedicated storage and appliance space but requires substantial floor area, while a cabinet pantry saves space and blends with kitchen cabinetry."
+      }
+    }
+  ],
+  "description": "A walk-in pantry provides dedicated storage and appliance space but requires substantial floor area, while a cabinet pantry saves space and blends with kitchen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-switch-and-dimming-options-work-best-for-under-cabinet-lighting-systems",
+  "name": "What switch and dimming options work best for under-cabinet lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What switch and dimming options work best for under-cabinet lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting can be hardwired into a standard wall switch or equipped with dedicated dimmers, motion sensors, or smart home controls. Installing a dedicated low-voltage dimmer on the wall alongside your primary kitchen switches offers the greatest everyday flexibility. This setup allows high-lumen output for detail-oriented food preparation and low-level output for soft evening ambient lighting or nightlights. When designing your kitchen electrical plan, verify that your chosen LED driver matches the specific dimmer technology—such as electronic low voltage (ELV)—to prevent buzzing or flickering.",
+        "@type": "Answer",
+        "description": "Dedicated wall-mounted low-voltage dimmers provide the best balance of bright task lighting and soft night illumination, provided the driver and switch are properly matched."
+      }
+    }
+  ],
+  "description": "Dedicated wall-mounted low-voltage dimmers provide the best balance of bright task lighting and soft night illumination, provided the driver and switch are prop"
+}

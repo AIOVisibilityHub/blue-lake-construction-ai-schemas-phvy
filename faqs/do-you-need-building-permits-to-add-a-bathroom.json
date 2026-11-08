@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-you-need-building-permits-to-add-a-bathroom",
+  "name": "Do you need building permits to add a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you need building permits to add a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom requires building permits, along with dedicated trade permits for plumbing and electrical work. Building plans must comply with local residential codes that govern minimum clearances around toilets and vanities, ceiling heights, proper drain slope, plumbing vent locations, and adequate mechanical exhaust ventilation. When an exterior bump-out or room addition is built, plans must also satisfy local zoning setbacks, property line requirements, and structural engineering standards. Working with a licensed general contractor ensures architectural plans are submitted correctly and every mandatory rough-in and final inspection passes city review.",
+        "@type": "Answer",
+        "description": "Yes, bathroom additions require building, plumbing, and electrical permits to ensure compliance with local building codes, fixture clearances, and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, bathroom additions require building, plumbing, and electrical permits to ensure compliance with local building codes, fixture clearances, and safety standa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-salt-lake-city-homes-affect-backsplash-installation",
+  "name": "How do older Salt Lake City homes affect backsplash installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older Salt Lake City homes affect backsplash installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older residences throughout Salt Lake City neighborhoods like Sugar House, The Avenues, and Central City often feature historic plaster-and-lath walls or settled framing that is out of plumb. Installing tile on uneven plaster can lead to lippage, where individual tile edges project past adjacent pieces. In these historic homes, installers frequently need to shim the wall plane, skim-coat depressions, or install flat cement board before laying tile. Addressing these underlying structural variances first ensures clean grout lines and a straight backsplash surface.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often have uneven plaster walls or settling framing. Installers must flatten the wall surface before tiling to avoid uneven tile edges and crooked grout lines."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often have uneven plaster walls or settling framing. Installers must flatten the wall surface before tiling to avoid uneven tile edge"
+}

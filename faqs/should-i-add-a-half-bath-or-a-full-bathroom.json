@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-add-a-half-bath-or-a-full-bathroom",
+  "name": "Should I add a half-bath or a full bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a half-bath or a full bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a powder room and a full bathroom depends on your household goals and physical layout. A half-bath provides a convenient toilet and sink for guests on the main floor without sacrificing significant living space or budget. A full bathroom adds a shower or tub, which solves daily morning bottlenecks for growing families and provides private facilities for guest bedrooms or in-law suites. If resale value and family utility are the focus, adding a full or three-quarter bath yields greater functional capacity, provided you have the square footage to accommodate the shower footprint.",
+        "@type": "Answer",
+        "description": "Choose a half-bath to give guests convenient main-floor access in small spaces; choose a full bathroom if you need extra shower capacity for family members or overnight guests."
+      }
+    }
+  ],
+  "description": "Choose a half-bath to give guests convenient main-floor access in small spaces; choose a full bathroom if you need extra shower capacity for family members or o"
+}

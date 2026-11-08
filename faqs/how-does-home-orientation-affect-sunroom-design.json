@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-home-orientation-affect-sunroom-design",
+  "name": "How does home orientation affect sunroom design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does home orientation affect sunroom design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The orientation of your sunroom dictates how much heat, glare, and daylight it receives throughout the day. South-facing sunrooms capture maximum sunlight all day, which helps warm the space in winter but demands high-efficiency Low-E glass to prevent overheating in summer. East-facing rooms catch bright morning light with shaded afternoons, making them ideal for breakfast spaces. North-facing additions receive consistent, gentle daylight with minimal direct solar heat gain, while west-facing spaces receive intense late-afternoon sun that often requires solar shades.",
+        "@type": "Answer",
+        "description": "Orientation changes solar exposure: southern exposure maximizes all-day sun, eastern provides gentle morning light, and western exposures require extra shading against afternoon heat."
+      }
+    }
+  ],
+  "description": "Orientation changes solar exposure: southern exposure maximizes all-day sun, eastern provides gentle morning light, and western exposures require extra shading"
+}

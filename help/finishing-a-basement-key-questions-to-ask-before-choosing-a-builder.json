@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Finishing a Basement: Key Questions to Ask Before Choosing a Builder",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finishing lower-level living space adds square footage for guest bedrooms, recreation rooms, or home offices. Here is what to know before moving forward.\n\nKey Benefits\nA finished basement unlocks usable square footage without altering your home’s exterior footprint, giving your family flexible living space, an extra bathroom, or dedicated storage.\n\nProcess Breakdown\nEvery project should begin with foundation and moisture assessments. Sealing foundation cracks, addressing site drainage, and checking for radon or hazardous materials come before anything else. Once dry, framing, rough electrical, plumbing for future bathrooms, insulation, and fire blocking are installed. Only after trade inspections pass should drywall, flooring, trim carpentry, and paint proceed.\n\nReal Examples\nTransforming an unfinished concrete basement into a living suite requires proper framing setbacks, insulating concrete perimeter walls, and confirming emergency egress windows exist before framing a legal bedroom.\n\nWhat to Prepare Before You Start\nCheck the clear height beneath ductwork and main beams, inspect your concrete slab for seasonal dampness, and map out where you need mechanical access panels.\n\nGet Started\nBlue Lake Construction delivers full basement remodeling tailored to your family's needs across South Jordan, Draper, and Salt Lake City. Call 385-202-5987 to discuss your lower-level renovation plans.",
+  "datePublished": "2026-11-08"
+}

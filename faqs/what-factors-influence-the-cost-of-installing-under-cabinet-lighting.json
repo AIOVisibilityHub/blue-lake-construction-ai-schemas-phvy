@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-installing-under-cabinet-lighting",
+  "name": "What factors influence the cost of installing under-cabinet lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of installing under-cabinet lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to add under-cabinet lighting depends on the number of cabinet runs, fixture quality, wiring complexity, and power supply placement. On a standard kitchen renovation, dedicating a portion of the electrical budget covers dedicated circuits, low-voltage transformers, dimmers, and professional installation. Factors that increase scope include routing wires across broken wall sections—such as gaps created by a range hood or window—which require separate wire runs or multiple transformers. Opting for integrated, dimmable LED channels during rough-in reduces labor compared to attempting to retrofit wiring after finishes are complete.",
+        "@type": "Answer",
+        "description": "Costs depend on fixture quality, linear footage, dedicated wall controls, and whether wiring must cross gaps like windows or range hoods requiring multiple drivers."
+      }
+    }
+  ],
+  "description": "Costs depend on fixture quality, linear footage, dedicated wall controls, and whether wiring must cross gaps like windows or range hoods requiring multiple driv"
+}

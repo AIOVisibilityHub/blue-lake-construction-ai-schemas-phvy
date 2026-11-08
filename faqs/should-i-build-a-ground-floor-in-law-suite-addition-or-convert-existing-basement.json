@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-build-a-ground-floor-in-law-suite-addition-or-convert-existing-basement",
+  "name": "Should I build a ground-floor in-law suite addition or convert existing basement space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a ground-floor in-law suite addition or convert existing basement space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a ground-floor addition provides zero-step entries and easier long-term accessibility, but it consumes yard space and requires foundation excavation. Converting an existing basement or building a second-story addition preserves your outdoor footprint and can lower structural costs, but stairs can present mobility barriers for aging relatives unless you add specialized lifts. Ground-level additions also make it simpler to incorporate independent exterior entrances and dedicated patios. Evaluating your property's lot lines, yard use, and the long-term physical mobility needs of your family members helps determine whether building outward or remodeling an existing level is the better path.",
+        "@type": "Answer",
+        "description": "A ground-floor addition ensures step-free accessibility but uses yard space, while a basement conversion preserves outdoor space but introduces stair-related mobility tradeoffs."
+      }
+    }
+  ],
+  "description": "A ground-floor addition ensures step-free accessibility but uses yard space, while a basement conversion preserves outdoor space but introduces stair-related mo"
+}

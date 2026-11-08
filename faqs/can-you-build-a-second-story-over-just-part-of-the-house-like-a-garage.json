@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-you-build-a-second-story-over-just-part-of-the-house-like-a-garage",
+  "name": "Can you build a second story over just part of the house, like a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you build a second story over just part of the house, like a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many homeowners choose to add space only over an attached garage, a flat-roofed rear section, or a single wing of the house. A partial second-story addition reduces the overall scope of roof removal and can lower construction costs compared to raising the entire house. However, it requires careful exterior design to ensure the roofline, siding, and massing blend naturally with the remaining single-story sections. Structural verification is still mandatory, as garage foundations and walls often have different footing depths than the main living areas.",
+        "@type": "Answer",
+        "description": "Yes, partial additions over garages or specific wings are common. They limit roof tear-off but still require structural verification of the lower walls and footings."
+      }
+    }
+  ],
+  "description": "Yes, partial additions over garages or specific wings are common. They limit roof tear-off but still require structural verification of the lower walls and foot"
+}

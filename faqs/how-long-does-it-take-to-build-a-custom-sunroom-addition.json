@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-take-to-build-a-custom-sunroom-addition",
+  "name": "How long does it take to build a custom sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most custom sunroom additions take between eight and sixteen weeks to build once on-site construction begins. The total timeline also involves an initial design, engineering, and permitting phase, which can take several weeks depending on your local city review times. Once permits are approved, the construction sequence proceeds through foundation work, framing, window and glass installation, exterior waterproofing, interior electrical, heating integration, and drywall or trim finishes. Inclement winter weather or complex roofline ties can add time to the schedule.",
+        "@type": "Answer",
+        "description": "On-site construction typically takes 8 to 16 weeks after design and municipal permits are approved, depending on foundation requirements and weather."
+      }
+    }
+  ],
+  "description": "On-site construction typically takes 8 to 16 weeks after design and municipal permits are approved, depending on foundation requirements and weather."
+}

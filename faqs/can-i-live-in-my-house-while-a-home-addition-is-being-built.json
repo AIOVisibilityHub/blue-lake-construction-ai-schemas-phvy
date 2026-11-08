@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-live-in-my-house-while-a-home-addition-is-being-built",
+  "name": "Can I live in my house while a home addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house while a home addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home depends on the scope, location, and structural impact of the addition. For isolated main-floor projects like a family room or bedroom addition, homeowners often remain on-site because temporary dust barriers seal off the construction zone. If your project involves a kitchen expansion, primary bathroom addition, or a second-story build where the roof is temporarily removed, daily utilities and living areas will be disrupted, making temporary off-site lodging much more practical.",
+        "@type": "Answer",
+        "description": "You can often stay during isolated ground-level additions, but whole-house renovations, major kitchen tie-ins, or second-story projects may require temporary relocation."
+      }
+    }
+  ],
+  "description": "You can often stay during isolated ground-level additions, but whole-house renovations, major kitchen tie-ins, or second-story projects may require temporary re"
+}

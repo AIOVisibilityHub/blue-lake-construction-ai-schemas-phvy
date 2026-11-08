@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-it-typically-take-to-complete-a-bathroom-addition",
+  "name": "How long does it typically take to complete a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom addition depends on whether the build is an interior conversion or an exterior structural expansion. Converting existing interior space generally takes several weeks once permits are secured, as framing, rough plumbing, electrical rough-ins, drywall, tile setting, fixture trim, and painting proceed within the existing building envelope. An exterior home addition or bump-out requires more time because the project involves excavation, concrete foundation work, exterior framing, roofing, and weatherproofing before interior trades begin. Plan review and municipal inspections at rough and final stages also factor directly into total project duration.",
+        "@type": "Answer",
+        "description": "Timelines range from several weeks for an interior conversion to a few months for an exterior bump-out addition, depending on framing, plumbing rough-ins, tile work, and inspections."
+      }
+    }
+  ],
+  "description": "Timelines range from several weeks for an interior conversion to a few months for an exterior bump-out addition, depending on framing, plumbing rough-ins, tile"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-zoning-setbacks-and-hoa-rules-affect-primary-suite-additions-in-communiti",
+  "name": "How do zoning setbacks and HOA rules affect primary suite additions in communities like Draper or South Jordan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do zoning setbacks and HOA rules affect primary suite additions in communities like Draper or South Jordan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In communities like Draper, South Jordan, and Sandy, homeowner association design review boards and city setback ordinances frequently dictate addition guidelines. HOAs often require architectural plans to match exterior colors, roof materials, and masonry percentages before construction can begin. Furthermore, residential zoning codes enforce strict boundary setbacks and maximum lot-coverage percentages to preserve drainage and distance between neighboring properties. Homeowners should review their community bylaws and confirm setback distances early during architectural design to avoid costly revisions during the municipal plan-review stage.",
+        "@type": "Answer",
+        "description": "HOA guidelines and city zoning specify exterior material matching, maximum lot coverage, and property-line setbacks that determine where and how large you can build your addition."
+      }
+    }
+  ],
+  "description": "HOA guidelines and city zoning specify exterior material matching, maximum lot coverage, and property-line setbacks that determine where and how large you can b"
+}

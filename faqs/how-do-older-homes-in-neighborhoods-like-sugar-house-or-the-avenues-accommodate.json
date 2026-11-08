@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-older-homes-in-neighborhoods-like-sugar-house-or-the-avenues-accommodate",
+  "name": "How do older homes in neighborhoods like Sugar House or The Avenues accommodate a pantry addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do older homes in neighborhoods like Sugar House or The Avenues accommodate a pantry addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake Valley neighborhoods with compact original kitchen footprints, adding a pantry often involves reclaiming adjacent space rather than expanding outward. Historic homes in areas like Sugar House or The Avenues frequently feature closed layouts with small kitchens, where an exterior addition may be constrained by property lot lines or historic district guidelines. In these properties, contractors often borrow space from an adjacent mudroom, hallway closet, or basement stairwell landing to build functional walk-in or reach-in pantries that respect the original architecture while dramatically improving modern storage.",
+        "@type": "Answer",
+        "description": "Older homes often repurpose adjacent spaces like hallway closets, mudrooms, or stair landings to add storage without altering compact historic footprints."
+      }
+    }
+  ],
+  "description": "Older homes often repurpose adjacent spaces like hallway closets, mudrooms, or stair landings to add storage without altering compact historic footprints."
+}

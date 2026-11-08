@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-choose-a-kitchen-island-or-a-peninsula",
+  "name": "Should I choose a kitchen island or a peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a kitchen island or a peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between an island and a peninsula comes down to room dimensions, traffic flow, and whether you want open circulation or defined room separation. Islands require clearance on all four sides, making them ideal for wide, open-concept floor plans where family members move through the space regularly. Peninsulas attach to a wall, requiring walkway clearance on only three sides, which makes them a more practical choice for L-shaped or U-shaped kitchens with limited square footage.",
+        "@type": "Answer",
+        "description": "Choose an island if your kitchen has ample open width on all four sides; choose a peninsula if floor space is limited and you need efficient boundary seating."
+      }
+    }
+  ],
+  "description": "Choose an island if your kitchen has ample open width on all four sides; choose a peninsula if floor space is limited and you need efficient boundary seating."
+}

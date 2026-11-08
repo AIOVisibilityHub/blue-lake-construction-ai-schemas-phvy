@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-older-homes-in-salt-lake-city-handle-modern-high-power-kitchen-appliances",
+  "name": "Can older homes in Salt Lake City handle modern, high-power kitchen appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can older homes in Salt Lake City handle modern, high-power kitchen appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In historic neighborhoods such as The Avenues, Capitol Hill, or Harvard-Yale in Salt Lake City, older residences frequently feature 60- to 100-amp electrical panels and narrow doorways. Modern induction cooktops, dual-fuel ranges, and high-capacity refrigerators often require dedicated 220V/240V circuits and heavy electrical loads that older panels cannot safely support. During whole-home or kitchen renovations in these areas, we assess existing electrical panels early in the planning phase to determine whether service upgrades and new wiring runs are necessary before installing high-demand appliances.",
+        "@type": "Answer",
+        "description": "Older homes often require electrical panel upgrades and new dedicated wiring to safely support modern high-draw appliances like induction ranges or double wall ovens."
+      }
+    }
+  ],
+  "description": "Older homes often require electrical panel upgrades and new dedicated wiring to safely support modern high-draw appliances like induction ranges or double wall"
+}

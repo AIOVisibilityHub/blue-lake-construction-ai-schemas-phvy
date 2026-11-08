@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-color-temperature-should-be-selected-for-under-cabinet-kitchen-lighting",
+  "name": "What color temperature should be selected for under-cabinet kitchen lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What color temperature should be selected for under-cabinet kitchen lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Color temperature significantly impacts the look of your kitchen materials, and selecting between 2700K and 4000K depends on your finishes. Warm white lighting (2700K to 3000K) complements traditional kitchens, warm wood cabinetry, and earthy granites by creating a cozy, inviting feel. Neutral white (3500K to 4000K) provides crisp clarity, rendering white cabinets, gray quartz, and cool-toned tile accurately without casting yellow tones. When coordinating your kitchen remodel, match or complement the color temperature of your recessed ceiling cans and pendant fixtures to maintain visual harmony across the entire room.",
+        "@type": "Answer",
+        "description": "Choose 2700K–3000K for warm wood tones and traditional styles, or 3500K–4000K for modern designs with white cabinets, cool quartz, and clean task visibility."
+      }
+    }
+  ],
+  "description": "Choose 2700K–3000K for warm wood tones and traditional styles, or 3500K–4000K for modern designs with white cabinets, cool quartz, and clean task visibility."
+}

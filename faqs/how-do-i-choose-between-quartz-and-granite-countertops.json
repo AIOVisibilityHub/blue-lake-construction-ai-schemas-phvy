@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-between-quartz-and-granite-countertops",
+  "name": "How do I choose between quartz and granite countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between quartz and granite countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quartz and granite offer different functional tradeoffs. Quartz is an engineered product that is non-porous, meaning it resists stains and never requires sealing, making it low-maintenance for busy households. Granite is a natural stone with unique slab patterns and superior heat resistance, but it is porous and requires routine sealing to prevent stains. For homeowners balancing durability with low upkeep, quartz is often the top choice, whereas natural stone appeals to those who prioritize one-of-a-kind natural veining and heat tolerance.",
+        "@type": "Answer",
+        "description": "Choose quartz for a non-porous, maintenance-free surface that never needs sealing. Choose granite if you prefer natural, one-of-a-kind slab patterns and higher heat resistance."
+      }
+    }
+  ],
+  "description": "Choose quartz for a non-porous, maintenance-free surface that never needs sealing. Choose granite if you prefer natural, one-of-a-kind slab patterns and higher"
+}

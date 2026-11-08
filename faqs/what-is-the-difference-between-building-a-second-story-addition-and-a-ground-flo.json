@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-building-a-second-story-addition-and-a-ground-flo",
+  "name": "What is the difference between building a second-story addition and a ground-floor addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between building a second-story addition and a ground-floor addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition involves removing all or part of your existing roof structure and building a completely new upper level over your current main floor. A ground-floor bump-out or room extension builds outward across your lot instead. Choosing to go up preserves your yard, landscaping, and existing outdoor patio space, which is especially valuable on smaller urban lots. However, adding an upper floor requires structural reinforcement of the lower floor walls and foundation, plus finding room on the main floor to place a permanent staircase, which takes away existing interior footprint.",
+        "@type": "Answer",
+        "description": "A second-story addition builds upward by replacing your roof, preserving yard space. A ground-floor addition expands your home's footprint outward onto your property."
+      }
+    }
+  ],
+  "description": "A second-story addition builds upward by replacing your roof, preserving yard space. A ground-floor addition expands your home's footprint outward onto your pro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-a-sunroom-structurally-tied-into-an-existing-house",
+  "name": "How is a sunroom structurally tied into an existing house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a sunroom structurally tied into an existing house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting a sunroom requires modifying your exterior wall to create an open doorway, French doors, or a widened structural passage into your main living areas. This process involves installing a structural header to support the load of the existing exterior wall and tying the sunroom’s roofline into your current rafters or fascia. Proper flashing and exterior weatherproofing are critical where the two structures meet to prevent moisture intrusion. Coordinating the interior flooring and trim finishes between the original home and the new addition ensures a seamless transition.",
+        "@type": "Answer",
+        "description": "Contractors install structural headers in the exterior wall, tie the new roof framing into your existing roofline, and install continuous exterior flashing to prevent leaks."
+      }
+    }
+  ],
+  "description": "Contractors install structural headers in the exterior wall, tie the new roof framing into your existing roofline, and install continuous exterior flashing to p"
+}

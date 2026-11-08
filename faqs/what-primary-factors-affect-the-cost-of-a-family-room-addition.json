@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-primary-factors-affect-the-cost-of-a-family-room-addition",
+  "name": "What primary factors affect the cost of a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What primary factors affect the cost of a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Total costs for a family room addition depend primarily on square footage, architectural complexity, foundation requirements, and interior finishes. Key cost factors include whether your foundation requires a crawl space or full basement extension, the scale of exterior roof integration, and whether you choose custom cabinetry or specialty lighting. Opening an existing exterior wall to create an open-concept flow into a kitchen or hallway requires engineered support beams, which adjusts structural framing costs compared to adding a closed-door room.",
+        "@type": "Answer",
+        "description": "Costs depend on room size, foundation type, roofline tie-ins, finish materials, and structural engineering required to open existing exterior walls."
+      }
+    }
+  ],
+  "description": "Costs depend on room size, foundation type, roofline tie-ins, finish materials, and structural engineering required to open existing exterior walls."
+}

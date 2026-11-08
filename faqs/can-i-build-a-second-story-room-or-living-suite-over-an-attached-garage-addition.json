@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-build-a-second-story-room-or-living-suite-over-an-attached-garage-addition",
+  "name": "Can I build a second-story room or living suite over an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build a second-story room or living suite over an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding living space above an attached garage is common, but it requires specific engineering and design adjustments. The ground-level foundation, footings, and support walls must be calculated to support the heavier live and dead loads of an occupied room. The floor system between the garage and the upstairs room requires dense insulation and complete air sealing to block cold air, vehicle exhaust, and engine heat. You must also plan for heating and cooling extensions, staircase access from the main house, and plumbing lines if you plan to incorporate an in-law suite or bathroom.",
+        "@type": "Answer",
+        "description": "Yes, but it requires reinforced foundation footings, heavier floor framing, proper climate control, and comprehensive thermal and air-barrier insulation between levels."
+      }
+    }
+  ],
+  "description": "Yes, but it requires reinforced foundation footings, heavier floor framing, proper climate control, and comprehensive thermal and air-barrier insulation between"
+}

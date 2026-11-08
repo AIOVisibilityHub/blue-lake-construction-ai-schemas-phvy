@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-replace-a-standard-kitchen-sink-with-an-apron-front-farmhouse-sink",
+  "name": "Can I replace a standard kitchen sink with an apron-front farmhouse sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a standard kitchen sink with an apron-front farmhouse sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Switching to a deep farmhouse or apron-front sink requires significant cabinet modifications. Standard base cabinets feature a top false drawer panel that must be cut out or completely removed to expose the sink face. Because fireclay and enameled cast-iron apron sinks can weigh over one hundred pounds empty, custom wood blocking or heavy-duty steel framing must be built inside the cabinet base to support the basin securely before plumbing connection.",
+        "@type": "Answer",
+        "description": "Yes, but it requires removing the cabinet face below the counter and building custom internal structural framing to support the substantial weight of the sink."
+      }
+    }
+  ],
+  "description": "Yes, but it requires removing the cabinet face below the counter and building custom internal structural framing to support the substantial weight of the sink."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-installing-a-dry-island-and-a-wet-island",
+  "name": "What is the difference between installing a dry island and a wet island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between installing a dry island and a wet island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a kitchen island with plumbing or electrical fixtures requires running utility lines through the subfloor or trenching concrete slabs before building the cabinetry. This work adds trade coordination, rough-in inspections, and dedicated circuit installation to the schedule. A basic island with only cabinetry and solid surface counters eliminates trenching and pipe routing, making the installation faster. Homeowners should determine early whether they need secondary prep sinks, dishwashers, or microwave drawers, as retrofitting utilities after flooring goes in is significantly more disruptive.",
+        "@type": "Answer",
+        "description": "A wet island includes plumbing and electrical lines that run through the floor, whereas a dry island only contains cabinetry, storage, and countertops without utility hookups."
+      }
+    }
+  ],
+  "description": "A wet island includes plumbing and electrical lines that run through the floor, whereas a dry island only contains cabinetry, storage, and countertops without u"
+}

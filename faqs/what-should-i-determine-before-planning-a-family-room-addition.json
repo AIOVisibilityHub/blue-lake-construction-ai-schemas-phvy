@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-determine-before-planning-a-family-room-addition",
+  "name": "What should I determine before planning a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I determine before planning a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning an addition starts with confirming property line setbacks, lot coverage limits, and utility placement. Before construction begins, homeowners should establish clear goals for how the space will function, decide whether to open walls connecting to the existing kitchen or living areas, and determine interior storage or media requirements. Identifying your preferred budget range and gathering functional priorities helps our project managers and craftsmen design architectural plans that tie seamlessly into your current rooflines, exterior siding, and interior layout.",
+        "@type": "Answer",
+        "description": "Determine your functional goals, budget parameters, property line setbacks, and how you want the new room to connect to existing interior living spaces."
+      }
+    }
+  ],
+  "description": "Determine your functional goals, budget parameters, property line setbacks, and how you want the new room to connect to existing interior living spaces."
+}

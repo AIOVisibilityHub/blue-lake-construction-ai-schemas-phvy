@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-plumbing-considerations-arise-when-replacing-sinks-in-older-salt-lake-city",
+  "name": "What plumbing considerations arise when replacing sinks in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing considerations arise when replacing sinks in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Salt Lake City homes, particularly in historic neighborhoods like The Avenues, Harvard-Yale, or Sugar House, existing galvanized supply lines or cast-iron drain stacks often require modernizing when replacing fixtures. Connecting modern faucets and sink drains to aging infrastructure may require transitioning to PEX water lines and ABS or PVC drainage behind the wall to prevent leaks and ensure code-compliant venting. Licensed general contractors coordinate these necessary rough-in updates during kitchen or bathroom renovations.",
+        "@type": "Answer",
+        "description": "Older homes often have legacy galvanized or cast-iron pipes that may need transition fittings or modernization to support modern sink depths and fixtures properly."
+      }
+    }
+  ],
+  "description": "Older homes often have legacy galvanized or cast-iron pipes that may need transition fittings or modernization to support modern sink depths and fixtures proper"
+}

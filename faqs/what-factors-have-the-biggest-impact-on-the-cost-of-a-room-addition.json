@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-room-addition",
+  "name": "What factors have the biggest impact on the cost of a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of a room addition depends on its square footage, the type of room being built, and site conditions. A standard family room or bedroom addition with straightforward framing and wiring sits at a lower price point than a primary suite or in-law suite that requires extensive plumbing, custom tile showers, and bathroom vanities. Additional factors influencing your budget include tie-ins to your existing roofline, grading or excavation challenges, structural foundation requirements, and whether your electrical panel or HVAC system needs an upgrade to support the extra space.",
+        "@type": "Answer",
+        "description": "Costs depend on room type, plumbing requirements, roofline tie-ins, foundation work, and whether your electrical or HVAC systems need upgrades to support the extra space."
+      }
+    }
+  ],
+  "description": "Costs depend on room type, plumbing requirements, roofline tie-ins, foundation work, and whether your electrical or HVAC systems need upgrades to support the ex"
+}
