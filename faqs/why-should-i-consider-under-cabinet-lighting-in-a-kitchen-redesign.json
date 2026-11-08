@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-should-i-consider-under-cabinet-lighting-in-a-kitchen-redesign",
+  "name": "Why should I consider under-cabinet lighting in a kitchen redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I consider under-cabinet lighting in a kitchen redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting illuminates dark countertop work zones cast in shadow by overhead fixtures and upper wall cabinets. During a kitchen layout redesign, wiring is routed behind drywall and inside cabinet frames before backsplashes and cabinets are finalized. Homeowners must decide between continuous low-profile LED tape channels and puck lights. Continuous LED strips provide even, seamless illumination across the entire counter surface without creating hot spots, whereas individual puck lights create pools of focused light with darker gaps between them.",
+        "@type": "Answer",
+        "description": "Under-cabinet lights eliminate shadows on countertops caused by upper cabinets, providing continuous, direct task illumination for food preparation."
+      }
+    }
+  ],
+  "description": "Under-cabinet lights eliminate shadows on countertops caused by upper cabinets, providing continuous, direct task illumination for food preparation."
+}

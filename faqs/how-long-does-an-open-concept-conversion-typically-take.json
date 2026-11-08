@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-an-open-concept-conversion-typically-take",
+  "name": "How long does an open-concept conversion typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept conversion typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most open-concept conversions take between several weeks to a couple of months, depending on the full scope of the renovation. If the conversion is part of a larger kitchen overhaul or full home renovation, the timeline extends to accommodate custom cabinetry, countertop fabrication, flooring installation, and multiple trade inspections. Structural engineering plans, local building permit approvals, and rerouting hidden utilities inside the walls are the primary variables that can add time before wall demolition begins.",
+        "@type": "Answer",
+        "description": "Timelines range from several weeks for basic wall removals to several months when paired with kitchen redesigns, permitting, and finish installations."
+      }
+    }
+  ],
+  "description": "Timelines range from several weeks for basic wall removals to several months when paired with kitchen redesigns, permitting, and finish installations."
+}

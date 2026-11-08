@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-unique-challenges-come-with-remodeling-kitchens-in-historic-salt-lake-city",
+  "name": "What unique challenges come with remodeling kitchens in historic Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique challenges come with remodeling kitchens in historic Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes in Salt Lake City neighborhoods such as Sugar House, The Avenues, or East Central often feature distinctive architectural character alongside structural quirks. Remodeling kitchens in these properties frequently requires leveling uneven subfloors, updating outdated wiring or plumbing supply pipes, and working within compact, segmented footprints. Blue Lake Construction frequently coordinates structural adjustments—such as opening up narrow doorways or safely removing interior partition walls—while ensuring new custom cabinetry and finishes harmonize with the historic style of the residence.",
+        "@type": "Answer",
+        "description": "Historic Salt Lake homes often need subfloor leveling, electrical and plumbing updates, and careful layout restructuring to blend modern functionality with original character."
+      }
+    }
+  ],
+  "description": "Historic Salt Lake homes often need subfloor leveling, electrical and plumbing updates, and careful layout restructuring to blend modern functionality with orig"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-interior-painting-be-bundled-with-a-full-home-remodel-or-addition",
+  "name": "Can interior painting be bundled with a full home remodel or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can interior painting be bundled with a full home remodel or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blue Lake Construction includes interior painting as a core component of larger remodeling scopes, including full-house renovations, open-concept conversions, basement remodeling, and home additions. When you coordinate painting within a broad remodel, our project managers schedule the painting sequence around drywall repair, trim installation, electrical work, and flooring replacement. This approach prevents trade overlaps and eliminates the need to hire and manage separate specialty painting subcontractors. Homeowners seeking painting as part of a multi-room renovation or kitchen and bathroom upgrade receive end-to-end project oversight from start to finish.",
+        "@type": "Answer",
+        "description": "Yes. Interior painting is integrated into full home remodels, additions, and multi-room renovations to streamline scheduling and coordinate finishes."
+      }
+    }
+  ],
+  "description": "Yes. Interior painting is integrated into full home remodels, additions, and multi-room renovations to streamline scheduling and coordinate finishes."
+}

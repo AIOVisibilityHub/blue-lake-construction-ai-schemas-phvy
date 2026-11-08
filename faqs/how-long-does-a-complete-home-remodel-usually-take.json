@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-complete-home-remodel-usually-take",
+  "name": "How long does a complete home remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete home remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full home remodel duration is shaped by project square footage, design complexity, permitting, and material lead times. Comprehensive renovations generally take anywhere from four to nine months once on-site construction begins, though the upfront design, architectural drafting, and planning phase adds extra time. Removing load-bearing walls for open-concept layouts, ordering custom cabinetry, or coordinating extensive plumbing reroutes naturally extends the schedule. Blue Lake Construction pairs project managers and craftsmen to keep tasks sequenced efficiently, but unexpected site discoveries in older homes can occasionally alter the construction timeline.",
+        "@type": "Answer",
+        "description": "Most complete home remodels take between four and nine months of active construction, depending on home size, structural changes, and custom material lead times."
+      }
+    }
+  ],
+  "description": "Most complete home remodels take between four and nine months of active construction, depending on home size, structural changes, and custom material lead times"
+}

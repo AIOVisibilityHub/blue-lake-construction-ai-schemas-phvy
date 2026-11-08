@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-a-tub-to-shower-conversion-the-right-choice-for-my-home",
+  "name": "Is a tub-to-shower conversion the right choice for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a tub-to-shower conversion the right choice for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion involves removing an existing bathtub and rebuilding the space as a dedicated walk-in shower. The primary trade-off comes down to daily convenience versus home resale appeal. Walk-in showers offer easier accessibility, a more open aesthetic, and room for custom features like tile benches and recessed shampoo niches. However, retaining at least one functional bathtub in the home is generally recommended for families with young children or pets. If your home has another tub in a guest bathroom, converting your primary bath tub into a spacious walk-in shower is often a practical upgrade.",
+        "@type": "Answer",
+        "description": "Converting is ideal for accessibility and daily convenience, provided your home retains at least one standard bathtub elsewhere for family needs and resale value."
+      }
+    }
+  ],
+  "description": "Converting is ideal for accessibility and daily convenience, provided your home retains at least one standard bathtub elsewhere for family needs and resale valu"
+}

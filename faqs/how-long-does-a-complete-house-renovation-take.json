@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-complete-house-renovation-take",
+  "name": "How long does a complete house renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete house renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive full-home renovation generally takes several months, depending on scope, design approvals, permitting, and material procurement. Projects that involve structural reconfiguration, custom cabinetry fabrication, and complete kitchen and bathroom overhauls naturally require more time than simple finish updates. Early preparation—such as finalizing architectural layouts and selecting fixtures, tile, and flooring before demolition starts—helps keep the construction schedule moving efficiently and avoids supply-chain delays.",
+        "@type": "Answer",
+        "description": "A whole-home remodel typically takes several months, influenced by structural modifications, permitting, custom cabinetry production, and material lead times."
+      }
+    }
+  ],
+  "description": "A whole-home remodel typically takes several months, influenced by structural modifications, permitting, custom cabinetry production, and material lead times."
+}

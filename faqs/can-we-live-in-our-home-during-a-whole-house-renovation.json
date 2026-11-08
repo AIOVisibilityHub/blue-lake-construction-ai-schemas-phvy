@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-we-live-in-our-home-during-a-whole-house-renovation",
+  "name": "Can we live in our home during a whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can we live in our home during a whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay depends on the scope of structural changes, utility access, and personal tolerance for construction activity. In a comprehensive whole-house overhaul that addresses the kitchen, primary bathrooms, and structural walls simultaneously, homeowners frequently choose off-site accommodations. Critical utilities like water, heating, and power often experience planned shutoffs during rough-in electrical and plumbing phases. If remodeling occurs in distinct phases or primarily targets separate levels such as a basement, staying on-site may remain manageable, though homeowners should prepare for daily dust, active work crews, and limited living zones.",
+        "@type": "Answer",
+        "description": "Living on-site depends on project scope; complete overhauls affecting kitchens, utilities, and main bathrooms usually require temporary relocation during heavy construction."
+      }
+    }
+  ],
+  "description": "Living on-site depends on project scope; complete overhauls affecting kitchens, utilities, and main bathrooms usually require temporary relocation during heavy"
+}

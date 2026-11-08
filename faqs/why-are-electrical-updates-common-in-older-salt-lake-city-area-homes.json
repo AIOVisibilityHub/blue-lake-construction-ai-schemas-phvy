@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/why-are-electrical-updates-common-in-older-salt-lake-city-area-homes",
+  "name": "Why are electrical updates common in older Salt Lake City area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are electrical updates common in older Salt Lake City area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older Salt Lake Valley homes, especially historic properties in Sugar House, The Avenues, or East Central, often feature older electrical systems that cannot handle contemporary appliance loads. Upgrading before or during a remodel prevents frequent circuit trips, hazards associated with aging insulation, and panel overloads. Integrating these updates into a comprehensive remodel also saves money and time because wall framing is already exposed, eliminating the need to cut and patch drywall separately later.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often have outdated wiring and low-amperage panels that struggle to support modern kitchen appliances, home additions, and HVAC loads."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often have outdated wiring and low-amperage panels that struggle to support modern kitchen appliances, home additions, and HVAC loads"
+}

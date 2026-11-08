@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-my-initial-kitchen-remodel-consultation",
+  "name": "What should I prepare before my initial kitchen remodel consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my initial kitchen remodel consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, gather practical information to streamline design consultations. Identify the pain points of your existing kitchen, such as limited pantry storage, poor lighting, or crowded prep areas. Compile visual inspiration showing preferred cabinet styles, countertop materials, and backsplashes. Measure your major kitchen appliances if you plan to keep existing units, or decide on new appliance dimensions. Finally, establish a clear budget range, as this allows project managers to suggest realistic layout adjustments and material grades tailored to your goals.",
+        "@type": "Answer",
+        "description": "Clarify your functional pain points, collect design ideas, note appliance dimensions, and define your budget range so the team can align plans with your goals from day one."
+      }
+    }
+  ],
+  "description": "Clarify your functional pain points, collect design ideas, note appliance dimensions, and define your budget range so the team can align plans with your goals f"
+}

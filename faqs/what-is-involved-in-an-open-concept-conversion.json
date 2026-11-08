@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-involved-in-an-open-concept-conversion",
+  "name": "What is involved in an open-concept conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in an open-concept conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept conversion removes dividing walls between key living areas—most often the kitchen, dining room, and living room—to create a unified, functional floor plan. During layout redesigns, this work involves checking whether interior walls are load-bearing, identifying plumbing lines, ductwork, or wiring inside them, and planning new ceiling, flooring, and lighting transitions. Blue Lake Construction integrates these conversions into larger kitchen or full home remodels so the new open area blends smoothly with adjacent rooms across your home.",
+        "@type": "Answer",
+        "description": "An open-concept conversion involves removing interior dividing walls between rooms like the kitchen and living room to create a single, continuous, functional layout."
+      }
+    }
+  ],
+  "description": "An open-concept conversion involves removing interior dividing walls between rooms like the kitchen and living room to create a single, continuous, functional l"
+}

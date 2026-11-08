@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-know-if-i-need-a-full-interior-remodel-or-a-home-addition",
+  "name": "How do I know if I need a full interior remodel or a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a full interior remodel or a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a full interior remodel and a home addition depends on whether your existing footprint meets your total square-footage needs. A full remodel reconfigures interior walls, repurposes unused areas, and modernizes rooms without expanding the home's exterior shell. However, if your family requires additional bedrooms, an expanded main suite, or a larger kitchen that interior walls cannot accommodate, an addition provides essential extra square footage. Home additions involve new foundation and framing work, representing higher exterior structural work compared to interior-focused renovations.",
+        "@type": "Answer",
+        "description": "Choose a remodel if your existing square footage can be reconfigured; choose an addition if your lot allows and you need new interior space beyond current exterior walls."
+      }
+    }
+  ],
+  "description": "Choose a remodel if your existing square footage can be reconfigured; choose an addition if your lot allows and you need new interior space beyond current exter"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-home-lighting-upgrades",
+  "name": "What factors influence the cost of home lighting upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of home lighting upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a residential lighting upgrade depends primarily on the number of fixtures, access to ceiling cavities, and the scope of electrical work required. Adding fixtures to an existing ceiling involves cutting drywall, fishing wire, and patching, which increases labor. Conversely, installing lighting as part of a complete room remodel or home addition is more economical per fixture because framing and wiring are already exposed. Other factors influencing cost include the addition of dedicated circuits, three-way switches, dimmer controls, and high-end specialty chandeliers or pendants.",
+        "@type": "Answer",
+        "description": "Costs depend on fixture count, ceiling accessibility, whether drywall is already open, and whether new electrical circuits or control switches must be added."
+      }
+    }
+  ],
+  "description": "Costs depend on fixture count, ceiling accessibility, whether drywall is already open, and whether new electrical circuits or control switches must be added."
+}

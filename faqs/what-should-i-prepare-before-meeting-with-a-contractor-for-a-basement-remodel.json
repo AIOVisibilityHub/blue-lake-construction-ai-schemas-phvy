@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-for-a-basement-remodel",
+  "name": "What should I prepare before meeting with a contractor for a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a contractor for a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an initial consultation, identify how your household plans to use the space and take note of existing mechanical systems. Consider whether you need dedicated bedrooms, a home theater, a bathroom, or rental-ready space. Document the location of your main water shutoff, water heater, furnace, and electrical panel, as these utilities must remain accessible according to building codes. Check your foundation walls and floor for any signs of water seepage or efflorescence, as any active water intrusion must be resolved before framing and insulating.",
+        "@type": "Answer",
+        "description": "Clarify your intended room functions, identify the locations of existing utilities like your furnace and breaker box, and note any past moisture or foundation concerns."
+      }
+    }
+  ],
+  "description": "Clarify your intended room functions, identify the locations of existing utilities like your furnace and breaker box, and note any past moisture or foundation c"
+}

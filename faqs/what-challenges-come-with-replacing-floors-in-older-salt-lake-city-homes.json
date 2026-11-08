@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-challenges-come-with-replacing-floors-in-older-salt-lake-city-homes",
+  "name": "What challenges come with replacing floors in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges come with replacing floors in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older homes across historic neighborhoods like Sugar House or The Avenues in Salt Lake City, flooring replacement often reveals settling, out-of-level joists, or multiple previous flooring layers. Historic homes frequently have original tongue-and-groove boards or thick mud-bed tiles that require extensive labor to remove. Subfloors in these properties may need structural reinforcement or self-leveling underlayment to support modern large-format tiles or rigid planks. Factoring in extra time for subfloor assessment prevents unexpected delays when remodeling older houses in the valley.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often feature uneven subfloors, multiple old flooring layers, or historic settling that requires leveling and structural reinforcement before new floors go down."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often feature uneven subfloors, multiple old flooring layers, or historic settling that requires leveling and structural reinforcement bef"
+}

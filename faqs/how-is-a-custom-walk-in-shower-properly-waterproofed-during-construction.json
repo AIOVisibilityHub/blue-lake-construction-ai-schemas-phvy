@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-a-custom-walk-in-shower-properly-waterproofed-during-construction",
+  "name": "How is a custom walk-in shower properly waterproofed during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a custom walk-in shower properly waterproofed during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing the shower area requires a continuous, sealed barrier behind and beneath your tile work, as tile and grout alone are not waterproof. Standard methods include liquid-applied waterproofing membranes or bonded sheet membranes applied directly over approved cement backer boards, paired with a properly sloped pre-formed or mortar shower pan. Critical focus areas include the shower curb, corners, and recessed niches, which must be fully integrated into the membrane system before tile installation. Completing a flood test prior to tiling confirms the pan holds water without leaking, protecting the subfloor below.",
+        "@type": "Answer",
+        "description": "Waterproofing involves sealing the sloped shower pan, walls, and niches with a continuous sheet or liquid membrane over cement backer board before any tile is laid."
+      }
+    }
+  ],
+  "description": "Waterproofing involves sealing the sloped shower pan, walls, and niches with a continuous sheet or liquid membrane over cement backer board before any tile is l"
+}

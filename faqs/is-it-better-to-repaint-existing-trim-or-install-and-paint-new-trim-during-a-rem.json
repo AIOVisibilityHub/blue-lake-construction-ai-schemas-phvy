@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/is-it-better-to-repaint-existing-trim-or-install-and-paint-new-trim-during-a-rem",
+  "name": "Is it better to repaint existing trim or install and paint new trim during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repaint existing trim or install and paint new trim during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving existing trim in place saves labor and material costs, but replacing trim during a remodel creates clean, modern sightlines and crisp paint margins. Painting existing trim often requires sanding down multiple older layers of paint, filling dents, and re-caulking joint gaps. Installing new baseboards and door casings allows painters to prime and spray finish coats cleanly before or during wall preparation. If your remodel includes floor plan reconfigurations or new flooring, installing fresh trim provides a seamless transition between surfaces.",
+        "@type": "Answer",
+        "description": "Repainting existing trim saves materials, but installing new trim provides cleaner lines and tighter joints when updating floors or wall layouts."
+      }
+    }
+  ],
+  "description": "Repainting existing trim saves materials, but installing new trim provides cleaner lines and tighter joints when updating floors or wall layouts."
+}

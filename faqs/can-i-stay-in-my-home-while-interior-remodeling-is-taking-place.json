@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-stay-in-my-home-while-interior-remodeling-is-taking-place",
+  "name": "Can I stay in my home while interior remodeling is taking place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while interior remodeling is taking place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home depends primarily on the scope and location of the remodeling work. If the project is limited to a single guest bathroom or a basement remodel, homeowners can usually stay in the house comfortably. However, for whole-house renovations, major open-concept floor plan reconfigurations, or simultaneous kitchen and bathroom overhauls, living on-site becomes challenging due to noise, dust, and disruptions to plumbing and power. A key decision factor is daily lifestyle: homes undergoing complete interior updates often lack working cooking or bathing facilities, making temporary off-site lodging more practical and less stressful.",
+        "@type": "Answer",
+        "description": "You can often stay for single-room updates, but full-home remodels with kitchen and bath shutdowns usually require temporary lodging."
+      }
+    }
+  ],
+  "description": "You can often stay for single-room updates, but full-home remodels with kitchen and bath shutdowns usually require temporary lodging."
+}

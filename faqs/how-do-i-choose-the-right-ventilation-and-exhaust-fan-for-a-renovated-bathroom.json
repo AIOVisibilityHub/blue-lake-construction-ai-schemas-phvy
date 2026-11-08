@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-the-right-ventilation-and-exhaust-fan-for-a-renovated-bathroom",
+  "name": "How do I choose the right ventilation and exhaust fan for a renovated bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right ventilation and exhaust fan for a renovated bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper ventilation protects your bathroom from excess moisture, mold growth, and premature peeling of paint or cabinetry finishes. When selecting a new exhaust fan, you must balance airflow capacity—measured in cubic feet per minute (CFM)—with operational noise levels, measured in sones. Larger bathrooms or rooms with enclosed water closets require higher CFM ratings or dual fan placements to evacuate damp air effectively. The ductwork must also vent directly to the home's exterior rather than into an attic or crawlspace to prevent trapped humidity issues inside your roof structure.",
+        "@type": "Answer",
+        "description": "Select a fan with enough CFM capacity for your room square footage, low noise (sones), and dedicated ducting routed completely outside the home."
+      }
+    }
+  ],
+  "description": "Select a fan with enough CFM capacity for your room square footage, low noise (sones), and dedicated ducting routed completely outside the home."
+}

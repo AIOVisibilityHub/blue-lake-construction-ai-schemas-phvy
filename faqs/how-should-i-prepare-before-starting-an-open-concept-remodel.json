@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-before-starting-an-open-concept-remodel",
+  "name": "How should I prepare before starting an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before starting an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work begins, document which walls you want altered, check your basement or attic framing direction if accessible, and identify visible utility runs like cold-air returns or plumbing vents. Prepare an inventory of your current kitchen storage to see how many cabinets will be lost by removing walls. It is also helpful to establish your priorities for features like a central island, recessed ceiling lights, or unified flooring so your contractor can design a realistic structural and mechanical plan.",
+        "@type": "Answer",
+        "description": "Identify key walls, plan for lost cabinet storage, check visible utility runs, and clarify your preferred layout for islands, flooring, and lighting."
+      }
+    }
+  ],
+  "description": "Identify key walls, plan for lost cabinet storage, check visible utility runs, and clarify your preferred layout for islands, flooring, and lighting."
+}

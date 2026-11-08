@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-homeowners-prepare-before-planning-a-whole-house-renovation",
+  "name": "What should homeowners prepare before planning a whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before planning a whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, gather property documents, note structural problem areas, compile functional priorities, and establish a realistic budget contingency. Clarify which aspects are critical—such as opening up a cramped kitchen or reconfiguring a primary suite—versus secondary aesthetic wishes. It is also beneficial to check whether your neighborhood has specific design restrictions and to prepare a temporary living plan so daily routines remain manageable while major work occurs.",
+        "@type": "Answer",
+        "description": "Compile functional priorities, set a clear budget with contingency funds, locate home plans, and determine temporary living arrangements before work begins."
+      }
+    }
+  ],
+  "description": "Compile functional priorities, set a clear budget with contingency funds, locate home plans, and determine temporary living arrangements before work begins."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-load-bearing-walls-be-removed-during-an-interior-remodeling-project",
+  "name": "Can load-bearing walls be removed during an interior remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can load-bearing walls be removed during an interior remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, load-bearing walls can often be removed during an interior remodel, provided proper structural support replaces the wall. This typically requires installing an engineered beam and support posts to carry the overhead floor or roof weight down to the foundation. When planning an open-concept living area or kitchen redesign, a licensed contractor must evaluate the framing, electrical wiring, and plumbing running through the wall. A key practical tradeoff involves structural costs: placing a flush beam hidden in the ceiling creates a seamless ceiling plane but requires more labor and framing adjustments than leaving a dropped beam visible below the ceiling line.",
+        "@type": "Answer",
+        "description": "Yes. Removing a load-bearing wall requires installing an engineered structural beam and posts to support overhead weight safely."
+      }
+    }
+  ],
+  "description": "Yes. Removing a load-bearing wall requires installing an engineered structural beam and posts to support overhead weight safely."
+}

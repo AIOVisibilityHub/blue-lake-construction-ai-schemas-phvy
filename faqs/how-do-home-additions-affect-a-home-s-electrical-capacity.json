@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-home-additions-affect-a-home-s-electrical-capacity",
+  "name": "How do home additions affect a home's electrical capacity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do home additions affect a home's electrical capacity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home additions require careful calculation of your existing electrical service capacity before construction starts. Adding living areas, primary suites, or second-story additions increases your continuous electrical demand. A licensed general contractor works with electrical specialists to evaluate your existing breaker panel. If your main panel has open breaker slots and sufficient service amperage, new circuits can tie directly into it. If the panel is full or undersized, you may need a panel replacement or a subpanel installed in the addition.",
+        "@type": "Answer",
+        "description": "Home additions increase overall power demand, often requiring either new dedicated circuits, an auxiliary subpanel, or a full main electrical service upgrade."
+      }
+    }
+  ],
+  "description": "Home additions increase overall power demand, often requiring either new dedicated circuits, an auxiliary subpanel, or a full main electrical service upgrade."
+}

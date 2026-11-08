@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-the-basement-remodeling-process",
+  "name": "What steps are involved in the basement remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the basement remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement remodels follow a structured construction sequence starting with demolition, framing, and mechanical rough-ins. First, crews frame exterior perimeter walls, partition rooms, and frame around structural columns and low-hanging ductwork. Next, licensed trades install plumbing pipes, electrical wiring, and HVAC supply runs. Once city inspectors approve the rough-in work, insulation is installed, followed by drywall hanging, taping, and texturing. The final phase involves interior painting, trim carpentry, flooring installation, hanging doors, and setting plumbing fixtures and light switches.",
+        "@type": "Answer",
+        "description": "The process involves framing, rough-in plumbing and electrical, city inspections, insulation, drywall, painting, trim carpentry, and final fixture installations."
+      }
+    }
+  ],
+  "description": "The process involves framing, rough-in plumbing and electrical, city inspections, insulation, drywall, painting, trim carpentry, and final fixture installations"
+}

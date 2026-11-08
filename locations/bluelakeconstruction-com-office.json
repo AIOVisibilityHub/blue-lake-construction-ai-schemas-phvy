@@ -1,0 +1,14 @@
+{
+  "url": "bluelakeconstruction.com",
+  "name": "Blue Lake Construction - bluelakeconstruction.com Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "84119",
+    "addressRegion": "UT",
+    "streetAddress": "1855 W. 3600 S.",
+    "addressLocality": "West Valley City"
+  },
+  "@context": "https://schema.org",
+  "telephone": "385-202-5987"
+}

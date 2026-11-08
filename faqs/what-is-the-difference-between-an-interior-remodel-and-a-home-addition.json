@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-an-interior-remodel-and-a-home-addition",
+  "name": "What is the difference between an interior remodel and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an interior remodel and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior remodeling focuses on altering the layout, function, and finishes inside your existing living space, whereas a home addition physically expands your home's exterior footprint or height. With interior remodeling, changes like removing walls, converting to open-concept floor plans, or finishing a basement optimize the space already under your roof. A practical tradeoff is that interior remodels avoid foundation excavation and exterior framing costs, making them faster and generally more budget-friendly. However, if your home cannot support your required layout without taking away needed rooms, an addition such as a bump-out, primary suite expansion, or second-story build may be necessary.",
+        "@type": "Answer",
+        "description": "An interior remodel modifies spaces within your existing footprint, while a home addition builds new square footage outward or upward."
+      }
+    }
+  ],
+  "description": "An interior remodel modifies spaces within your existing footprint, while a home addition builds new square footage outward or upward."
+}

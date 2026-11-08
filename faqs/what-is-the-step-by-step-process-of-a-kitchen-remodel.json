@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-step-by-step-process-of-a-kitchen-remodel",
+  "name": "What is the step-by-step process of a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel involves multiple phases, starting with planning, design, and budget alignment. Once materials are selected and permits are arranged, the construction phase begins with selective demolition of existing cabinets, counters, and flooring. Next comes rough-in tradeswork, which includes moving or updating plumbing lines, electrical circuits, and ventilation to fit the new design. Craftsmen then hang drywall, install flooring, set custom cabinetry, and measure for countertops. Countertop fabrication and placement follow, succeeded by tile backsplash installation, fixture hookups, appliance placement, and final trim carpentry before the final walkthrough.",
+        "@type": "Answer",
+        "description": "The process moves through design and permitting, demolition, electrical and plumbing rough-ins, drywall, flooring, cabinet setting, countertop fabrication, tile work, and final fixtures."
+      }
+    }
+  ],
+  "description": "The process moves through design and permitting, demolition, electrical and plumbing rough-ins, drywall, flooring, cabinet setting, countertop fabrication, tile"
+}

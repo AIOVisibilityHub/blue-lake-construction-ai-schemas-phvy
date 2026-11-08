@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-needs-to-happen-to-the-subfloor-before-installing-new-flooring",
+  "name": "What needs to happen to the subfloor before installing new flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to happen to the subfloor before installing new flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Subfloor condition plays a major role in the longevity and stability of your new floors. Before installing new materials, contractors inspect for moisture damage, structural deflection, squeaks, and unevenness. If old tiles or carpets concealed rotted plywood or cracked concrete, those sections must be repaired, leveled, or replaced first. Skipping subfloor prep can cause luxury vinyl planks to separate, tiles to crack along grout lines, or hardwood to creak. Ensuring the foundation beneath the surface is clean, dry, and flat protects your investment across living rooms, kitchens, and basements.",
+        "@type": "Answer",
+        "description": "Subfloors must be thoroughly inspected, cleaned, leveled, and repaired to fix squeaks, moisture damage, or dips before any new flooring material is laid down."
+      }
+    }
+  ],
+  "description": "Subfloors must be thoroughly inspected, cleaned, leveled, and repaired to fix squeaks, moisture damage, or dips before any new flooring material is laid down."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-the-best-time-to-replace-flooring-during-a-home-remodel",
+  "name": "When is the best time to replace flooring during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to replace flooring during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement is commonly included as part of larger remodeling projects rather than a standalone cosmetic patch. It is best to schedule new flooring after messy construction tasks like drywall, interior painting, and cabinet installations are finished, but before baseboards and trim are installed. If you are reconfiguring walls or expanding an open-concept kitchen or living area, addressing the flooring all at once prevents awkward seams and uneven transitions across rooms. Planning your flooring alongside your broader remodeling scope ensures proper subfloor preparation and seamless height alignment between adjoining spaces.",
+        "@type": "Answer",
+        "description": "Install new flooring after drywall, painting, and major carpentry are finished, but before installing trim and baseboards to protect the surface and ensure clean transitions."
+      }
+    }
+  ],
+  "description": "Install new flooring after drywall, painting, and major carpentry are finished, but before installing trim and baseboards to protect the surface and ensure clea"
+}

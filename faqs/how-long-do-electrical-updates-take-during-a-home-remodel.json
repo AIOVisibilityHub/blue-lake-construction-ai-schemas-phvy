@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-do-electrical-updates-take-during-a-home-remodel",
+  "name": "How long do electrical updates take during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do electrical updates take during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in electrical work for a standard kitchen or bathroom remodel generally takes two to four days, while a full-house remodel or large addition can take one to two weeks. The overall timeline depends on project size, framing complexity, and inspection scheduling with the local municipal building department. Finish electrical trim work—such as installing recessed lights, pendant fixtures, under-cabinet lighting, and decorative plates—takes another couple of days near the end of the renovation.",
+        "@type": "Answer",
+        "description": "Rough electrical work usually takes two to four days for single rooms, while full-house rewires take longer, followed by one to two days for finish trim-out."
+      }
+    }
+  ],
+  "description": "Rough electrical work usually takes two to four days for single rooms, while full-house rewires take longer, followed by one to two days for finish trim-out."
+}

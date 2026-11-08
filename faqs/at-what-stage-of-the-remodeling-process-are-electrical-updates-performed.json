@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-the-remodeling-process-are-electrical-updates-performed",
+  "name": "At what stage of the remodeling process are electrical updates performed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of the remodeling process are electrical updates performed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a major remodel, electrical work occurs in distinct phases to coordinate with other trades. The rough-in phase takes place after framing and plumbing are complete, while wall cavities are completely open. Electricians install new junction boxes, pull wiring, and position switch outlets according to the architectural plan. Once insulation, drywall, painting, and cabinetry are installed, the crew returns for the trim-out phase to mount light fixtures, fit outlets and switches, and make final connections at the electrical panel.",
+        "@type": "Answer",
+        "description": "Rough electrical wiring is installed after framing while walls are open, followed by finish fixtures and outlet installation after drywall and painting are finished."
+      }
+    }
+  ],
+  "description": "Rough electrical wiring is installed after framing while walls are open, followed by finish fixtures and outlet installation after drywall and painting are fini"
+}

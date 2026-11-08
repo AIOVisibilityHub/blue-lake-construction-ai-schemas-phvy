@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-bathroom-renovation",
+  "name": "What factors have the biggest impact on the cost of a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom remodeling costs are primarily shaped by project scope, layout adjustments, and finish materials. Moving major plumbing stacks or supply lines across the room requires significant labor and subfloor alterations, which increases total investment compared to keeping fixtures in place. Material choices also create broad cost ranges: basic prefabricated shower pans and acrylic surrounds cost less to purchase and install than floor-to-ceiling custom tile, quartz vanity countertops, or high-end plumbing fixtures. Upgrading ventilation, adding dedicated electrical circuits for heated floors, and incorporating built-in storage also impact final budgets.",
+        "@type": "Answer",
+        "description": "Plumbing layout changes, custom tile work versus prefab surrounds, material selections for vanities and counters, and electrical updates drive the overall cost."
+      }
+    }
+  ],
+  "description": "Plumbing layout changes, custom tile work versus prefab surrounds, material selections for vanities and counters, and electrical updates drive the overall cost."
+}

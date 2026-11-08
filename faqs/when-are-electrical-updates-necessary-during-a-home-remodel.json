@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-are-electrical-updates-necessary-during-a-home-remodel",
+  "name": "When are electrical updates necessary during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When are electrical updates necessary during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electrical updates are typically required when you relocate walls, add major appliances, or expand square footage. In kitchen and bathroom renovations, modern electrical demands often exceed what older circuits can support. You will likely need updates if you are adding high-draw items like induction cooktops, double ovens, steam showers, or dedicated circuits for kitchen islands. A licensed general contractor reviews your panel capacity and layout during planning to determine whether a dedicated circuit addition, panel replacement, or partial rewire is necessary before walls are closed up.",
+        "@type": "Answer",
+        "description": "Electrical updates are required when expanding living space, moving walls, or adding high-draw appliances that exceed your home's existing circuit capacity."
+      }
+    }
+  ],
+  "description": "Electrical updates are required when expanding living space, moving walls, or adding high-draw appliances that exceed your home's existing circuit capacity."
+}

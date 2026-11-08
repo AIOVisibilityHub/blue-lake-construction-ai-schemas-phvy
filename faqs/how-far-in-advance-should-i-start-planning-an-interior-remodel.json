@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-far-in-advance-should-i-start-planning-an-interior-remodel",
+  "name": "How far in advance should I start planning an interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I start planning an interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning should ideally begin three to six months before you want construction to start on-site. Thorough upfront preparation gives you adequate time to establish your scope, compare design options, finalize layouts, and select materials like cabinetry, flooring, and appliances. Early planning also accounts for manufacturer lead times on custom orders, which prevents construction delays once demolition begins. Preparing a list of daily pain points in your current floor plan, gathering reference photos, and deciding on firm budget ranges ensures your contractor can translate your goals into clear construction specifications.",
+        "@type": "Answer",
+        "description": "Start planning three to six months ahead to finalize layouts, order long-lead materials, and complete detailed construction planning."
+      }
+    }
+  ],
+  "description": "Start planning three to six months ahead to finalize layouts, order long-lead materials, and complete detailed construction planning."
+}

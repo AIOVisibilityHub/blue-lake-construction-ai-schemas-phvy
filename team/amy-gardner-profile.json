@@ -1,0 +1,69 @@
+{
+  "name": "Amy Gardner",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Administration, business owner",
+  "worksFor": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "telephone": "385-202-5987",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "knowsAbout": [
+    "administration",
+    "customer contact",
+    "customer support",
+    "business related services"
+  ],
+  "description": "Amy Gardner handles administration at Blue Lake Construction, supporting the business operations behind the company’s remodeling and construction services. Her work focuses on the administrative side of the business, helping provide the organization and support needed while the construction team concentrates on client projects.\n\nBlue Lake Construction serves homeowners throughout Salt Lake City and the surrounding Salt Lake Valley, with services that include home and house remodeling, condo and cabin renovations, kitchen and bathroom remodels, and home additions. Amy’s administrative role supports the business behind these services and contributes to the coordination between office operations and work in the field.\n\nAs part of the Blue Lake Construction team, Amy helps support a business focused on improving the places its clients call home."
+}

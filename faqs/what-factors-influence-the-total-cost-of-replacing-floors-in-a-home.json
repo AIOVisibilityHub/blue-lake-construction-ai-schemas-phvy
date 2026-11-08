@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-total-cost-of-replacing-floors-in-a-home",
+  "name": "What factors influence the total cost of replacing floors in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of replacing floors in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement costs depend on several interrelated variables: square footage, the selected material, demo requirements, and the condition of the existing subfloor. Hardwood and custom porcelain tile typically carry higher material and labor expenses due to precise cutting, setting, or finishing. In contrast, engineered wood or click-lock vinyl installs more quickly. Hidden costs often include removing multiple layers of old flooring, hauling away heavy debris, leveling uneven floors, and adding new transition strips or baseboards throughout remodeled areas.",
+        "@type": "Answer",
+        "description": "Total costs depend on total square footage, selected materials, demolition difficulty, subfloor repairs, and necessary trim or transition pieces."
+      }
+    }
+  ],
+  "description": "Total costs depend on total square footage, selected materials, demolition difficulty, subfloor repairs, and necessary trim or transition pieces."
+}

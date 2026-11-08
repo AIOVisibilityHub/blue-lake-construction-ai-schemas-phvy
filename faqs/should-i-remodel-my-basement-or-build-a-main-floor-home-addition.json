@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-remodel-my-basement-or-build-a-main-floor-home-addition",
+  "name": "Should I remodel my basement or build a main-floor home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel my basement or build a main-floor home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basement remodel is ideal when you want to expand your usable square footage without altering your home exterior or footprint. Finishing an existing basement typically costs less per square foot than an exterior home addition because the foundation, framing envelope, and roof already exist. However, the tradeoff involves working within fixed ceiling heights, existing support posts, and concrete slabs. If your layout requires rough-in plumbing changes for a new bathroom or kitchenette, concrete cutting will be necessary. Homeowners who prioritize larger open-concept spaces or want separate guest suites often find basement conversions offer the most practical use of underutilized space.",
+        "@type": "Answer",
+        "description": "Remodeling a basement adds living space within your existing foundation at a lower cost than an addition, though you must work within set ceiling heights and existing support posts."
+      }
+    }
+  ],
+  "description": "Remodeling a basement adds living space within your existing foundation at a lower cost than an addition, though you must work within set ceiling heights and ex"
+}

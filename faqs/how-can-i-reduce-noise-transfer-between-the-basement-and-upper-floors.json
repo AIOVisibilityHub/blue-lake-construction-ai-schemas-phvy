@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-can-i-reduce-noise-transfer-between-the-basement-and-upper-floors",
+  "name": "How can I reduce noise transfer between the basement and upper floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I reduce noise transfer between the basement and upper floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can soundproof a finished basement by combining resilient channel clips, sound-isolation mineral wool batts, and specialized drywall assemblies. Sound travels through floor joists via airborne noise like voices and impact noise like footsteps. Installing dense insulation between overhead floor joists reduces airborne sound transfer. Attaching resilient channels or acoustic clips decouples the basement ceiling drywall from the upper-floor subfloor framing, which interrupts vibrations caused by foot traffic. Solid-core interior doors and insulated interior partition walls further limit noise transfer between basement bedrooms and home theater rooms.",
+        "@type": "Answer",
+        "description": "Install acoustic mineral wool insulation between joists, decouple ceiling drywall using resilient channels, and use solid-core doors to reduce sound transmission."
+      }
+    }
+  ],
+  "description": "Install acoustic mineral wool insulation between joists, decouple ceiling drywall using resilient channels, and use solid-core doors to reduce sound transmissio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-are-the-key-steps-in-the-full-home-remodeling-process",
+  "name": "What are the key steps in the full home remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in the full home remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and customized planning phase to define your functional needs, design goals, and budget. Next, plans are developed for floor plan adjustments, electrical updates, and room layouts, followed by securing required municipal building permits. Once demolition begins, craftsmen and project managers handle framing, rough mechanical work, drywall, custom trim carpentry, cabinetry installation, and finish surfaces. A final walkthrough confirms all details align with agreed specifications.",
+        "@type": "Answer",
+        "description": "The process moves from initial planning and design to permitting, demolition, rough plumbing and electrical work, drywall, finish carpentry, and final detailing."
+      }
+    }
+  ],
+  "description": "The process moves from initial planning and design to permitting, demolition, rough plumbing and electrical work, drywall, finish carpentry, and final detailing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-lighting-upgrades-be-integrated-into-a-broader-home-remodel",
+  "name": "Can lighting upgrades be integrated into a broader home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can lighting upgrades be integrated into a broader home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modernizing your fixtures and circuits is best completed alongside larger renovations. Blue Lake Construction incorporates lighting upgrades directly into full home remodels, kitchen renovations, bathroom updates, and home additions. Addressing lighting while walls or ceilings are already open makes it significantly easier to run new wiring, position recessed cans, install under-cabinet strips, and adjust switches without requiring separate drywall patching afterward. Planning your lighting layout early ensures task lighting and ambient fixtures align properly with your new cabinetry, islands, and vanity placements.",
+        "@type": "Answer",
+        "description": "Yes, incorporating lighting upgrades into a kitchen, bath, or full home remodel makes running wiring and placing fixtures easier while ceilings and walls are open."
+      }
+    }
+  ],
+  "description": "Yes, incorporating lighting upgrades into a kitchen, bath, or full home remodel makes running wiring and placing fixtures easier while ceilings and walls are op"
+}

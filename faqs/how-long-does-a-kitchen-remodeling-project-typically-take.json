@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-kitchen-remodeling-project-typically-take",
+  "name": "How long does a kitchen remodeling project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen remodeling project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen remodel depends on whether the layout stays the same or structural changes occur. Surface-level updates with existing layouts take less time, whereas complete overhauls involving relocated plumbing lines, reconfigured electrical circuits, or wall removals to create open-concept living require additional weeks. Custom cabinetry lead times and countertop fabrication schedules also influence the overall schedule. Establishing your design specifications, selecting fixtures early, and finalizing appliance orders prior to demolition helps avoid unexpected downtime on site.",
+        "@type": "Answer",
+        "description": "Timelines vary based on project scope, custom cabinet fabrication, and whether walls or mechanical lines move. Finalizing designs and materials early prevents mid-project delays."
+      }
+    }
+  ],
+  "description": "Timelines vary based on project scope, custom cabinet fabrication, and whether walls or mechanical lines move. Finalizing designs and materials early prevents m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-building-permits-for-a-full-home-remodel-in-the-salt-lake-valley",
+  "name": "Do I need building permits for a full home remodel in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for a full home remodel in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building permits are required for full home remodels involving structural alterations, electrical updates, plumbing changes, and mechanical modifications. In communities across the Salt Lake Valley, including Sandy, Draper, and Millcreek, local municipal building departments review construction plans to ensure work meets current safety codes. As a licensed general contractor (license number 6085795-5501), Ryan Gardner and the Blue Lake Construction team oversee the permitting process, submitting detailed drawings and scheduling required municipal inspections at each project stage, including framing, rough-ins, and final review.",
+        "@type": "Answer",
+        "description": "Yes, full home remodels with structural, electrical, or plumbing changes require municipal permits and inspections, which licensed contractors submit and manage."
+      }
+    }
+  ],
+  "description": "Yes, full home remodels with structural, electrical, or plumbing changes require municipal permits and inspections, which licensed contractors submit and manage"
+}

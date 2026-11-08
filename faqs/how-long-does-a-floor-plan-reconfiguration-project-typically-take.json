@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-floor-plan-reconfiguration-project-typically-take",
+  "name": "How long does a floor plan reconfiguration project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a floor plan reconfiguration project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor plan reconfiguration takes between 6 to 16 weeks of active construction, depending on project scope. A targeted reconfiguration, such as taking down a single partition wall between a kitchen and living room, may wrap up in 4 to 6 weeks. A whole-house layout overhaul involving multiple load-bearing walls, stair relocations, and new bathroom plumbing branches typically runs 3 to 4 months or longer. Pre-construction steps—including drafting layout options, structural engineering calculations, and securing city permits—typically add an initial 3 to 8 weeks before work begins on-site.",
+        "@type": "Answer",
+        "description": "Active construction usually takes 6 to 16 weeks, preceded by 3 to 8 weeks for layout design, engineering, and city permit approvals."
+      }
+    }
+  ],
+  "description": "Active construction usually takes 6 to 16 weeks, preceded by 3 to 8 weeks for layout design, engineering, and city permit approvals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-types-of-lighting-upgrades-are-most-effective-for-a-kitchen-remodel",
+  "name": "What types of lighting upgrades are most effective for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting upgrades are most effective for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective kitchen lighting combines ambient, task, and accent lighting. Task areas like prep counters and ranges require direct illumination, which is why Blue Lake Construction frequently integrates under-cabinet lighting, recessed ceiling cans, and pendant fixtures over kitchen islands. Ambient lighting provides broad room coverage, while dimmers allow you to transition the space from food prep to casual entertaining. A common practical tradeoff is choosing between flush ceiling fixtures and hanging pendants; pendants offer decorative focal points over an island but require careful measurement to avoid obstructing sightlines across open-concept layouts.",
+        "@type": "Answer",
+        "description": "A layered approach works best, combining recessed ceiling lights for ambient coverage, under-cabinet fixtures for counter prep, and decorative pendants over islands."
+      }
+    }
+  ],
+  "description": "A layered approach works best, combining recessed ceiling lights for ambient coverage, under-cabinet fixtures for counter prep, and decorative pendants over isl"
+}

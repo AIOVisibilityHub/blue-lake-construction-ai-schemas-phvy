@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-an-open-concept-floor-plan-remodel",
+  "name": "What factors influence the cost of an open-concept floor plan remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an open-concept floor plan remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept conversion varies widely based on whether walls are load-bearing and what mechanical systems run through them. Removing a simple non-load-bearing partition wall is relatively straightforward. Costs increase when structural steel or LVL beams are required, when HVAC ducts, plumbing stacks, or electrical panels must be relocated, or when extensive new flooring, drywall, and recessed lighting are needed to unify the expanded space. Integrating the project into a comprehensive kitchen remodel or full home remodel helps bundle these structural and finish expenses into one cohesive budget.",
+        "@type": "Answer",
+        "description": "Costs depend on whether walls are load-bearing, whether plumbing, HVAC, or wiring must be relocated, and the extent of new flooring, lighting, and drywall needed."
+      }
+    }
+  ],
+  "description": "Costs depend on whether walls are load-bearing, whether plumbing, HVAC, or wiring must be relocated, and the extent of new flooring, lighting, and drywall neede"
+}

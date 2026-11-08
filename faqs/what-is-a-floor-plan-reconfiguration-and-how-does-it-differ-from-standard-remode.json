@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-a-floor-plan-reconfiguration-and-how-does-it-differ-from-standard-remode",
+  "name": "What is a floor plan reconfiguration, and how does it differ from standard remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floor plan reconfiguration, and how does it differ from standard remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor plan reconfiguration involves modifying the internal layout of your home by moving, removing, or adding walls. Unlike a standard cosmetic renovation that simply swaps out cabinets or fixtures, this work alters the flow, traffic patterns, and spatial relationships between rooms. Common examples include open-concept conversions between the kitchen and living room, combining small bedrooms, or shifting hallway boundaries to enlarge a primary bathroom suite. Because it changes the structural or mechanical organization of the home, this service typically requires structural engineering assessments, electrical rerouting, and city building permits before construction begins.",
+        "@type": "Answer",
+        "description": "A floor plan reconfiguration rearranges walls and internal room layouts to change flow and space, whereas standard remodeling simply updates fixtures and finishes within existing boundaries."
+      }
+    }
+  ],
+  "description": "A floor plan reconfiguration rearranges walls and internal room layouts to change flow and space, whereas standard remodeling simply updates fixtures and finish"
+}

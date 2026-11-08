@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-are-lighting-fixtures-planned-during-a-bathroom-renovation",
+  "name": "How are lighting fixtures planned during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are lighting fixtures planned during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom lighting upgrades focus on eliminating facial shadows at vanities while providing adequate, safe illumination in wet areas. Standard upgrades include wall sconces or vertical fixtures placed alongside mirrors at eye level, moisture-rated recessed lights inside walk-in showers or over bathtubs, and integrated ventilation fans with built-in overhead lights. When coordinating a bathroom remodel, deciding whether to install dedicated switches or dimmers for night lighting helps create a functional space that adapts easily between morning routines and relaxed evening baths.",
+        "@type": "Answer",
+        "description": "Bathroom lighting combines eye-level vanity sconces to reduce shadows with moisture-rated recessed fixtures placed over showers and tubs."
+      }
+    }
+  ],
+  "description": "Bathroom lighting combines eye-level vanity sconces to reduce shadows with moisture-rated recessed fixtures placed over showers and tubs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-my-family-stay-in-the-home-while-interior-painting-and-remodeling-take-place",
+  "name": "Can my family stay in the home while interior painting and remodeling take place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family stay in the home while interior painting and remodeling take place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting occupied rooms requires active dust and odor control. When painting is part of an interior remodel, craftsmen set up containment barriers and floor paper to keep dust isolated from bedrooms and common living areas. The trade-off of remaining in the home is managing temporary disruptions, paint curing odors, and restricted access to hallways or kitchens while coatings dry. Using low-VOC and zero-VOC architectural coatings minimizes lingering paint fumes, allowing families to remain comfortable while renovation phases progress.",
+        "@type": "Answer",
+        "description": "Yes. Remodeling crews use protective containment and low-VOC paints so homeowners can safely live in unworked sections of the home."
+      }
+    }
+  ],
+  "description": "Yes. Remodeling crews use protective containment and low-VOC paints so homeowners can safely live in unworked sections of the home."
+}

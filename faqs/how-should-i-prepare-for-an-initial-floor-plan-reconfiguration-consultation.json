@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-for-an-initial-floor-plan-reconfiguration-consultation",
+  "name": "How should I prepare for an initial floor plan reconfiguration consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for an initial floor plan reconfiguration consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a residential general contractor, list the primary functional problems you want to solve, such as cramped cooking space, lack of daylight, or poor traffic flow. Gather any existing property blueprints, surveys, or previous remodel documentation you have on hand. It is also helpful to clarify your non-negotiables, such as retaining specific storage areas or creating an independent work-from-home space, and determine a realistic budget range. Knowing your family's daily routines helps the contractor design layout options that fit your lifestyle.",
+        "@type": "Answer",
+        "description": "Identify the daily functional issues you want solved, locate existing home blueprints or permits if available, establish your budget, and outline your must-have spaces."
+      }
+    }
+  ],
+  "description": "Identify the daily functional issues you want solved, locate existing home blueprints or permits if available, establish your budget, and outline your must-have"
+}

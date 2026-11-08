@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-live-in-my-home-during-a-kitchen-remodel-and-how-should-i-prepare",
+  "name": "Can I live in my home during a kitchen remodel, and how should I prepare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen remodel, and how should I prepare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often remain in your home, but your kitchen will be out of commission during major phases of construction. Demolition, rough-in plumbing and electrical adjustments, drywall sanding, and flooring create dust, noise, and utility shutoffs. To prepare, set up a temporary kitchen station in another room, such as a dining room or basement, equipped with a microwave, coffee maker, mini-fridge, and basic prep supplies. Planning meals, using disposable dinnerware, and designating clean water sources like a bathroom or bar sink will make daily living much easier throughout the renovation.",
+        "@type": "Answer",
+        "description": "Yes, you can usually stay in your home, but you must set up a temporary kitchenette with a microwave and mini-fridge elsewhere since your main kitchen will be fully offline."
+      }
+    }
+  ],
+  "description": "Yes, you can usually stay in your home, but you must set up a temporary kitchenette with a microwave and mini-fridge elsewhere since your main kitchen will be f"
+}

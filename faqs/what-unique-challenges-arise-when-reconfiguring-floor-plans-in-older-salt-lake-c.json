@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-unique-challenges-arise-when-reconfiguring-floor-plans-in-older-salt-lake-c",
+  "name": "What unique challenges arise when reconfiguring floor plans in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique challenges arise when reconfiguring floor plans in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes throughout Salt Lake City neighborhoods like Sugar House, The Avenues, and East Central present unique layout challenges, including unreinforced masonry, narrow hallways, closed-off formal dining rooms, and aging knob-and-tube wiring or cast-iron plumbing. Reconfiguring these historic floor plans requires careful structural assessment to preserve historical charm while opening up tight spaces. Contractors frequently must modernize mechanical systems and account for non-standard framing dimensions hidden inside vintage walls before modern, open-concept living arrangements can be created safely.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often feature unreinforced masonry, narrow layouts, and outdated wiring or plumbing inside walls that require upgrades during layout changes."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often feature unreinforced masonry, narrow layouts, and outdated wiring or plumbing inside walls that require upgrades during layout chang"
+}

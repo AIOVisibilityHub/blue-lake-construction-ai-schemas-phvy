@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-the-right-time-to-upgrade-residential-lighting",
+  "name": "When is the right time to upgrade residential lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to upgrade residential lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your lighting when rooms feel dim, lack focused task illumination, rely heavily on portable floor lamps, or display visible shadows over countertops and vanities. Flickering fixtures, tripping breakers, or ungrounded wiring are also technical indicators that circuits need professional attention. Incorporating new fixtures during an interior remodel or basement finish solves these functional limitations while modernizing the overall aesthetic and usability of your living space.",
+        "@type": "Answer",
+        "description": "Upgrade when rooms feel chronically dim, task areas lack direct light, or when you are already opening walls and ceilings during a major remodeling project."
+      }
+    }
+  ],
+  "description": "Upgrade when rooms feel chronically dim, task areas lack direct light, or when you are already opening walls and ceilings during a major remodeling project."
+}

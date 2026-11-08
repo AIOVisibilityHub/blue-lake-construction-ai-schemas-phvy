@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-preparation-is-needed-from-the-homeowner-before-interior-painting-begins",
+  "name": "What preparation is needed from the homeowner before interior painting begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed from the homeowner before interior painting begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painters arrive, remove personal wall hangings, fragile decor, and small furniture from the work area. For whole-home or open-concept renovations, our crew handles covering large fixtures, setting containment plastic, and laying heavy floor protection over finished subfloors or preserved surfaces. If you are selecting custom paint colors, review physical swatches under your home’s specific lighting conditions morning and evening, as natural daylight and interior LED fixtures significantly alter how paint undertones appear on finished walls.",
+        "@type": "Answer",
+        "description": "Clear wall art and small belongings from the room, while the remodeling team handles heavy drop cloths, masking, and floor protection."
+      }
+    }
+  ],
+  "description": "Clear wall art and small belongings from the room, while the remodeling team handles heavy drop cloths, masking, and floor protection."
+}

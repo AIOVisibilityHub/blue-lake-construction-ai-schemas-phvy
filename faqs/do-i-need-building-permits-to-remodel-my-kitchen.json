@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-i-need-building-permits-to-remodel-my-kitchen",
+  "name": "Do I need building permits to remodel my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits to remodel my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required when a kitchen remodel involves moving, adding, or altering electrical circuits, plumbing pipes, mechanical ventilation, or structural walls. Cosmetic updates like swapping cabinet hardware, replacing backsplashes, or changing countertops on existing cabinets often proceed without formal permits. However, kitchen expansions, moving appliance hookups, adding new outlets to meet current code, or removing walls for open-concept spaces mandate building permits and formal inspections. Blue Lake Construction operates under licensed general contractor Ryan Gardner (license 6085795-5501) to manage code compliance and construction standards.",
+        "@type": "Answer",
+        "description": "Permits are required for moving plumbing, electrical, gas lines, or load-bearing walls. Simple surface-level cosmetic updates generally do not require building permits."
+      }
+    }
+  ],
+  "description": "Permits are required for moving plumbing, electrical, gas lines, or load-bearing walls. Simple surface-level cosmetic updates generally do not require building"
+}

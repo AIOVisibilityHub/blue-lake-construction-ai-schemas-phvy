@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-recessed-lighting-and-pendant-fixtures",
+  "name": "What is the difference between recessed lighting and pendant fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between recessed lighting and pendant fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed can lights provide clean, distributed ceiling illumination across large rooms, whereas pendant fixtures provide focused downward light and serve as visual centerpieces. In areas like kitchens and dining additions, the decision often comes down to visual scale and ceiling height. Recessed lighting keeps sightlines open and works well with standard or lower ceilings, making rooms feel more spacious. Pendants add style and targeted task lighting over dining tables or islands, but having too many hanging fixtures in an open floor plan can create visual clutter. Combining both provides balanced utility and design.",
+        "@type": "Answer",
+        "description": "Recessed lights sit flush with the ceiling for wide ambient illumination, while pendants hang down to deliver focused task lighting and decorative style over islands or tables."
+      }
+    }
+  ],
+  "description": "Recessed lights sit flush with the ceiling for wide ambient illumination, while pendants hang down to deliver focused task lighting and decorative style over is"
+}

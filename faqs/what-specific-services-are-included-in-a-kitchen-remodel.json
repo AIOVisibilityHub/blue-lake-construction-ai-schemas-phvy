@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-specific-services-are-included-in-a-kitchen-remodel",
+  "name": "What specific services are included in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific services are included in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen remodels involve custom cabinetry, cabinet replacement, countertop installation, and backsplash installation. Blue Lake Construction also handles layout redesigns, kitchen expansions, open-concept conversions, island installations, and pantry additions. In addition to aesthetic finishes, projects include sink and faucet replacements, appliance installations, flooring replacement, under-cabinet lighting, and necessary electrical and plumbing updates. Because full residential general contracting is provided, kitchen projects can remain standalone or integrate seamlessly into broader main-floor and whole-house renovations.",
+        "@type": "Answer",
+        "description": "A kitchen remodel covers layout redesigns, custom cabinetry, countertops, tile backsplashes, kitchen islands, flooring, lighting, appliance installation, and plumbing and electrical updates."
+      }
+    }
+  ],
+  "description": "A kitchen remodel covers layout redesigns, custom cabinetry, countertops, tile backsplashes, kitchen islands, flooring, lighting, appliance installation, and pl"
+}

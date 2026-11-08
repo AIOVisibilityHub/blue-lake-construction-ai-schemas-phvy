@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/do-you-need-building-permits-for-a-whole-house-remodel-in-the-salt-lake-valley",
+  "name": "Do you need building permits for a whole-house remodel in the Salt Lake Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you need building permits for a whole-house remodel in the Salt Lake Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building permits are required for structural modifications, electrical upgrades, plumbing alterations, mechanical work, and moving interior walls across Salt Lake Valley municipalities. Cosmetic projects like repainting or swapping carpet usually do not require permits, but full renovations involving load-bearing beams, new bathroom layouts, or major kitchen rewiring require plan review and municipal inspections. Working with a licensed general contractor ensures that building plans are submitted properly and inspected according to local jurisdictional standards.",
+        "@type": "Answer",
+        "description": "Yes, local building departments require permits for structural changes, moving walls, and major electrical or plumbing alterations involved in a full remodel."
+      }
+    }
+  ],
+  "description": "Yes, local building departments require permits for structural changes, moving walls, and major electrical or plumbing alterations involved in a full remodel."
+}

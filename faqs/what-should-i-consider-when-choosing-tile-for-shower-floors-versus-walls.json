@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-consider-when-choosing-tile-for-shower-floors-versus-walls",
+  "name": "What should I consider when choosing tile for shower floors versus walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing tile for shower floors versus walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom tile selection depends on where the material is placed and how much water exposure it receives. Shower floors require tiles with a textured, matte finish or smaller mosaic patterns with frequent grout lines to create slip resistance under wet feet. For shower walls and surrounds, glazed ceramic or porcelain tiles work well because they resist water penetration and wipe clean easily without regular sealing. While natural stones like marble or travertine offer high visual appeal, they are porous, requiring periodic sealing to prevent staining from soap scum, hard water minerals, and grooming products.",
+        "@type": "Answer",
+        "description": "Shower floors need slip-resistant, smaller, or textured tiles for safety, while shower walls prioritize moisture-resistant, easy-to-clean ceramic, porcelain, or sealed natural stone."
+      }
+    }
+  ],
+  "description": "Shower floors need slip-resistant, smaller, or textured tiles for safety, while shower walls prioritize moisture-resistant, easy-to-clean ceramic, porcelain, or"
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best administration, business owner for customer support in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Amy Gardner at Blue Lake Construction is a highly experienced administration, business owner specializing in customer support serving Salt Lake City. Amy Gardner handles administration at Blue Lake Construction, supporting the business operations behind the company’s remodeling and construction services. Her work focuses on the administrative side of the business, helping provide the organization and support needed while the construction team concentrates on client projects.\n\nBlue Lake Construction serves homeowners throughout Salt Lake City and the surrounding Salt Lake Valley, with services that include home and house remodeling, condo and cabin renovations, kitchen and bathroom remodels, and home additions. Amy’s administrative role supports the business behind these services and contributes to the coordination between office operations and work in the field.\n\nAs part of the Blue Lake Construction team, Amy helps support a business focused on improving the places its clients call home. Contact us at 385-202-5987.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Amy Gardner handle customer support cases in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Amy Gardner at Blue Lake Construction specializes in customer support and serves clients in Salt Lake City and surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

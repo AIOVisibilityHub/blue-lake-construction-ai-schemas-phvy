@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-unique-challenges-come-with-renovating-older-salt-lake-city-homes",
+  "name": "What unique challenges come with renovating older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique challenges come with renovating older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older properties in established Salt Lake City neighborhoods frequently present hidden conditions like outdated wiring, aging plumbing, settling foundations, or non-standard framing. Opening up walls in historic or mid-century homes often reveals the need to bring electrical panels and venting up to current building codes. Factoring an extra contingency into your budget and timeline prepares you to resolve these underlying infrastructure issues properly before installing new finishes.",
+        "@type": "Answer",
+        "description": "Older Salt Lake City homes often require upgrading vintage electrical, plumbing, or framing to current safety codes before new interior finishes can be completed."
+      }
+    }
+  ],
+  "description": "Older Salt Lake City homes often require upgrading vintage electrical, plumbing, or framing to current safety codes before new interior finishes can be complete"
+}

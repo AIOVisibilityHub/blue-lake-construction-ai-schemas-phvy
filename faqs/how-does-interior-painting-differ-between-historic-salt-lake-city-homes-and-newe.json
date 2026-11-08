@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-does-interior-painting-differ-between-historic-salt-lake-city-homes-and-newe",
+  "name": "How does interior painting differ between historic Salt Lake City homes and newer construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does interior painting differ between historic Salt Lake City homes and newer construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in historic Salt Lake Valley neighborhoods, such as The Avenues, Capitol Hill, or Harvard-Yale, frequently encounter plaster walls, heavy woodwork, and settling cracks beneath old paint layers. Painting these homes requires careful scraping, plaster stabilization, and historical trim preservation that newer suburban builds do not demand. Modern drywall additions in areas like Daybreak or Draper allow for streamlined drywall taping and spray application. Project planning accounts for these structural differences to ensure historic surfaces receive proper bonding primers and flexible caulking.",
+        "@type": "Answer",
+        "description": "Historic homes require plaster patching and extensive trim restoration, whereas newer builds feature standard drywall ready for direct priming."
+      }
+    }
+  ],
+  "description": "Historic homes require plaster patching and extensive trim restoration, whereas newer builds feature standard drywall ready for direct priming."
+}

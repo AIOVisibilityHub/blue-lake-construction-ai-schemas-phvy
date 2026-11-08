@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-discussing-lighting-choices-for-a-remodel",
+  "name": "What should I prepare before discussing lighting choices for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing lighting choices for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finalizing lighting selections, document your room layout, primary task locations, and personal switch preferences. Identify where furniture, dining tables, or kitchen islands will sit so ceiling boxes can be centered precisely over those focal points. It also helps to consider color temperature; warm white options (around 2700K to 3000K) create comfortable living and dining spaces, while neutral white (around 3500K to 4000K) is often preferred for kitchen prep surfaces and bathroom vanities where clarity is important.",
+        "@type": "Answer",
+        "description": "Note your planned furniture arrangements, key work areas, and lighting temperature preferences so fixtures and switches can be placed accurately."
+      }
+    }
+  ],
+  "description": "Note your planned furniture arrangements, key work areas, and lighting temperature preferences so fixtures and switches can be placed accurately."
+}

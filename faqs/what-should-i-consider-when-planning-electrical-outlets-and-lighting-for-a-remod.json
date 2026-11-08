@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-consider-when-planning-electrical-outlets-and-lighting-for-a-remod",
+  "name": "What should I consider when planning electrical outlets and lighting for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning electrical outlets and lighting for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finalizing your renovation plans, make a complete list of all anticipated electrical devices and their intended locations. Note large appliances, such as ovens, wine fridges, and microwave drawers, along with small countertop appliances that require dedicated circuits. In bathrooms, determine whether you need power for heated towel racks, bidet seats, or high-capacity ventilation fans. Gathering these requirements early allows your general contractor to design a coordinated layout that places switches, outlets, and lighting right where you plan to use them.",
+        "@type": "Answer",
+        "description": "List all major appliances, daily-use electronics, and task areas so your contractor can design appropriate circuit loads and place outlets where you need them."
+      }
+    }
+  ],
+  "description": "List all major appliances, daily-use electronics, and task areas so your contractor can design appropriate circuit loads and place outlets where you need them."
+}

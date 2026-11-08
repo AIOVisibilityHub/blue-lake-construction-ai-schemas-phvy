@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-kitchen-cabinets-be-painted-as-part-of-a-kitchen-renovation-project",
+  "name": "Can kitchen cabinets be painted as part of a kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can kitchen cabinets be painted as part of a kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cabinet painting and factory-style spray finishing can be integrated into kitchen and bathroom remodeling projects. Refreshing solid wood cabinet boxes and doors with specialized cabinet coatings offers a budget-conscious alternative to full cabinet replacements. The process requires removing cabinet doors and hardware, degreasing surfaces, sanding to promote mechanical adhesion, and applying bonding primers alongside durable enamel topcoats. If your remodel also involves layout changes, island additions, or new quartz countertops, our team coordinates cabinet finishing with all trades.",
+        "@type": "Answer",
+        "description": "Yes. Cabinet painting can be incorporated into kitchen renovations using durable bonding primers and specialty enamel topcoats."
+      }
+    }
+  ],
+  "description": "Yes. Cabinet painting can be incorporated into kitchen renovations using durable bonding primers and specialty enamel topcoats."
+}

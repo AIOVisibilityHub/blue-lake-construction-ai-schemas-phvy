@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-is-lighting-planned-for-home-additions-and-open-concept-conversions",
+  "name": "How is lighting planned for home additions and open-concept conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is lighting planned for home additions and open-concept conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In an addition or open-concept conversion, lighting must visually link the new footprint with your original rooms while accommodating distinct functional zones. Blue Lake Construction plans lighting by mapping ceiling heights, natural window light, and furniture arrangements across the connected spaces. Installing multi-zone dimmers allows you to illuminate the cooking or family gathering area brightly while softening the perimeter. Balancing matching trim finishes across recessed lights ensures continuity from the original structure into newly built rooms.",
+        "@type": "Answer",
+        "description": "Lighting is mapped across functional zones using consistent trim styles and multi-zone dimmer switches to visually tie new construction into existing rooms."
+      }
+    }
+  ],
+  "description": "Lighting is mapped across functional zones using consistent trim styles and multi-zone dimmer switches to visually tie new construction into existing rooms."
+}

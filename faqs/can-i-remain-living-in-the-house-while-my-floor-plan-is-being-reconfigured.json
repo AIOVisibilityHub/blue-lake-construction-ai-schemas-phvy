@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-remain-living-in-the-house-while-my-floor-plan-is-being-reconfigured",
+  "name": "Can I remain living in the house while my floor plan is being reconfigured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remain living in the house while my floor plan is being reconfigured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home depends heavily on the scale of the layout changes and which rooms are affected. If the reconfiguration focuses primarily on a main-floor kitchen, living area, or primary suite, families often remain living on a different floor or in an unaffected basement. However, moving structural walls, cutting into subfloors, and rerouting main electrical panels or whole-home water supplies brings significant noise, dust, and brief utility shutdowns. When a whole-home reconfiguration cuts off functional kitchens and bathrooms simultaneously, temporary off-site accommodation is generally recommended.",
+        "@type": "Answer",
+        "description": "You can often stay if work is isolated to one area, but extensive reconfigurations affecting main utilities, kitchens, or multiple bathrooms usually favor temporary relocation."
+      }
+    }
+  ],
+  "description": "You can often stay if work is isolated to one area, but extensive reconfigurations affecting main utilities, kitchens, or multiple bathrooms usually favor tempo"
+}

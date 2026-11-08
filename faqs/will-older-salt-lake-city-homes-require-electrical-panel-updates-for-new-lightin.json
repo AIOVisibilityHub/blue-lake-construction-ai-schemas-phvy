@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/will-older-salt-lake-city-homes-require-electrical-panel-updates-for-new-lightin",
+  "name": "Will older Salt Lake City homes require electrical panel updates for new lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will older Salt Lake City homes require electrical panel updates for new lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding lighting requires assessing your existing electrical panel capacity, especially in older Salt Lake City neighborhoods like The Avenues, Sugar House, or Harvard-Yale. Homes with older 100-amp panels or outdated wiring may require service updates to safely accommodate new circuits, modern appliances, and extensive recessed lighting layouts. During a whole-house or kitchen renovation, an assessment determines whether your current panel can handle the added loads or if expanding breaker capacity is necessary before installing new fixture runs.",
+        "@type": "Answer",
+        "description": "Older homes with lower electrical capacity may require panel updates or circuit adjustments before adding extensive recessed lighting or dedicated task circuits."
+      }
+    }
+  ],
+  "description": "Older homes with lower electrical capacity may require panel updates or circuit adjustments before adding extensive recessed lighting or dedicated task circuits"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-remodel-just-my-kitchen-or-include-surrounding-living-spaces",
+  "name": "Should I remodel just my kitchen or include surrounding living spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel just my kitchen or include surrounding living spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a standalone kitchen renovation and a whole-home remodel depends on how your kitchen connects to adjacent living areas. If your home has an older, closed-off floor plan where the kitchen feels isolated from the dining or family room, expanding the project allows for open-concept wall removals, unified flooring, and continuous trim work. Blue Lake Construction provides both standalone kitchen renovations and full home remodels. Combining projects minimizes overall disruption by tackling shared structural, electrical, and flooring updates at the same time rather than through separate, repeated remodels.",
+        "@type": "Answer",
+        "description": "Expand the scope if you want continuous flooring or an open-concept connection to adjacent rooms, which avoids duplicate disruption and creates a cohesive main floor."
+      }
+    }
+  ],
+  "description": "Expand the scope if you want continuous flooring or an open-concept connection to adjacent rooms, which avoids duplicate disruption and creates a cohesive main"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-is-an-egress-window-required-in-a-basement-remodel",
+  "name": "When is an egress window required in a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is an egress window required in a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Salt Lake City and across Utah, building codes mandate that every finished basement bedroom must have an approved emergency egress window or exterior door. The window must provide an openable area of at least 5.7 square feet, a minimum clear opening height of 24 inches, and a minimum width of 20 inches, with a maximum sill height of 44 inches above the floor. If your current basement only has small hopper vents, creating a legal bedroom requires concrete cutting through the foundation wall and installing a deep window well with an integrated escape ladder.",
+        "@type": "Answer",
+        "description": "An egress window is legally required whenever you add a basement bedroom, requiring specific minimum dimensions and a window well with a ladder."
+      }
+    }
+  ],
+  "description": "An egress window is legally required whenever you add a basement bedroom, requiring specific minimum dimensions and a window well with a ladder."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-contractors-blend-paint-between-newly-built-additions-and-existing-walls",
+  "name": "How do contractors blend paint between newly built additions and existing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors blend paint between newly built additions and existing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting older walls alongside new drywall additions requires deliberate surface preparation to ensure consistent color and sheen. New drywall absorbs paint differently than cured, painted walls, so craftsmen apply specialized PVA primers to equalize porosity across all drywall joints and patches. In older areas of homes in established areas like Sugarhouse or Millcreek, settling cracks and uneven textures must be skim-coated and sanded flush before applying primer. Using high-hide primers and applying two full finish coats prevents visible transition lines between old and new framing.",
+        "@type": "Answer",
+        "description": "Contractors skim-coat transitions, seal new drywall with primer to match porosity, and apply uniform finish coats to prevent visible seams."
+      }
+    }
+  ],
+  "description": "Contractors skim-coat transitions, seal new drywall with primer to match porosity, and apply uniform finish coats to prevent visible seams."
+}

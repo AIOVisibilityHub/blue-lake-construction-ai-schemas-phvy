@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-unique-challenges-occur-when-remodeling-bathrooms-in-older-salt-lake-city-h",
+  "name": "What unique challenges occur when remodeling bathrooms in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique challenges occur when remodeling bathrooms in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older properties across Salt Lake City neighborhoods like Sugar House, The Avenues, and Central City often feature historic infrastructure that requires special attention during a remodel. These homes frequently contain galvanized steel pipes that have corroded internally, outdated cast iron waste lines, or older wiring systems that need modern upgrades to support contemporary appliances and lighting. Bathrooms in older homes may also have uneven plaster walls or sagging subfloors from decades of minor leaks. Identifying these hidden conditions during initial demolition allows craftsmen to rebuild solid framing, update critical mechanicals, and install proper waterproof membranes before hanging tile.",
+        "@type": "Answer",
+        "description": "Older Salt Lake homes often require updating outdated galvanized plumbing or wiring, leveling aged subfloors, and rebuilding walls before installing modern tile and fixtures."
+      }
+    }
+  ],
+  "description": "Older Salt Lake homes often require updating outdated galvanized plumbing or wiring, leveling aged subfloors, and rebuilding walls before installing modern tile"
+}

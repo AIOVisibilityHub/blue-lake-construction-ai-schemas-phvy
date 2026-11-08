@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-steps-are-involved-in-reconfiguring-a-home-floor-plan",
+  "name": "What steps are involved in reconfiguring a home floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in reconfiguring a home floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process starts with an initial consultation to evaluate your goals, followed by structural analysis and measured architectural floor plans. Once the layout is designed and approved, your general contractor pulls required municipal building permits. The physical construction begins with site protection and selective demolition. Next, trades complete rough-in framing, install structural support beams, and reroute hidden electrical wiring, HVAC ducting, and plumbing lines. After rough-in inspections pass, crews install drywall, trim carpentry, flooring, and paint before completing final fixtures, cabinetry, and punch-list detailing.",
+        "@type": "Answer",
+        "description": "The process includes layout design, engineering, municipal permitting, demolition, framing support beams, rough-in mechanical rerouting, drywall, and finish carpentry."
+      }
+    }
+  ],
+  "description": "The process includes layout design, engineering, municipal permitting, demolition, framing support beams, rough-in mechanical rerouting, drywall, and finish car"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-framing-factors-affect-open-concept-projects-in-newer-south-jordan-or-river",
+  "name": "What framing factors affect open-concept projects in newer South Jordan or Riverton homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What framing factors affect open-concept projects in newer South Jordan or Riverton homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In areas like Daybreak or Riverton, many modern homes feature lightweight roof trusses or second-story floor systems that rely on specific interior bearing points. While newer construction may have fewer chimney chases, long clear spans often demand substantial engineered wood beams (LVL) or steel to remove interior walls between kitchens and great rooms without ceiling sag. Your contractor will examine the attic truss layout and lower-level foundation support to specify the correct beam dimensions for open floor plans in these communities.",
+        "@type": "Answer",
+        "description": "Newer homes often use engineered roof trusses and wide clear spans, requiring exact beam calculations to remove walls without causing ceiling deflection."
+      }
+    }
+  ],
+  "description": "Newer homes often use engineered roof trusses and wide clear spans, requiring exact beam calculations to remove walls without causing ceiling deflection."
+}

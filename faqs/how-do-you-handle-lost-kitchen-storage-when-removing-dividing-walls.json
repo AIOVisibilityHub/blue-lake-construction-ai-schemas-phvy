@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-you-handle-lost-kitchen-storage-when-removing-dividing-walls",
+  "name": "How do you handle lost kitchen storage when removing dividing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle lost kitchen storage when removing dividing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing walls often eliminates upper wall cabinets, but thoughtful layout redesigns recover this space effectively. Contractors frequently replace lost wall storage by installing an expanded kitchen island with double-sided base cabinets, adding a dedicated walk-in or reach-in pantry, and utilizing deep pull-out drawers for pots and dishes. Custom cabinetry can also be designed up to the ceiling on remaining perimeter walls to maximize vertical storage while preserving an open, uncluttered aesthetic.",
+        "@type": "Answer",
+        "description": "Lost wall storage is recovered through oversized kitchen islands with base cabinets, perimeter cabinetry extended to the ceiling, and built-in pantries."
+      }
+    }
+  ],
+  "description": "Lost wall storage is recovered through oversized kitchen islands with base cabinets, perimeter cabinetry extended to the ceiling, and built-in pantries."
+}

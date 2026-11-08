@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-prepare-before-meeting-with-a-bathroom-remodeling-contractor",
+  "name": "What should I prepare before meeting with a bathroom remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a bathroom remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before reaching out to a contractor, measure your room's rough dimensions, list your functional priorities, and gather visual references for styles you like. Note what currently frustrates you about the space, whether it is poor vanity storage, dim lighting, low water pressure, or lack of elbow room. It is also helpful to clarify your overall budget range and decide whether you want to preserve the existing floor plan or explore relocating fixtures like the toilet or shower. Having these goals defined helps the project team assess feasibility, suggest practical layouts, and provide accurate project estimates.",
+        "@type": "Answer",
+        "description": "List your storage and layout pain points, establish your budget boundary, collect reference photos, and decide if you want to alter the current plumbing layout."
+      }
+    }
+  ],
+  "description": "List your storage and layout pain points, establish your budget boundary, collect reference photos, and decide if you want to alter the current plumbing layout."
+}

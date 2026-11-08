@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/should-i-choose-tile-or-luxury-vinyl-plank-for-high-moisture-rooms-like-bathroom",
+  "name": "Should I choose tile or luxury vinyl plank for high-moisture rooms like bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose tile or luxury vinyl plank for high-moisture rooms like bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between tile and luxury vinyl plank (LVP) for wet areas comes down to durability, maintenance, and comfort underfoot. Custom tile offers exceptional water resistance, longevity, and high-end visual appeal for bathrooms, but requires regular grout sealing and feels colder under bare feet. LVP provides strong water resistance, softer and warmer steps, and faster installation, making it practical for active households and basements. A key decision factor is your budget and willingness to maintain grout lines over time versus opting for a lower-maintenance, floating surface.",
+        "@type": "Answer",
+        "description": "Tile delivers permanent, high-end water protection but requires grout care, while luxury vinyl plank offers water resistance, warmth, and easier maintenance at lower installation effort."
+      }
+    }
+  ],
+  "description": "Tile delivers permanent, high-end water protection but requires grout care, while luxury vinyl plank offers water resistance, warmth, and easier maintenance at"
+}

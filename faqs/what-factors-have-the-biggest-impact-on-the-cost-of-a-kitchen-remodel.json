@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-kitchen-remodel",
+  "name": "What factors have the biggest impact on the cost of a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Total kitchen remodeling costs depend directly on room size, structural modifications, and material choices. Primary cost drivers include custom cabinetry versus stock cabinet replacements, the type of countertop materials selected, and high-end tile or plumbing fixtures. Reconfiguring a floor plan—such as relocating a sink, gas range, or refrigerator—increases labor costs because licensed trades must alter supply lines, drainage, and dedicated electrical circuits behind the walls. Creating open-concept spaces by removing load-bearing walls also requires structural engineering, which impacts the overall budget.",
+        "@type": "Answer",
+        "description": "Costs depend on custom cabinetry, countertop materials, appliance choices, and whether your layout requires moving plumbing, gas lines, or load-bearing walls."
+      }
+    }
+  ],
+  "description": "Costs depend on custom cabinetry, countertop materials, appliance choices, and whether your layout requires moving plumbing, gas lines, or load-bearing walls."
+}

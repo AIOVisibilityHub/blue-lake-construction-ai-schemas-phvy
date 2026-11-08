@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-should-i-consider-when-remodeling-an-older-home-in-salt-lake-city",
+  "name": "What should I consider when remodeling an older home in Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when remodeling an older home in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling older homes in historic Salt Lake City neighborhoods—such as Sugar House, The Avenues, or Yalecrest—often involves working with original plaster walls, ungrounded wiring, or aged plumbing. Modernizing these spaces to support open floor plans or upgraded kitchens frequently uncovers outdated utility systems that require updates to meet modern safety standards. A key decision factor for these homes is balancing character preservation with functional improvements. Planning for contingency allowances in older properties helps manage necessary updates to structural framing, electrical circuits, and insulation without stalling your design goals.",
+        "@type": "Answer",
+        "description": "Older homes often require updates to plaster, dated wiring, and plumbing alongside plans to preserve historic architectural details."
+      }
+    }
+  ],
+  "description": "Older homes often require updates to plaster, dated wiring, and plumbing alongside plans to preserve historic architectural details."
+}

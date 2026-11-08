@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-included-in-a-full-home-remodel",
+  "name": "What is included in a full home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a full home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full home remodel involves coordinated renovations across most or all living spaces in a house. At Blue Lake Construction, this scope typically combines kitchen and bathroom renovations with broader interior updates, including floor plan reconfiguration, open-concept conversions, basement finishing, flooring replacement, interior painting, and trim carpentry. It also integrates necessary electrical, plumbing, and lighting updates throughout the residence. Rather than addressing rooms individually over several years, a full remodel redesigns the home holistically to ensure cohesive finishes, aligned structural modifications, and consistent craftsmanship from room to room.",
+        "@type": "Answer",
+        "description": "A full home remodel includes whole-house renovations like kitchen and bathroom updates, floor plan reconfigurations, flooring, interior painting, and plumbing and electrical upgrades."
+      }
+    }
+  ],
+  "description": "A full home remodel includes whole-house renovations like kitchen and bathroom updates, floor plan reconfigurations, flooring, interior painting, and plumbing a"
+}

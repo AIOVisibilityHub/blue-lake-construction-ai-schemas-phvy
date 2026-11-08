@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-long-does-a-typical-bathroom-remodel-take-from-start-to-finish",
+  "name": "How long does a typical bathroom remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard residential bathroom remodels take between three to six weeks of active construction, though complex master suites or extensive floor plan reconfigurations can take longer. The project duration depends heavily on whether plumbing fixtures are moved, the detail required for custom tile showers, and material delivery schedules. Ordering specialty vanities, custom glass enclosures, or imported tile before demolition begins helps prevent jobsite pauses. Having all design plans finalized and finishes selected up front keeps the craftsmen working steadily through demolition, rough-ins, drywall, waterproofing, tile setting, and final trim installation.",
+        "@type": "Answer",
+        "description": "Active construction usually takes three to six weeks. Timelines vary based on layout changes, plumbing moves, and the extent of custom tile work."
+      }
+    }
+  ],
+  "description": "Active construction usually takes three to six weeks. Timelines vary based on layout changes, plumbing moves, and the extent of custom tile work."
+}

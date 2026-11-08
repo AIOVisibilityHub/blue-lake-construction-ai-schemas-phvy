@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-is-the-difference-between-a-full-bathroom-remodel-and-a-cosmetic-refresh",
+  "name": "What is the difference between a full bathroom remodel and a cosmetic refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full bathroom remodel and a cosmetic refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete bathroom remodel includes gutting the room down to the studs, reconfiguring or updating plumbing and electrical systems, and replacing all major elements. This scope involves installing new walk-in showers or bathtubs, custom tile, vanities, countertops, flooring, and ventilation fans. A cosmetic refresh typically keeps the existing footprint, plumbing locations, and layout intact, focusing instead on swapping out faucets, painting, installing a new mirror, or replacing cabinet hardware. Choosing a full renovation is usually necessary if you want to alter the layout, add built-in shower benches or niches, or resolve hidden moisture and subfloor damage.",
+        "@type": "Answer",
+        "description": "A full remodel updates the layout, plumbing, electrical, and fixtures down to the studs, while a cosmetic refresh only changes surface finishes like paint, mirrors, and hardware."
+      }
+    }
+  ],
+  "description": "A full remodel updates the layout, plumbing, electrical, and fixtures down to the studs, while a cosmetic refresh only changes surface finishes like paint, mirr"
+}

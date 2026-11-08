@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-you-live-in-the-house-during-a-whole-home-renovation",
+  "name": "Can you live in the house during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you live in the house during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners find it practical to relocate temporarily during a full home remodel due to utility shutoffs, dust, and safety concerns. When a project simultaneously overhauls the kitchen, main bathrooms, and interior flooring, daily living without essential plumbing, cooking facilities, or quiet spaces becomes difficult. If you must remain on-site, discuss phasing strategies with your general contractor early, which may allow you to preserve an intact bathroom or living zone while other areas are under construction.",
+        "@type": "Answer",
+        "description": "Most homeowners relocate temporarily because water, power, kitchens, and bathrooms are often offline, though phased renovations can sometimes preserve a livable zone."
+      }
+    }
+  ],
+  "description": "Most homeowners relocate temporarily because water, power, kitchens, and bathrooms are often offline, though phased renovations can sometimes preserve a livable"
+}

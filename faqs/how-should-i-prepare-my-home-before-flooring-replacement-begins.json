@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-i-prepare-my-home-before-flooring-replacement-begins",
+  "name": "How should I prepare my home before flooring replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before flooring replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installers arrive, homeowners should clear all furniture, rugs, and personal items from the project area to ensure unhindered access. Disconnecting electronics, emptying the bottoms of closets, and removing fragile wall decor prevent accidental damage caused by subfloor vibration during demolition. You should also confirm whether your contractor is handling the disposal of old carpet and tile or if a dumpster will be placed on your property. Planning a designated path for crews helps protect remaining rooms from dust and debris.",
+        "@type": "Answer",
+        "description": "Clear all furniture, rugs, and decor from the work zones, empty lower storage, and ensure contractors have a clear, protected walkway to the staging area."
+      }
+    }
+  ],
+  "description": "Clear all furniture, rugs, and decor from the work zones, empty lower storage, and ensure contractors have a clear, protected walkway to the staging area."
+}

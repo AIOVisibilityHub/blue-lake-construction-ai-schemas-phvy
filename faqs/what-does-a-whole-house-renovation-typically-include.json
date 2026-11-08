@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-does-a-whole-house-renovation-typically-include",
+  "name": "What does a whole-house renovation typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a whole-house renovation typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-house renovation typically includes remodeling multiple core spaces at once, such as kitchens, bathrooms, living areas, and basements. It often involves structural floor plan reconfigurations like open-concept conversions, full flooring replacement, interior painting, and trim carpentry. It also addresses essential infrastructure, including electrical, plumbing, and lighting updates. Homeowners frequently combine layout redesigns with finish updates to ensure the entire residence feels cohesive rather than pieced together over years.",
+        "@type": "Answer",
+        "description": "A whole-house renovation updates multiple rooms at once, covering kitchens, baths, layout changes, flooring, trim, and underlying plumbing and electrical systems."
+      }
+    }
+  ],
+  "description": "A whole-house renovation updates multiple rooms at once, covering kitchens, baths, layout changes, flooring, trim, and underlying plumbing and electrical system"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/at-what-stage-of-a-home-remodel-should-interior-painting-be-completed",
+  "name": "At what stage of a home remodel should interior painting be completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a home remodel should interior painting be completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a major renovation, interior painting typically takes place after rough-in inspections, drywall finishing, and trim carpentry are complete, but before final flooring installation. Priming and applying the initial wall coat early allows our craftsmen to spray trim and ceilings efficiently without risk to finished floors. A final touch-up and finish coat is then applied after cabinetry, counters, and flooring are installed to resolve minor scuffs caused by subsequent trade work. This sequenced approach protects new materials and avoids costly repair cycles.",
+        "@type": "Answer",
+        "description": "Painting happens after drywall and trim installation but before final flooring, with a final touch-up coat applied after cabinets and fixtures are in place."
+      }
+    }
+  ],
+  "description": "Painting happens after drywall and trim installation but before final flooring, with a final touch-up coat applied after cabinets and fixtures are in place."
+}

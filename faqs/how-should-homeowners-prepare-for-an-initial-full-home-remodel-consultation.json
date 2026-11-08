@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-should-homeowners-prepare-for-an-initial-full-home-remodel-consultation",
+  "name": "How should homeowners prepare for an initial full home remodel consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare for an initial full home remodel consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a general contractor, compile clear notes about your priorities, daily routines, and budgetary boundaries. Gather visual inspiration for kitchen cabinetry, bathroom layouts, and flooring finishes to communicate your desired aesthetic. Identify functional pain points in your current home, such as inadequate storage, cramped hallways, or closed-off living spaces. Having a defined budget range and a preliminary timeline in mind allows contractors like Blue Lake Construction to evaluate scope viability, suggest practical layouts, and provide grounded guidance during initial planning conversations.",
+        "@type": "Answer",
+        "description": "Prepare a list of functional priorities, collect style inspiration photos, define an honest budget range, and identify specific rooms that require layout changes."
+      }
+    }
+  ],
+  "description": "Prepare a list of functional priorities, collect style inspiration photos, define an honest budget range, and identify specific rooms that require layout change"
+}

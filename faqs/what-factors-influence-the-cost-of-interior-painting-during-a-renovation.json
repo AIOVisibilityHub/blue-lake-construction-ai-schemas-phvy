@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-influence-the-cost-of-interior-painting-during-a-renovation",
+  "name": "What factors influence the cost of interior painting during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of interior painting during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior painting during a remodel depends on wall heights, surface conditions, trim detail, and the total square footage involved. Painting newly hung drywall in a finished basement or addition requires proper primer sealing, while older homes in historic Salt Lake City neighborhoods often require extensive wall patching, texture smoothing, and caulk repair before paint application. Custom millwork, door casings, and built-in cabinetry also increase labor compared to broad, open wall surfaces. Detailed estimates outline all prep work, primer coats, and finish applications.",
+        "@type": "Answer",
+        "description": "Key cost factors include square footage, ceiling heights, required drywall repairs, trim and millwork detail, and the transition between old and new surfaces."
+      }
+    }
+  ],
+  "description": "Key cost factors include square footage, ceiling heights, required drywall repairs, trim and millwork detail, and the transition between old and new surfaces."
+}

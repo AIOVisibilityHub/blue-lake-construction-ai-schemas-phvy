@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-basement-renovation",
+  "name": "How do I choose the right contractor for my basement renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my basement renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a licensed residential general contractor who carries active liability and workers' compensation insurance and has documented experience handling basement structural work. Basements present unique challenges, such as managing slab moisture, framing around low ductwork, and working within concrete envelopes. Look for a contractor who handles municipal permits directly, outlines clear payment schedules, and uses established trade partners for electrical and plumbing. Confirming their state license status and reviewing previous multi-room basement projects provides assurance of their craftsmanship and project management capabilities.",
+        "@type": "Answer",
+        "description": "Select a licensed, insured general contractor who pulls required permits, manages specialized trades, and has a proven track record with basement layouts."
+      }
+    }
+  ],
+  "description": "Select a licensed, insured general contractor who pulls required permits, manages specialized trades, and has a proven track record with basement layouts."
+}

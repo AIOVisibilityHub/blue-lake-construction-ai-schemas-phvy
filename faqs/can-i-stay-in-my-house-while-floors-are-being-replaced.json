@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-i-stay-in-my-house-while-floors-are-being-replaced",
+  "name": "Can I stay in my house while floors are being replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while floors are being replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily have to move out, but staying depends on the scope of work and the rooms involved. Replacing floors in a single guest bathroom causes minimal disruption, whereas an open-concept main floor or whole-house flooring update limits access to kitchens, hallways, and living areas. In addition, demolition generates dust and noise, while certain adhesives or finishes require curing time without foot traffic. For large-scale projects, many homeowners arrange to stay elsewhere for a few days to avoid daily disruption.",
+        "@type": "Answer",
+        "description": "Yes, for smaller or isolated rooms, but whole-home or main-floor replacements often disrupt access to kitchens and hallways, making a short temporary stay elsewhere easier."
+      }
+    }
+  ],
+  "description": "Yes, for smaller or isolated rooms, but whole-home or main-floor replacements often disrupt access to kitchens and hallways, making a short temporary stay elsew"
+}

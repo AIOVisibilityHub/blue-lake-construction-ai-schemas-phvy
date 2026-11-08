@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/are-there-specific-structural-considerations-for-open-concept-remodels-in-older",
+  "name": "Are there specific structural considerations for open-concept remodels in older Salt Lake City homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific structural considerations for open-concept remodels in older Salt Lake City homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes in Salt Lake City, such as historic bungalows in Sugar House or mid-century ranches on the East Bench, frequently feature structural bearing walls, brick chimneys, or centralized utility chases dividing smaller rooms. Remodeling these spaces often requires custom structural calculations to meet local seismic codes and building department standards. Blue Lake Construction manages local permitting and structural requirements across Salt Lake City neighborhoods to ensure open layouts remain safe, code-compliant, and true to the home's character.",
+        "@type": "Answer",
+        "description": "Yes, older Salt Lake City homes often require careful engineering for seismic codes, load-bearing walls, and rerouting vintage ductwork or plumbing."
+      }
+    }
+  ],
+  "description": "Yes, older Salt Lake City homes often require careful engineering for seismic codes, load-bearing walls, and rerouting vintage ductwork or plumbing."
+}

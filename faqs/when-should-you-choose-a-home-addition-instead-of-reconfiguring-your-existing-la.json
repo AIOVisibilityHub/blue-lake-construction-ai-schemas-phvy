@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/when-should-you-choose-a-home-addition-instead-of-reconfiguring-your-existing-la",
+  "name": "When should you choose a home addition instead of reconfiguring your existing layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should you choose a home addition instead of reconfiguring your existing layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full remodel reconfigures and updates the existing footprint of your home, while a home addition expands the building exterior to add new square footage. If your existing floor plan feels cut off, dark, or inefficient, converting to an open concept and reorganizing rooms often solves your space problems without altering the foundation. However, if your lot allows and your family needs extra bedrooms, an in-law suite, or an enlarged footprint, an addition is the better path.",
+        "@type": "Answer",
+        "description": "Reconfigure within your current walls if your layout is inefficient; build an addition if you have exhausted interior square footage and need more physical space."
+      }
+    }
+  ],
+  "description": "Reconfigure within your current walls if your layout is inefficient; build an addition if you have exhausted interior square footage and need more physical spac"
+}

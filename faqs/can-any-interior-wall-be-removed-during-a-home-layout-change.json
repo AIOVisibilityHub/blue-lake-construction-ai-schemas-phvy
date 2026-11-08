@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/can-any-interior-wall-be-removed-during-a-home-layout-change",
+  "name": "Can any interior wall be removed during a home layout change?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any interior wall be removed during a home layout change?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to remove an interior wall depends on whether it is load-bearing or non-load-bearing. Non-load-bearing partition walls can usually be removed with minimal structural disruption, though electrical or plumbing lines inside them still need relocation. Load-bearing walls support the weight of the roof or upper floors and cannot be removed without installing an engineered support beam, such as a steel or laminated veneer lumber (LVL) beam, supported by posts and reinforced footings. A licensed general contractor works with a structural engineer to inspect your home framing and calculate the required beam dimensions before taking down any wall.",
+        "@type": "Answer",
+        "description": "No, walls cannot all be removed freely. Non-load-bearing walls come down easily, but load-bearing walls require engineered support beams and posts to safely carry structural weight."
+      }
+    }
+  ],
+  "description": "No, walls cannot all be removed freely. Non-load-bearing walls come down easily, but load-bearing walls require engineered support beams and posts to safely car"
+}

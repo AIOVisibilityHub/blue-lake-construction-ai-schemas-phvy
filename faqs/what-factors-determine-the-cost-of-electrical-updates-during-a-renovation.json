@@ -1,0 +1,27 @@
+{
+  "url": "bluelakeconstruction.com/faq/what-factors-determine-the-cost-of-electrical-updates-during-a-renovation",
+  "name": "What factors determine the cost of electrical updates during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of electrical updates during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electrical updates for residential remodels vary widely in cost depending on the scope of the project. Adding dedicated circuits for a kitchen remodel or upgrading outlets to GFCI standards is relatively modest in expense, while upgrading an electrical panel or rewiring older sections of a house adds more substantial labor and material costs. A primary cost driver is whether walls are already open during a remodel, which significantly reduces the labor required to run new wiring compared to retrofitting an existing, finished space.",
+        "@type": "Answer",
+        "description": "Costs depend on your home's circuit capacity, whether open-wall access exists, and the need for panel upgrades, new wiring runs, or dedicated appliance circuits."
+      }
+    }
+  ],
+  "description": "Costs depend on your home's circuit capacity, whether open-wall access exists, and the need for panel upgrades, new wiring runs, or dedicated appliance circuits"
+}
