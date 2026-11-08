@@ -1,0 +1,97 @@
+{
+  "name": "How to Prepare for a Full Powder Room Renovation",
+  "step": [
+    {
+      "name": "Step 1: Measure Clearances and Verify Rough-In Locations",
+      "text": "Carefully measure the full room footprint, noting entry door swing arcs, wall clearances, and the exact distance from finished framing to the toilet flange center. Confirm that your planned vanity depth and width leave adequate walking aisle clearance and do not impede the doorway. Have your room dimensions and proposed fixture specifications ready before ordering parts.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Confirm Municipal Permit and Inspection Needs",
+      "text": "Contact your local building department or review plans with your licensed general contractor to determine if trade permits are necessary. Simple same-location fixture swaps may not always trigger inspections, but relocating supply pipes, running new drains, or adding wall outlets generally does. Completing this step upfront prevents costly stop-work orders.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove Outdated Fixtures and Inspect Surfaces",
+      "text": "Turn off the localized water shut-offs and remove the existing toilet, pedestal or vanity cabinet, mirror, and light fixture. Inspect the drywall, subfloor, and exposed supply stops for hidden leak stains or deteriorated pipe threads that need remediation. A clean, exposed rough opening means you are ready for rough-in work.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Update Rough Plumbing, Electrical, and Ventilation",
+      "text": "Rough in any relocated water supplies, ensure the waste line has proper code-compliant venting, and pull dedicated electrical lines for GFCI outlets. If your powder room lacks natural exterior ventilation, install a ducted exhaust fan that discharges through an outside wall or roof cap. This stage is complete once rough trade work passes inspection.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install Finishes, Mount Fixtures, and Perform Leak Tests",
+      "text": "Hang moisture-rated wallboard, paint or apply wall finishes, and install durable flooring before setting the new vanity and bolting down the toilet. Connect water lines, mount the sink faucet, hang the mirror, and install overhead vanity lighting. Turn on water valves and run multiple flush cycles to confirm airtight seals and zero leaks before opening the room for guests. For expert powder room renovations in Salt Lake City, Draper, and South Jordan, contact Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Carefully measure the full room footprint, noting entry door swing arcs, wall clearances, and the exact distance from finished framing to the toilet flange center. Confirm that your planned vanity dep"
+}

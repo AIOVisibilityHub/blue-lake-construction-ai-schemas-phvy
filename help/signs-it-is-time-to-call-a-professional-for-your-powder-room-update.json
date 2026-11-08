@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for Your Powder Room Update",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A powder room refresh seems simple on the surface, but small rooms leave zero margin for error with plumbing, wiring, and code clearances.\n\nWhen to Call a Professional:\n- Moving the waste line or water supplies: Shifting a toilet even a few inches requires cutting into the subfloor and adjusting drain slopes under local plumbing standards.\n- Lack of proper ventilation: If your powder room lacks an operable window, building standards typically require a mechanical exhaust fan routed directly outside.\n- Insufficient clearance measurements: Finding that a new vanity blocks the door swing or sits too close to the toilet center line demands professional design adjustments.\n- Uncovering previous moisture damage: Water stains around the base of the toilet flange or behind the sink call for framing and subfloor evaluation before new finishes are installed.\n- Adding new lighting or circuits: Cutting into finished walls to add sconces or modern receptacles requires safe electrical routing and proper breaker capacity.\n\nWhen Professional Guidance Helps:\nBringing in a licensed general contractor keeps trade work compliant, ensures correct permits are pulled, and prevents costly layout blunders. Call Blue Lake Construction at 385-202-5987 to discuss your powder room renovation goals.",
+  "datePublished": "2026-11-08"
+}

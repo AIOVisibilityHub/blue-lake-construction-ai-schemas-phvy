@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a General Contractor for Your Tub-to-Shower Project",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tearing out a bathtub sounds straightforward until the wallboard comes down and reveals what is underneath. Here are clear signals that your conversion project needs a licensed general contractor rather than a quick fix:\n\n- Hidden subfloor damage: Soft spots, dark stains, or persistent mildew around the base of the tub mean structural framing requires repair before building a shower floor.\n- Drain line relocation: Showers require proper drainage slopes and often a larger drain pipe than older tub drains, demanding code-compliant plumbing rough-ins.\n- Framing for accessibility: Installing secure grab bars or a built-in shower bench requires solid wood blocking added directly inside the wall framing before tiling.\n- Continuous waterproofing demands: Moisture barriers cannot simply rely on caulk; they need certified pan liners and sealed wall membranes.\n- Layout reconfiguration: Moving supply valves to reach them without getting wet means opening up adjacent walls and adjusting copper or PEX lines.\n\nWhen Professional Guidance Helps\nAttempting to patch together mismatched plumbing or skipping proper waterproofing behind tile leads to costly leaks inside your walls. A licensed builder ensures structural repairs, plumbing, and moisture barriers meet strict local building standards.\n\nIf you are planning a tub conversion in Salt Lake City or the surrounding valley, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

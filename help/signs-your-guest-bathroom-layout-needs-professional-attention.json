@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Guest Bathroom Layout Needs Professional Attention",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about refreshing your secondary bath on your own? Some challenges point directly toward hiring a licensed contractor rather than taking on the job solo.\n\nWhen to Call a Professional:\n- Persistent moisture or hidden leaks: Discovering soft subflooring, degraded drywall, or damaged framing under old tile requires structural repairs before new finishes go down.\n- Relocating key plumbing fixtures: Shifting a toilet, vanity drain, or shower valve demands careful pipe planning, venting, and trade permits to keep lines flowing properly.\n- Electrical additions: Installing new vanity lighting, exhaust fans, or GFCI receptacles often calls for a dedicated bathroom circuit to manage modern power needs safely.\n- Ventilation challenges: Exhausting moist air through an attic instead of properly out the exterior wall or roof creates long-term hazards that require mechanical knowledge.\n- Major layout reconfiguration: Moving interior partition walls or altering doorways calls for experienced structural review and drafting.\n\nWhen Professional Guidance Helps:\nTackling rough-in plumbing, mechanical ventilation, and waterproofing requires strict attention to building standards so your finished space stays protected for years. Reach out to Blue Lake Construction at 385-202-5987 to get your guest bathroom project planned and built correctly.",
+  "datePublished": "2026-11-08"
+}

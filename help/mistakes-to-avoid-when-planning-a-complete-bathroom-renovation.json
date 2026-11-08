@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Planning a Complete Bathroom Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A full bathroom renovation transforms everyday living, but small oversights during initial planning can trigger costly rework. Steer clear of these common pitfalls when updating your bathroom.\n\nCommon Mistakes to Avoid:\n1. Treating tile and grout as waterproof barriers. Grout and tile absorb water over time; always install a verified sheet or liquid waterproofing membrane behind the tile.\n2. Commencing demolition before pulling permits. Major plumbing, structural, and electrical changes require local building review before walls are opened.\n3. Overlooking dedicated exhaust ducting. Depending solely on a window can trap humidity; verify that your mechanical fan vents fully to the home's exterior.\n4. Finalizing fixture orders late. Waiting to buy valves and vanities can stall the rough-in schedule and delay wall closures.\n5. Skipping shower pan testing. Neglecting a proper flood test on a custom mud bed can lead to leaks underneath finished flooring.\n\nWhat Can Change the Right Choice:\nYour home's framing and existing plumbing drop locations dictate whether moving fixtures makes practical sense. Working with licensed trades prevents costly framing alterations.\n\nBlue Lake Construction helps homeowners across Salt Lake City, Millcreek, and Sandy build durable, beautiful bathrooms. Contact our team at 385-202-5987 to get your renovation started right.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Timeline for a Guest Bathroom Remodel: From Demolition to Final Inspection",
+  "description": "Crews tear out the old vanity, tub or shower, toilet, and flooring down to the framing and subfloor. The contractor checks closely for concealed water rot around drains and plumbing walls, which typic",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Initial demolition and structural inspection",
+      "text": "Crews tear out the old vanity, tub or shower, toilet, and flooring down to the framing and subfloor. The contractor checks closely for concealed water rot around drains and plumbing walls, which typically wraps up in two to three days."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Rough plumbing, electrical, and ventilation updates",
+      "text": "Licensed trades run new water lines, reposition drain pipes, update lighting circuits, and route mechanical exhaust ducting directly outside. This rough-in phase takes about four to seven business days before city inspectors review open walls."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: City rough inspections and wall closure",
+      "text": "A municipal building inspector reviews the exposed plumbing, electrical, and structural changes to ensure code compliance. Once passed over one to two days, the crew insulates and hangs appropriate water-resistant backer board."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Shower waterproofing and tile installation",
+      "text": "Installers apply continuous waterproofing membranes across shower pans and wet zones, followed by custom wall and floor tile setting. Careful tile setting, curing, and grouting take roughly five to eight days of dedicated labor."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Cabinetry, trim, and finish installations",
+      "text": "Carpenters and craftsmen set the vanity, fit countertops, install plumbing fixtures, hook up the toilet, and mount lighting. This finishing stage usually takes three to five days as trades complete their final connections."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Final building inspections and walkthrough",
+      "text": "Local inspectors verify completed fixtures and mechanical exhaust performance before you and your general contractor review the punch list. This final step takes one to two days to ensure every detail matches your agreed specifications. What to Expect During the Process Unexpected subfloor rot or delayed tile deliveries can stretch your timeline, so finalizing your fixtures early keeps things on track. If you want a structured plan for your Salt Lake Valley home, call Blue Lake Construction at 385-202-5987."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Guest Bathroom Contractor: Scope Details to Clarify Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Updating a guest bath sounds simple until you begin reviewing fixture choices, plumbing lines, and local building rules. This complete guide breaks down what you need to consider before signing a contract.\n\nOverview: A guest bath remodel balances style with everyday durability, making sure visiting family or friends have a comfortable, well-ventilated space that stands up to regular use.\n\nKey Benefits: A coordinated overhaul eliminates hidden moisture concerns, upgrades worn surfaces, and improves functionality through better storage, durable flooring, and modern lighting.\n\nProcess Breakdown: Your project starts with assessing the existing room and confirming whether you need building permits. From there, demolition clears the space for plumbing and electrical rough-ins. Waterproofing and tile installations follow, leading to vanity, shower, and fixture placement, and finally, formal inspections.\n\nReal Examples: Homeowners in Sugar House and Millcreek often decide between keeping existing tub drains in place or pulling permits to convert cramped tubs into walk-in showers with custom tile niches.\n\nGet Started: When you plan to alter water lines, add dedicated circuits, or change walls, working with an experienced team ensures everything meets local standards. Call Blue Lake Construction at 385-202-5987 to talk through your project.",
+  "datePublished": "2026-11-08"
+}

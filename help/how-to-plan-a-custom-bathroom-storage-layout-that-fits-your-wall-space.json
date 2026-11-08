@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Plan a Custom Bathroom Storage Layout That Fits Your Wall Space",
+  "description": "Measure total wall dimensions, ceiling height, and the exact swing arc of the entry door, shower enclosure, and vanity drawers. Confirm that opening a storage cabinet will never strike adjacent glass ",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Take precise room measurements and map clear door swings",
+      "text": "Measure total wall dimensions, ceiling height, and the exact swing arc of the entry door, shower enclosure, and vanity drawers. Confirm that opening a storage cabinet will never strike adjacent glass or block entry clearance into the room."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Locate concealed plumbing stacks, vents, and electrical runs",
+      "text": "Use a stud finder and inspect adjoining rooms or basement chases to determine what runs through your target walls. Deep built-ins and recessed cubbies cannot share wall space with main vent stacks or primary supply lines without rerouting those services."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Select moisture-tolerant cabinet materials and corrosion-resistant hardware",
+      "text": "Choose solid wood, high-density moisture-resistant core materials, and factory-sealed finishes designed for humid bathroom conditions. Ensure hinges, slides, and shelf pins feature corrosion-resistant plating so they do not rust from daily shower steam."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Open wall framing and install structural horizontal blocking",
+      "text": "Expose the wall studs where the storage unit will sit and install solid two-by-four wood blocking between studs. Heavy hanging cabinets and floating tall units need structural wood backing rather than basic hollow-wall drywall anchors to safely hold heavy stacks of towels and toiletries."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Position, level, and securely fasten the cabinetry",
+      "text": "Lift the storage unit into position, confirm plumb and level with a precision spirit level, and drive rated cabinet screws directly into your solid blocking. Check that the cabinet box remains perfectly square so doors hang true and latch effortlessly."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Seal all wall penetrations and install interior fixtures",
+      "text": "Apply paintable silicone sealant around cabinet perimeters to keep stray splash water from seeping behind the woodwork. Adjust internal shelving, install soft-close hinges, and verify that plumbing shutoff valves remain completely unobstructed. If your layout requires opening load-bearing walls or moving supply pipes, hiring a licensed builder keeps your project smooth and compliant. Blue Lake Construction builds custom bathroom storage throughout Salt Lake City, Bountiful, and Taylorsville. Call us at 385-202-5987 to plan your built-in storage."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

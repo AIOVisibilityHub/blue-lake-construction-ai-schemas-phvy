@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional Carpenter for Trim and Molding Updates",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Putting up a simple piece of trim might seem straightforward, but certain home conditions quickly push finish carpentry beyond basic handiwork. Here are clear signs that your project warrants a professional carpenter:\n\n- Uneven walls or sloping floors: Older homes in areas like Sugarhouse or Millcreek often have bowed studs. Getting crisp baseboard and crown corners on uneven surfaces requires experienced scribing and shimming.\n- Stair handrails, balusters, and guards: Stair assemblies must meet specific residential building codes for height and spacing. Improperly anchored railings are an immediate safety hazard.\n- Stain-grade wood installations: Paint hides small amounts of wood filler, but stain exposes every flaw. Stain-grade trim demands exact miters, coped joints, and careful grain matching from the start.\n- Custom built-ins and closet systems: Built-in shelving and cabinetry demand structural anchoring, level casework, and integrated trim work that matches the rest of the room.\n- Intricate crown molding or wainscoting: Multi-piece crown assemblies and paneled walls involve complex angles and steady hands.\n\nWhen Professional Guidance Helps\nCalling in a licensed general contractor protects your timeline and ensures finish work coordinates neatly with your flooring and paint schedules. If your remodel calls for crisp carpentry, contact Blue Lake Construction at 385-202-5987 to set up a project consultation.",
+  "datePublished": "2026-11-08"
+}

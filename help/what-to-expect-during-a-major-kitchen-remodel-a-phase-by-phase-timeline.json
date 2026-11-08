@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect During a Major Kitchen Remodel: A Phase-by-Phase Timeline",
+  "description": "Your design team measures your space, records existing plumbing, electrical circuits, and gas lines, and produces preliminary architectural drawings. This stage takes about one to three weeks and defi",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Documenting Existing Conditions and Initial Drafting",
+      "text": "Your design team measures your space, records existing plumbing, electrical circuits, and gas lines, and produces preliminary architectural drawings. This stage takes about one to three weeks and defines your structural goals."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Securing Approvals and Finalizing Specifications",
+      "text": "The contractor submits plans for municipal review to secure building, electrical, and plumbing permits. During this two to four week window, you lock in appliance dimensions, cabinet orders, and countertop slab choices to avoid lead-time delays."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Demolition and Structural Reconfiguration",
+      "text": "Crews strip the space down to the framing and remove outdated fixtures, flooring, and non-load-bearing or load-bearing partition walls. This phase takes roughly three to seven business days and reveals any hidden wiring or framing issues."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Mechanical, Electrical, and Plumbing Rough-Ins",
+      "text": "Licensed trades run new dedicated electrical circuits for appliances, relocate supply lines and drains, and adapt range ventilation ductwork. This step takes one to two weeks and concludes with required municipal rough inspections."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Insulation, Drywall, and Surface Preparation",
+      "text": "After passing rough inspections, the team hangs, tapes, and finishes moisture-resistant drywall, then lays tile or hardwood flooring underlayment. This stage takes about five to eight business days to ensure a plumb, level foundation."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Cabinetry, Countertops, and Finish Installations",
+      "text": "Carpenters set base and wall cabinets, fabricators template and install stone counters, and installers hook up fixtures, tile backsplashes, and trim. This final stage takes two to three weeks, leading up to the final building inspection. If you are ready to plan your kitchen transformation in Salt Lake City or the surrounding valley, call Blue Lake Construction at 385-202-5987."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

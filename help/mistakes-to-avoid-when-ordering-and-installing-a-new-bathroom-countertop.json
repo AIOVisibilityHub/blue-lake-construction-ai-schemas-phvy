@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Ordering and Installing a New Bathroom Countertop",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your vanity top requires accuracy from fabrication through final sealing. Here are frequent mistakes clients encounter and practical ways to avoid them:\n\n1. Measuring the old countertop instead of the cabinet: Old tops often feature irregular overhangs. Measure the actual cabinet box dimensions, adding specific overhang allowances to fit your layout.\n2. Templating over an unlevel cabinet: Fabricating a top to fit an unlevel base creates high spots that crack stone. Ensure the vanity is shimmed and anchored before templating occurs.\n3. Installing the faucet after setting the slab: Connecting supply lines and faucet nuts inside a cramped vanity cabinet is difficult. Mount the faucet and drain assembly to the countertop before lowering it into place.\n4. Rushing the adhesive cure time: Hooking up plumbing lines or filling sinks before adhesives and silicone set—often requiring up to 24 to 48 hours—can break the seal and create slow leaks.\n5. Skipping a dry fit: Setting adhesive before checking how the slab sits against the wall and plumbing cutouts leads to rushed fixes. Always dry-fit the top first.\n6. Mismatched sink cutouts: Ordering a top without matching sink rim specs can ruin the reveal. Confirm exact sink templates prior to stone fabrication.\n\nWhat to Do Next\nFor precision countertop and bathroom remodeling work, contact Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

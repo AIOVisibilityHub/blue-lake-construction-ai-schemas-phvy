@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Countertop Contract and Scope Checklist: What to Confirm Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Kitchen Countertop Contract and Scope Checklist: What to Confirm Before You Sign",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Cabinet level verification — A run exceeding 1/8 inch out of level can crack rigid stone slabs or create un…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Cabinet level verification — A run exceeding 1/8 inch out of level can crack rigid stone slabs or create unsightly gaps beneath the surface."
+      },
+      {
+        "name": "Physical sink and cooktop presence — Installers require actual fixtures or exact cutout templates on site b…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Physical sink and cooktop presence — Installers require actual fixtures or exact cutout templates on site before fabricating holes."
+      },
+      {
+        "name": "Seam placement agreement — Marking exact seam locations on layout drawings prevents visible cuts across pri…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Seam placement agreement — Marking exact seam locations on layout drawings prevents visible cuts across primary prep zones."
+      },
+      {
+        "name": "Overhang support brackets — Stone overhangs extending past roughly 6 to 8 inches require steel plates or co…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Overhang support brackets — Stone overhangs extending past roughly 6 to 8 inches require steel plates or corbels fixed to cabinets."
+      },
+      {
+        "name": "Edge profile selection — Specifying eased, bullnose, or beveled edges up front prevents costly change order…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Edge profile selection — Specifying eased, bullnose, or beveled edges up front prevents costly change orders during CNC cutting."
+      },
+      {
+        "name": "Plumbing disconnection responsibilities — Clarifying whether the contractor or a licensed plumber handles s…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Plumbing disconnection responsibilities — Clarifying whether the contractor or a licensed plumber handles sink and faucet shutoffs avoids day-of delays."
+      },
+      {
+        "name": "Existing countertop tear-out plan — Documenting whether removal and disposal of old tile, laminate, or ston…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Existing countertop tear-out plan — Documenting whether removal and disposal of old tile, laminate, or stone tops are included in the scope."
+      },
+      {
+        "name": "Fabrication lead-time estimate — Confirming the 1 to 3 week fabrication turnaround window keeps cabinet and…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Fabrication lead-time estimate — Confirming the 1 to 3 week fabrication turnaround window keeps cabinet and appliance crews on schedule."
+      }
+    ]
+  },
+  "articleBody": "Before signing a contract for new kitchen surfaces, reviewing the fine print protects your project schedule and budget. Use this checklist to confirm every detail is accounted for before work begins.\n\n- [ ] Cabinet level verification — A run exceeding 1/8 inch out of level can crack rigid stone slabs or create unsightly gaps beneath the surface.\n- [ ] Physical sink and cooktop presence — Installers require actual fixtures or exact cutout templates on site before fabricating holes.\n- [ ] Seam placement agreement — Marking exact seam locations on layout drawings prevents visible cuts across primary prep zones.\n- [ ] Overhang support brackets — Stone overhangs extending past roughly 6 to 8 inches require steel plates or corbels fixed to cabinets.\n- [ ] Edge profile selection — Specifying eased, bullnose, or beveled edges up front prevents costly change orders during CNC cutting.\n- [ ] Plumbing disconnection responsibilities — Clarifying whether the contractor or a licensed plumber handles sink and faucet shutoffs avoids day-of delays.\n- [ ] Existing countertop tear-out plan — Documenting whether removal and disposal of old tile, laminate, or stone tops are included in the scope.\n- [ ] Fabrication lead-time estimate — Confirming the 1 to 3 week fabrication turnaround window keeps cabinet and appliance crews on schedule.\n\nHow to use this checklist:\nWalk through these items with your general contractor or countertop installer during the initial consultation. Taking these steps eliminates surprise bills and ensures your cabinetry is structurally ready. Blue Lake Construction coordinates complete kitchen renovations across Salt Lake City. Call 385-202-5987 to plan your project.",
+  "datePublished": "2026-11-08"
+}

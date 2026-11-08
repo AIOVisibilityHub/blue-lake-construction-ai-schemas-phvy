@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Replacing an Unused Tub with a Modern Shower: Complete Guide for Homeowners",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping an outdated bathtub for a spacious shower is one of the most rewarding home improvements you can make. It frees up floor space, modernizes your room, and cuts down on difficult scrubbing. However, converting plumbing footprints requires careful coordination so water stays exactly where it belongs.\n\nOverview: A conversion transforms your standard tub alcove into a functional, custom-tiled shower area.\nKey Benefits: You gain easier access, cleaner sightlines, and practical daily comfort.\nProcess Breakdown: Your contractor confirms measurements, removes the tub, inspects the subfloor for hidden leaks, updates the drain lines, builds a sloped pan with continuous waterproofing, installs tile and fixtures, and fits the glass enclosure.\nReal Examples: In older Sugar House bungalows and Cottonwood Heights properties, we frequently find rotted subflooring under old fiberglass tubs that needs reinforcement before any tile goes down.\n\nWhat to Prepare Before You Start\n- Measure your clearances: Check door swings and ensure you have ample elbow room.\n- Decide on storage: Plan recessed niches and built-in benches early so framing is placed properly.\n- Verify drain capacity: Confirm whether your existing drain line needs upgrading to handle shower output.\n\nReady to rethink your bathroom layout? Call Blue Lake Construction at 385-202-5987 to talk through your project.",
+  "datePublished": "2026-11-08"
+}

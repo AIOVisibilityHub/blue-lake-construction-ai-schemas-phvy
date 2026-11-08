@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Changing Your Interior Floor Plan",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Altering interior walls involves much more than drywall removal. Avoiding these common missteps keeps your project on schedule and protects your home's structural integrity.\n\nCommon Mistakes to Avoid:\n- Assuming a wall is non-bearing: Never judge a wall solely by its sheetrock. Look in the attic or crawlspace to see how joists rest on top plates, or have a licensed professional confirm it.\n- Overlooking hidden utilities: Wall cavities frequently hide plumbing stacks, electrical home runs, or central HVAC returns. Plan for relocation costs and chase routes ahead of time.\n- Starting demolition before permits: Municipalities require scaled before-and-after floor plans showing room dimensions and uses. Demolishing early can trigger stop-work orders and fines.\n- Compromising minimum passage widths: Removing a wall only to push traffic into an undersized walkway violates residential building standards. Keep hallways and entries comfortable and compliant.\n- Neglecting flooring continuity: Taking out a wall leaves an exposed subfloor gap. Decide early whether you will weave in matching hardwood, add transitions, or replace flooring across the whole space.\n\nWhat to Do Next\nA successful reconfiguration relies on thoughtful drafting, proper engineering allowances, and coordinated trade work. \n\nReady to plan your new interior layout? Call Blue Lake Construction at 385-202-5987 to discuss your project.",
+  "datePublished": "2026-11-08"
+}

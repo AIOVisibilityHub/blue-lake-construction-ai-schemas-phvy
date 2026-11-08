@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Kitchen Layout Redesign: Essential Pre-Construction Checklist",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning a Kitchen Layout Redesign: Essential Pre-Construction Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Precise dimensions of existing room boundaries — Accurate wall-to-wall measurements confirm whether propose…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Precise dimensions of existing room boundaries — Accurate wall-to-wall measurements confirm whether proposed island clearances meet minimum walkway standards."
+      },
+      {
+        "name": "Identification of load-bearing interior partitions — Verifying framing pathways prevents accidental structu…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Identification of load-bearing interior partitions — Verifying framing pathways prevents accidental structural damage before removing dividing walls."
+      },
+      {
+        "name": "Full specification cut sheets for all appliances — Exact appliance depths, widths, and door-swing clearance…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Full specification cut sheets for all appliances — Exact appliance depths, widths, and door-swing clearances dictate cabinet box fabrications."
+      },
+      {
+        "name": "Verification of electrical panel capacity — Upgrading induction cooktops, dishwashers, and wall ovens often…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Verification of electrical panel capacity — Upgrading induction cooktops, dishwashers, and wall ovens often requires dedicated 240V circuits or panel additions."
+      },
+      {
+        "name": "Plumbing drain and supply line locations — Determining pipe pathways through subfloors confirms whether sin…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Plumbing drain and supply line locations — Determining pipe pathways through subfloors confirms whether sinks or dishwashers can move to an island."
+      },
+      {
+        "name": "Range hood exterior ducting pathway — Planning exhaust duct runs through joists ensures adequate cooking ve…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Range hood exterior ducting pathway — Planning exhaust duct runs through joists ensures adequate cooking ventilation without framing conflicts."
+      },
+      {
+        "name": "Detailed lighting plan for task and ambient zones — Marking ceiling fixtures, recessed cans, and under-cabi…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Detailed lighting plan for task and ambient zones — Marking ceiling fixtures, recessed cans, and under-cabinet feeds prevents missing rough-in wiring."
+      },
+      {
+        "name": "Local municipal permit plan set — Securing jurisdictional approvals protects your investment and satisfies…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Local municipal permit plan set — Securing jurisdictional approvals protects your investment and satisfies regional residential safety requirements."
+      }
+    ]
+  },
+  "articleBody": "### Planning a Kitchen Layout Redesign: Essential Pre-Construction Checklist\n\nBefore swinging a hammer, altering a kitchen floor plan requires organized documentation and clear spatial decisions. Moving walls, islands, and appliance locations affects plumbing, electrical capacity, and building codes. Use this checklist to confirm your home is completely prepared for construction.\n\n- [ ] Precise dimensions of existing room boundaries — Accurate wall-to-wall measurements confirm whether proposed island clearances meet minimum walkway standards.\n- [ ] Identification of load-bearing interior partitions — Verifying framing pathways prevents accidental structural damage before removing dividing walls.\n- [ ] Full specification cut sheets for all appliances — Exact appliance depths, widths, and door-swing clearances dictate cabinet box fabrications.\n- [ ] Verification of electrical panel capacity — Upgrading induction cooktops, dishwashers, and wall ovens often requires dedicated 240V circuits or panel additions.\n- [ ] Plumbing drain and supply line locations — Determining pipe pathways through subfloors confirms whether sinks or dishwashers can move to an island.\n- [ ] Range hood exterior ducting pathway — Planning exhaust duct runs through joists ensures adequate cooking ventilation without framing conflicts.\n- [ ] Detailed lighting plan for task and ambient zones — Marking ceiling fixtures, recessed cans, and under-cabinet feeds prevents missing rough-in wiring.\n- [ ] Local municipal permit plan set — Securing jurisdictional approvals protects your investment and satisfies regional residential safety requirements.\n\n### How to use this checklist\nReview these items with your general contractor during your planning meetings. Completing these checks before demolition begins prevents expensive mid-project change orders. Blue Lake Construction manages drafting, permitting, and custom kitchen remodels throughout Salt Lake City and the surrounding valley. Reach out to our team at 385-202-5987 to review your remodel plans.",
+  "datePublished": "2026-11-08"
+}

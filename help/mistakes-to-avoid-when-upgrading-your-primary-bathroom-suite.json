@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Upgrading Your Primary Bathroom Suite",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading an owner's suite bathroom is an exciting investment, but simple planning errors can disrupt your comfort and project budget. Keep an eye out for these frequent mistakes when revamping your primary suite.\n\nCommon Mistakes to Avoid:\n1. Ignoring door swing clearances. Forgetting to account for shower doors, entry doors, and vanity drawers bumping into each other makes the space feel cramped.\n2. Underestimating ventilation requirements. Primary bathrooms with large walk-in showers produce significant humidity that requires an exterior-vented fan sized for the square footage.\n3. Choosing fixtures without verifying rough-in specs. Valve depths and drain placements vary widely between luxury shower systems; always check manufacturer specs first.\n4. Inadequate task lighting. Relying solely on a single overhead can light creates harsh shadows at the vanity mirror instead of even vertical illumination.\n5. Delaying custom cabinetry orders. Lead times on custom vanities and storage towers can stall your timeline if ordered mid-construction.\n\nHow to Compare Your Options:\nEvaluate whether you use a bathtub often enough to keep it, or if expanding your shower footprint delivers better daily utility. \n\nBlue Lake Construction helps homeowners throughout West Jordan, Riverton, and Salt Lake City create well-designed primary bathrooms. Call us at 385-202-5987 to discuss your remodeling plans.",
+  "datePublished": "2026-11-08"
+}

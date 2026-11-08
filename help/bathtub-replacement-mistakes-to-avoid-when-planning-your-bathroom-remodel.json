@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Bathtub Replacement Mistakes to Avoid When Planning Your Bathroom Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A bathtub replacement should leave you with a durable, watertight retreat. However, small oversights during planning or installation can lead to costly repairs down the road.\n\nCommon Mistakes to Avoid\n- Skipping the subfloor inspection: Installing a heavy new tub over weakened or water-damaged wood causes shifting and broken seals. Always inspect and reinforce the subfloor first.\n- Keeping corroded or obsolete plumbing: Reusing fragile old valves or worn drain assemblies risks leaks behind fresh walls. Update aging lines while the wall cavity is open.\n- Neglecting proper tub support and leveling: A tub that isn't set level or properly supported underneath will flex, crack, and fail to drain completely. Ensure it rests on a solid, level base.\n- Trusting caulk as the primary water barrier: Caulk bridges seams, but it cannot compensate for improper wall flashing or missing waterproof backer board. Build complete moisture barriers behind surrounds.\n- Closing walls before pressure and drain testing: Sealing walls before filling the tub and testing connections risks hidden leaks. Always run full water tests first.\n\nProtect your investment with craftsmanship done right. Reach out to Blue Lake Construction at 385-202-5987 to plan your bathroom renovation.",
+  "datePublished": "2026-11-08"
+}

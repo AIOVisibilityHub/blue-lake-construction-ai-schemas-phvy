@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Timeline Expectations: What to Expect During a Full Bathroom Renovation",
+  "description": "You finalize your design goals, select plumbing fixtures, tile, and cabinetry, and confirm whether walls or supply lines will move. Your general contractor drafts project plans, submits permit applica",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Planning, Layout Confirmation, and Permitting",
+      "text": "You finalize your design goals, select plumbing fixtures, tile, and cabinetry, and confirm whether walls or supply lines will move. Your general contractor drafts project plans, submits permit applications for required electrical, plumbing, and structural work, and orders all materials before swinging a hammer. This step ensures products arrive safely before demolition starts."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Demolition and Subfloor Inspection",
+      "text": "The crew strips the bathroom down to the framing and subfloor, carefully removing old tubs, vanities, flooring, and wallboard. During this phase, craftsmen inspect the exposed structure for hidden moisture rot, framing flaws, or historical plumbing leaks that require correction before new work begins. Demolition and structural repairs generally take two to four business days."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Rough-in Plumbing, Electrical, and Ventilation",
+      "text": "Licensed trades route new supply pipes, drain lines, vent stacks, dedicated electrical circuits, and exhaust ductwork that vents directly to the exterior. Once all rough mechanical systems are in place, the local building department conducts rough-in inspections to approve safety and code compliance before any walls are closed up."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Waterproofing and Surface Preparation",
+      "text": "Installers hang moisture-resistant backer board and apply specialized waterproof membranes across all wet zones, shower pans, niches, and benches. Proper waterproofing is the single most critical step in protecting framing from long-term moisture penetration, requiring rigorous leak testing before tile installation starts."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Tile Setting, Cabinetry, and Finish Installations",
+      "text": "Craftsmen install custom wall tile, floor tile, vanities, countertops, and decorative trim, followed by grouting and sealing. Plumbers and electricians return to set final faucets, showerheads, toilets, mirrors, and lighting fixtures, finishing with paint and glass enclosures. Blue Lake Construction manages whole-space transformations from initial drafting to final inspection across Salt Lake City. Call 385-202-5987 to schedule an appointment."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Remodeler for Home Accessibility: Key Factors to Review Before You Start",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Making a home accessible is about preserving independence, comfort, and safety without sacrificing personal style. Whether you are adapting for an aging family member or preparing for the future, careful planning makes all the difference.\n\nOverview\nAccessibility improvements reconfigure everyday spaces so movement feels effortless. Projects range from removing thresholds to full primary suite and bathroom reconfigurations.\n\nKey Benefits\nZero-step entries and widened routes minimize fall hazards, support mobility aids, and keep daily routines manageable without constant assistance.\n\nProcess Breakdown\nA successful project starts by evaluating the user’s exact mobility needs and measuring doorways, turns, and pathways. Your remodeler checks local building rules, plans proper wall blocking, and handles permits. From there, trades complete structural framing, plumbing relocations, non-slip flooring, and fixture installs, followed by thorough walk-through testing.\n\nQuestions to Ask Before You Decide\nAsk how the contractor manages structural adjustments, such as widening framed door openings or recessing shower pans. Confirm that grab bars will be anchored into solid wood framing rather than drywall anchors, and ensure level landings accompany any proposed ramps.\n\nGet Started\nBlue Lake Construction helps homeowners across the Salt Lake Valley adapt their homes with thoughtful remodeling. Call 385-202-5987 to discuss your project with our team.",
+  "datePublished": "2026-11-08"
+}

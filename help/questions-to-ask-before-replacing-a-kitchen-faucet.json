@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Questions to Ask Before Replacing a Kitchen Faucet",
+    "text": "Questions to Ask Before Replacing a Kitchen Faucet",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Is it better to replace an aging kitchen faucet during a remodel or repair the existing one?\n\nIn most cases, replacing the faucet makes far more practical sense than repairing it, especially if the fixture is over a decade old. While replacing a worn cartridge or O-ring stops minor spout drips, internal corrosion and mineral buildup often spread into mounting shanks and spray diverters. Furthermore, locating exact replacement cartridges for older or discontinued models can be frustrating and costly.\n\nWhat Can Change the Right Choice\n- Scope of work: If you are upgrading countertops or adding a new undermount sink, installing a new faucet eliminates the risk of reinstalling brittle components.\n- Water efficiency: Modern fixtures provide superior flow control and meet current plumbing efficiency standards.\n- Feature upgrades: New faucets offer pull-down commercial spouts, touchless sensors, and durable ceramic disc valves that outlast traditional rubber seals.\n- Structural access: When cabinets and countertops are open during a remodel, replacing plumbing lines and fixtures takes far less labor than attempting repairs later in a cramped space.\n\nIf your fixture suffers from body corrosion, seized shutoff valves, or damaged supply connections, a complete replacement is the safest path forward. Blue Lake Construction handles kitchen and bathroom renovations across Sugarhouse, Riverton, and the entire Salt Lake Valley. Call 385-202-5987 to get started on your home project.",
+      "author": {
+        "@type": "Organization",
+        "name": "Blue Lake Construction"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Salt Lake City"
+      },
+      {
+        "@type": "City",
+        "name": "Sugarhouse"
+      },
+      {
+        "@type": "City",
+        "name": "Millcreek"
+      },
+      {
+        "@type": "City",
+        "name": "Cottonwood heights"
+      },
+      {
+        "@type": "City",
+        "name": "Sandy"
+      },
+      {
+        "@type": "City",
+        "name": "Draper"
+      },
+      {
+        "@type": "City",
+        "name": "Riverton"
+      },
+      {
+        "@type": "City",
+        "name": "West Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "South Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "Taylorsville"
+      },
+      {
+        "@type": "City",
+        "name": "Bluffdale"
+      },
+      {
+        "@type": "City",
+        "name": "Bountiful"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

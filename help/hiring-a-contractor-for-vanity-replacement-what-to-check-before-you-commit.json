@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Contractor for Vanity Replacement: What to Check Before You Commit",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing an outdated bathroom vanity transforms your space, but hiring the right general contractor ensures the job goes smoothly. Here is a guide on what to verify before you sign a contract.\n\nOverview and Key Benefits\nA new vanity upgrades daily storage and updates visual style. When installed by a licensed professional, you avoid common pitfalls like misaligned supply lines, damaged wallboard, or improper floor clearance.\n\nProcess Breakdown\nA complete vanity swap involves several coordinated phases:\n- Measuring exact cabinet depth, rough plumbing heights, and swing clearance for doors and drawers.\n- Disconnecting water supply lines, shutoffs, and drain assemblies safely.\n- Inspecting framing and flooring for moisture damage once the old unit is pulled.\n- Setting, shimming, and leveling the new vanity securely against wall studs.\n- Integrating the countertop, faucet, sink, and testing lines for leaks under full pressure.\n\nQuestions to Ask Before You Decide\nAsk your contractor if permits are required by your local municipality for plumbing or wall adjustments. Inquire whether old corroded tubular plumbing or valves will be updated during the install.\n\nReal Examples\nHomeowners updating older homes across the Salt Lake Valley often discover off-center wall plumbing after pulling an old cabinet. Having a licensed team handle adjustments avoids costly delays.\n\nCall Blue Lake Construction at 385-202-5987 to discuss your bathroom remodel.",
+  "datePublished": "2026-11-08"
+}

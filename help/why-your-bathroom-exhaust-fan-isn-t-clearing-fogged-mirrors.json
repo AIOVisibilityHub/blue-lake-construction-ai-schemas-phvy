@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Your Bathroom Exhaust Fan Isn't Clearing Fogged Mirrors",
+    "text": "Why Your Bathroom Exhaust Fan Isn't Clearing Fogged Mirrors",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If your bathroom mirror stays clouded long after a hot shower, your current exhaust fan simply isn't moving enough air, or it's choking on a poor duct setup. A properly operating ventilation system clears heavy condensation within minutes. When steam lingers, it coats your paint, settles behind trim, and invites mildew into drywall joints.\n\n### What Can Change the Right Choice\nStandard intermittent exhaust needs a minimum capacity of 50 CFM, but larger spaces require significantly more pull to cycle humid air outdoors effectively. Furthermore, many older homes have fans that vent straight into an open attic rather than exhausting fully outside through an exterior wall or roof cap. Running smooth, correctly sized ductwork without sharp bends ensures air moves freely without backdrafts. public-health guidance recommends leaving your exhaust fan running during your shower and for at least 30 minutes afterward to completely clear ambient dampness. Upgrading to a modern, quiet unit with a built-in humidity sensor or timer switch takes the guesswork out of daily moisture control. \n\nWhen you're dealing with tricky attic framing, cutting through an exterior wall, or adding dedicated electrical circuits, having a qualified contractor handle the installation prevents roof leaks and wiring hazards. Blue Lake Construction helps homeowners across Salt Lake City, Millcreek, and Sandy plan and install balanced bathroom ventilation upgrades. Give our team a call at 385-202-5987 to look at your space.",
+      "author": {
+        "@type": "Organization",
+        "name": "Blue Lake Construction"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Salt Lake City"
+      },
+      {
+        "@type": "City",
+        "name": "Sugarhouse"
+      },
+      {
+        "@type": "City",
+        "name": "Millcreek"
+      },
+      {
+        "@type": "City",
+        "name": "Cottonwood heights"
+      },
+      {
+        "@type": "City",
+        "name": "Sandy"
+      },
+      {
+        "@type": "City",
+        "name": "Draper"
+      },
+      {
+        "@type": "City",
+        "name": "Riverton"
+      },
+      {
+        "@type": "City",
+        "name": "West Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "South Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "Taylorsville"
+      },
+      {
+        "@type": "City",
+        "name": "Bluffdale"
+      },
+      {
+        "@type": "City",
+        "name": "Bountiful"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

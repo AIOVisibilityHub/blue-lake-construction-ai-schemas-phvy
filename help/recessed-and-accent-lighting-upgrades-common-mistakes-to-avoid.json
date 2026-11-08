@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Recessed and Accent Lighting Upgrades: Common Mistakes to Avoid",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your home's lighting seems straightforward, but simple oversights can leave your living spaces feeling harsh, poorly balanced, or noisy.\n\nCommon Mistakes to Avoid:\n- Buying by wattage instead of lumens: Modern LEDs produce high brightness with very low wattage. Compare lumens to ensure you get the exact light level your room needs.\n- Using non-dimmable fixtures on dimmer controls: This causes rapid bulb failure, humming, and erratic flickering. Always verify dimmer and driver compatibility before buying fixtures.\n- Ignoring color temperature across connected spaces: Mixing cool daylight bulbs with warm accents creates an uneven, disjointed look in open-concept living rooms.\n- Overlooking beam spread: Narrow spotlights create harsh focal points on floors instead of the smooth, overlapping ambient light needed across a kitchen.\n- Installing standard fixtures in enclosed spots: Enclosed recessed housings require fixtures rated for heat management to avoid early burnout.\n- Skipping dedicated under-cabinet task lights: Relying solely on central ceiling lights casts your own shadow over prep counters and cutting boards.\n\nWhat to Prepare Before You Start: Take note of how you use each counter, desk, and seating area throughout the day, and check your switch boxes for existing neutral wires.\n\nWhat to Do Next: Call Blue Lake Construction at 385-202-5987 to coordinate your lighting updates seamlessly during your next home remodel.",
+  "datePublished": "2026-11-08"
+}

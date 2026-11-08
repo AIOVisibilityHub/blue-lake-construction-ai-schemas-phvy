@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Primary Bathroom Layout Changes vs Keeping Existing Plumbing Lines",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Deciding whether to rearrange the floor plan in your primary suite is one of the biggest choices you will make. While shifting fixtures can create an open, spa-like feel, it significantly influences both your timeline and overall project investment.\n\nHow to Compare Your Options\nKeeping your existing plumbing locations means toilets, vanities, and shower drains stay tied to their original floor penetrations. You can still completely modernize the space with custom tile, a frameless glass walk-in shower, fresh quartz countertops, new cabinetry, and updated lighting. Because the rough plumbing and vent stacks remain intact, construction proceeds faster, permitting is simpler, and a larger share of your budget goes directly toward premium visible finishes.\n\nMoving plumbing fixtures involves cutting into subfloors, modifying floor joists, extending supply lines, and reworking drain slopes and vent pipes. This approach makes sense when your current layout feels cramped, lacks privacy, or traps natural light behind partition walls. However, plumbing relocation requires formal building permits, trade inspections, and additional labor. \n\nWhat Can Change the Right Choice\nThe structure beneath your bathroom dictates what is realistically possible. Homes built over accessible basements or crawlspaces offer more flexibility for moving waste lines than homes on concrete slabs. \n\nWhen you want an objective review of your primary bathroom layout, contact Blue Lake Construction at 385-202-5987. We help homeowners across Draper, South Jordan, and Salt Lake City design functional spaces that fit their homes.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

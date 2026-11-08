@@ -1,0 +1,137 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Essential Checklist Before Starting Accessible Bathroom Modifications",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Essential Checklist Before Starting Accessible Bathroom Modifications",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Doorway width measurement of at least 34 to 36 inches — Ensures manual wheelchairs and walkers pass through…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Doorway width measurement of at least 34 to 36 inches — Ensures manual wheelchairs and walkers pass through without scraping trim or knuckles."
+      },
+      {
+        "name": "Solid wood wall backing plan behind drywall — Provides required structural support for secure grab bars and…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Solid wood wall backing plan behind drywall — Provides required structural support for secure grab bars and fold-down shower seats."
+      },
+      {
+        "name": "60-inch clear turning diameter or T-turn zone — Verifies enough unobstructed floor space exists for someone…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "60-inch clear turning diameter or T-turn zone — Verifies enough unobstructed floor space exists for someone using a mobility device to turn around safely."
+      },
+      {
+        "name": "Curbless shower pan depth and drain assessment — Determines whether floor joists need alteration to achieve…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Curbless shower pan depth and drain assessment — Determines whether floor joists need alteration to achieve a flush, zero-barrier walk-in entry."
+      },
+      {
+        "name": "Comfort-height toilet selection (17 to 19 inches) — Reduces knee and hip strain during sitting and standing…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Comfort-height toilet selection (17 to 19 inches) — Reduces knee and hip strain during sitting and standing transfers."
+      },
+      {
+        "name": "Accessible vanity with open knee clearance — Permits seated grooming and wheelchair approach without bumpin…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Accessible vanity with open knee clearance — Permits seated grooming and wheelchair approach without bumping base cabinets."
+      },
+      {
+        "name": "Slip-resistance ratings on wet-area floor tiles — Prevents dangerous slips when flooring is coated with wat…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Slip-resistance ratings on wet-area floor tiles — Prevents dangerous slips when flooring is coated with water and soap residue."
+      },
+      {
+        "name": "Handheld showerhead and thermostatic valve — Allows simple seated bathing and shields against sudden water…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Handheld showerhead and thermostatic valve — Allows simple seated bathing and shields against sudden water temperature spikes."
+      },
+      {
+        "name": "Lever-handle faucets and hardware — Enables easy one-handed operation for individuals with arthritis or red…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Lever-handle faucets and hardware — Enables easy one-handed operation for individuals with arthritis or reduced hand strength."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Doorway width measurement of at least 34 to 36 inches — Ensures manual wheelchairs and walkers pass through without scraping trim or knuckles.\n- [ ] Solid wood wall backing plan behind drywall — Provides required structural support for secure grab bars and fold-down shower seats.\n- [ ] 60-inch clear turning diameter or T-turn zone — Verifies enough unobstructed floor space exists for someone using a mobility device to turn around safely.\n- [ ] Curbless shower pan depth and drain assessment — Determines whether floor joists need alteration to achieve a flush, zero-barrier walk-in entry.\n- [ ] Comfort-height toilet selection (17 to 19 inches) — Reduces knee and hip strain during sitting and standing transfers.\n- [ ] Accessible vanity with open knee clearance — Permits seated grooming and wheelchair approach without bumping base cabinets.\n- [ ] Slip-resistance ratings on wet-area floor tiles — Prevents dangerous slips when flooring is coated with water and soap residue.\n- [ ] Handheld showerhead and thermostatic valve — Allows simple seated bathing and shields against sudden water temperature spikes.\n- [ ] Lever-handle faucets and hardware — Enables easy one-handed operation for individuals with arthritis or reduced hand strength.\n\nHow to Use This Checklist\nReview these items with your general contractor before starting demolition. A verified layout avoids expensive mid-project corrections. Blue Lake Construction handles accessible bathroom remodeling throughout Salt Lake City. Call 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning Home Electrical Updates: Costly Mistakes to Avoid Before Hiring a Contractor",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When planning a home remodel, electrical updates are easy to overlook until walls are already closed up. Avoiding standard pitfalls saves significant time, money, and hassle during construction.\n\nCommon Mistakes to Avoid:\n- Adding major appliances without checking panel load: Plugging commercial-grade kitchen appliances into existing circuits can overload your main panel. Always assess capacity first.\n- Using mismatched wire gauges and breakers: Putting higher-amp breakers on undersized wire creates an unseen fire risk inside walls.\n- Leaving ungrounded or deteriorated wiring hidden: Closing fresh drywall over damaged, brittle, or obsolete wiring forces expensive repairs later.\n- Relying on extension cords for permanent equipment: Cords routed behind cabinets or under carpets violate standard safety practices and degrade quickly.\n- Neglecting circuit labeling during renovations: Unlabeled panels make future troubleshooting frustrating and slow down routine maintenance.\n- Assuming lighting swaps do not affect circuit loads: Adding numerous fixtures or high-output drivers without calculating cumulative amperage leads to unexpected tripping.\n\nWhat to Prepare Before You Start: Compile a full list of all major appliances, heated floors, and specialty electronics you plan to install so your contractor can map your circuits accurately.\n\nWhat to Do Next: Contact Blue Lake Construction at 385-202-5987 to get dependable guidance on all your residential remodeling and electrical update needs.",
+  "datePublished": "2026-11-08"
+}

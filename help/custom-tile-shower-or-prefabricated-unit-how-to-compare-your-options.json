@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Custom Tile Shower or Prefabricated Unit: How to Compare Your Options",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Deciding between a site-built custom tile shower and a manufactured prefabricated unit comes down to balancing design flexibility against installation variables.\n\nKey Differences:\nA custom tile shower is built on-site from the framing up, using a sloped mortar bed or bonded waterproof receptor covered with porcelain, ceramic, or stone tile. It adapts to any bathroom footprint, angled ceiling, or historic home layout across neighborhoods like Sugarhouse or Millcreek. A prefabricated unit is a factory-molded acrylic or fiberglass stall that drops into standard wall dimensions with minimal assembly.\n\nWhen to Choose Each:\nChoose a custom tile shower when you want tailored dimensions, integrated benches, niche storage, or high-end finishes that coordinate with your vanity and flooring. Pick a prefabricated unit if you are refreshing a basic rental, need a fast replacement, or have a strict, entry-level budget.\n\nCost and Timeline:\nPrefabricated units cost significantly less in labor and can wrap up in one or two days since they bypass tile setting, continuous membrane curing, and multi-day grouting. Custom tile showers require a larger investment and typically take one to two weeks because waterproofing and mortar layers require proper drying intervals.\n\nWhen Professional Guidance Helps:\nIf your project involves relocating plumbing, framing benches, or creating a barrier-free transition, an experienced general contractor keeps the project on schedule and watertight. \n\nCall Blue Lake Construction at 385-202-5987 to review your bathroom options.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for Floor Plan Reconfiguration",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Rethinking your home layout often starts with wanting more open space, but some structural and mechanical details mean you should bring in an expert before you grab a sledgehammer.\n\nKey signals include:\n- Wall thickness and placement: A wall sitting directly over a basement beam or running perpendicular to floor joists usually carries structural weight that requires engineered support beams.\n- Hidden mechanical systems: When plumbing vents, electrical subpanels, or heating ducts run straight through a partition, relocating them requires coordinated trade work.\n- Inconvenient traffic choke points: Narrow doorways, cramped hallway turns, or awkward door swings that make moving furniture or daily movement frustrating.\n- Code and permit needs: Shifting interior walls, even non-bearing ones, often requires scaled existing and proposed drawings for local municipal building departments.\n- Fire safety and egress: Moving walls near stairs, hallways, or sleeping quarters can alter minimum required passage widths or emergency escape paths.\n\nWhen Professional Guidance Helps\nTaking down the wrong wall without temporary shoring can cause sagging ceilings or cracked finishes above. Professional planning ensures your new open layout remains structurally sound, permitted, and properly supported.\n\nTo discuss your layout plans across the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987 to set up an evaluation.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Overloaded Circuits and Tripping Breakers: When to Call for Electrical Updates",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Modern homes run power-hungry appliances, high-draw bathroom heaters, and complex entertainment systems. Recognizing the warning signs of strained electrical systems helps you protect your home before minor issues turn into serious safety hazards.\n\nSigns It Is Time to Call a Professional:\n- Frequently tripping breakers: If running a microwave and toaster together immediately trips the breaker, your kitchen circuits are overloaded and need rebalancing.\n- Warm outlets or discolored faceplates: Heat buildup or scorched plastic around switches points directly to loose terminations or dangerous wiring deterioration.\n- Burning smells or unexplained buzzing: Odors near panel doors or switches require immediate investigation by a licensed general contractor or electrician.\n- Tingling sensations or minor shocks: Feeling a slight shock when touching appliances or metal trim indicates critical grounding or bonding failures.\n- Lack of dedicated lines for new appliances: Modern dishwashers, microwave drawers, and double ovens require separate dedicated circuits rather than shared lighting lines.\n\nHow to Compare Your Options: Consider whether your current remodel plans only require adding isolated 20-amp circuits or if a broader service panel upgrade makes more sense for your long-term plans.\n\nWhat to Do Next: Connect with Blue Lake Construction at 385-202-5987 to review your electrical updates and keep your renovation running safely.",
+  "datePublished": "2026-11-08"
+}

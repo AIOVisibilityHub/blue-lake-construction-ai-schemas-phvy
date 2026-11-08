@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Custom Shower Niche Better Than Surface Shelving for Your Bathroom Remodel?",
+    "text": "Is a Custom Shower Niche Better Than Surface Shelving for Your Bathroom Remodel?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "### Question\nIs a custom recessed shower niche better than hanging caddies or corner surface shelves for a bathroom remodel?\n\n### Answer\nYes, for most major bathroom renovations, a built-in recessed niche is significantly better than aftermarket surface shelving or hanging caddies. The practical advantages come down to usable space, durability, and daily maintenance.\n\nHanging metal caddies clutter showerheads, corrode over time, and leave water marks on your tile. Surface-mounted corner shelves can protrude into your elbow room, making smaller shower footprints feel cramped. A custom recessed niche, by contrast, utilizes the empty framing cavity between your wall studs, keeping your shower toiletries organized without stealing an inch of standing space. It also lets you customize height, incorporate accent tile patterns, and create a high-end look.\n\n### Practical Tradeoffs to Consider\nThe only real tradeoff is installation complexity and upfront cost. Adding a recessed niche requires cutting into wall framing, installing structural blocking, and carefully integrating waterproof membranes into the wall assembly. If the wall is exterior or packed with plumbing lines, framing adjustments become more involved. If you do not want to alter framing, high-end solid surface corner shelves remain a viable secondary option.\n\nWhen planning a custom tile shower in Cottonwood Heights, Bountiful, or Taylorsville, professional installation ensures your niche stays completely leak-free. Contact Blue Lake Construction at 385-202-5987 to get your bathroom remodeling estimate.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

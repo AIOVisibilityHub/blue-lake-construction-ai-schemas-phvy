@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dim or Flickering Lights: When to Call a Contractor for Upgrades",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your lighting makes a home feel fresh, but certain symptoms indicate you need professional contracting support rather than just a simple bulb change.\n\nWhen to Call a Professional:\n- Persistent flickering across fixtures: If new bulbs still hum or flicker, your existing switches, controls, or branch wiring may be incompatible or deteriorating.\n- Buzzing dimmers or warm switch plates: Incompatible LED dimmers cause hardware strain and generate unexpected heat behind the drywall.\n- Inadequate brightness in work zones: If your kitchen counters or master vanity still feel dark after changing bulbs, you likely need properly placed recessed cans, under-cabinet strips, or altered beam spreads.\n- High ceilings and complex rough-ins: Reaching vaulted ceiling heights or running new rough-in wiring across finished joists requires specialized staging and tools.\n- Suspected overloaded circuits: When turning on overhead cans causes other fixtures to dim, your circuit capacity is maxed out.\n\nQuestions to Ask Before You Decide: Ask your contractor if your chosen fixtures are certified for enclosed spaces, how they handle dimmer compatibility, and whether your home's existing breaker capacity supports added lighting runs.\n\nWhat to Do Next: Contact Blue Lake Construction at 385-202-5987 to discuss your project needs and schedule an on-site consultation.",
+  "datePublished": "2026-11-08"
+}

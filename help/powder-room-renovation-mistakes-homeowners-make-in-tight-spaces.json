@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Powder Room Renovation Mistakes Homeowners Make in Tight Spaces",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Because powder rooms are compact, even tiny layout or material mistakes quickly become daily annoyances. Watch out for these frequent oversights before you begin.\n\nCommon Mistakes to Avoid:\n1. Buying fixtures before measuring clearances: Selecting an oversized vanity or extended-bowl toilet can crowd the room and block standard door clearance. Always confirm rough-in dimensions first.\n2. Ignoring door swings: Forgetting to account for how an inward-swinging door interacts with the front edge of a sink makes entering and exiting awkward.\n3. Choosing materials that cannot handle moisture: Using untreated wall treatments or easily warped surfaces near hand-washing zones leads to premature wear. Pick wipeable, durable materials.\n4. Assuming an open window replaces fan needs: Some local rules mandate mechanical ventilation regardless of a window, specifically requiring exterior ducting and minimum airflow rates.\n5. Proceeding without checking permit rules: While simple fixture swaps in original locations are often exempt, moving pipes or adding circuits usually triggers permits and inspections.\n\nWhat to Do Next:\nCareful layout planning keeps your powder room comfortable, stylish, and fully compliant. If you are ready to update your half bath anywhere in the Salt Lake area, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

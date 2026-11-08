@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Custom Shower Niche: Key Measurements and Placement Checklist",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning a Custom Shower Niche: Key Measurements and Placement Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure your tallest shampoo and body wash bottles — Ensures the shelf height leaves ample clearance withou…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure your tallest shampoo and body wash bottles — Ensures the shelf height leaves ample clearance without tipping bottles forward."
+      },
+      {
+        "name": "Inspect existing wall cavity depth — Verifies whether standard 2x4 studs provide the necessary finished dep…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Inspect existing wall cavity depth — Verifies whether standard 2x4 studs provide the necessary finished depth or if blocking must be modified."
+      },
+      {
+        "name": "Check for hidden vent pipes and electrical lines — Avoids costly disruptions that occur when cutting blindl…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Check for hidden vent pipes and electrical lines — Avoids costly disruptions that occur when cutting blindly into existing bathroom wall cavities."
+      },
+      {
+        "name": "Avoid placing niches on exterior walls — Keeps exterior insulation intact to prevent interior condensation…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Avoid placing niches on exterior walls — Keeps exterior insulation intact to prevent interior condensation and cold spots during Utah winters."
+      },
+      {
+        "name": "Select a preformed waterproof niche or structural backer — Guarantees precise square corners and an enginee…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Select a preformed waterproof niche or structural backer — Guarantees precise square corners and an engineered surface ready for waterproofing membranes."
+      },
+      {
+        "name": "Plan horizontal shelf slope toward the shower drain — Prevents soapy water from pooling on the bottom sill…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Plan horizontal shelf slope toward the shower drain — Prevents soapy water from pooling on the bottom sill and degrading grout lines."
+      },
+      {
+        "name": "Align niche boundaries with surrounding tile layout — Minimizes awkward thin tile slivers and preserves ful…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Align niche boundaries with surrounding tile layout — Minimizes awkward thin tile slivers and preserves full tile patterns across the wall."
+      },
+      {
+        "name": "Secure waterproof sealing tape along all outer perimeter seams — Creates a continuous, watertight connectio…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Secure waterproof sealing tape along all outer perimeter seams — Creates a continuous, watertight connection between the niche flange and surrounding wall backer."
+      }
+    ]
+  },
+  "articleBody": "A shower niche provides clean, built-in storage, but placing one improperly can compromise wall insulation, hit plumbing vents, or create water pooling. Use this checklist to plan your shower storage before backer board and waterproofing go up.\n\n- [ ] Measure your tallest shampoo and body wash bottles — Ensures the shelf height leaves ample clearance without tipping bottles forward.\n- [ ] Inspect existing wall cavity depth — Verifies whether standard 2x4 studs provide the necessary finished depth or if blocking must be modified.\n- [ ] Check for hidden vent pipes and electrical lines — Avoids costly disruptions that occur when cutting blindly into existing bathroom wall cavities.\n- [ ] Avoid placing niches on exterior walls — Keeps exterior insulation intact to prevent interior condensation and cold spots during Utah winters.\n- [ ] Select a preformed waterproof niche or structural backer — Guarantees precise square corners and an engineered surface ready for waterproofing membranes.\n- [ ] Plan horizontal shelf slope toward the shower drain — Prevents soapy water from pooling on the bottom sill and degrading grout lines.\n- [ ] Align niche boundaries with surrounding tile layout — Minimizes awkward thin tile slivers and preserves full tile patterns across the wall.\n- [ ] Secure waterproof sealing tape along all outer perimeter seams — Creates a continuous, watertight connection between the niche flange and surrounding wall backer.\n\n### How to Use This Checklist\nReview these items with your remodeling contractor during the initial framing and rough-in inspection. When you need skilled bathroom updates in Millcreek, Draper, or Riverton, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

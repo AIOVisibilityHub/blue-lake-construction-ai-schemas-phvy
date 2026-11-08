@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading Your Kitchen or Bathroom Plumbing: Mistakes to Avoid Before Remodeling",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Reworking the plumbing in an older Salt Lake home sounds straightforward until walls come down. Small oversights during planning can derail your schedule, fail code inspections, or cause expensive water leaks down the road.\n\nCommon Mistakes to Avoid\n- Closing walls before rough-in inspection: Concealed supply lines and drains must remain completely exposed until local inspectors sign off. Covering them early means tearing down fresh drywall.\n- Forgetting shutoff access: Tucking water valves into unreachable corners makes future maintenance a nightmare. Always verify clear access points for every shutoff.\n- Using estimated fixture dimensions: Buying faucets, freestanding tubs, or sink rough-ins without exact manufacturer spec sheets leads to rough plumbing that misses your cabinetry cutouts by inches.\n- Overlooking proper venting: Drains require correct atmospheric venting to prevent gurgling and sewer gas intrusion. Altering drain paths without venting adjustments ruins performance.\n- Skipping official permits: Assuming minor line shifts do not need city review can trigger stop-work orders and complicate future property sales.\n\nAvoiding these missteps comes down to coordinated planning from rough-in through trim-out. Blue Lake Construction manages plumbing updates and complete renovations with licensed oversight across Salt Lake County. Call 385-202-5987 today to plan your upcoming remodel.",
+  "datePublished": "2026-11-08"
+}

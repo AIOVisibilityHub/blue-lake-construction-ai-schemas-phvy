@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Preparing for a Full Kitchen Overhaul: A Pre-Construction Readiness Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Before committing to a major kitchen renovation, you need clear documentation to keep the job on schedule and prevent budget surprises. This checklist helps you gather the exact measurements, utility details, and contractor commitments required before tearing out your first cabinet.\n\n- [ ] Printed appliance cut sheets — Your cabinet builders and countertop fabricators need exact manufacturer dimensions, door swings, and electrical clearances before constructing boxes.\n- [ ] Itemized contractor scope of work — A detailed, written breakdown separates labor, demolition, rough plumbing, electrical updates, and finish installations into transparent allowances.\n- [ ] Verification of state contractor licensing and active insurance — Checking credentials ensures your project leader is legally qualified to oversee complex interior building work.\n- [ ] Identification of all load-bearing and partition walls — You must know whether removing an interior divider requires structural headers, temporary shoring, and stamped engineering plans.\n- [ ] Clear change-order and milestone payment terms — A structured agreement defines how scope adjustments are priced and ties disbursements directly to completed milestones.\n- [ ] Written permit and inspection responsibility — Your contract should clearly state that the builder pulls all city building permits and coordinates required trade inspections.\n- [ ] A dedicated temporary meal-prep station — Setting up a microwave, mini-fridge, and prep table outside the construction zone keeps your household functional while utilities are capped.\n- [ ] Written material lead times for cabinets and fixtures — Ordering items with long factory queues before demolition begins avoids extended project downtime.\n\nWhat to Do Next\nUse this checklist during your initial builder consultations to compare estimates on an identical footing. When you want a team that handles complete kitchen transformations from drafting through final inspection, contact Blue Lake Construction at 385-202-5987.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Preparing for a Full Kitchen Overhaul: A Pre-Construction Readiness Checklist",
+    "numberOfItems": 8,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Printed appliance cut sheets — Your cabinet builders and countertop fabricators need exact manufacturer dim…",
+        "description": "Printed appliance cut sheets — Your cabinet builders and countertop fabricators need exact manufacturer dimensions, door swings, and electrical clearances before constructing boxes."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Itemized contractor scope of work — A detailed, written breakdown separates labor, demolition, rough plumbi…",
+        "description": "Itemized contractor scope of work — A detailed, written breakdown separates labor, demolition, rough plumbing, electrical updates, and finish installations into transparent allowances."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Verification of state contractor licensing and active insurance — Checking credentials ensures your project…",
+        "description": "Verification of state contractor licensing and active insurance — Checking credentials ensures your project leader is legally qualified to oversee complex interior building work."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Identification of all load-bearing and partition walls — You must know whether removing an interior divider…",
+        "description": "Identification of all load-bearing and partition walls — You must know whether removing an interior divider requires structural headers, temporary shoring, and stamped engineering plans."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Clear change-order and milestone payment terms — A structured agreement defines how scope adjustments are p…",
+        "description": "Clear change-order and milestone payment terms — A structured agreement defines how scope adjustments are priced and ties disbursements directly to completed milestones."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Written permit and inspection responsibility — Your contract should clearly state that the builder pulls al…",
+        "description": "Written permit and inspection responsibility — Your contract should clearly state that the builder pulls all city building permits and coordinates required trade inspections."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "A dedicated temporary meal-prep station — Setting up a microwave, mini-fridge, and prep table outside the c…",
+        "description": "A dedicated temporary meal-prep station — Setting up a microwave, mini-fridge, and prep table outside the construction zone keeps your household functional while utilities are capped."
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Written material lead times for cabinets and fixtures — Ordering items with long factory queues before demo…",
+        "description": "Written material lead times for cabinets and fixtures — Ordering items with long factory queues before demolition begins avoids extended project downtime."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

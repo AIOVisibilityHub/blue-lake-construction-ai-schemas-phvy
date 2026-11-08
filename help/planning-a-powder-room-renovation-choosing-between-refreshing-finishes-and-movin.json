@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Powder Room Renovation: Choosing Between Refreshing Finishes and Moving Plumbing",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Half baths may have a small footprint, but updating them requires thoughtful planning around clearances and existing utility lines. Here is your complete guide to getting it right.\n\nOverview: A powder room remodel is an efficient way to make a strong impression on guests while updating vital fixtures like the toilet, vanity, and lighting.\n\nKey Benefits: Upgrading this compact space refreshes your main level, provides moisture-resistant finishes, and gives you a chance to improve lighting and water efficiency without extensive downtime.\n\nProcess Breakdown: The renovation starts by measuring wall-to-wall clearances and door swings. Next comes evaluating water supply and drain pipes, deciding whether a permit applies, tackling selective demolition, roughing in any new electrical or ventilation, and installing flooring, vanity, and fixtures.\n\nReal Examples: In neighborhoods like Daybreak in South Jordan or Historic Sandy, homeowners frequently ask whether they can swap a pedestal sink for a floating vanity without tearing into supply lines or blocking the door.\n\nGet Started: Knowing whether your updates require venting adjustments or electrical permits makes all the difference. For expert craftsmanship and clear project planning, contact the team at Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

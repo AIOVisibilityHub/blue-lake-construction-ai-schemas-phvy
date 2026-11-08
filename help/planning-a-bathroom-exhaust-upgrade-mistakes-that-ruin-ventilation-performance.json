@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Bathroom Exhaust Upgrade: Mistakes That Ruin Ventilation Performance",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading bathroom ventilation seems straightforward, but minor installation oversights can ruin efficiency. Here are key mistakes to avoid during your project:\n\n1. Venting directly into the attic. Never dump damp air into attic insulation or crawl spaces; always vent through an exterior roof or wall cap to protect structural framing.\n2. Relying strictly on sones over CFM. Selecting an ultra-quiet fan that delivers insufficient CFM leaves heavy humidity trapped inside the room.\n3. Using long, ribbed flex ducts. Corrugated ducting creates airflow friction and traps condensation. Use smooth, correctly sized rigid ducts sloped toward the exterior.\n4. Skipping duct insulation. Uninsulated ductwork passing through unheated attics creates severe condensation that drips right back into your ceiling fan housing.\n5. Ignoring backdraft dampers. A stuck or missing damper allows freezing winter drafts or outside humidity to leak directly back into your bathroom.\n6. Skipping post-installation airflow testing. Failing to verify real draft performance leaves disconnected lines and damper blockages unnoticed until damage appears.\n\nWhat Can Change the Right Choice\nCeiling height, exterior wall proximity, and whether your jurisdiction requires continuous run fans or humidistat controls all shape the ideal layout.\n\nReady to ensure your exhaust fan is properly vented and built to last? Contact Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com.",
+  "datePublished": "2026-11-08"
+}

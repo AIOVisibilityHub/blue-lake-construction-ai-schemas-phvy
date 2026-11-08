@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Adding Utilities to a New Island: What Homeowners Should Know",
+    "text": "Adding Utilities to a New Island: What Homeowners Should Know",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Question: Can I add a functional kitchen island if my existing kitchen does not already have plumbing or electrical lines in the middle of the floor?\n\nAnswer: Yes, you can add an island with full utilities, but the scope of work depends directly on what lies beneath your kitchen floor. Running new sink drains, supply pipes, and electrical circuits requires access under the subfloor. If your home sits over an unfinished basement or accessible crawlspace, your contractor can easily route new plumbing and electrical lines up into the island footprint without disturbing surrounding spaces. \n\nHowever, if your home is built on a concrete slab, introducing water lines or new electrical circuits involves cutting concrete trenches, laying conduit, and patching the foundation. For power needs, local residential codes generally require at least one electrical outlet on permanent islands, even if you skip a sink. If trenching concrete or opening finished ceilings below exceeds your budget, you might choose an island dedicated solely to storage and food preparation, pairing it with low-profile floor power solutions where allowed. \n\nA licensed general contractor will inspect your framing and utility pathways to map out the most practical approach. When you are ready to explore layout options that fit your floor plan, call Blue Lake Construction at 385-202-5987.",
+      "author": {
+        "@type": "Organization",
+        "name": "Blue Lake Construction"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Salt Lake City"
+      },
+      {
+        "@type": "City",
+        "name": "Sugarhouse"
+      },
+      {
+        "@type": "City",
+        "name": "Millcreek"
+      },
+      {
+        "@type": "City",
+        "name": "Cottonwood heights"
+      },
+      {
+        "@type": "City",
+        "name": "Sandy"
+      },
+      {
+        "@type": "City",
+        "name": "Draper"
+      },
+      {
+        "@type": "City",
+        "name": "Riverton"
+      },
+      {
+        "@type": "City",
+        "name": "West Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "South Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "Taylorsville"
+      },
+      {
+        "@type": "City",
+        "name": "Bluffdale"
+      },
+      {
+        "@type": "City",
+        "name": "Bountiful"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

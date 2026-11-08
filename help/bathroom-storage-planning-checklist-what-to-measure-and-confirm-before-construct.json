@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Bathroom Storage Planning Checklist: What to Measure and Confirm Before Construction",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Bathroom Storage Planning Checklist: What to Measure and Confirm Before Construction",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Wall framing layout — confirm where 16-inch stud bays run and ensure plumbing vents or wiring do not block…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Wall framing layout — confirm where 16-inch stud bays run and ensure plumbing vents or wiring do not block recessed niches."
+      },
+      {
+        "name": "Door and drawer clearances — verify that cabinet doors and deep pullouts open fully without hitting toilets…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Door and drawer clearances — verify that cabinet doors and deep pullouts open fully without hitting toilets, shower doors, or baseboards."
+      },
+      {
+        "name": "Water shutoff valve accessibility — check that new vanity back panels leave main stop valves and P-traps ea…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Water shutoff valve accessibility — check that new vanity back panels leave main stop valves and P-traps easy to reach for future servicing."
+      },
+      {
+        "name": "Electrical outlet placement — document where GFCI outlets sit relative to medicine cabinets, mirrors, and p…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Electrical outlet placement — document where GFCI outlets sit relative to medicine cabinets, mirrors, and potential hidden charging drawers."
+      },
+      {
+        "name": "Humidity resistance ratings — check that cabinet face frames, drawer boxes, and shelving have sealed edges…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Humidity resistance ratings — check that cabinet face frames, drawer boxes, and shelving have sealed edges that resist steam and standing moisture."
+      },
+      {
+        "name": "Hardware load capacity — verify that floating vanity wall brackets and heavy shelf anchors can handle the w…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Hardware load capacity — verify that floating vanity wall brackets and heavy shelf anchors can handle the weight of stacked towels and toiletries."
+      },
+      {
+        "name": "Daily versus bulk storage needs — determine whether extra-deep tall towers are needed or if shallow wall-hu…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Daily versus bulk storage needs — determine whether extra-deep tall towers are needed or if shallow wall-hung cabinets provide adequate room."
+      },
+      {
+        "name": "Safe clearance from wet zones — ensure open shelving sits far enough from tubs and showers so stored paper…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Safe clearance from wet zones — ensure open shelving sits far enough from tubs and showers so stored paper goods and linens stay dry."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Wall framing layout — confirm where 16-inch stud bays run and ensure plumbing vents or wiring do not block recessed niches.\n- [ ] Door and drawer clearances — verify that cabinet doors and deep pullouts open fully without hitting toilets, shower doors, or baseboards.\n- [ ] Water shutoff valve accessibility — check that new vanity back panels leave main stop valves and P-traps easy to reach for future servicing.\n- [ ] Electrical outlet placement — document where GFCI outlets sit relative to medicine cabinets, mirrors, and potential hidden charging drawers.\n- [ ] Humidity resistance ratings — check that cabinet face frames, drawer boxes, and shelving have sealed edges that resist steam and standing moisture.\n- [ ] Hardware load capacity — verify that floating vanity wall brackets and heavy shelf anchors can handle the weight of stacked towels and toiletries.\n- [ ] Daily versus bulk storage needs — determine whether extra-deep tall towers are needed or if shallow wall-hung cabinets provide adequate room.\n- [ ] Safe clearance from wet zones — ensure open shelving sits far enough from tubs and showers so stored paper goods and linens stay dry.\n\nHow to Use This Checklist\nReview these items before purchasing custom cabinetry or tearing into drywall. Running through these points helps you catch space conflicts early, particularly around hidden plumbing and door paths in compact bathrooms. When you are ready to design and install custom bathroom cabinetry or recessed built-ins, call Blue Lake Construction at 385-202-5987 for professional design and remodeling assistance.",
+  "datePublished": "2026-11-08"
+}

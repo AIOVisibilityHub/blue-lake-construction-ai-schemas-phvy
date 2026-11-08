@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Should You Keep Your Tub or Convert to a Walk-In Shower in a Guest Bath?",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading a guest bath often comes down to one key decision: should you replace the existing bathtub or swap it out for a walk-in shower? Both choices have distinct advantages depending on your household needs and overall property layout.\n\n### Layout Differences and Daily Use\nA traditional bathtub-shower combination offers versatile utility, particularly if visiting guests include young children or if this is the only tub on that floor. On the other hand, a custom walk-in shower with a built-in niche and low-profile threshold provides effortless accessibility for older family members and creates an open, modern feel in compact footprints.\n\n### What Can Change the Right Choice\nSeveral technical factors influence which direction makes the most practical sense:\n- Subfloor drain capacity: Bathtubs typically tie into 1.5-inch drains, whereas walk-in showers generally require a 2-inch drain pipe. Transitioning to a shower requires opening the subfloor to resize the plumbing trap and drain lines.\n- Wall space and clearance: Standard tub alcoves measure 60 inches wide, which provides ample space for a comfortable walk-in shower without changing the room’s structural perimeter.\n- Resale and household balance: Maintaining at least one functional tub in your home is generally recommended for family-oriented neighborhoods across the Salt Lake Valley.\n\nIf you are planning plumbing alterations or structural reconfigurations, working with a licensed general contractor ensures compliance with local building codes. Contact Blue Lake Construction at 385-202-5987 to discuss your guest bathroom layout.",
+  "datePublished": "2026-11-08"
+}

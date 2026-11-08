@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mud Pan vs Pre-Sloped Shower Tray: Choosing the Right Base for Your Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the foundation for your custom shower comes down to two proven approaches: a site-built mortar mud pan or a high-density, pre-sloped foam tray system. Both provide the necessary slope to your drain, but they serve different structural situations and project timelines.\n\n### How to Compare Your Options\nA traditional mud pan uses packed deck mud hand-shaped by a skilled tile setter. It provides complete flexibility for custom footprints, unusual angles, or odd drain placements that cannot be relocated. However, it adds significant dead weight to the floor structure, requires a skilled hand to shape consistent pitch, and demands longer drying times before topical waterproofing and tile can be installed.\n\nPre-sloped manufactured trays offer factory-engineered slopes, lightweight construction, and integrated waterproof surfaces or bonding flanges. They install much faster, drastically reducing the overall build timeline. The tradeoff is sizing rigidity: your shower footprint and drain rough-in must match the tray's fixed specifications or allow trimming within strict manufacturer limits.\n\n### What Can Change the Right Choice\nIf your bathroom remodel features a standard footprint in places like Sugar House or Sandy, a pre-sloped tray offers speed and watertight reliability. If you are designing an expansive, custom walk-in shower with non-centered drains or curves, a custom mortar pan remains the gold standard. For expert design and installation support across the Salt Lake Valley, contact Ryan and the team at Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

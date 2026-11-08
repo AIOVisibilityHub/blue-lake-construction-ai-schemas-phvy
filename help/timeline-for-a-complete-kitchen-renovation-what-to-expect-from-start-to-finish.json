@@ -1,0 +1,97 @@
+{
+  "name": "Timeline for a Complete Kitchen Renovation: What to Expect from Start to Finish",
+  "step": [
+    {
+      "name": "Step 1: Planning, design, and material procurement",
+      "text": "Finalize your layout, cabinet orders, countertop materials, and appliance models with your contractor. Lead times for custom cabinets and appliances can take several weeks, so placing verified orders prior to teardown prevents idle downtime later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Demolition and structural layout alterations",
+      "text": "Tear out existing cabinets, flooring, surfaces, and non-load-bearing walls. If your plan includes an open-concept conversion, your general contractor will install structural beams, temporary supports, and complete interior framing modifications during this stage.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Mechanical, electrical, and plumbing rough-in",
+      "text": "Run new water supply lines, reposition sink drains, set dedicated 240V circuits for appliances, and wire recessed task lighting and under-cabinet feeds. Mechanical ventilation ductwork is routed, followed by required local building inspections.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Drywall, paint, and flooring installation",
+      "text": "Hang, tape, and finish drywall across modified ceiling and wall areas. Install your hardwood, engineered plank, or tile flooring throughout the workspace so new cabinetry can rest cleanly on a continuous level base.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Cabinet installation, countertop templating, and finish work",
+      "text": "Set base and upper cabinets level and plumb. Countertop fabricators measure laser templates for quartz or stone fabrication, followed by installation, backsplash tile work, fixture hookups, appliance connections, and final punch-list corrections. What to Expect During the Process Your kitchen will remain completely out of service during rough-in and finish stages, so establishing a temporary meal prep station is crucial. For reliable project management in Salt Lake City, contact Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Finalize your layout, cabinet orders, countertop materials, and appliance models with your contractor. Lead times for custom cabinets and appliances can take several weeks, so placing verified orders "
+}

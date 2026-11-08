@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Bathroom Remodeling Contractor: What to Review Before Signing",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Signing a contract for a complete bathroom renovation is a big step, and making sure your written agreement covers all the bases protects both your home and your wallet. In Salt Lake City and across the Salt Lake Valley, bathroom remodels often involve updating older plumbing, adding ventilation, or bringing electrical receptacles up to local GFCI standards. \n\nQuestions to Ask Before You Decide\n\nBefore you commit, confirm who handles local building permits and inspections, especially if your project involves moving plumbing lines, adding dedicated circuits, or altering framing. Ask for an itemized scope that spells out allowances for finishes like tile, vanity tops, and plumbing fixtures so you aren’t caught off guard by change orders later. It is also wise to verify that your contractor holds an active license and carries appropriate insurance. Finally, clarify how the crew protects your living space from construction dust and what the procedure is if concealed water damage turns up behind your existing shower walls.\n\nWhen you are ready to review your project scope with an experienced local general contractor, reach out to Ryan Gardner and the team at Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

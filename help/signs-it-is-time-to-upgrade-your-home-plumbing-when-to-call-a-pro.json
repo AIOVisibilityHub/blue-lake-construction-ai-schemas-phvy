@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Upgrade Your Home Plumbing: When to Call a Pro",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your plumbing can completely transform how your kitchen or bathroom functions every day, but knowing when you need a licensed general contractor rather than a quick hand is vital. If your remodel involves moving supply lines, shifting drain locations, or rearranging your layout, casual handyman fixes will not cut it.\n\nWhen Professional Guidance Helps\n- Multiple fixtures are relocating: Moving a sink across the kitchen or shifting a shower requires re-routing concealed pipes within floors and walls.\n- Walls and floors are opening up: Any project exposing subfloors or wall framing means structural considerations and building inspections come into play.\n- Low pressure or old pipe materials: If your existing home has deteriorating supply lines or chronic drainage slow-downs, updating them during an active renovation saves immense money compared to tearing open walls later.\n- Permit and code questions: Local building codes require strict rough-in inspections before any drywall goes up. \n\nLeaving concealed plumbing updates to a licensed team keeps your project safe, legal, and watertight. At Blue Lake Construction, our team coordinates plumbing updates seamlessly within your kitchen or bathroom remodel across Salt Lake City and the valley. Call us at 385-202-5987 to talk through your renovation plans.",
+  "datePublished": "2026-11-08"
+}

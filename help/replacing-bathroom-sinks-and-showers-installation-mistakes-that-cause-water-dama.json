@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Replacing Bathroom Sinks and Showers: Installation Mistakes That Cause Water Damage",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing plumbing fixtures offers high visual impact, but installation errors can cause serious water leaks. Here are the top mistakes to avoid:\n\n1. Reusing old supply lines and seals. Rubber washers, braided supply hoses, and toilet wax rings compress over time; always install fresh seals with every fixture swap.\n2. Forcing mismatched pipe threads. Cross-threading brass nuts or confusing compression fittings with tapered iron pipe threads causes steady, hidden leaks.\n3. Overtightening connections. Cranking down too hard on porcelain toilet bases or plastic sink drain nuts cracks the materials and causes immediate failure.\n4. Overlooking rough-in distances. Buying a 14-inch rough toilet for a standard 12-inch drain opening means the unit will not sit against the finished wall.\n5. Skipping drain assembly dry-fits. Gluing PVC or tightening tailpieces without verifying proper pitch leads to slow drainage, standing water, and sewer gas leaks.\n6. Skipping pressurized leak checks. Turning the water back on without running fixtures continuously while checking all joints under load leaves slow drips undetected.\n\nWhat to Prepare Before You Start\nMeasure your center-to-center faucet holes, take photos of your existing rough-in valves, and test your main shutoff valve ahead of time.\n\nLooking to update your bathroom plumbing fixtures without the stress of leaks? Call Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com to arrange your remodeling project today.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Key Warning Signs Your Kitchen Layout Needs a Professional Redesign",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "When cooking feels awkward or family members constantly bump into each other, your kitchen layout is usually the culprit. A poorly organized floor plan wastes movement, chokes traffic, and creates daily irritation. Recognizing these common spatial warning signs helps you decide when it is time to redesign your space rather than just replacing cabinet doors.\n\n1. The Refrigerator Blocks Your Main Entryway\nIf opening the refrigerator door seals off the doorway or stops someone from walking past, your clearance zones are insufficient. Major pathways require open flow without door swings cutting off the room.\n\n2. Your Work Triangle Exceeds Recommended Travel Distances\nWhen your primary path between the sink, refrigerator, and cooktop requires long, winding treks, meal preparation becomes exhausting. Functional layouts keep combined travel distances between key work centers within efficient, practical limits.\n\n3. The Center Island Traps You While Cooking\nAn island added without proper clearances creates a barrier rather than a benefit. If you cannot fully open the dishwasher and an opposing oven door at the same time, the island is positioned too close to your counter perimeter.\n\n4. Counter Space Beside Hot Cooking Surfaces Is Missing\nEvery cooktop and range requires dedicated landing space on both sides for hot pans and quick prep. If your range sits directly against a wall or doorway, your layout presents a serious safety and efficiency problem.\n\n5. Family Traffic Cuts Directly Across Your Prep Zone\nIn older homes, main walkways between the garage, backyard, or living room often pass right between the sink and stove. A proper redesign relocates perimeter utilities to route household traffic safely away from hot cookware.\n\nWhen Professional Guidance Helps\nFixing structural traffic snags often requires shifting plumbing lines, opening walls, or building custom storage configurations. To review your floor plan with an experienced team serving the Salt Lake Valley, reach out to Blue Lake Construction at 385-202-5987.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

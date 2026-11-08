@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Evaluating Complete Bathroom Renovation Quotes: What Scope Items Are Often Left Out",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Comparing renovation estimates can get tricky when bottom-line numbers look wildly different for the same square footage. A low bid often means essential tasks were left out of the initial paperwork, only to resurface later as surprise change orders.\n\nWhat to Prepare Before You Decide\nTo protect your budget and project timeline, review every estimate to confirm these critical items are clearly included in writing:\n\n- Complete demolition, hauling, and debris disposal fees rather than a basic tear-out.\n- Subfloor inspection and dedicated wet-area waterproofing systems behind all shower walls and floors.\n- Proper ventilation ducting that exhausts completely outdoors rather than dumping humid air into your attic space.\n- Plumbing and electrical rough-ins alongside final fixture replacements, including permit processing and municipal inspection coordination.\n- Dedicated itemization of cabinetry, countertop materials, custom tile setting, and shower glass installation.\n\nWhen contractors present lump-sum pricing without breaking down materials, permits, and specific tasks, it leaves you vulnerable to hidden expenses once walls are opened. A reliable team provides a clear, line-item scope upfront. If you are planning a complete renovation in Salt Lake City or the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987 to review your project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

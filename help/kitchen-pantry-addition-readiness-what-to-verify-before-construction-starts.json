@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Pantry Addition Readiness: What to Verify Before Construction Starts",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Kitchen Pantry Addition Readiness: What to Verify Before Construction Starts",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure door swing pathways — ensure swinging pantry doors do not collide with open oven doors, dishwashers…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure door swing pathways — ensure swinging pantry doors do not collide with open oven doors, dishwashers, or refrigerator handles."
+      },
+      {
+        "name": "Verify walkway clearances — confirm family members can easily pass open pantry shelves without bottlenecks…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Verify walkway clearances — confirm family members can easily pass open pantry shelves without bottlenecks in main kitchen traffic zones."
+      },
+      {
+        "name": "Identify wall utilities — check for electrical lines, plumbing pipes, or HVAC ducts inside walls scheduled…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Identify wall utilities — check for electrical lines, plumbing pipes, or HVAC ducts inside walls scheduled for framing changes or recessed shelving."
+      },
+      {
+        "name": "Confirm shelf load capacity — ensure specified shelf brackets and materials support heavy bulk items and sm…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Confirm shelf load capacity — ensure specified shelf brackets and materials support heavy bulk items and small kitchen appliances without bending."
+      },
+      {
+        "name": "Plan interior lighting — evaluate motion-sensor overhead lights or under-shelf task lighting so deep corner…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Plan interior lighting — evaluate motion-sensor overhead lights or under-shelf task lighting so deep corners stay fully visible."
+      },
+      {
+        "name": "Check electrical outlet needs — plan dedicated wall outlets if you intend to run microwaves, coffee makers,…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Check electrical outlet needs — plan dedicated wall outlets if you intend to run microwaves, coffee makers, or charging stations inside the pantry."
+      },
+      {
+        "name": "Match existing cabinetry finishes — coordinate paint colors, stain, and trim profiles so the new addition l…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Match existing cabinetry finishes — coordinate paint colors, stain, and trim profiles so the new addition looks cohesive with the rest of your kitchen."
+      },
+      {
+        "name": "Review permitting triggers — verify if moving interior walls, rewiring lighting, or adding circuits require…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Review permitting triggers — verify if moving interior walls, rewiring lighting, or adding circuits requires local building permits before construction begins."
+      }
+    ]
+  },
+  "articleBody": "Before you sign a contract or start tearing into drywall for a pantry addition, run through this practical pre-construction checklist to avoid common layout headaches and unexpected costs.\n\n- [ ] Measure door swing pathways — ensure swinging pantry doors do not collide with open oven doors, dishwashers, or refrigerator handles.\n- [ ] Verify walkway clearances — confirm family members can easily pass open pantry shelves without bottlenecks in main kitchen traffic zones.\n- [ ] Identify wall utilities — check for electrical lines, plumbing pipes, or HVAC ducts inside walls scheduled for framing changes or recessed shelving.\n- [ ] Confirm shelf load capacity — ensure specified shelf brackets and materials support heavy bulk items and small kitchen appliances without bending.\n- [ ] Plan interior lighting — evaluate motion-sensor overhead lights or under-shelf task lighting so deep corners stay fully visible.\n- [ ] Check electrical outlet needs — plan dedicated wall outlets if you intend to run microwaves, coffee makers, or charging stations inside the pantry.\n- [ ] Match existing cabinetry finishes — coordinate paint colors, stain, and trim profiles so the new addition looks cohesive with the rest of your kitchen.\n- [ ] Review permitting triggers — verify if moving interior walls, rewiring lighting, or adding circuits requires local building permits before construction begins.\n\nHow to Use This Checklist\nReview these points during your initial design phase with your contractor. Addressing clearances and utility placements early prevents mid-project change orders. For expert kitchen remodeling across Salt Lake City, Draper, and South Jordan, contact Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

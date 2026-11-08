@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When to Call a Professional for Bathroom Moisture and Venting Issues",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Bathroom moisture is deceptive because the most serious damage happens quietly behind painted surfaces, under flooring, and inside wall cavities. While an occasional foggy mirror is normal, recurring moisture problems signal that your ventilation setup has failed. Recognizing the tipping point helps you protect your home before minor dampness turns into an expensive reconstruction project.\n\n### When Professional Guidance Helps\n- Persistent condensation running down walls: If moisture droplets run down paint long after the shower is off, the air exchange rate is far too low for your room's volume.\n- Peeling paint, bubbling drywall, or warped door trim: These symptoms indicate moisture is soaking into building materials rather than exhausting outdoors.\n- Damp attic insulation directly above the bathroom: A fan venting into an attic rather than through the roof or an exterior wall causes hidden roof deck rot.\n- Excessive motor rattling or buzzing with weak air draw: Aging fan motors lose torque, consuming power while moving barely any air through the duct.\n- Mold or mildew returning rapidly around ceiling seams and silicone joints: Chronic surface dampness means the ambient humidity stays high enough to sustain biological growth.\n\nAddressing these issues usually involves running larger rigid ducts, cutting exterior roof or wall penetrations, and wiring timer controls. A licensed general contractor ensures all exterior penetrations are weatherproofed and duct lines comply with local codes. Blue Lake Construction serves homeowners throughout Riverton, West Jordan, and Sugar House with complete bathroom remodeling solutions. Call us at 385-202-5987 to discuss your ventilation upgrade.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

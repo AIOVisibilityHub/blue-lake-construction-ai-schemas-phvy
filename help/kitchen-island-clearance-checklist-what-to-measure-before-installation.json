@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Island Clearance Checklist: What to Measure Before Installation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Kitchen Island Clearance Checklist: What to Measure Before Installation",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Single-cook work aisle width — Professional NKBA guidelines recommend at least 42 inches between cabinet fa…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Single-cook work aisle width — Professional NKBA guidelines recommend at least 42 inches between cabinet faces so doors and drawers open without obstruction."
+      },
+      {
+        "name": "Multi-cook prep aisle width — Aim for 48 inches of clearance between opposite counters if more than one per…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Multi-cook prep aisle width — Aim for 48 inches of clearance between opposite counters if more than one person regularly preps meals together."
+      },
+      {
+        "name": "Surrounding perimeter walkway width — Confirm at least 36 inches of clear walking space around the non-cook…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Surrounding perimeter walkway width — Confirm at least 36 inches of clear walking space around the non-cooking sides of the island."
+      },
+      {
+        "name": "Refrigerator and oven door swings — Measure fully open appliance doors to ensure they do not collide with i…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Refrigerator and oven door swings — Measure fully open appliance doors to ensure they do not collide with island cabinets or pinch walkway space."
+      },
+      {
+        "name": "Dishwasher drop-down clearance — Verify at least 30 to 36 inches remains in front of the open dishwasher do…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Dishwasher drop-down clearance — Verify at least 30 to 36 inches remains in front of the open dishwasher door so loading is comfortable."
+      },
+      {
+        "name": "Seating overhang depth — Provide 12 to 18 inches of knee space for counter-height stools so guests do not b…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Seating overhang depth — Provide 12 to 18 inches of knee space for counter-height stools so guests do not block walkways while seated."
+      },
+      {
+        "name": "Stone overhang support plan — Plan steel plates or corbels for any heavy stone or quartz overhang extending…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Stone overhang support plan — Plan steel plates or corbels for any heavy stone or quartz overhang extending beyond 6 to 8 inches."
+      },
+      {
+        "name": "Finished flooring transitions — Check that base cabinets rest on level, finished subfloors so the island si…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Finished flooring transitions — Check that base cabinets rest on level, finished subfloors so the island sits plumb and anchors securely."
+      }
+    ]
+  },
+  "articleBody": "A kitchen island should improve your workflow, not create traffic jams. Walk through this measurement checklist before ordering cabinets to verify that your kitchen layout can comfortably handle a freestanding island.\n\n- [ ] Single-cook work aisle width — Professional NKBA guidelines recommend at least 42 inches between cabinet faces so doors and drawers open without obstruction.\n- [ ] Multi-cook prep aisle width — Aim for 48 inches of clearance between opposite counters if more than one person regularly preps meals together.\n- [ ] Surrounding perimeter walkway width — Confirm at least 36 inches of clear walking space around the non-cooking sides of the island.\n- [ ] Refrigerator and oven door swings — Measure fully open appliance doors to ensure they do not collide with island cabinets or pinch walkway space.\n- [ ] Dishwasher drop-down clearance — Verify at least 30 to 36 inches remains in front of the open dishwasher door so loading is comfortable.\n- [ ] Seating overhang depth — Provide 12 to 18 inches of knee space for counter-height stools so guests do not block walkways while seated.\n- [ ] Stone overhang support plan — Plan steel plates or corbels for any heavy stone or quartz overhang extending beyond 6 to 8 inches.\n- [ ] Finished flooring transitions — Check that base cabinets rest on level, finished subfloors so the island sits plumb and anchors securely.\n\nHow to use this checklist:\nMeasure your room between finished cabinet faces rather than bare drywall before ordering island cabinetry. If clearances feel tight, adjusting island depth or switching to a peninsula might be the better choice. Blue Lake Construction designs and installs practical kitchens across Salt Lake City and Millcreek. Contact us at 385-202-5987 to review your layout.",
+  "datePublished": "2026-11-08"
+}

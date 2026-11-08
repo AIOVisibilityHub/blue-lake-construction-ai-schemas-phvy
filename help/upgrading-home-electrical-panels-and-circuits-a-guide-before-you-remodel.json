@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading Home Electrical Panels and Circuits: A Guide Before You Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: A complete remodel often demands far more power than older electrical infrastructure was built to deliver. Updating your panels and branch circuits ensures your home supports modern appliances, induction ranges, and luxury bathrooms without interruptions.\n\nKey Benefits: Planned electrical updates protect against breaker trips, eliminate hazardous overloads, provide dedicated circuits for heavy kitchen appliances, and prepare your house for future expansions or finished basements.\n\nProcess Breakdown: We inspect your main panel capacity, evaluate grounding and bonding, and map existing branch circuits against your renovation plans. From there, we plan new home runs, coordinate required permits and utility scheduling, isolate circuits safely, install modern wiring, and test every device thoroughly.\n\nWhat Can Change the Right Choice: Expanding into an open-concept kitchen or adding an in-law suite often requires subpanels or a main service upgrade, especially in older Salt Lake City neighborhoods where original panels are already fully loaded.\n\nWhat to Expect During the Process: Power will be shut down temporarily while rough-in work and panel modifications occur. Careful circuit labeling helps keep ongoing disruption minimal.\n\nWhat to Do Next: Call Ryan and the team at Blue Lake Construction at 385-202-5987 to evaluate your electrical needs before starting your renovation.",
+  "datePublished": "2026-11-08"
+}

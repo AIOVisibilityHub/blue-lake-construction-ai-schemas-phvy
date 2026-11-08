@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Walk-In Shower Installation: Signs It Is Time to Call a Professional",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a custom walk-in shower involves structural planning that goes far beyond selecting tile colors. Watch for these clear signs that your project calls for experienced general contracting:\n\n- Going curbless: Creating a seamless, zero-step entry requires recessing the subfloor or adjusting floor joists to maintain the required slope toward the drain.\n- Upgrading to multi-head fixtures: Installing body sprays, rain heads, and handheld wands often requires upgrading supply lines to maintain balanced water pressure.\n- Shifting the plumbing footprint: Moving supply lines or waste pipes across the bathroom demands precise framing modifications and code-approved venting.\n- Glass panel engineering: Heavy, frameless glass partitions require plumb walls and specialized structural support hidden inside the framing.\n- Managing moisture control: Ensuring water does not escape into the main floor area requires calculating spray radius, floor pitch, and threshold design together.\n\nWhen Professional Guidance Helps\nWhen floor joists must be notched, water lines relocated, or large custom glass panels secured, professional installation protects your home from hidden water damage and expensive structural repairs. \n\nFor expert walk-in shower remodeling in Sandy, Riverton, and throughout the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

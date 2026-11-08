@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When to Call a Professional for Kitchen Faucet Replacement",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Replacing a kitchen faucet is a common update, but standard plumbing can quickly turn complicated once you look under the sink. Recognizing when a simple swap exceeds DIY limits protects your home from hidden water damage.\n\nWhen Professional Guidance Helps\n- Frozen or corroded shutoff valves: If the under-sink angle stops are seized, forced turning can snap old copper pipes and trigger major indoor flooding.\n- Mismatched counter drillings: Modern single-hole faucets with deck plates require exact alignment with existing granite or quartz cutouts.\n- Persistent low water pressure: If poor flow continues after cleaning aerators, mineral buildup or line restrictions may require pipe repairs.\n- Rigid, corroded supply lines: Old supply tubes that are fused to the faucet shank require specialized cutting tools to remove without bending main lines.\n- Local plumbing code requirements: While direct in-kind fixture swaps are often straightforward, relocating supply pipes or drains triggers local inspection standards.\n\nIf your shutoffs will not close completely or you notice water stains around cabinet subfloors, professional assistance is essential. Blue Lake Construction delivers residential remodeling services across Taylorsville, Riverton, and West Jordan. Call 385-202-5987 to discuss your kitchen fixture updates.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

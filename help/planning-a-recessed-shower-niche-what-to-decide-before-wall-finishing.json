@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Planning a Recessed Shower Niche: What to Decide Before Wall Finishing",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "A recessed shower niche offers sleek storage for shampoos and soaps, but planning it late in your bathroom remodel can create structural problems and water leaks. \n\nWhat to Prepare Before You Start:\nFirst, map out what you plan to store so you can set your shelf height and finished depth accurately. Next, check the interior wall framing. Niches fit best in interior plumbing or partition walls; putting one on an exterior wall risks reducing insulation and exposing pipes to freezing temperatures. You should also confirm where wall studs and electrical conduits run before anyone cuts into the framing. Finally, calculate the thickness of your wall backer board, thinset mortar, and tile so your niche aligns cleanly with surrounding grout joints rather than cutting awkwardly across a pattern.\n\nHow to Compare Your Options:\nYou can choose a prefabricated waterproof foam niche or have your contractor frame a custom box on-site. Prefabricated units guarantee factory-formed corners and pre-sloped bottoms, making watertight installation much simpler. Custom-framed niches allow custom widths, but every joint must be meticulously waterproofed with approved membrane bands.\n\nWhen Professional Guidance Helps:\nAltering wall studs, framing headers, or tying niche membranes into the shower wall requires precision to protect your home. Blue Lake Construction serves homeowners throughout Sandy, Draper, and across the Salt Lake Valley. Reach out at 385-202-5987 to plan your shower update.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

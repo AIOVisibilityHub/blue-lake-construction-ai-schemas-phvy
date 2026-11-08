@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for a Custom Tile Shower Installation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tiling a shower requires strict precision, specialized materials, and skilled waterproofing. Certain complex features and warning signs indicate it is time to bring in an experienced remodeling contractor.\n\nWhen Professional Guidance Helps\n- Curbless or zero-entry designs: Lowering or eliminating the shower curb requires modifying subfloor framing and recessing pans to maintain proper slopes without flooding bathroom floors.\n- Relocating drain lines: Shifting a drain requires cutting subfloors, setting appropriate pipe pitches, and tying into primary waste stacks according to local codes.\n- Adding built-in benches and recessed niches: Every horizontal shelf or nook creates potential water collection points that require seamless waterproofing membranes to prevent internal leaks.\n- Upgrading to a steam shower: Steam applications demand specialized vapor-retardant membranes with specific permeance ratings and complete ceiling enclosures to protect wall cavities.\n- Uneven or out-of-plumb framing: Older framing must be straightened and reinforced before setting tile backer board, or your tile lines will buckle and crack over time.\n\nEnsure your shower remains watertight and durable. Contact the remodeling team at Blue Lake Construction at 385-202-5987 today.",
+  "datePublished": "2026-11-08"
+}

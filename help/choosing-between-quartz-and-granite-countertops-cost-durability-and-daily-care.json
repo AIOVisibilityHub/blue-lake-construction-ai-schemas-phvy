@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing Between Quartz and Granite Countertops: Cost, Durability, and Daily Care",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Selecting new kitchen countertops is one of the most exciting design decisions you will make during a remodel, but the daily demands on your surfaces should drive your choice just as much as appearance. Quartz and granite remain the two leading options for Salt Lake Valley homeowners, each offering distinct advantages depending on your cooking habits, maintenance expectations, and overall budget.\n\nKey Differences to Consider\nQuartz is an engineered product made from crushed stone bound with polymer resins, resulting in a non-porous, uniform surface. Granite is a 100-percent natural stone slab quarried from the earth, meaning every piece features one-of-a-kind veining, movement, and natural color variations. Because quartz has no pores, it resists staining from wine, coffee, and cooking oils without ever needing sealants. Granite, by contrast, requires periodic sealing to protect against moisture absorption and discoloration.\n\nDurability and Heat Resistance\nGranite naturally withstands high temperatures, meaning hot cookware straight from the cooktop is less likely to damage the stone, though trivets are still recommended. Quartz handles heavy impacts and edge chipping extremely well, but its resin binders are sensitive to direct heat; placing a scorching pan directly on quartz can cause permanent discoloration or surface cracking. \n\nHow to Compare Your Options\nChoose quartz if you want a sleek, modern aesthetic with zero annual maintenance and total consistency across multiple slabs. Choose granite if you love natural character, organic stone movement, and superior heat tolerance. Budget-wise, both materials offer comparable entry-level pricing, though rare granite patterns or premium composite quartz can elevate material costs.\n\nWhat to Do Next\nWhether you prefer durable engineered quartz or classic granite, proper leveling, precise templating, and secure installation are essential. Call Blue Lake Construction at 385-202-5987 to coordinate your countertop update.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Finish Carpenter: Key Details to Check in Your Estimate",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you are wrapping up a major remodel or refreshing an older home in Salt Lake City, trim and finish carpentry is what pulls everything together. It gives rooms their character, but getting a reliable, detailed estimate takes a little forethought.\n\nOverview\nFinish carpentry covers baseboards, door and window casing, crown molding, wainscoting, stair parts, and built-ins. Because it happens after drywall and main surface work, precision is everything.\n\nKey Benefits\nClean carpentry hides drywall gaps, frames your architecture, and elevates everyday spaces. Quality materials and tight joints make cleaning simpler and keep moisture from creeping behind boards.\n\nProcess Breakdown\nA thorough installation starts with verifying your trim profiles and whether you are using paint-grade or stain-grade wood. Next, rooms are measured by trim type rather than rough room square footage. The carpenters check for uneven walls or floors, install pieces with proper fasteners, handle joints, and prep surfaces for final painting or staining.\n\nWhat to Prepare Before You Start\nMake sure your written estimate separates materials, labor, surface prep, and final finishing. Don't let a contractor lump every trim type into one generic number.\n\nGet Started\nIf you are planning updates in the Salt Lake Valley, call Ryan and the team at Blue Lake Construction at 385-202-5987 to talk through your carpentry goals.",
+  "datePublished": "2026-11-08"
+}

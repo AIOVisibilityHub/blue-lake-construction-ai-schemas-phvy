@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Primary Bathroom Remodel: A Pre-Construction Checklist",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning a Primary Bathroom Remodel: A Pre-Construction Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure existing door swings and clearance paths — ensures new freestanding tubs, vanities, or shower doors…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure existing door swings and clearance paths — ensures new freestanding tubs, vanities, or shower doors open fully without hitting walls or fixtures."
+      },
+      {
+        "name": "Confirm your electrical panel capacity with a contractor — clarifies whether adding heated flooring, specia…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Confirm your electrical panel capacity with a contractor — clarifies whether adding heated flooring, specialized lighting, or steam units requires a dedicated circuit."
+      },
+      {
+        "name": "Verify ventilation exhaust duct paths — confirms your bathroom fan vents directly outside your home rather…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Verify ventilation exhaust duct paths — confirms your bathroom fan vents directly outside your home rather than dumping moist air into the attic."
+      },
+      {
+        "name": "Choose plumbing fixtures with matching rough-in valves — prevents costly delays caused by ordering trim kit…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Choose plumbing fixtures with matching rough-in valves — prevents costly delays caused by ordering trim kits that do not fit the installed valve bodies."
+      },
+      {
+        "name": "Establish vanity height and mirror placement dimensions — guarantees wall sconces, medicine cabinets, and p…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Establish vanity height and mirror placement dimensions — guarantees wall sconces, medicine cabinets, and plumbing rough-ins align with your household’s comfort."
+      },
+      {
+        "name": "Request written confirmation of local permitting responsibilities — clarifies that your general contractor…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Request written confirmation of local permitting responsibilities — clarifies that your general contractor pulls required plumbing, mechanical, and building permits."
+      },
+      {
+        "name": "Inspect subfloors for previous moisture intrusion — identifies areas where water may have seeped near older…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Inspect subfloors for previous moisture intrusion — identifies areas where water may have seeped near older showers or toilets before new tile is laid."
+      },
+      {
+        "name": "Order custom shower glass and specialty tile early — accounts for supplier lead times so finish trades can…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Order custom shower glass and specialty tile early — accounts for supplier lead times so finish trades can work without schedule interruptions."
+      }
+    ]
+  },
+  "articleBody": "Preparing for a primary suite renovation requires careful coordination before the first hammer swings. Use this practical checklist to keep selections, measurements, and structural details organized so construction stays on track.\n\n- [ ] Measure existing door swings and clearance paths — ensures new freestanding tubs, vanities, or shower doors open fully without hitting walls or fixtures.\n- [ ] Confirm your electrical panel capacity with a contractor — clarifies whether adding heated flooring, specialized lighting, or steam units requires a dedicated circuit.\n- [ ] Verify ventilation exhaust duct paths — confirms your bathroom fan vents directly outside your home rather than dumping moist air into the attic.\n- [ ] Choose plumbing fixtures with matching rough-in valves — prevents costly delays caused by ordering trim kits that do not fit the installed valve bodies.\n- [ ] Establish vanity height and mirror placement dimensions — guarantees wall sconces, medicine cabinets, and plumbing rough-ins align with your household’s comfort.\n- [ ] Request written confirmation of local permitting responsibilities — clarifies that your general contractor pulls required plumbing, mechanical, and building permits.\n- [ ] Inspect subfloors for previous moisture intrusion — identifies areas where water may have seeped near older showers or toilets before new tile is laid.\n- [ ] Order custom shower glass and specialty tile early — accounts for supplier lead times so finish trades can work without schedule interruptions.\n\nHow to Use This Checklist\n\nReview these items during your initial design meetings and walk through them with your builder before signing off on final plans. Addressing these points early minimizes mid-project change orders and keeps inspections running smoothly. \n\nFor guidance on planning your primary bath transformation across the Salt Lake Valley, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

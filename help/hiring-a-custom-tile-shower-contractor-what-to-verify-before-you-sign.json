@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Custom Tile Shower Contractor: What to Verify Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a walk-in shower upgrade is exciting, but water containment requires strict technical care behind the tile. When reviewing bids for your project, look beyond cosmetic tile choices and verify exactly how each contractor builds the underlying wet assembly.\n\n### Questions to Ask Before You Decide\n- What complete waterproofing method do you use behind the tile? (Never accept unsealed cement board alone, as moisture passes straight through it).\n- How do you guarantee a proper pre-slope to the drain before tile is set?\n- What mortar coverage standard does your crew target? (Wet-area assemblies need around 95% mortar coverage to prevent loose, cracked tiles).\n- How are movement joints handled where walls meet floors and corners?\n- Are your plumbing adjustments and structural modifications handled by licensed personnel?\n\n### When Professional Guidance Helps\nIf you want to relocate existing drain lines, build a curbless entry, or install large-format tiles, structural precision becomes critical. Unlevel subfloors or missing membrane seals can cause hidden leaks beneath your flooring. A licensed general contractor ensures every layer—from framing and sloped pans to waterproof seals—works together seamlessly. \n\nReady to plan a long-lasting shower renovation in Salt Lake City or the surrounding valley? Contact Blue Lake Construction at 385-202-5987 to talk through your project.",
+  "datePublished": "2026-11-08"
+}

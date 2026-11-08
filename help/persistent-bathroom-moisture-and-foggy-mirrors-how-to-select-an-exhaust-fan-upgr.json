@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Persistent Bathroom Moisture and Foggy Mirrors: How to Select an Exhaust Fan Upgrade",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview\nBathroom moisture that lingers on mirrors and walls isn't just an annoyance; it can slowly degrade drywall and trim. Upgrading your exhaust fan restores healthy airflow and protects your bathroom remodel investment.\n\nKey Benefits\nA properly sized unit removes humid air before it settles. Benefits include preventing mildew, protecting custom cabinetry, and meeting efficiency standards using quiet ENERGY STAR options. Intermittent fans require at least 50 CFM, while continuous models run near 20 to 25 CFM to manage background humidity.\n\nProcess Breakdown\nWe begin by inspecting your existing fan box, wiring, and exhaust pathway. Next, we determine the correct CFM based on room dimensions, route rigid ducting directly to the outside, seal joints against leaks, and test damper movement.\n\nReal Examples\nIn older Salt Lake Valley bathrooms, we frequently find flexible ducts venting straight into attic insulation. Replacing them with smooth, insulated metal pipes vented through the roof immediately stops attic moisture accumulation.\n\nWhat to Prepare Before You Start\nCheck whether you have exterior venting, note whether your walls show moisture stains, and consider adding automated humidity-sensing controls.\n\nReady to improve your bathroom air quality? Reach out to Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com to schedule a consultation with our remodeling team.",
+  "datePublished": "2026-11-08"
+}

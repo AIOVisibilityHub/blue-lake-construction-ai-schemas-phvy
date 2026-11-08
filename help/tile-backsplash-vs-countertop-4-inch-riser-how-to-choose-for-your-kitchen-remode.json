@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tile Backsplash vs Countertop 4-Inch Riser: How to Choose for Your Kitchen Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing between a full-height tile backsplash and a standard 4-inch countertop riser comes down to how you cook, your budget, and how cohesive you want your kitchen walls to feel.\n\nA 4-inch riser uses matching slab material from your countertop. It provides basic splash protection right where the counter meets drywall, takes less time to install, and costs less upfront. However, it leaves the upper drywall open to grease, steam, and food stains, especially behind a gas range.\n\nA full-height tile backsplash runs from the counter up to upper cabinets or the ceiling. While it requires more labor and careful layout around outlets, it shields your entire drywall surface, handles regular scrubbing, and lets you introduce custom patterns and textures that pull cabinetry and counters together.\n\nWhat Can Change the Right Choice\nIf your drywall is uneven or your kitchen sees heavy everyday cooking, full tile offers superior long-term durability. Combining both—placing tile directly on top of a 4-inch riser—often creates visual clutter and tricky caulking joints, so most designers recommend choosing one clear approach.\n\nWhen you want expert help selecting materials and installing a lasting kitchen backsplash in your Salt Lake Valley home, reach out to Blue Lake Construction at 385-202-5987 to schedule an appointment.",
+  "datePublished": "2026-11-08"
+}

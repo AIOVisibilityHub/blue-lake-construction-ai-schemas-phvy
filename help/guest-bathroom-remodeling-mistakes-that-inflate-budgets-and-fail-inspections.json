@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guest Bathroom Remodeling Mistakes That Inflate Budgets and Fail Inspections",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Renovating a guest bathroom involves more than picking nice tile. Here are common slip-ups homeowners encounter and how to avoid them during your project.\n\nCommon Mistakes to Avoid:\n1. Starting demolition without permits: Moving supply lines or wiring without required permits can stall work and complicate future property sales. Check municipal requirements before swinging a hammer.\n2. Skipping a subfloor check: Laying heavy floor tile over compromised wood or an uneven base leads to cracked grout. Always inspect the framing once old layers are stripped away.\n3. Overlooking GFCI protection: Placing standard outlets near wet zones fails safety standards. Ensure all bathroom receptacles have proper GFCI protection on a dedicated circuit.\n4. Venting moisture into the attic: Dumping humid air into ceiling cavities breeds mold. Always duct exhaust fans entirely to the building exterior.\n5. Inadequate shower waterproofing: Relying solely on cement board without a dedicated waterproofing system risks slow leaks behind walls. Install tested moisture barriers before setting tile.\n\nWhat to Do Next:\nAvoiding these headaches comes down to solid planning and trade expertise. If you want seamless plumbing updates, clean tile work, and proper inspection management across the Salt Lake Valley, get in touch with Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

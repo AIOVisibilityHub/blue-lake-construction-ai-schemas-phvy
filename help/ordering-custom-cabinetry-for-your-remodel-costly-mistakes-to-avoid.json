@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Ordering Custom Cabinetry for Your Remodel: Costly Mistakes to Avoid",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ordering custom cabinetry is a major investment in your home's functionality and aesthetic value. Because custom cabinets are built to order, small measurement or coordination errors can lead to expensive delays.\n\nCommon Mistakes to Avoid\n- Approving shop drawings before site verification: Never sign off on cabinet drawings based solely on architectural plans. A licensed professional must verify real field dimensions after framing is in place.\n- Ordering before finalizing appliance specs: Changing your refrigerator, microwave drawer, or cooktop dimensions after casework production begins creates costly cabinet modifications on site.\n- Overlooking door swings and clearance: Placing deep pullout drawers or cabinet doors right next to door trim, window casings, or adjacent appliance handles can prevent them from opening fully.\n- Skipping utility coordination: Custom cabinets must accommodate internal plumbing traps, water lines, under-cabinet lighting drivers, and electrical outlets without compromising shelf integrity.\n- Installing cabinets before the room is ready: Installing casework before finished drywall, utility rough-ins, or floor leveling is complete invites moisture damage and alignment issues.\n\nGetting custom casework right requires seamless collaboration between design, rough trades, and trim carpentry. Blue Lake Construction delivers custom cabinetry across the Salt Lake Valley. Contact us at 385-202-5987 to plan your cabinetry project.",
+  "datePublished": "2026-11-08"
+}

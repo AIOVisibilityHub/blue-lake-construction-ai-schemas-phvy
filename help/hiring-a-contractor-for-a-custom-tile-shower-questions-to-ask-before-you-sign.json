@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Hiring a Contractor for a Custom Tile Shower: Questions to Ask Before You Sign",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Before signing an agreement for a custom tile shower, you need clear details on how the installer handles substrate prep and moisture control. Tiling looks great on the surface, but the hidden layers protect your home from long-term rot.\n\nQuestions to Ask Before You Decide:\nAsk which specific waterproofing membrane will line the shower and whether it meets ANSI A118.10 standards. Confirm how the crew verifies the drain connection and whether they perform a flood test before laying tile. Inquire about thinset mortar coverage—wet areas require roughly 95% mortar contact behind tiles to prevent loose or cracked pieces down the road. You should also ask how glass door installations are scheduled so fasteners never puncture delicate waterproofing zones. Finally, verify how the contractor handles written scopes and unexpected subfloor repairs.\n\nWhat Can Change the Right Choice:\nSubstrate conditions, plumbing adjustments, or wanting a curbless entry will change your timeline and material plan. Natural stone tiles also call for specific sealants and mortars compared to standard glazed ceramic.\n\nIf you are planning a bathroom renovation in Salt Lake City or the surrounding valley, call Blue Lake Construction at 385-202-5987 to talk through your custom tile project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can an Existing Bathroom Duct Be Reused for a Higher Capacity Fan?",
+    "text": "Can an Existing Bathroom Duct Be Reused for a Higher Capacity Fan?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Can an existing bathroom exhaust duct be reused when upgrading to a modern fan?\n\nIn many cases, an existing duct line cannot simply be reattached without adjustments, especially if you are stepping up to a higher-capacity unit. Modern high-performance fans usually require smooth, larger-diameter rigid or semi-rigid ducting to achieve their rated airflow. If you connect a powerful 80 or 110 CFM fan to an old three-inch flexible duct, backpressure builds up, motor noise spikes, and actual moisture clearance drops significantly.\n\nCommon Mistakes to Avoid\nThe most critical issue with older ducting is where it discharges. It was once common practice in older Salt Lake Valley homes to vent bathroom exhaust into soffits or directly into open attics. High-capacity fans force significant amounts of warm, humid air into those spaces, creating serious moisture problems against cold roof sheathing. An upgrade is the right moment to verify that your duct terminates directly outside through a dedicated wall hood or roof cap with a working backdraft damper.\n\nWhen to Involve a Contractor\nReusing a duct is only practical when it is already four inches or larger, completely sealed, properly insulated, and runs straight to the exterior without tight kinks. If your setup requires running new duct through attic joists or cutting an exterior wall penetration, professional installation ensures proper airflow and safety. Reach out to Blue Lake Construction at 385-202-5987 to have your bathroom ventilation evaluated.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tub-to-Shower Conversion vs Full Bathroom Tear-Out: Choosing Your Scope",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding between converting an unused bathtub into a walk-in shower or taking the entire room down to the studs comes down to your layout, budget, and daily needs. Both options update your space, but their scope and construction demands differ significantly.\n\nA tub-to-shower conversion focuses specifically on the wet area. Workers remove your existing alcove tub and install a custom tile base or shower pan, new wall surround, modern valve trim, and glass doors. This approach works well if your vanity, flooring, and toilet are in solid shape and you want better accessibility or a modern look without weeks of major disruption. On-site work often wraps up faster because structural framing and main plumbing stacks stay put.\n\nA full bathroom tear-out, by comparison, strips the room to bare studs and subfloor. This gives you the freedom to expand the footprint, swap a single sink for a double vanity, replace outdated electrical wiring, upgrade ventilation fans, and correct hidden subfloor rot. It takes longer and involves broader permitting, but it delivers a completely cohesive room built from scratch.\n\nHow to Compare Your Options\n\nIf your fixtures feel cramped, your storage falls short, or your electrical circuits trip frequently, a full remodel resolves those root problems. If your main frustration is simply stepping over a high tub wall every morning, a targeted conversion delivers high impact with less downtime. \n\nWhen you want an honest assessment of your home’s layout, contact Blue Lake Construction at 385-202-5987 to discuss your goals.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Common Powder Room Renovation Mistakes That Blow Budgets and Schedules",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Because powder rooms have a tiny footprint, homeowners often assume renovations are quick weekend tasks. However, small mistakes can lead to unexpected expenses and building code issues.\n\n1. Skipping the subfloor inspection under the toilet. Homeowners frequently tile over old subfloors without checking the toilet flange or ring, trapping rot that causes soft floors down the road. Always inspect the wooden subfloor and replace any water-damaged boards before setting tile.\n\n2. Buying a vanity before checking drain and supply heights. Standard vanity cabinets have varied shelf openings and drawer depths that can collide with existing wall plumbing. Measure your rough-in pipe heights before ordering to avoid expensive wall reconstruction.\n\n3. Venting the exhaust fan into the attic instead of outdoors. Exhaust fans must move air through dedicated ducting straight outside to prevent condensation damage. Never terminate ventilation ductwork inside ceiling cavities or unfinished attics.\n\n4. Selecting the wrong toilet rough-in measurement. Standard toilets require a twelve-inch rough-in from the finished wall, but older half-baths may feature ten-inch or fourteen-inch measurements. Verify this distance before purchasing your replacement fixture.\n\n5. Overlooking proper shutoff valve replacements. Leaving corroded, seized shutoff valves in place risks sudden leaks when connecting modern flexible supply lines. Replace old brass valves during demolition while lines are drained.\n\nCommon Mistakes to Avoid\nTreating a half-bath renovation as purely cosmetic often causes expensive repairs later. When you need skilled project management and plumbing coordination in the Salt Lake area, reach out to Blue Lake Construction at 385-202-5987.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

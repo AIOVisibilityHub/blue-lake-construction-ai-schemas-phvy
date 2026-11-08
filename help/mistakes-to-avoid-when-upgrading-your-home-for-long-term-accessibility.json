@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Upgrading Your Home for Long-Term Accessibility",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Updating a home for easier mobility is an important investment, but treating it like a standard decorating project often leads to frustration and unsafe conditions. Here are key mistakes to avoid:\n\n- Installing grab bars without solid wall backing: Screwing safety bars into hollow drywall or tile anchors invites failure under pressure. Always open the wall to install solid wood blocking.\n- Building an exterior ramp that is too steep: Slopes that lack gentle ratios or omit flat, level landings make independent use exhausting and dangerous.\n- Narrowing walking routes with oversized trim or vanities: Widening a rough door frame does little good if a protruding vanity, wide trim, or heavy door swing blocks the practical path.\n- Creating abrupt floor transitions: Thick carpet seams or tall metal thresholds catch rolling wheels and toes. Keep floor transitions under one-half inch and bevel them smoothly.\n- Upgrading only one fixture instead of the complete route: Adding a shower bench won't help if getting through the hallway or bathroom door remains an obstacle. Always look at the full path from the bedroom to the shower.\n\nHow to Compare Your Options\nFocus on durable, slip-resistant materials and certified clearances rather than short-term surface fixes. For coordinated accessibility remodeling handled with care, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

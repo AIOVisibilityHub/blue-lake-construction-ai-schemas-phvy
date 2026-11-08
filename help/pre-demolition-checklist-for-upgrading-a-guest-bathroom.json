@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Pre-Demolition Checklist for Upgrading a Guest Bathroom",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Pre-Demolition Checklist for Upgrading a Guest Bathroom",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Written scope of work — Confirms exactly which fixtures, tile areas, and electrical connections are schedul…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Written scope of work — Confirms exactly which fixtures, tile areas, and electrical connections are scheduled for replacement."
+      },
+      {
+        "name": "Local permit requirements verified — Identifies whether moving plumbing, altering wiring, or replacing the…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Local permit requirements verified — Identifies whether moving plumbing, altering wiring, or replacing the shower pan requires municipal trade permits."
+      },
+      {
+        "name": "Existing subfloor moisture inspection — Checks under existing vinyl or tile around the toilet and tub to ca…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Existing subfloor moisture inspection — Checks under existing vinyl or tile around the toilet and tub to catch concealed subfloor rot early."
+      },
+      {
+        "name": "2-inch shower drain path confirmed — Ensures your floor framing accommodates the larger drain pipe required…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "2-inch shower drain path confirmed — Ensures your floor framing accommodates the larger drain pipe required if converting from a bathtub to a walk-in shower."
+      },
+      {
+        "name": "Outdoor ventilation duct route mapped — Verifies that the bathroom exhaust fan vents directly outdoors rath…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Outdoor ventilation duct route mapped — Verifies that the bathroom exhaust fan vents directly outdoors rather than discharging humid air into your attic."
+      },
+      {
+        "name": "Dedicated 20-amp GFCI circuit confirmed — Ensures your electrical setup meets current bathroom receptacle s…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Dedicated 20-amp GFCI circuit confirmed — Ensures your electrical setup meets current bathroom receptacle safety standards."
+      },
+      {
+        "name": "Finished fixture spec sheets compiled — Provides plumbing and electrical trades with exact rough-in dimensi…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Finished fixture spec sheets compiled — Provides plumbing and electrical trades with exact rough-in dimensions for the sink, vanity, and shower valve."
+      },
+      {
+        "name": "Contingency line item for hidden damage — Reserves 10 to 15 percent of your budget for unforeseen pipe corr…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Contingency line item for hidden damage — Reserves 10 to 15 percent of your budget for unforeseen pipe corrosion or structural framing repairs behind older walls."
+      }
+    ]
+  },
+  "articleBody": "Before starting demolition on a guest bathroom, reviewing your materials, plans, and compliance details protects you from costly project halts. Use this practical preparation list before work begins.\n\n- [ ] Written scope of work — Confirms exactly which fixtures, tile areas, and electrical connections are scheduled for replacement.\n- [ ] Local permit requirements verified — Identifies whether moving plumbing, altering wiring, or replacing the shower pan requires municipal trade permits.\n- [ ] Existing subfloor moisture inspection — Checks under existing vinyl or tile around the toilet and tub to catch concealed subfloor rot early.\n- [ ] 2-inch shower drain path confirmed — Ensures your floor framing accommodates the larger drain pipe required if converting from a bathtub to a walk-in shower.\n- [ ] Outdoor ventilation duct route mapped — Verifies that the bathroom exhaust fan vents directly outdoors rather than discharging humid air into your attic.\n- [ ] Dedicated 20-amp GFCI circuit confirmed — Ensures your electrical setup meets current bathroom receptacle safety standards.\n- [ ] Finished fixture spec sheets compiled — Provides plumbing and electrical trades with exact rough-in dimensions for the sink, vanity, and shower valve.\n- [ ] Contingency line item for hidden damage — Reserves 10 to 15 percent of your budget for unforeseen pipe corrosion or structural framing repairs behind older walls.\n\n### How to use this checklist\nReview these items with your general contractor during the planning stage before ordering specialty finishes or swinging hammers. Blue Lake Construction helps homeowners across Salt Lake City, Millcreek, and Draper plan and execute guest bathroom remodels smoothly. Call 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing the Right Vanity and Toilet Clearances for Small Bathrooms",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When updating a main-floor half bath, homeowners often consider whether to stick with a compact pedestal sink or install a vanity cabinet with built-in storage. Each fixture brings clear tradeoffs in terms of footprint, storage capacity, and plumbing installation.\n\n### Key Differences in Small Bathrooms\nPedestal sinks feature a slender ceramic basin supported by a vertical column, leaving maximum open floor space visible. This visual openness makes a small 18-to-25-square-foot powder room feel significantly larger and prevents corners from looking crowded. However, pedestal designs offer zero storage for extra soap, linens, or cleaning products, and the plumbing supply stops remain partially exposed.\n\nA vanity cabinet provides enclosed storage to keep supplies tucked away out of guest sight. Vanities also provide useful countertop deck space for hand soap and guest towels. The tradeoff is floor footprint: even shallow-depth vanities project 18 to 21 inches from the wall, which can impede door swing or cramp the path to the toilet if the room is narrow.\n\n### How to Compare Your Options\nConsider these practical factors when deciding between the two:\n- Traffic and storage: If you have a nearby hallway closet for extra paper products, a pedestal sink keeps the half bath feeling spacious. If the powder room must store its own supplies, select a tailored vanity.\n- Clearances: Ensure there is at least 21 inches of clear space in front of the basin and that the entry door clears the cabinet corners without clipping.\n- Rough-in compatibility: Pedestals require your drain and supply lines to sit centered within the column, whereas a vanity cabinet can conceal slightly off-center rough-ins.\n\nTo explore the best layout for your powder room renovation in Salt Lake City or Bluffdale, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Planning a Custom Shower Niche for Your Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Recessed wall shelving can make or break a modern bathroom remodel. An integrated shower niche provides seamless storage for shampoos and soaps without cluttering valuable floor space, but getting the design right requires careful planning before walls are closed up.\n\nKey Benefits\nA built-in niche keeps toiletries organized, protects clean sightlines, and eliminates bulky hanging caddies. When planned properly, it flows right into your tile pattern for a tailored, high-end look.\n\nProcess Breakdown\nFirst, framing layout and fixture clearances are verified before any plumbing rough-ins are locked down. Next, a compatible recessed unit is framed or set between wall studs. Full waterproofing must tie continuously into the surrounding wall membrane, with seams and corners sealed airtight. Crucially, the bottom sill is sloped slightly toward the shower drain to stop standing water. Finally, tile is installed cleanly along the finished edges.\n\nWhat Can Change the Right Choice\nStud spacing, hidden plumbing lines, electrical runs, and your overall bottle heights dictate the ideal dimensions. If your selected wall has structural framing or vent stacks, shifting location or adjusting shelf heights is necessary.\n\nTo design a shower that balances beauty and moisture protection in Salt Lake City or the surrounding valley, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

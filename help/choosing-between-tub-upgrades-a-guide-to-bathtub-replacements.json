@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing Between Tub Upgrades: A Guide to Bathtub Replacements",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing an outdated or damaged bathtub sounds straightforward until demolition begins. What starts as a simple fixture swap often involves structural leveling, wall reconstruction, and plumbing adjustments.\n\nOverview and Key Benefits\nA new bathtub improves your daily comfort, updates your bathroom's design, and protects your home against hidden water leaks. Upgrading eliminates cracked surfaces, stubborn stains, and dated surrounds while improving overall property value.\n\nProcess Breakdown\nA proper replacement starts with precise alcove measurements and inspecting the subfloor and rough-in plumbing. Once the old unit is out, any damaged framing gets repaired. The new tub is leveled on a solid mortar bed or proper supports, drain and supply lines are connected and leak-tested, and waterproof wall surrounds or tile are finished and sealed.\n\nWhat to Prepare Before You Start\nCheck your tub's drain orientation (left, right, or center) and confirm whether your current doorway allows the new tub through. Decide if you are keeping your existing plumbing locations or shifting fixtures, which alters project scope.\n\nReady to refresh your bathroom in the Salt Lake Valley? Call Blue Lake Construction at 385-202-5987 or message our team to discuss your project.",
+  "datePublished": "2026-11-08"
+}

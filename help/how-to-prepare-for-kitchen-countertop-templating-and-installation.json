@@ -1,0 +1,97 @@
+{
+  "name": "How to Prepare for Kitchen Countertop Templating and Installation",
+  "step": [
+    {
+      "name": "Step 1: Finish leveling and securing all base cabinets",
+      "text": "Make sure your base cabinets are completely plumb, square, level, and anchored securely to the wall studs. A run that is more than about 1/8 inch out of level can cause heavy slabs to rock or crack later, so your carpenter or general contractor should complete all shimming and structural adjustments before anyone measures.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Have all sinks, faucets, and cooktops on site",
+      "text": "Place the exact sinks, faucets, soap dispensers, and cooktops or slide-in ranges in the room ready for inspection. The templating technician needs physical access to the actual fixtures or manufacturer cutout templates to verify precise dimensions and clearance holes before cutting.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear and strip the existing cabinet tops",
+      "text": "Ensure existing counters are fully cleared, and if you are replacing surfaces on existing boxes, remove old tops and backsplashes completely. The digital or physical templating tools must rest directly on the cabinet frame faces to measure walls and corners accurately.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm seam locations and support requirements",
+      "text": "Review the slab layout with your contractor to decide where seams will fall and check overhang spans. Any stone overhang extending beyond roughly 6 to 8 inches requires steel supports or corbels, which must be planned before fabrication begins.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review the final quote and schedule fabrication",
+      "text": "Double-check that the quote clearly lists who handles plumbing disconnections, appliance hookups, and wall touch-ups. Once templating details are locked, fabrication typically takes 1 to 3 weeks before final delivery and installation. When Professional Guidance Helps Getting heavy quartz or granite measured and leveled requires tight tolerances and experienced carpentry. Blue Lake Construction helps Salt Lake Valley homeowners plan and execute kitchen renovations cleanly from start to finish. Reach out at 385-202-5987 to talk through your kitchen plans.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Make sure your base cabinets are completely plumb, square, level, and anchored securely to the wall studs. A run that is more than about 1/8 inch out of level can cause heavy slabs to rock or crack la"
+}

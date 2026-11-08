@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Relocating Appliances vs Keeping Existing Footprints: How to Compare Your Options",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### How to Compare Your Options\n\nIf your kitchen feels cramped, you generally face two distinct paths: keeping your major plumbing and cooking fixtures in their existing footprint while upgrading finishes, or executing a full layout redesign. Choosing the right path comes down to daily flow, mechanical feasibility, and your project scope.\n\nKeeping your footprint means cabinets, counters, and flooring get refreshed, but your sink, range, and refrigerator stay connected to their original plumbing lines, gas feeds, and electrical circuits. This approach minimizes construction time, avoids opening structural walls, and rarely requires extensive rough-in inspections. It works well if your current work triangle is efficient but surfaces are dated.\n\nA complete layout redesign reallocates space, removes dividing walls, or installs an island with integrated prep sinks and cooktops. While this requires opening floors and walls for electrical and plumbing updates, it solves genuine bottlenecks, optimizes storage, and connects cooking areas to adjacent living spaces. \n\n### What Can Change the Right Choice\nIf your family constantly bumps into open appliance doors or lacks functional counter prep area, merely swapping out finishes will not fix the daily frustration. When your project demands structural framing, duct adjustments, or custom cabinetry reconfigurations, working with an experienced licensed general contractor ensures the job meets building codes. Blue Lake Construction designs and builds custom kitchen layouts across Salt Lake City, Millcreek, and Sandy. Call 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

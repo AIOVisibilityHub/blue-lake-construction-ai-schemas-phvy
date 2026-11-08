@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Walk-In Pantry vs Built-In Pantry Cabinet Addition: Which Fits Your Floor Plan?",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding dedicated pantry storage solves kitchen clutter fast, but deciding between a framed walk-in pantry and a custom tall pantry cabinet depends on your available floor space and structural layout.\n\nA walk-in pantry involves framing new interior walls, hanging drywall, installing a passage door, and fitting interior perimeter shelving. It gives you maximum bulk storage and space to conceal small appliances off your main counters. However, it requires a larger footprint, dedicated aisle clearances, and potential framing or lighting adjustments that can require residential building permits.\n\nA tall pantry cabinet addition fits directly within your kitchen's cabinetry run. It utilizes full-height pantry boxes with adjustable pull-out roll trays, vertical dividers, and shallow door storage. It takes up far less square footage, keeps your kitchen open, and blends seamlessly with existing millwork, though it provides less total cubic volume than a walk-in room.\n\nHow to Compare Your Options\nIf you have an underutilized breakfast nook or adjacent closet, framing a walk-in room delivers incredible utility. If your kitchen layout is compact or bounded by exterior windows, integrating a built-in pantry cabinet protects essential circulation pathways.\n\nBlue Lake Construction helps homeowners throughout Salt Lake City, Millcreek, and Sandy plan functional kitchen upgrades. Call 385-202-5987 to explore the best pantry layout for your home.",
+  "datePublished": "2026-11-08"
+}

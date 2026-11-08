@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "5 Backsplash Installation Mistakes That Cause Long-Term Headaches",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Upgrading your kitchen backsplash looks straightforward on the surface, but small errors in preparation or material choice can ruin an otherwise beautiful kitchen. Here are common pitfalls to avoid before your installation begins.\n\n1. Tiling Over Unprepared Drywall\nSetting tile over grease-stained, flaky, or uneven drywall prevents adhesive from bonding correctly. Walls must be thoroughly cleaned, dried, and leveled so individual tiles do not bow or pop loose down the road.\n\n2. Miscalculating Material and Waste\nOrdering the exact square footage of your wall almost always leaves you short. Intricate cuts around range hoods, corner joints, and electrical boxes create waste, meaning you should always order 10 to 15 percent extra from the same production lot.\n\n3. Grouting Before Adhesive Dries\nIt is tempting to finish everything in an afternoon, but grouting over damp thin-set locks water into the wall cavity. Always respect the 12 to 24 hour adhesive cure window so your wall cures solid.\n\n4. Grouting the Countertop Seam\nGrout is rigid and will crack as your home naturally settles and expands with temperature changes. The joint between the bottom tile and the countertop surface must always be sealed with a flexible silicone caulk, never hard grout.\n\n5. Ignoring Electrical Box Depths\nAdding tile pushes your wall surface forward by a quarter-inch or more, leaving outlets recessed and loose. Plan for box extenders so switches sit flush and secure against the new tile face.\n\nWhen you want clean grout lines and seamless cuts across your kitchen, working with seasoned craftsmen makes all the difference. Connect with Blue Lake Construction at 385-202-5987 to plan your remodel.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

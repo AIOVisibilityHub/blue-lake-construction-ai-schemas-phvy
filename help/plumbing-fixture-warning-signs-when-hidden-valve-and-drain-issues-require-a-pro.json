@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Plumbing Fixture Warning Signs: When Hidden Valve and Drain Issues Require a Pro",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A dripping faucet or loose toilet handle might seem minor, but plumbing fixtures often display warning signs that point to deeper issues behind the finish. Here is when to call a professional:\n\n- Seized or weeping shutoff valves: If the angle stops under the sink or toilet will not turn, leak when touched, or fail to stop water flow completely, they must be rebuilt or replaced before changing fixtures.\n- Spongy flooring around the toilet base: Water seeping past a damaged wax ring or broken closet flange rots subflooring long before dampness is visible on top.\n- Low water volume after installation: Sudden drops in pressure often indicate corroded supply risers or sediment dislodged inside older galvanized lines.\n- Mismatched shower trim and valve bodies: Modern trim kits rarely fit older rough-in valves from different manufacturers, requiring access behind tile walls.\n- Stained ceilings below the bathroom: Hidden drain slip-joint leaks or cracked tub overflow gaskets can quietly rot floor joists.\n\nWhen Professional Guidance Helps\nWhen you need to adjust behind-the-wall copper or PEX connections, repair damaged floor flanges, or open tile without harming surrounding finishes, a licensed contractor keeps your home protected.\n\nReach out to Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com to get your plumbing fixtures inspected and installed properly.",
+  "datePublished": "2026-11-08"
+}

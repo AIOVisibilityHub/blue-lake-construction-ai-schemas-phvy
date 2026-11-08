@@ -1,0 +1,103 @@
+{
+  "name": "Step-by-Step Custom Tile Shower Construction: What to Expect During the Build",
+  "step": [
+    {
+      "name": "Step 1: Inspect framing, subfloor integrity, and rough plumbing",
+      "text": "The crew strips the space to studs, confirms floor joists can handle the load, checks that walls are plumb, and positions the shower valve and drain lines precisely.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Install the sloped floor pan assembly",
+      "text": "A proper slope must be established toward the drain using a packed mortar bed or a pre-sloped manufactured tray. Done correctly, standing water can never pool under the finished tile layer.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Hang approved backer board across all wet areas",
+      "text": "Standard drywall must never be used. Install approved cementitious or waterproof backer boards securely, leaving proper expansion gaps and fastening according to manufacturer specifications.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Apply continuous waterproofing membrane and seal all penetrations",
+      "text": "Apply liquid or sheet waterproofing across all shower walls, the curb, and floor. Seal all corners, screw penetrations, niche transitions, and the drain flange with specialized waterproof bands and sealants to create a unified barrier.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Set tile with high mortar coverage and cure",
+      "text": "Apply modified mortar using proper trowel notch sizing, achieving roughly 95% contact coverage behind wet-area tiles. Once laid, the installation must cure undisturbed based on the mortar manufacturer's timeline.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Grout tile and seal movement joints",
+      "text": "Grout the open joints, clean away haze, and fill all changes of plane—such as inside corners and floor-to-wall transitions—with flexible sealant rather than rigid grout. What to Expect During the Process A quality shower build requires patience for waterproofing and thinset cure times. When you are ready to update your bathroom in Salt Lake City, call Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "The crew strips the space to studs, confirms floor joists can handle the load, checks that walls are plumb, and positions the shower valve and drain lines precisely."
+}

@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Preparing for a Kitchen Island: A Homeowner Planning Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Planning a new island is exciting, but jumping straight into stone colors without checking logistics often leads to regrets. Use this practical preparation checklist before locking in your cabinet order.\n\n- [ ] Measure surrounding aisle widths — Keeping 36 to 42 inches of open floor space prevents pinch points between opposing cabinet runs.\n- [ ] Confirm electrical outlet requirements — Building codes routinely require dedicated island receptacles, which means running wires beneath the existing finished flooring.\n- [ ] Inspect subfloor level and framing — Heavy stone countertops require a flat, rigid base so cabinet boxes do not twist or crack over time.\n- [ ] Check seating overhang depth — Counter stools generally need 12 to 15 inches of clear knee space supported by hidden steel brackets.\n- [ ] Review appliance door clearance — Ensure refrigerator, dishwasher, and oven doors can swing fully open without hitting the new island edge.\n- [ ] Coordinate plumbing vent pathways — Island sinks cannot vent straight up through walls, requiring specialized loop or air admittance valve planning.\n- [ ] Select moisture-resistant base materials — Islands endure spills, wet mops, and dropped items, making durable cabinet finishes essential.\n- [ ] Verify circuit capacity in your panel — Adding garbage disposals, dishwashers, or microwave drawers requires enough breaker space in your main service panel.\n\nHow to use this checklist:\nWalk through your kitchen with a tape measure and review these points before meeting with your designer or builder. Knowing your structural boundaries early saves real time and keeps budgets steady. When you are ready to design and install your custom island, reach out to Blue Lake Construction at 385-202-5987.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Preparing for a Kitchen Island: A Homeowner Planning Checklist",
+    "numberOfItems": 8,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Measure surrounding aisle widths — Keeping 36 to 42 inches of open floor space prevents pinch points betwee…",
+        "description": "Measure surrounding aisle widths — Keeping 36 to 42 inches of open floor space prevents pinch points between opposing cabinet runs."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Confirm electrical outlet requirements — Building codes routinely require dedicated island receptacles, whi…",
+        "description": "Confirm electrical outlet requirements — Building codes routinely require dedicated island receptacles, which means running wires beneath the existing finished flooring."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Inspect subfloor level and framing — Heavy stone countertops require a flat, rigid base so cabinet boxes do…",
+        "description": "Inspect subfloor level and framing — Heavy stone countertops require a flat, rigid base so cabinet boxes do not twist or crack over time."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Check seating overhang depth — Counter stools generally need 12 to 15 inches of clear knee space supported…",
+        "description": "Check seating overhang depth — Counter stools generally need 12 to 15 inches of clear knee space supported by hidden steel brackets."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Review appliance door clearance — Ensure refrigerator, dishwasher, and oven doors can swing fully open with…",
+        "description": "Review appliance door clearance — Ensure refrigerator, dishwasher, and oven doors can swing fully open without hitting the new island edge."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Coordinate plumbing vent pathways — Island sinks cannot vent straight up through walls, requiring specializ…",
+        "description": "Coordinate plumbing vent pathways — Island sinks cannot vent straight up through walls, requiring specialized loop or air admittance valve planning."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Select moisture-resistant base materials — Islands endure spills, wet mops, and dropped items, making durab…",
+        "description": "Select moisture-resistant base materials — Islands endure spills, wet mops, and dropped items, making durable cabinet finishes essential."
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Verify circuit capacity in your panel — Adding garbage disposals, dishwashers, or microwave drawers require…",
+        "description": "Verify circuit capacity in your panel — Adding garbage disposals, dishwashers, or microwave drawers requires enough breaker space in your main service panel."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

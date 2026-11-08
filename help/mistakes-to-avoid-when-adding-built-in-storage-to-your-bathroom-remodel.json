@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mistakes to Avoid When Adding Built-In Storage to Your Bathroom Remodel",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Adding extra storage during a bathroom renovation seems straightforward until you find yourself squeezing past half-opened doors or staring at warped shelving. Because bathrooms combine daily humidity with compact square footage, minor planning errors lead to frustrating functional headaches.\n\n### Common Mistakes to Avoid\n- Covering emergency shutoff valves or cleanout panels: Building cabinetry over shutoffs makes resolving future plumbing leaks slow and destructive. Always leave valves accessible.\n- Relying on basic drywall anchors for heavy hanging units: Storing full bottles of shampoo and heavy stacks of towels requires mounting cabinetry into structural wall studs or installed horizontal blocking.\n- Using unsealed, standard-grade wood products: Standard particle board absorbs humidity rapidly, swelling around joints and peeling veneer within months. Choose moisture-resistant, factory-sealed materials.\n- Forgetting drawer clearance around plumbing trap assemblies: Buying pre-made vanity drawers without checking where your P-trap and supply lines sit often requires field-modifying drawers and ruining storage space.\n- Positioning open shelves directly in the shower splash zone: Open cubbies placed too close to shower enclosures catch overspray, creating constant water-spotting and mildew on stored linens.\n- Overcrowding required fixture clearances: Placing bulky wall cabinets too close to the toilet or vanity edge violates standard comfort clearances and makes the room feel cramped.\n\nWorking with an experienced renovation contractor ensures your storage plans fit your wall framing and plumbing rough-ins. Blue Lake Construction designs and installs custom bathroom upgrades across Salt Lake City, West Jordan, and Herriman. Call 385-202-5987 to get started with our team.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing a Walk-In Shower Installation: A Buyer Guide to Layouts and Drainage",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A walk-in shower delivers clean lines, simple maintenance, and effortless entry, making it a favorite for modern bathroom renovations across the Salt Lake Valley.\n\nOverview: Walk-in showers feature low thresholds or curbless entries paired with open glass or seamless enclosures to create an airy, spa-like feel.\nKey Benefits: They improve room flow, provide safer footing, and eliminate awkward climbing over tub walls.\nProcess Breakdown: The build starts with assessing the room footprint and framing. We establish a uniform floor slope, install high-grade waterproofing membranes, integrate linear or center drains, set durable tile, and install glass panels and fixtures.\nReal Examples: In modern Draper and South Jordan homes, open walk-in designs with custom shower niches and handheld spray wands transform compact primary baths into practical, high-end retreats.\n\nHow to Compare Your Options\n- Threshold styles: Decide between a low-profile curb that contains splashing easily or a zero-barrier entry that requires recessed floor framing.\n- Glass enclosures: Compare fixed glass splash guards with hinged frameless doors based on the warmth you want to retain while showering.\n- Fixture packages: Balance overhead rain heads with adjustable handheld sprayers to make cleaning and rinsing simple.\n\nReady to design your walk-in shower? Contact Blue Lake Construction at 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

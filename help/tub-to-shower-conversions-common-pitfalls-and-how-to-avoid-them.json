@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tub-to-Shower Conversions: Common Pitfalls and How to Avoid Them",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Converting a tub into a shower requires getting the fundamentals right behind the walls. Here are common pitfalls we see homeowners run into, along with how to prevent them:\n\n1. Assuming the old drain location works — Bathtub drains are placed at one end, but shower pans require precise drainage and adequate pipe sizing. Have a professional inspect the floor framing to route the drain correctly.\n2. Relying on tile and grout for waterproofing — Grout is porous. Always ensure a continuous waterproofing membrane covers the pan, curb, and walls before a single tile is set.\n3. Overlooking wall reinforcement — Adding grab bars later using hollow-wall anchors is unsafe. Install solid lumber backing inside the wall studs during the framing phase.\n4. Setting fixtures before testing reach — Turning on the water should not force you into the cold spray. Plan valve locations near the entry point for comfortable daily use.\n5. Ignoring ventilation — A hot shower produces intense steam compared to a bath. Confirm your exhaust fan vents outside properly to prevent ceiling moisture buildup.\n\nQuestions to Ask Before You Decide\nAsk your contractor how they test the shower pan for leaks prior to tiling, and verify whether demolition, disposal, and plumbing permits are included in your quote.\n\nTo get an honest assessment of your bathroom project, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

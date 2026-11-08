@@ -1,0 +1,97 @@
+{
+  "name": "How to Prepare for a Professional Kitchen Backsplash Installation",
+  "step": [
+    {
+      "name": "Step 1: Clear and protect surrounding surfaces",
+      "text": "Remove small appliances, utensil crocks, and decor from the countertops. Cover counter surfaces and flooring with heavy drop cloths or protective board to prevent scratching and dropped-tool damage.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect and prepare the wall substrate",
+      "text": "Turn off power to the kitchen circuits at the breaker box, remove outlet cover plates, and check the drywall for grease, loose paint, or deep dips. Patch any holes, degrease cooking areas, and ensure the wall is flat and solid before thin-set adhesive is applied.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Establish the layout and cut lines",
+      "text": "Dry-fit tiles along the center line of the cooktop and main sink wall to verify where cuts will fall. Adjust spacing to prevent tiny tile slivers around corner walls, electrical outlets, and under-cabinet edges.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Set the tile and respect adhesive open time",
+      "text": "Apply the specified thin-set mortar in manageable sections using the proper notched trowel so adhesive does not skin over. Press tiles firmly into place with spacers to maintain consistent grout lines across the full span.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Grout joints and finish plane changes",
+      "text": "Allow thin-set to cure completely per manufacturer instructions before packing joints with the selected grout. Never use rigid grout at changes of plane; apply color-matched flexible caulk where tile meets the countertop and inside corners to accommodate natural house movement. When Professional Guidance Helps If your layout involves natural stone, mosaic sheets, or electrical boxes that need extension rings, working with experienced professionals ensures your installation stays level and code-compliant. Contact Blue Lake Construction at 385-202-5987 to plan your kitchen remodel.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Remove small appliances, utensil crocks, and decor from the countertops. Cover counter surfaces and flooring with heavy drop cloths or protective board to prevent scratching and dropped-tool damage."
+}

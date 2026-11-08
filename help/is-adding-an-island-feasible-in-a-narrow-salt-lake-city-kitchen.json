@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Adding an Island Feasible in a Narrow Salt Lake City Kitchen?",
+    "text": "Is Adding an Island Feasible in a Narrow Salt Lake City Kitchen?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Homeowners frequently ask if adding an island is practical when remodeling an older, narrower kitchen layout common in historic Salt Lake City neighborhoods like Sugar House or The Avenues.\n\nThe direct answer is that it depends on the total room width and how you plan to use the space. Professional design guidelines from the NKBA suggest work aisles of at least 42 inches for a single cook, or 48 inches for multiple cooks, with general perimeter walkways measuring at least 36 inches wide. Standard base cabinets are 24 inches deep. When you combine 24-inch perimeter counters on both walls plus two 42-inch aisles and an island that is at least 24 inches wide, you need an overall kitchen width of roughly 13 feet.\n\nCommon Mistakes to Avoid\nIn narrower rooms measuring under 12 feet, squeezing in a freestanding island often crowds appliance doors, pinches walking paths, and makes loading the dishwasher frustrating. A common mistake is measuring from unfinished wall studs rather than finished cabinet faces, which cuts several crucial inches off the real walkway. \n\nWhat Can Change the Right Choice\nIf your room lacks the clearance for a standard island, converting an adjacent wall to a peninsula or reconfiguring your layout into an open-concept living area often delivers the seating and counter space you want without sacrificing flow. Blue Lake Construction specializes in layout redesigns and structural modifications throughout the Salt Lake Valley. Call Ryan and the team at 385-202-5987 to evaluate what your kitchen floor plan can accommodate.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Blue Lake Construction the Right Fit for Your Primary Suite Remodel?",
+    "text": "Is Blue Lake Construction the Right Fit for Your Primary Suite Remodel?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Is Blue Lake Construction the right fit for your primary suite remodel?\n\nIf you are a homeowner in Salt Lake City, Millcreek, Sandy, Draper, or surrounding Salt Lake Valley communities looking for a collaborative, full-service general contractor, Blue Lake Construction is designed for this type of work. Co-owned by licensed contractor Ryan Gardner, the company specializes in custom residential remodels, bringing experienced craftsmen and dedicated project managers to handle the entire scope under one roof.\n\nWhat Can Change the Right Choice\n\nYour choice of contractor often comes down to project complexity. If you only want a quick cosmetic touch-up like swapping a single faucet or repainting existing cabinetry, a specialty handyman might suit your timeline. However, when your primary suite remodel involves expanding a cramped shower, reconfiguring plumbing lines for a double vanity, building custom tile niches and benches, or pulling wall frames to open up the room, you need comprehensive general contracting. \n\nBlue Lake Construction manages drafting, local permitting, subfloor waterproofing, electrical updates, and finish carpentry, ensuring every phase meets local building standards. They emphasize close communication, sticking to agreed specifications, and treating clients as partners throughout construction.\n\nWhen you want to turn an outdated primary bathroom into a functional, comfortable retreat, reach out to the Blue Lake Construction team directly at 385-202-5987.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

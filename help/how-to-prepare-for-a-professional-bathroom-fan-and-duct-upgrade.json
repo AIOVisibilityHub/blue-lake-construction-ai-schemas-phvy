@@ -1,0 +1,103 @@
+{
+  "name": "How to Prepare for a Professional Bathroom Fan and Duct Upgrade",
+  "step": [
+    {
+      "name": "Step 1: Size the room and calculate needed airflow",
+      "text": "Measure the room's square footage and layout to determine the required fan capacity. Smaller bathrooms typically require at least 50 CFM for intermittent use, while larger spaces with separate shower stalls or soaking tubs need higher capacity or multi-point extraction.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect the existing duct route and exterior vent",
+      "text": "Check the attic, ceiling cavity, and exterior walls to see where the current exhaust actually leads. The exhaust duct must vent directly outdoors through an exterior wall or roof cap rather than dumping warm, humid air into an attic, floor cavity, or crawlspace.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Evaluate electrical circuits and wall controls",
+      "text": "Confirm whether the existing wiring can support modern units with built-in humidity sensors or delay timers. Choosing a fan with a 10-minute delay-off control helps clear residual moisture after you leave the shower, which requires proper switch and circuit configuration.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Select the fan unit and ducting materials",
+      "text": "Pick a fan with verified airflow ratings, low sound levels, and wet-location ratings if placed over tubs or showers. Match it with smooth, appropriately sized ductwork and insulated sleeves to prevent condensation from dripping back into the housing.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Run, seal, and insulate the duct line",
+      "text": "Cut exterior penetrations carefully, avoiding structural framing, and install the roof cap or wall vent hood. Connect the ductwork without sharp bends or compressed runs, seal every joint with approved mastic or foil tape, and verify the backdraft damper moves freely.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Mount the housing and complete electrical connections",
+      "text": "Secure the fan housing firmly to ceiling joists to eliminate vibration rattles, wire the unit to local building standards, and install the trim grille. Test the suction with the makeup-air path checked to confirm the room clears moisture smoothly. When Professional Guidance Helps If your project involves cutting new roof penetrations, running fresh circuits, or correcting improperly routed flexible ducts in tight attics, calling an experienced remodeling team saves time and protects your home. Connect with Blue Lake Construction at 385-202-5987 to schedule an on-site consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the room's square footage and layout to determine the required fan capacity. Smaller bathrooms typically require at least 50 CFM for intermittent use, while larger spaces with separate shower "
+}

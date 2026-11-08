@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Bathroom Fan Upgrade Checklist Before You Replace Your Old Unit",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Before replacing a noisy, ineffective bathroom fan, take stock of the existing physical and mechanical setup. Rushing into a replacement without verifying duct size, exterior exhaust routes, and electrical capacity often leaves you with the same moisture headaches. Use this checklist to review your setup before purchasing new equipment or scheduling construction work.\n\n- [ ] Measure the bathroom square footage and ceiling height — fan capacity requires proper CFM sizing so air exchanges fast enough during showers.\n- [ ] Inspect the attic or chase to confirm the duct exhausts entirely outdoors — venting humid air directly into an attic space leads to rot and insulation damage.\n- [ ] Check the diameter of the existing ductwork — modern quiet fans typically require four-inch or six-inch ducts rather than older, restrictive three-inch pipes.\n- [ ] Examine the exterior vent cap and flapper — exterior terminations need working backdraft dampers to keep cold valley drafts and pests out of your home.\n- [ ] Verify the wall switch electrical wiring and box volume — adding humidity sensors or digital countdown timers often requires neutral wires and deeper junction boxes.\n- [ ] Check clearances around the ceiling joists — newer high-efficiency fan housings can be larger than older contractor-grade units.\n- [ ] Inspect bathroom door undercuts — fans cannot pull humid air out unless there is an adequate gap beneath the door to supply replacement makeup air.\n- [ ] Note any peeling paint, bubbling drywall, or recurring ceiling mildew — persistent surface dampness points to long-term moisture accumulation that may require drywall repairs.\n\n### How to use this checklist\nReview these items before selecting equipment or finalizing your remodel plans. If your project involves running new insulated ductwork through the roof, adding dedicated electrical circuits, or venting an enclosed water closet, working with a licensed contractor protects your home's framing and finishes. Blue Lake Construction handles bathroom upgrades throughout Draper, South Jordan, and Salt Lake City. Call 385-202-5987 to get started on your bathroom project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Bathroom Fan Upgrade Checklist Before You Replace Your Old Unit",
+    "numberOfItems": 8,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Measure the bathroom square footage and ceiling height — fan capacity requires proper CFM sizing so air exc…",
+        "description": "Measure the bathroom square footage and ceiling height — fan capacity requires proper CFM sizing so air exchanges fast enough during showers."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Inspect the attic or chase to confirm the duct exhausts entirely outdoors — venting humid air directly into…",
+        "description": "Inspect the attic or chase to confirm the duct exhausts entirely outdoors — venting humid air directly into an attic space leads to rot and insulation damage."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Check the diameter of the existing ductwork — modern quiet fans typically require four-inch or six-inch duc…",
+        "description": "Check the diameter of the existing ductwork — modern quiet fans typically require four-inch or six-inch ducts rather than older, restrictive three-inch pipes."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Examine the exterior vent cap and flapper — exterior terminations need working backdraft dampers to keep co…",
+        "description": "Examine the exterior vent cap and flapper — exterior terminations need working backdraft dampers to keep cold valley drafts and pests out of your home."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Verify the wall switch electrical wiring and box volume — adding humidity sensors or digital countdown time…",
+        "description": "Verify the wall switch electrical wiring and box volume — adding humidity sensors or digital countdown timers often requires neutral wires and deeper junction boxes."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Check clearances around the ceiling joists — newer high-efficiency fan housings can be larger than older co…",
+        "description": "Check clearances around the ceiling joists — newer high-efficiency fan housings can be larger than older contractor-grade units."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Inspect bathroom door undercuts — fans cannot pull humid air out unless there is an adequate gap beneath th…",
+        "description": "Inspect bathroom door undercuts — fans cannot pull humid air out unless there is an adequate gap beneath the door to supply replacement makeup air."
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Note any peeling paint, bubbling drywall, or recurring ceiling mildew — persistent surface dampness points…",
+        "description": "Note any peeling paint, bubbling drywall, or recurring ceiling mildew — persistent surface dampness points to long-term moisture accumulation that may require drywall repairs."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

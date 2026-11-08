@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Hidden Plumbing or Subfloor Damage Means Calling a Pro for Bathtub Replacement",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping out a tub can look like a weekend task until unexpected structural or plumbing issues surface. Recognizing when you need experienced contractors saves your home from extensive water damage and framing headaches.\n\nWhen Professional Guidance Helps\n- Soft or spongy subfloors: If the floor around the tub moves or sags, moisture has likely penetrated the subfloor or joists, requiring structural repair before any new tub sits in place.\n- Heavy cast-iron tubs: Removing an original cast-iron tub involves specialized handling, careful demolition, and managing immense weight without damaging walls or plumbing.\n- Moving supply lines or drains: Shifting a drain or upgrading old, corroded galvanized pipes requires professional plumbing to meet local building standards.\n- Surrounding wall rot: Discovering mold or softened studs behind existing surrounds means framing repairs and proper vapor barriers must be handled immediately.\n- Restricted alcove access: Narrow doorways or older layouts make maneuvering rigid tubs tricky without damaging finished drywall or door casings.\n\nDon't let hidden plumbing issues turn into a major headache. Contact Blue Lake Construction at 385-202-5987 to schedule an on-site consultation.",
+  "datePublished": "2026-11-08"
+}

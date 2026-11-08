@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Open-Concept Conversion vs Keeping Your Existing Kitchen Layout",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to take down interior walls for an open floor plan or refine your existing enclosed kitchen footprint is a central choice in any renovation.\n\nAn open-concept conversion merges your kitchen with adjacent dining or family spaces. It maximizes sightlines, brings in daylight, and makes room for a spacious island where guests can gather while you cook. The tradeoff involves significant structural engineering. Removing walls often requires adding support posts, structural headers, rerouting hidden electrical circuits, and moving plumbing stacks, which increases both schedule length and overall budget.\n\nKeeping your existing kitchen footprint concentrates your budget on premium finishes, high-end appliances, and custom cabinetry without structural overhead. Enclosed or defined kitchens also hide meal prep clutter from the living room and contain cooking odors more effectively. However, an enclosed layout limits island size and can feel isolating for the cook during family gatherings.\n\nWhat Can Change the Right Choice\nLoad-bearing wall locations, ceiling joist directions, and mechanical chases dictate whether opening the room is straightforward or structurally complex. If your living space feels dark and disconnected, an open layout dramatically improves day-to-day functionality.\n\nWhen you need an experienced general contractor to evaluate structural walls and custom cabinetry in Salt Lake City, Sugar House, or Draper, Blue Lake Construction is here to help. Contact our team at 385-202-5987 to review your space.",
+  "datePublished": "2026-11-08"
+}

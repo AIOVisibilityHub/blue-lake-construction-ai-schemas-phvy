@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Pro for Your Bathroom Countertop Replacement",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading a bathroom vanity top involves tight tolerances and fragile materials. Here are the main signs you should call a professional contractor for the job:\n\n- You are installing natural stone or engineered quartz: Heavy slabs crack easily during transport and handling if not supported correctly, especially around sink cutouts.\n- Undermount sink installations: Securing an undermount sink requires specialized clips, epoxies, and precise alignment to prevent water from working its way between the bowl and the stone.\n- Out-of-square walls or tight alcoves: Bathroom walls are rarely plumb. Scribing stone slabs or custom backsplashes to fit against wavy drywall requires professional fabrication equipment.\n- Cabinets that are out of level: Setting rigid stone on an unlevel or unanchored cabinet creates pressure points that can crack the slab once sink weight and plumbing are added.\n- Plumbing and electrical reconfigurations: Moving faucet spreads from single-hole to widespread configurations, or altering drain traps, often calls for licensed trades to meet code.\n\nWhen Professional Guidance Helps\nProfessional contractors handle templating, slab handling, and proper adhesive curing times, protecting your investment from expensive cracks or failed silicone seals. \n\nTo plan your bathroom upgrade with an experienced general contractor, contact Blue Lake Construction at 385-202-5987 or submit an appointment request today.",
+  "datePublished": "2026-11-08"
+}

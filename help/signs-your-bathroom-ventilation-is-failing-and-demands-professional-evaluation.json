@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Bathroom Ventilation Is Failing and Demands Professional Evaluation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tackling ventilation problems early prevents extensive moisture damage behind your bathroom walls and ceiling. Here are clear signals it is time to call a licensed contractor:\n\n- Persistent condensation: Mirrors stay fogged for more than twenty minutes after a shower, signaling inadequate CFM or blocked exhaust pathways.\n- Moisture or peeling paint around the housing: Damp spots, rust on the grille, or bubbling paint show moist air is dropping back inside rather than venting outdoors.\n- Rattling or excessively loud motor noise: Worn bearings or a damaged blower wheel drastically reduce airflow even if the unit sounds like it is working hard.\n- Venting into hidden spaces: The duct exhausts into your attic, soffit, or wall cavity instead of a dedicated outdoor cap.\n- Mold spotting on ceilings: Gray or black speckling indicates prolonged high relative humidity that the current fan cannot clear.\n\nWhen Professional Guidance Helps\nIf you need to cut a new exterior wall or roof penetration, install rigid ductwork through tight framing, or add a dedicated electrical circuit, professional installation ensures code compliance and keeps your home envelope tight. \n\nIf your bathroom fan struggles to keep air clear and dry, call Blue Lake Construction at 385-202-5987 or submit an appointment request at bluelakeconstruction.com to discuss practical upgrade options.",
+  "datePublished": "2026-11-08"
+}

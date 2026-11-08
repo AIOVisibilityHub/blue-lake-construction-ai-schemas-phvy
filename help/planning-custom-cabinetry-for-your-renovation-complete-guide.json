@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning Custom Cabinetry for Your Renovation: Complete Guide",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Custom cabinetry transforms a standard kitchen or bathroom remodel into an organized, beautifully tailored living space. Here is how the process works from first sketches to the final drawer adjustment.\n\nOverview and Key Benefits\nCustom cabinetry maximizes every square inch of your room. Unlike modular boxes that use filler strips to hide dead space, custom builds provide durable construction, premium hardware, and personalized storage configurations.\n\nProcess Breakdown\n1. Field Measurement and Layout: Evaluating wall plumbness, ceiling heights, window clearances, and appliance specifications on site.\n2. Shop Drawings and Sign-Off: Reviewing detailed elevations, drawer locations, crown moulding profiles, and finish selections before production.\n3. Build and Finish: Crafting cabinet boxes, face frames, and custom doors with durable conversion finishes.\n4. Professional Installation: Scribing face frames to your walls, securing heavy uppers to wall studs, and micro-adjusting soft-close hinges and drawer slides.\n\nWhat Can Change the Right Choice\nLead times for true custom casework range from 8 to 16 weeks depending on material selections and finish complexity. Starting cabinet planning early in your remodeling schedule ensures cabinets arrive precisely when the room framing and rough-ins are ready.\n\nWhat to Do Next\nBlue Lake Construction provides full design and installation services for custom cabinetry and complete home remodels. Call our team at 385-202-5987 to start your remodel consultation.",
+  "datePublished": "2026-11-08"
+}

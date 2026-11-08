@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Custom Vanity Storage vs. Adding Recessed Wall Cabinets",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading bathroom storage often comes down to choosing between a larger custom vanity or framing in recessed wall cabinets and tall niches. Both options solve clutter problems, but they handle bathroom floor space, renovation complexity, and project costs in very different ways.\n\nCustom Vanities: Pros and Tradeoffs\nA custom vanity serves as the main visual anchor of the room while consolidating plumbing, sinks, countertops, and storage into one footprint. Custom cabinetry lets you design U-shaped drawers around P-traps, incorporate built-in power outlets for grooming tools, and maximize every inch between walls. However, an expansive vanity takes up direct floor space. In tighter guest bathrooms or narrow powder rooms, a large vanity cabinet can make the space feel cramped and restrict movement around the doorway or shower.\n\nRecessed Wall Cabinets: Pros and Tradeoffs\nRecessed cabinets and built-in wall niches utilize the dead space inside 2x4 or 2x6 stud cavities. They provide streamlined storage for medications, cosmetics, and bottles without protruding into walkways or crowding the sink area. The tradeoff is installation complexity: cutting into existing walls requires opening drywall, locating electrical wiring, avoiding plumbing stacks, and occasionally framing new structural headers if studs need altering.\n\nHow to Compare Your Options\nIf your bathroom has ample floor width and your primary goal is organizing bulk supplies, a tailored custom vanity is typically the most functional choice. If you have limited clearance between fixtures and need everyday item storage, recessed cabinets keep your counters clean without stealing floor area. For expert cabinetry installation across the Salt Lake Valley, contact Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

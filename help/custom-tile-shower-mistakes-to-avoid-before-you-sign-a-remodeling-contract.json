@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Custom Tile Shower Mistakes to Avoid Before You Sign a Remodeling Contract",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Investing in a custom tile shower should add lasting beauty and value to your home. However, cutting corners on the concealed layers underneath leads to water intrusion and structural damage.\n\nCommon Mistakes to Avoid\n- Assuming tile and grout are waterproof: Grout and tile absorb moisture. Always demand a continuous, approved waterproof membrane installed beneath the tile layer.\n- Using standard drywall in wet areas: Ordinary drywall breaks down when exposed to moisture. Use approved cementitious backer units or waterproof foam backer boards.\n- Creating flat or reverse floor slopes: Shower floors must maintain a slope of roughly one-quarter inch per foot toward the drain. Verify slope before tiling begins.\n- Overlooking transitions, niches, and curbs: Gaps in waterproofing where benches, walls, and curbs meet are prime failure points. Ensure all corners receive continuous sealing.\n- Skipping the flood test: Tiling before conducting a 24-hour flood test leaves pan defects undetected. Always insist on water testing the pan before laying floor tile.\n\nBuild your dream bathroom with experienced craftsmen. Call Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com to discuss your project.",
+  "datePublished": "2026-11-08"
+}

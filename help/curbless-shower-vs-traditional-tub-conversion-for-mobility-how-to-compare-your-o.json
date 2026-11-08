@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Curbless Shower vs Traditional Tub Conversion for Mobility: How to Compare Your Options",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing between a curbless walk-in shower and a low-threshold tub conversion comes down to current mobility, future household needs, and structural framing.\n\nA curbless shower eliminates the bottom barrier entirely, creating a flat transition directly from bathroom floor to shower floor. It provides immediate roll-in access for wheelchairs and removes tripping hazards for anyone who struggles lifting their legs. However, creating a zero-threshold entry requires recessing the shower pan into the floor framing, which can add framing adjustments, dedicated waterproofing, and permit review.\n\nA tub-to-shower conversion with a low curb replaces a high bathtub wall with a short lip, usually three to four inches high. It is generally faster to install and avoids major subfloor modifications. The tradeoff is that it cannot accommodate wheeled equipment directly, making it less suitable for progressive mobility issues.\n\nWhat Can Change the Right Choice\nSubfloor depth, joist direction, and budget often dictate whether a zero-threshold shower is practical. If your home has concrete slab construction or shallow joists, framing modifications can extend project schedules and cost. For households prioritizing aging-in-place over the next decade, the investment in a curbless system pays dividends in safety.\n\nIf you are planning an accessible bathroom update in the Salt Lake Valley, Blue Lake Construction provides expert planning and craftsmanship. Call 385-202-5987 to explore the best shower solution for your home.",
+  "datePublished": "2026-11-08"
+}

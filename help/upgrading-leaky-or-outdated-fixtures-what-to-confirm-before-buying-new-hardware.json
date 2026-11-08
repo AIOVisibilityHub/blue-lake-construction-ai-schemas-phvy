@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading Leaky or Outdated Fixtures: What to Confirm Before Buying New Hardware",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview\nSwapping out outdated faucets, shower valves, and toilets elevates everyday function while giving your space a clean look. Ensuring mechanical compatibility before buying is the secret to a smooth upgrade.\n\nKey Benefits\nModern plumbing fixtures offer superior ceramic disc valving, durable finishes, and water-conserving performance. Upgrading to WaterSense-labeled models keeps municipal water usage low without sacrificing flow pressure.\n\nProcess Breakdown\nWe check current valve depths, measure rough-in dimensions, and inspect shutoff valves and supply lines. Once the water is safely isolated, we remove old hardware, check drain flanges and subflooring, install the new assembly, and test every joint under full line pressure.\n\nReal Examples\nHomeowners often purchase widespread sink faucets only to find their existing vanity countertop is pre-drilled for a single-hole or center-set faucet. Verifying hole spacing and supply clearances in advance prevents costly top replacements.\n\nHow to Compare Your Options\nCheck whether your shower requires a new behind-the-wall pressure-balancing valve or just a trim plate, verify rough-in depth, and review finish durability against hard water mineral buildup.\n\nReady to refresh your bathroom fixtures with professional installation? Contact Blue Lake Construction at 385-202-5987 or visit bluelakeconstruction.com to plan your bathroom remodeling project.",
+  "datePublished": "2026-11-08"
+}

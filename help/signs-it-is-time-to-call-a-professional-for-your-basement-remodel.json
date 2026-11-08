@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for Your Basement Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Basements present unique building challenges that are very different from upper-floor renovations. If you notice any of these signs, professional oversight is essential.\n\nWatch for these key signals:\n- Moisture intrusion or white residue: Powdery efflorescence or dark stains along foundation corners signal groundwater pressure that must be corrected before framing walls.\n- Planning an added bedroom: Lower-level sleeping spaces legally require approved emergency escape and rescue windows with specific well dimensions and ladder clearances.\n- Sub-slab plumbing requirements: Installing a new basement bathroom means cutting concrete slabs, trenching drainage pipes, and ensuring proper slope to the main sewer line.\n- Heating and cooling constraints: Tapping an existing furnace without calculating airflow often leaves the lower level chilly and starves upper rooms of heat.\n- Low ceiling beams and duct runs: Framing around main support beams or low-hanging trunk lines requires strategic soffit design to keep ceiling heights code-compliant.\n\nWhen Professional Guidance Helps\nCovering over damp foundations with framing and fiberglass batts leads directly to hidden mold and ruined drywall. Professional contractors manage moisture mitigation, structural adjustments, and code-compliant egress cutouts safely.\n\nTo evaluate your unfinished basement in the Salt Lake area, reach out to Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

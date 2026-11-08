@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Designing Built-In Shower Benches for Comfort and Safety",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding seating transforms a standard shower into a comfortable, functional retreat. Whether you need a spot to relax, shave legs, or prepare for long-term accessibility, planning a solid shower bench requires balancing floor space with structural stability.\n\nKey Benefits\nA built-in bench provides solid seating, practical foot rests, and a high-end look that integrates directly with your bathroom flooring and wall tile.\n\nProcess Breakdown\nThe process starts by selecting an appropriate position that preserves room to move and clear shower doors. The bench is framed securely to the floor and wall studs to ensure full load support. The entire bench—top, face, and underneath—is wrapped in waterproofing that integrates seamlessly with the shower pan and wall membranes. The seat surface is built with a slight pitch toward the drain to shed water before tile is installed.\n\nWhat Can Change the Right Choice\nShower dimensions dictate whether a full rectangular bench or a compact corner unit fits best without crowding the shower footprint. Your choice between built-in framing and prefabricated waterproof blocks will affect mortar coverage and installation time.\n\nFor practical bathroom renovations across Draper, South Jordan, and Salt Lake Valley communities, call Blue Lake Construction at 385-202-5987 to discuss your project.",
+  "datePublished": "2026-11-08"
+}

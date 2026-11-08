@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning Whole-House Interior Painting: Complete Guide to Prep, Safety, and Sequencing",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Repainting your home's interior gives every room a clean, unified feel, especially when coordinated alongside kitchen, bathroom, or trim upgrades.\n\nOverview:\nProfessional interior painting focuses heavily on protective masking, drywall patching, and proper primer selection before any color is applied.\n\nKey Benefits:\nYou gain washable, durable walls with uniform sheen, crisp lines along baseboards, and modern low-emission finishes that protect indoor air quality.\n\nProcess Breakdown:\n- Inspection and Protection: Testing older surfaces for lead risks, masking floors, and covering furniture securely.\n- Surface Repair: Patching dents, taping cracks, sanding imperfections, and wiping away dust.\n- Priming: Sealing raw patches and ensuring strong adhesion across all walls and trim.\n- Application: Applying even coats with proper dry times between layers to prevent sagging and ensure true color.\n- Ventilation and Inspection: Maintaining air circulation for two to three days during initial drying before final touch-ups.\n\nReal Examples:\nDuring a main-floor layout remodel, painting walls, ceilings, and new millwork together ensures seamless color flow across previously partitioned rooms.\n\nGet Started:\nBlue Lake Construction provides complete interior remodeling and finishing services throughout Salt Lake City and surrounding valley communities. Call Ryan Gardner at 385-202-5987 to schedule your interior painting estimate.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Wall-Mounted Floating Vanity vs Freestanding Vanity for Small Bathrooms",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Choosing between a floating vanity and a freestanding cabinet comes down to how you balance usable internal volume against the visual weight of the room. Both designs solve specific storage headaches, but they perform very differently depending on your bathroom's layout and structural framing.\n\n### How to Compare Your Options\nA floating vanity mounts directly to the wall studs, leaving the floor underneath completely visible. This visual break makes compact bathrooms feel significantly more open, makes floor cleaning simple, and allows you to customize the counter height perfectly for your household. The tradeoff is reduced interior storage capacity because the lower half of the cabinet is eliminated, and you must install heavy-duty horizontal wall blocking during rough carpentry to support the vanity and stone countertop securely.\n\nA freestanding vanity rests directly on the floor, offering maximum drawer depth and cupboard volume. It covers older flooring gaps, hides standard rough-in plumbing without requiring wall-pipe alterations, and generally involves a faster installation process. However, freestanding models can make a narrow bathroom feel crowded, and the tight seams between the cabinet sides and adjoining walls can create hard-to-clean dust traps.\n\n### Questions to Ask Before You Decide\nConsider your plumbing setup first. If your drain and water lines come up through the floor rather than out of the wall, a freestanding vanity conceals them neatly, whereas a floating unit requires relocating plumbing into the wall cavity. If you need structural wall modifications or customized vanity fabrication in Cottonwood Heights, Bluffdale, or Millcreek, Blue Lake Construction delivers clean, durable craftsmanship. Call our team at 385-202-5987 to find the ideal storage solution for your remodel.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

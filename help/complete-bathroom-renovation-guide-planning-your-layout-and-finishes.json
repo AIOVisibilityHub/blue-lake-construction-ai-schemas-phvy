@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Complete Bathroom Renovation Guide: Planning Your Layout and Finishes",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A complete bathroom remodel refreshes your daily routine while adding functional value to your home. Here is a clear guide on how the process works from first concepts to final fixtures.\n\nOverview and Key Benefits:\nA full renovation goes beyond cosmetic swaps to update subfloors, supply lines, ventilation, and custom storage, creating an efficient and relaxing space.\n\nProcess Breakdown:\n- Site Assessment & Layout: Reviewing current plumbing lines, taking precise room measurements, and deciding whether to keep or shift the footprint.\n- Permitting & Product Selection: Finalizing vanities, tile, and plumbing trims early so all rough-in dimensions are set before inspections.\n- Demolition & Rough-Ins: Opening walls, verifying framing, running new electrical wiring, and plumbing new valves.\n- Waterproofing & Finishes: Installing certified moisture membranes, tiling custom showers, laying down durable flooring, and setting vanities.\n\nWhat to Prepare Before You Start:\nTake time to inventory your storage habits and confirm where your primary exhaust path exits the building. Having fixture specifications ready keeps the rough-in phase on schedule.\n\nBlue Lake Construction provides full bathroom renovation services tailored to your household's needs throughout the Salt Lake Valley. Contact us at 385-202-5987 to schedule an appointment.",
+  "datePublished": "2026-11-08"
+}

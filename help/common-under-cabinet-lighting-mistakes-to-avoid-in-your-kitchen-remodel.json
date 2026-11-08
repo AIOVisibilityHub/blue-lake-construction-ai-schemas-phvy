@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Common Under-Cabinet Lighting Mistakes to Avoid in Your Kitchen Remodel",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Tackling under-cabinet lighting during a kitchen remodel seems simple until dark spots or humming dimmers appear. Avoiding basic layout and electrical oversights keeps your kitchen functional and clean.\n\nCommon Mistakes to Avoid\n- Mounting fixtures too far back: Placing fixtures against the backsplash leaves the work area in shadow; mount them toward the front lip instead.\n- Overloading or undersizing the driver: Ensure total fixture wattage never exceeds the rated capacity of your power supply.\n- Forgetting driver accessibility: Tucking power units behind sealed drywall makes future maintenance impossible; keep them accessible in upper cabinetry.\n- Mixing incompatible dimmer controls: Pairing non-tested LED drivers with standard incandescent wall dimmers causes buzzing and strobing.\n- Leaving wire runs exposed: Loose low-voltage cables look untidy and risk snagging during daily counter use.\n- Overlooking permit triggers: Swapping an existing unit is simple, but running a new lighting branch circuit requires code compliance.\n\nWhen unexpected electrical work arises, working with an experienced general contractor prevents costly rework. Blue Lake Construction coordinates custom kitchen renovations across Millcreek, Sandy, and Draper. Call 385-202-5987 to talk through your kitchen plans.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

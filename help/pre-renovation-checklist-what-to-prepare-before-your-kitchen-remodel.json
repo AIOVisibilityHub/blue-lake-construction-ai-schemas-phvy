@@ -1,0 +1,131 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Pre-Renovation Checklist: What to Prepare Before Your Kitchen Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Pre-Renovation Checklist: What to Prepare Before Your Kitchen Remodel",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Finalized floor plan and elevation drawings — Establishes exact placements for cabinets, islands, walkways,…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Finalized floor plan and elevation drawings — Establishes exact placements for cabinets, islands, walkways, and lighting before trades arrive."
+      },
+      {
+        "name": "Confirmed appliance spec sheets with dimensions — Verifies cutouts, cabinet depths, and specific power and…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Confirmed appliance spec sheets with dimensions — Verifies cutouts, cabinet depths, and specific power and water line hookups match reality."
+      },
+      {
+        "name": "Selected and ordered cabinetry with confirmed delivery dates — Prevents project delays by aligning site dem…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Selected and ordered cabinetry with confirmed delivery dates — Prevents project delays by aligning site demolition with verified shipping timelines."
+      },
+      {
+        "name": "Countertop slab selection and sink template verification — Ensures sink basins and faucet holes align with…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Countertop slab selection and sink template verification — Ensures sink basins and faucet holes align with your chosen slab dimensions and under-sink clearance."
+      },
+      {
+        "name": "Electrical plan with dedicated circuits and task lighting — Confirms enough amperage exists for heavy-draw…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Electrical plan with dedicated circuits and task lighting — Confirms enough amperage exists for heavy-draw appliances, microwave drawers, and under-cabinet lights."
+      },
+      {
+        "name": "Ventilation hood routing plan to the home exterior — Verifies duct pathways clear ceiling framing and exhau…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Ventilation hood routing plan to the home exterior — Verifies duct pathways clear ceiling framing and exhaust smoke and moisture outside effectively."
+      },
+      {
+        "name": "Subfloor levelness and framing moisture check — Ensures a solid, squeak-free foundation that prevents crack…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Subfloor levelness and framing moisture check — Ensures a solid, squeak-free foundation that prevents cracked floor tiles and misaligned base cabinets."
+      },
+      {
+        "name": "Temporary kitchen setup in an adjacent room — Equips your household with a microwave, coffee station, mini-…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Temporary kitchen setup in an adjacent room — Equips your household with a microwave, coffee station, mini-fridge, and water source during active construction."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Finalized floor plan and elevation drawings — Establishes exact placements for cabinets, islands, walkways, and lighting before trades arrive.\n- [ ] Confirmed appliance spec sheets with dimensions — Verifies cutouts, cabinet depths, and specific power and water line hookups match reality.\n- [ ] Selected and ordered cabinetry with confirmed delivery dates — Prevents project delays by aligning site demolition with verified shipping timelines.\n- [ ] Countertop slab selection and sink template verification — Ensures sink basins and faucet holes align with your chosen slab dimensions and under-sink clearance.\n- [ ] Electrical plan with dedicated circuits and task lighting — Confirms enough amperage exists for heavy-draw appliances, microwave drawers, and under-cabinet lights.\n- [ ] Ventilation hood routing plan to the home exterior — Verifies duct pathways clear ceiling framing and exhaust smoke and moisture outside effectively.\n- [ ] Subfloor levelness and framing moisture check — Ensures a solid, squeak-free foundation that prevents cracked floor tiles and misaligned base cabinets.\n- [ ] Temporary kitchen setup in an adjacent room — Equips your household with a microwave, coffee station, mini-fridge, and water source during active construction.\n\nHow to Use This Checklist\nCheck off each item alongside your contractor prior to demolition day. Ensuring materials are specified and structural clearances are verified ahead of time keeps your renovation moving smoothly. Blue Lake Construction manages complete kitchen renovations across the Salt Lake Valley. Call 385-202-5987 to schedule an appointment.",
+  "datePublished": "2026-11-08"
+}

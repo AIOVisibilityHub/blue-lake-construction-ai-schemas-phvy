@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Blue Lake Construction the Right Choice for Your Kitchen Expansion?",
+    "text": "Is Blue Lake Construction the Right Choice for Your Kitchen Expansion?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "### Is Blue Lake Construction the Right Choice for Your Kitchen Expansion?\n\nDeciding to expand your kitchen requires more than picking cabinet finishes—it involves foundation excavation, structural tie-ins, exterior envelope framing, and multi-trade utility coordination. Homeowners in the Salt Lake Valley need to know whether their general contractor has the capabilities to manage both the structural additions and the detailed interior carpentry.\n\nBlue Lake Construction is co-owned by licensed contractor Ryan Gardner and Amy Gardner, offering coordinated residential general contracting across Salt Lake City, Sandy, Draper, Millcreek, and surrounding communities. The company specializes in full home remodels, kitchen renovations, and home additions, providing homeowners with customized planning, drafting, permitting, and hands-on project management.\n\n### When Professional Guidance Helps\nExpanding a kitchen footprint triggers strict municipal reviews, including zoning setbacks, foundation engineering, electrical load calculations, and energy code requirements. Blue Lake Construction manages the entire scope from architectural drafting and building permits to rough-in mechanical trades, framing, and custom cabinetry installation. Their collaborative process ensures that the newly constructed space ties seamlessly into your existing home's architecture rather than looking like an afterthought.\n\nIf your household has outgrown its current layout and you need licensed craftsmen to expand your living and cooking space, Blue Lake Construction provides the technical expertise and personal attention needed for large-scale renovations. Contact Blue Lake Construction at 385-202-5987 to schedule an on-site consultation for your kitchen expansion.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing a Contractor for Plumbing Updates: Complete Guide",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Plumbing updates are the backbone of any kitchen or bath remodel. Choosing the right general contractor ensures your pipes, valves, and drainage function reliably behind finished walls for decades.\n\nOverview and Key Benefits\nModern plumbing updates eliminate pressure drops, accommodate luxury fixtures like walk-in showers or kitchen prep sinks, and bring older piping up to modern building standards. \n\nProcess Breakdown\n1. Layout Verification: Confirming fixture locations against your architectural plans and structural framing.\n2. Permitting and Rough-In: Securing required local permits, altering supply and waste lines, and keeping piping exposed for city inspections.\n3. System Testing and Closure: Pressure testing all lines before closing walls with moisture-resistant drywall.\n4. Fixture Installation: Mounting your faucets, valves, sinks, and appliances after cabinetry and tile are set.\n\nReal Examples\nIn historic Salt Lake neighborhoods, moving a bathroom vanity often exposes legacy piping that needs full line replacement to support new dual-sink configurations. Doing this during initial rough-in prevents catastrophic leaks beneath new tile.\n\nWhat to Do Next\nLook for a contractor who provides clear change-order policies, itemized material lists, and realistic shutoff schedules. Blue Lake Construction brings dedicated craftsmanship to full home and plumbing renovations. Call 385-202-5987 to get your project moving.",
+  "datePublished": "2026-11-08"
+}

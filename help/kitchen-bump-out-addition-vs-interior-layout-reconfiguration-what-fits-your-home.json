@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Bump-Out Addition vs Interior Layout Reconfiguration: What Fits Your Home?",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Kitchen Bump-Out Addition vs Interior Layout Reconfiguration: What Fits Your Home?\n\nHomeowners dealing with cramped cooking quarters often debate whether to extend their foundation or remodel within their current exterior walls. Both strategies deliver functional improvements, but they involve distinct structural work, timelines, and municipal approvals.\n\nAn interior layout reconfiguration removes non-bearing partitions, integrates dining nooks, or borrows unused space from adjacent closets or hallways. Because work stays inside the existing exterior envelope, you avoid foundation excavation, roofing tie-ins, and exterior wall modifications. Construction timelines are generally shorter, typically running three to six months for complete transformations, while focusing on open-concept conversions, new cabinetry, and updated utility pathways.\n\nA bump-out kitchen addition, by contrast, physically extends your home's exterior boundary by several feet or adds an entirely new room extension. This approach provides significant square footage for walk-in pantries, extensive islands, and secondary prep zones that interior reconfiguration cannot accommodate. However, an expansion requires foundation footings, framing adjustments, exterior siding, roofing tie-ins, and detailed zoning setback compliance.\n\n### What Can Change the Right Choice\nIf your surrounding rooms are already sized efficiently and you cannot borrow interior space without hurting home functionality, an exterior addition is your best route. When structural changes alter your exterior envelope or foundation, working with a licensed general contractor is essential. Blue Lake Construction delivers kitchen expansions and custom additions across Salt Lake City, Draper, and South Jordan. Call 385-202-5987 to evaluate your home.",
+  "datePublished": "2026-11-08"
+}

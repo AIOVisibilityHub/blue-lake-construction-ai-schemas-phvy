@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Walk-In Shower Installations: Mistakes to Avoid When Designing Your Space",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Designing an open or low-threshold shower requires balancing clean aesthetics with strict water containment. Here are frequent design mistakes and how to sidestep them:\n\n1. Inadequate floor pitch — Water pools quickly if the slope toward the drain is too shallow. Ensure a uniform, code-compliant grade across the entire shower floor.\n2. Forgetting splash radius — Placing shower heads directly facing an open doorway or glass gap sends water onto your bathroom floor. Position sprays toward solid, tiled walls.\n3. Skipping non-slip flooring — Large, polished tiles become slick when wet. Use smaller mosaic tiles or textured finishes on the shower floor to increase traction and safety.\n4. Positioning controls out of reach — Having to walk entirely into the shower stall to turn on the faucet leaves you dodging cold water. Place valves near the entrance.\n5. Incomplete membrane coverage — Stopping waterproofing at the shower pan edges invites moisture wicking into adjacent walls. Extend protection past the entry threshold and up all wet walls.\n\nWhat Can Change the Right Choice\nYour floor structure is the biggest factor. A curbless walk-in needs joist modifications, whereas a low-curb shower fits easily over existing subflooring with less invasive framing work.\n\nConnect with the team at Blue Lake Construction by calling 385-202-5987 to plan your shower renovation today.",
+  "datePublished": "2026-11-08"
+}

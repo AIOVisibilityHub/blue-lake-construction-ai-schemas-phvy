@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Replacing Your Bathroom Countertop: How to Plan the Upgrade Properly",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing your bathroom countertop is one of the fastest ways to modernize your space. Here is your complete guide to planning the installation correctly.\n\nOverview and Key Benefits\nA new vanity top refreshes finishes, eliminates stained or chipped surfaces, and introduces clean undermount basins. It delivers a modern look without the cost of tearing out sound cabinetry.\n\nProcess Breakdown\nExecuting a clean countertop upgrade involves precise milestones:\n- Measuring the installed cabinet base rather than relying on the dimensions of the old slab.\n- Ensuring the existing vanity is structurally stable, fastened, and leveled across all corners.\n- Templating cutouts for chosen undermount sinks and verifying faucet-hole spread.\n- Installing the faucet and undermount sink to the slab prior to final setting whenever possible.\n- Setting the surface with proper adhesives, sealing the backsplashes, and letting cures set before connecting plumbing.\n\nWhat Can Change the Right Choice\nThe weight of heavy stone or quartz requires a sturdy cabinet base. If you want custom edge profiles or thicker slabs, confirm your existing vanity can carry the load without deflection.\n\nReal Examples\nHomeowners updating powder rooms often choose durable quartz tops with integrated backsplashes to protect surrounding drywall from daily water splashing.\n\nCall Blue Lake Construction at 385-202-5987 to get your bathroom remodeling project started.",
+  "datePublished": "2026-11-08"
+}

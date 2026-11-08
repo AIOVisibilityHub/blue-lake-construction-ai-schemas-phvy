@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Basement Remodeling: Planning Your Lower Level Project",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finishing your lower level is one of the most practical ways to add usable square footage to your property without building an addition. Here is how a comprehensive basement renovation unfolds.\n\nOverview\nBasement remodeling transforms unfinished or outdated concrete foundations into functional living suites, home offices, entertainment rooms, or guest quarters.\n\nKey Benefits\n- Generates substantial livable space within your existing foundation walls\n- Adds dedicated zones for recreation, laundry, or overnight guests\n- Increases overall home efficiency through modern insulation and air sealing\n\nProcess Breakdown\nEvery project begins by inspecting foundation walls and concrete slabs for past or active moisture. Once dryness is verified, we design a layout showing room uses, window locations, and utility clearances. We secure building, electrical, and plumbing permits, frame the perimeter with proper thermal breaks, run rough-in mechanicals, insulate, hang drywall, and complete finished carpentry and flooring.\n\nReal Examples\nA typical basement remodel converts a cold concrete expanse into a warm family room paired with a full bathroom and an egress-compliant guest bedroom.\n\nWhat to Prepare Before You Start\nCheck your foundation for efflorescence, test your sump pump, and note where plumbing cleanouts, water shutoffs, and furnace clearances must stay accessible.\n\nCall Blue Lake Construction at 385-202-5987 to start planning your basement project.",
+  "datePublished": "2026-11-08"
+}

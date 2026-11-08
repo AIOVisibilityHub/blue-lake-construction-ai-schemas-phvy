@@ -1,0 +1,97 @@
+{
+  "name": "How to Plan an Accessible Bathroom Modification for Long-Term Safety",
+  "step": [
+    {
+      "name": "Step 1: Assess mobility requirements and transfer points",
+      "text": "Evaluate how the resident moves into the room, transfers to the toilet, and enters the shower. Take note of whether a walker, wheelchair, or caregiver assistance is currently needed or anticipated.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Measure doorways and clear turning dimensions",
+      "text": "Confirm the entry door provides sufficient width for mobility equipment and check that the interior layout allows an open turning space, ideally a 60-inch turning radius or a clear T-shaped footprint.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Check plumbing layout and structural conditions",
+      "text": "Inspect existing floor framing and subfloor depth to verify whether a true curbless, zero-threshold shower drain can be recessed properly. Evaluate the plumbing supply lines and venting to ensure they support relocating valves or fixtures if necessary.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install solid wood wall backing before closing walls",
+      "text": "Secure structural wood blocking directly between wall studs around the shower, bathtub, and toilet zones. This essential framing reinforcement ensures future grab bars and wall-mounted shower seats hold firm under heavy loads.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install accessible fixtures, nonslip surfaces, and controls",
+      "text": "Lay slip-resistant flooring, set a comfort-height toilet, install an accessible vanity with open knee clearance, and mount single-lever water controls and a handheld showerhead within seated reach. When Professional Guidance Helps Modifying subfloors, moving waste lines, and reinforcing framing require licensed trade skills and local building permits. Blue Lake Construction manages residential accessibility updates across Salt Lake City. Call 385-202-5987 to discuss your project.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Evaluate how the resident moves into the room, transfers to the toilet, and enters the shower. Take note of whether a walker, wheelchair, or caregiver assistance is currently needed or anticipated."
+}

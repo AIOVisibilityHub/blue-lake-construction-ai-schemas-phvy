@@ -1,0 +1,103 @@
+{
+  "name": "How to Plan a Bathroom Storage Renovation for Maximum Practical Space",
+  "step": [
+    {
+      "name": "Step 1: Inventory toiletries, linens, and cleaning supplies",
+      "text": "Sort everything currently kept in the bathroom into daily essentials, backup supplies, and bulk linens. Knowing the exact volume of items prevents building cabinetry that looks sleek from the outside but lacks practical storage on the inside.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Measure clearances, door swings, and wall depth",
+      "text": "Record total wall dimensions while mapping plumbing supply lines, drain stacks, and electrical switches. Check that vanity drawers will clear entry door frames, shower glass enclosures, and toilet fixtures with room to stand comfortably.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Check interior wall framing for recessed options",
+      "text": "Locate existing wall studs with a stud finder to see if medicine cabinets or recessed niches between 16-inch stud bays are feasible. Recessing shelves between non-bearing wall studs adds valuable storage depth without intruding into narrow walkways.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Select moisture-resistant materials and hardware",
+      "text": "Choose cabinetry constructed with sealed edges, durable finishes, and corrosion-resistant hinges and drawer slides that withstand high daily humidity. Unsealed particleboard swells easily in damp environments, so prioritize moisture-rated materials and solid joinery.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Lay out interior dividers, pullouts, and outlets",
+      "text": "Plan deep drawers with dedicated organizers rather than cavernous under-sink cabinets where bottles get lost around plumbing traps. Consider adding integrated electrical outlets inside medicine cabinets or vanity drawers for electric toothbrushes and hair tools.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Secure cabinetry to structural framing and seal seams",
+      "text": "Anchor all tall linen towers, vanity bases, and hanging units directly into wall studs using heavy-duty cabinet screws. Caulk perimeters along countertops and adjacent tiled walls with mildew-resistant silicone to keep water from seeping behind the woodwork. When Professional Guidance Helps If your ideal storage layout requires moving water shutoff valves, shifting electrical boxes, or cutting into walls that may carry plumbing vents, working with a licensed contractor is the best route. Blue Lake Construction helps homeowners plan and build functional storage solutions. Call 385-202-5987 to get started.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Sort everything currently kept in the bathroom into daily essentials, backup supplies, and bulk linens. Knowing the exact volume of items prevents building cabinetry that looks sleek from the outside "
+}

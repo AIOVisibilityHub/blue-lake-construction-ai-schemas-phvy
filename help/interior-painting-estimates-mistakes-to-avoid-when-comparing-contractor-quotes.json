@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Interior Painting Estimates: Mistakes to Avoid When Comparing Contractor Quotes",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Comparing painting bids requires looking past the bottom-line price tag. The longevity of your interior paint job depends heavily on surface preparation, primer compatibility, and environmental controls.\n\nCommon Mistakes to Avoid:\n- Ignoring pre-1978 paint layers: Disturbing old paint in pre-1978 homes without testing or EPA lead-safe containment creates serious airborne health hazards.\n- Painting over dirty or damp drywall: Kitchen grease, bathroom moisture, and residual sanding dust prevent paint from adhering. All surfaces must be scrubbed, repaired, and fully dry.\n- Skipping primer: Applying topcoats directly over patched drywall or dark existing colors causes flashing, uneven sheen, and premature peeling.\n- Applying coats too heavily: Rushing the job by slabbing on thick coats traps moisture, leading to runs, sagging, and extended off-gassing.\n- Closing up rooms too soon: Most emissions occur during drying over the first two to three days. Keeping windows shut without continuous ventilation traps odors and slows curing.\n\nWhat to Do Next:\nVerify that your contractor's quote explicitly itemizes masking, surface patching, primer types, and clean-up standards. Blue Lake Construction handles interior painting and home renovations with detailed craftsmanship. Reach out to our Salt Lake City team at 385-202-5987 to review your upcoming project.",
+  "datePublished": "2026-11-08"
+}

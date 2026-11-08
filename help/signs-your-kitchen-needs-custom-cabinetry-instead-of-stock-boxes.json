@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Kitchen Needs Custom Cabinetry Instead of Stock Boxes",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Stock cabinets work well in simple rectangular rooms, but real homes often present awkward corners, varying ceiling heights, and specific storage demands that factory boxes cannot handle. \n\nWhen Professional Guidance Helps\n- Irregular wall layouts: If your home has angled walls, historic settling, or uneven soffits, stock cabinetry leaves awkward gaps and wasted dead space.\n- Ceiling-height storage requirements: Standard cabinet heights often stop uncomfortably short of taller ceilings, collecting dust instead of providing practical upper pantry storage.\n- Integrated or specialty appliances: High-end panel-ready refrigerators, double ovens, and custom cooktop hoods demand exact structural framing and precise tolerances.\n- Specialized internal organization: Built-in pullouts, spice racks, vertical tray dividers, and custom bathroom vanity niches require custom casework engineered around your specific daily routines.\n- Floor plan changes: Opening up a kitchen to an adjoining living area requires decorative finished cabinet backs and tailored kitchen island configurations.\n\nWhen your vision demands millimeter-level precision and custom finish carpentry, prefabricated boxes fall short. Blue Lake Construction provides custom cabinetry design and installation tailored directly to your home. Call 385-202-5987 to speak with our remodeling team.",
+  "datePublished": "2026-11-08"
+}

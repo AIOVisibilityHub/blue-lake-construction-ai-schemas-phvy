@@ -1,0 +1,97 @@
+{
+  "name": "Planning a Kitchen Pantry Addition: Key Steps from Design to Trim",
+  "step": [
+    {
+      "name": "Step 1: Assess storage needs and measure physical clearances",
+      "text": "Measure the target footprint while calculating door swings, walkway widths, and clearances around nearby refrigerators or ovens. Confirm the space will maintain at least standard hallway or kitchen walkway clearances so open doors never choke foot traffic.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect existing framing, mechanicals, and utilities",
+      "text": "Check the proposed wall locations for hidden electrical wiring, ductwork, or plumbing runs before finalizing the design. If the plan alters structural framing or involves moving light switches, confirm local permit requirements before proceeding with demolition.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Execute rough framing and mechanical adjustments",
+      "text": "Frame the new enclosure walls or prep the cabinet opening, ensuring all corners are plumb and square to avoid uneven shelving later. Rough in dedicated pantry lighting, outlet boxes for countertop appliances, and any needed ventilation upgrades.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install drywall, cabinetry, and heavy-duty shelving",
+      "text": "Hang, tape, and finish drywall, or secure custom tall cabinetry tightly to wall studs. Install sturdy shelving units designed to support heavy canned goods, small appliances, and bulk staples without sagging over time.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Hang doors, install trim, and complete hardware adjustments",
+      "text": "Hang the pantry doors, install matching casing and baseboards to blend with your kitchen's aesthetic, and align all hardware. Complete interior painting and test roll-out drawers or door latches for smooth operation. When Professional Guidance Helps When a pantry project touches load-bearing walls or requires relocated wiring, professional general contracting keeps your home safe and up to code. Blue Lake Construction delivers tailored kitchen additions across the Salt Lake Valley. Contact our team at 385-202-5987 to get started.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the target footprint while calculating door swings, walkway widths, and clearances around nearby refrigerators or ovens. Confirm the space will maintain at least standard hallway or kitchen wa"
+}

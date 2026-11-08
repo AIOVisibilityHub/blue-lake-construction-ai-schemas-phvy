@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning Kitchen Lighting Upgrades: A Complete Guide for Salt Lake Valley Remodels",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Upgrading your home's lighting transforms how you enjoy kitchens, bathrooms, and living areas across the Salt Lake Valley. Good lighting design balances functional task illumination with inviting ambient glow.\n\nKey Benefits: Modern lighting upgrades lower energy use by at least 75% when shifting to certified LEDs, increase overall room usability, and highlight architectural features or new cabinetry without harsh shadows.\n\nProcess Breakdown: We start by reviewing your room's natural light and daily traffic patterns. Next, we determine required lumens, beam spreads, and color temperatures rather than just looking at wattage. We then verify fixture compatibility with dimmers and run any necessary wiring before final trim installation and testing.\n\nWhat Can Change the Right Choice: High ceilings, open-concept conversions, and enclosed fixtures can change your required lumens and heat ratings. In kitchens and bathrooms, layering under-cabinet and vanity fixtures prevents unwanted glare on countertops.\n\nWhen Professional Guidance Helps: Adding new ceiling junction boxes, installing dedicated dimming circuits, or balancing layered kitchen fixtures requires licensed construction coordination to keep your remodel safe. \n\nWhat to Do Next: Reach out to Blue Lake Construction at 385-202-5987 to plan your custom lighting layout with our project team.",
+  "datePublished": "2026-11-08"
+}

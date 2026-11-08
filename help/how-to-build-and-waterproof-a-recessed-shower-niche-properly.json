@@ -1,0 +1,103 @@
+{
+  "name": "How to Build and Waterproof a Recessed Shower Niche Properly",
+  "step": [
+    {
+      "name": "Step 1: Choose location and confirm stud framing",
+      "text": "Select an interior shower wall away from the main shower head spray. Verify that no supply pipes, vent stacks, or electrical cables run through the selected stud bay.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Install horizontal structural blocking",
+      "text": "Cut and fasten horizontal 2x4 framing members between studs at your desired rough opening height. Ensure blocking is level, plumb, and secured with structural screws to support the niche box.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure the niche unit flush with wall backer",
+      "text": "Mount your prefabricated waterproof niche box or approved backer board assembly into the opening. Make sure the outer flange sits flush with the adjacent wall backer panels to avoid uneven tile lips.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Seal all perimeter joints and fastener points",
+      "text": "Apply manufacturer-approved waterproof sealant and embedding fabric bands over the entire seam where the niche meets the wall. Fully coat all fastener penetrations to maintain a continuous, unbreached barrier.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Slope the bottom sill toward the shower",
+      "text": "Check that the bottom shelf slopes slightly forward—roughly one-sixteenth to one-eighth inch—so standing water drains off the sill directly into the shower pan rather than collecting against the back corner.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Tile, trim, and seal the finished niche",
+      "text": "Set tile using high mortar coverage, install clean edge profiles along outer corners, and seal all interior plane transitions with flexible silicone sealant instead of brittle grout. What to Expect During the Process Modifying framing and tying into waterproofing systems requires precision. For professional bathroom remodeling and custom tile design across South Jordan and West Jordan, call Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Select an interior shower wall away from the main shower head spray. Verify that no supply pipes, vent stacks, or electrical cables run through the selected stud bay."
+}

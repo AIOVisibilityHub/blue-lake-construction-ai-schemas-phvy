@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Contractor for a Kitchen Backsplash: What to Ask Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding to upgrade the wall behind your cooktop or sink brings a huge visual lift, but getting clean results comes down to how your contractor plans the job. A rushed installation often shows up as awkward slivers of tile around electrical outlets, cracked grout along the countertop seam, or crooked alignment across window casings.\n\nHow to Compare Your Options\nWhen reviewing bids, look closely at how each installer plans for the details. Ask what adhesive and grout they specify for high-heat and moisture zones. Inquire how they intend to treat outside edges—whether using metal profiles, bullnose, or mitered edges—and confirm who takes responsibility for turning off breakers to safely adjust outlet boxes flush with the new wall depth. Make sure the estimate details wall prep, counter protection, and final caulk rather than relying on verbal promises.\n\nWhen Professional Guidance Helps\nIf your kitchen walls have drywall damage, wavy framing, or complicated boundaries like range hoods and corner windows, bringing in a skilled contractor prevents expensive errors. Blue Lake Construction provides custom kitchen remodeling and tile installations across Salt Lake City and surrounding valley communities. Call 385-202-5987 to talk through your backsplash project.",
+  "datePublished": "2026-11-08"
+}

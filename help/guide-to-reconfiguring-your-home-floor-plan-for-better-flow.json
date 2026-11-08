@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide to Reconfiguring Your Home Floor Plan for Better Flow",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Rethinking your main floor layout can completely change how your home feels day to day. Before taking down walls or moving rooms, it helps to understand what a reconfiguration project involves from start to finish.\n\nOverview\nA floor plan reconfiguration rearranges existing interior square footage to create better flow, functional zones, or open-concept living.\n\nKey Benefits\n- Improves everyday circulation between kitchens, dining, and living rooms\n- Maximizes natural light across previously divided spaces\n- Solves awkward hallways or cramped entryways without expanding your footprint\n\nProcess Breakdown\nWe start by documenting your existing conditions and verifying which walls carry structural loads. Next, we draft scaled plans covering framing, electrical runs, plumbing stacks, and HVAC supply routes. Once local permits are secured, demolition begins, followed by structural headers, rough-in mechanicals, framing, and final drywall and trim.\n\nReal Examples\nIn local homes, removing a partition wall between a closed-off kitchen and living area allows for an expanded island, improved lighting, and better sightlines across the entire level.\n\nWhat to Prepare Before You Start\nList how you want rooms to function, locate your mechanicals, and decide if you want open spaces or defined zones.\n\nWhen you are ready to evaluate your layout options, call Blue Lake Construction at 385-202-5987 to review your space.",
+  "datePublished": "2026-11-08"
+}

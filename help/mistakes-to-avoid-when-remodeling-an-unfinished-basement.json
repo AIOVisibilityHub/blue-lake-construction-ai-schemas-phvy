@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Remodeling an Unfinished Basement",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finishing a basement adds valuable living area, but overlooking lower-level building science can turn an investment into a costly repair. Here are the major pitfalls to avoid.\n\nCommon Mistakes to Avoid:\n- Framing against damp foundation walls: Never install studs or insulation over active water seepage or damp concrete. Resolve exterior grading, gutters, or drainage issues before sealing interiors.\n- Ignoring emergency egress rules: Adding a bedroom without an approved egress window or exterior door violates life-safety codes and can complicate home resales. Verify well sizes and net-clear opening dimensions.\n- Closing walls before rough inspections: Skipping required building, electrical, or plumbing inspections will halt your project and often forces you to tear down fresh drywall.\n- Underestimating HVAC requirements: Simply adding two supply vents off a main duct rarely keeps a basement comfortable. Calculate heating loads and address return-air circulation.\n- Neglecting access to mechanical shutoffs: Framing over cleanouts, backflow valves, or electrical junction boxes creates major headaches during future repairs. Always build dedicated access panels.\n\nWhat to Do Next\nCareful planning, permitted trade installations, and proper moisture checks ensure your lower level stays comfortable and durable for years to come.\n\nCall Blue Lake Construction at 385-202-5987 to schedule an on-site consultation for your basement remodel.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Preparing for a Powder Room Renovation: Essential Pre-Construction Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Getting ready for a powder room renovation means checking practical plumbing details and space dimensions well before tearing out the old fixtures. Use this checklist to verify critical items before construction begins.\n\n- [ ] Measure toilet rough-in clearance from finished wall — ensures your new toilet fits existing drain alignment without moving waste lines.\n- [ ] Inspect existing supply shutoff valves for leaks — confirms whether aging valves need replacement while the water supply is turned off.\n- [ ] Measure vanity width, depth, and door swing path — verifies that cabinet doors and drawers open fully without hitting the toilet or entry door.\n- [ ] Confirm sink and faucet hole configurations — prevents mismatch between single-hole or widespread faucets and the new vanity top.\n- [ ] Locate exhaust fan ducting path to the exterior — guarantees moisture and odors vent outdoors rather than into ceiling joists or attic spaces.\n- [ ] Check electrical box capacity for vanity lighting — ensures existing wiring safely supports updated sconces or overhead lighting fixtures.\n- [ ] Test subfloor firmness around the toilet base — checks for hidden leak rot that must be repaired before laying new tile or flooring.\n- [ ] Verify material lead times and product availability — keeps all fixtures, tile, and plumbing fittings on site before demolition starts.\n\nWhat to Prepare Before You Start\nReview these measurements and plumbing conditions carefully with your contractor before ordering non-returnable materials. Catching a rough-in mismatch or venting issue early keeps your project on budget and on schedule. To coordinate your powder room remodel with experienced builders in the Salt Lake Valley, reach out to Blue Lake Construction at 385-202-5987.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Preparing for a Powder Room Renovation: Essential Pre-Construction Checklist",
+    "numberOfItems": 8,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Measure toilet rough-in clearance from finished wall — ensures your new toilet fits existing drain alignmen…",
+        "description": "Measure toilet rough-in clearance from finished wall — ensures your new toilet fits existing drain alignment without moving waste lines."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Inspect existing supply shutoff valves for leaks — confirms whether aging valves need replacement while the…",
+        "description": "Inspect existing supply shutoff valves for leaks — confirms whether aging valves need replacement while the water supply is turned off."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Measure vanity width, depth, and door swing path — verifies that cabinet doors and drawers open fully witho…",
+        "description": "Measure vanity width, depth, and door swing path — verifies that cabinet doors and drawers open fully without hitting the toilet or entry door."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Confirm sink and faucet hole configurations — prevents mismatch between single-hole or widespread faucets a…",
+        "description": "Confirm sink and faucet hole configurations — prevents mismatch between single-hole or widespread faucets and the new vanity top."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Locate exhaust fan ducting path to the exterior — guarantees moisture and odors vent outdoors rather than i…",
+        "description": "Locate exhaust fan ducting path to the exterior — guarantees moisture and odors vent outdoors rather than into ceiling joists or attic spaces."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Check electrical box capacity for vanity lighting — ensures existing wiring safely supports updated sconces…",
+        "description": "Check electrical box capacity for vanity lighting — ensures existing wiring safely supports updated sconces or overhead lighting fixtures."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Test subfloor firmness around the toilet base — checks for hidden leak rot that must be repaired before lay…",
+        "description": "Test subfloor firmness around the toilet base — checks for hidden leak rot that must be repaired before laying new tile or flooring."
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Verify material lead times and product availability — keeps all fixtures, tile, and plumbing fittings on si…",
+        "description": "Verify material lead times and product availability — keeps all fixtures, tile, and plumbing fittings on site before demolition starts."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

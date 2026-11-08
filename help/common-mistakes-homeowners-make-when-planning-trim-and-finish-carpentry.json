@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes Homeowners Make When Planning Trim and Finish Carpentry",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finish carpentry provides the polished look you want in a finished room, but small missteps during planning can lead to sloppy corners, blown budgets, and mismatched woodwork. Here are common pitfalls to avoid:\n\n- Combining all trim into one generic room estimate: Baseboards, multi-piece crown, and custom window casing require completely different labor. Avoid quotes that don't price distinct trim types separately.\n- Overlooking the difference between paint-grade and stain-grade: Stain-grade wood requires premium stock, tighter joinery, and early scheduling before final painting, while paint-grade allows for caulked seams.\n- Expecting caulk to fix poor stain-grade joints: Wood filler and caulk will not hide mismatched seams once stain is applied. Cut joints accurately on the first pass.\n- Installing baseboards before the flooring is down: Baseboards generally belong over the finished flooring to avoid odd vertical gaps or awkward quarter-round cover-ups later.\n- Ignoring wood moisture conditions: Installing wood that hasn't acclimated to your home's interior humidity can result in shrinking, bowing, or open miters over winter.\n\nWhat Can Change the Right Choice\nYour home's architectural style and wall straightness dictate whether simple profiles or built-up assemblies will lay flat. When you want precise carpentry that lasts, give Blue Lake Construction a call at 385-202-5987 to discuss your home renovation.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "When Professional Guidance Helps for Primary Bathroom Layout and Permitting",
+    "text": "When Professional Guidance Helps for Primary Bathroom Layout and Permitting",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Question: When is professional drafting, permitting, and general contracting necessary for a primary bathroom remodel?\n\nAnswer: Professional contracting and drafting become essential the moment your primary bathroom remodel goes beyond swapping out surface fixtures like a mirror or single faucet. \n\nWhen Professional Guidance Helps\nYou should hire a licensed general contractor whenever your remodel involves:\n- Relocating or altering plumbing waste drains, water supply lines, or vent stacks.\n- Modifying electrical wiring, installing dedicated 20-amp circuits for high-draw appliances, or adding new overhead and wet-rated lighting.\n- Removing, shortening, or altering partition or load-bearing walls to expand the shower or create an open concept.\n- Building custom walk-in tile showers, curbless transitions, or integrated shower benches that demand complete waterproofing systems and flood testing.\n- Pulling municipal building permits and scheduling mandatory rough and final building inspections.\n\nIn municipalities across the Salt Lake Valley—such as Salt Lake City, Millcreek, Sandy, and South Jordan—building departments enforce strict residential codes regarding electrical safety, proper exterior ventilation venting, and wet-area plumbing standards. Working with a licensed contractor like Blue Lake Construction (License #6085795-5501) ensures design plans are drafted accurately, code requirements are met, and structural work is handled correctly. \n\nReady to plan your primary bathroom update? Call Blue Lake Construction at 385-202-5987 to schedule an appointment.",
+      "author": {
+        "@type": "Organization",
+        "name": "Blue Lake Construction"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Salt Lake City"
+      },
+      {
+        "@type": "City",
+        "name": "Sugarhouse"
+      },
+      {
+        "@type": "City",
+        "name": "Millcreek"
+      },
+      {
+        "@type": "City",
+        "name": "Cottonwood heights"
+      },
+      {
+        "@type": "City",
+        "name": "Sandy"
+      },
+      {
+        "@type": "City",
+        "name": "Draper"
+      },
+      {
+        "@type": "City",
+        "name": "Riverton"
+      },
+      {
+        "@type": "City",
+        "name": "West Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "South Jordan"
+      },
+      {
+        "@type": "City",
+        "name": "Taylorsville"
+      },
+      {
+        "@type": "City",
+        "name": "Bluffdale"
+      },
+      {
+        "@type": "City",
+        "name": "Bountiful"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

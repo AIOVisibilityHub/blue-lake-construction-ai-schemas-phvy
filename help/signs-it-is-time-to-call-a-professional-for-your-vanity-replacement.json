@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for Your Vanity Replacement",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping out an old vanity might seem simple on the surface, but structural and plumbing obstacles can quickly escalate. Here are clear signals it is time to call a professional contractor:\n\n- Corroded or frozen shutoff valves: If the existing angle stops will not turn completely off or show heavy corrosion, forcing them risks a major leak behind your wallboard.\n- Misaligned supply lines and drain rough-ins: New vanities often have fixed shelving, inner drawers, or distinct sink locations that clash directly with your home's existing rough plumbing.\n- Unlevel flooring or water damage: If the floor under the old unit is sagging, uneven, or soft from unnoticed moisture leaks, the subfloor needs repair before a new cabinet can sit plumb.\n- Local permit triggers: In many jurisdictions, altering supply pipes, electrical outlets, or surrounding wall structures requires formal permitting and licensed oversight.\n- Wall anchoring challenges: Floating vanities and heavy hardwood units demand structural backing inside the wall studs to prevent sagging or tear-out over time.\n\nWhen Professional Guidance Helps\nAttempting to force a vanity into place without addressing hidden moisture or mismatched pipe rough-ins can ruin your new cabinetry. An experienced remodeling contractor ensures plumbing, framing, and finishes fit together seamlessly. \n\nReach out to Blue Lake Construction at 385-202-5987 to schedule an appointment for your bathroom renovation.",
+  "datePublished": "2026-11-08"
+}

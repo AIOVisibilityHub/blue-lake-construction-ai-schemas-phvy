@@ -1,0 +1,97 @@
+{
+  "name": "Planning a Kitchen Island Installation: A Project Timeline",
+  "step": [
+    {
+      "name": "Step 1: Rough-in planning and clearance verification",
+      "text": "The project team measures your room dimensions to ensure adequate space around the planned footprint. Professional guidelines from the NKBA suggest work aisles of at least 42 inches for single cooks and 48 inches for multiple cooks, with general walkways measuring at least 36 inches. This planning phase typically takes a few days to coordinate layout, verify appliance door swings, and locate subfloor utility access points.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Subfloor utility rough-ins",
+      "text": "If your island includes a sink, dishwasher, microwave drawer, or code-required electrical outlets, trades rough in the plumbing pipes and electrical wiring through the floor. A licensed electrician and plumber handle these lines to meet local building safety requirements before flooring is finished, usually taking 1 to 3 days.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Cabinet assembly and floor anchoring",
+      "text": "Carpenters position the base cabinets, level them meticulously with shims, and screw them into structural cleats fastened directly to the subfloor. Properly anchoring the island prevents movement or tipping under heavy usage, especially once stone tops are added. This carpentry work typically takes 1 day.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Countertop templating and fabrication",
+      "text": "With base cabinets solidly secured and level, the countertop crew takes digital measurements for the worktop. If you have an eating bar with overhangs past 6 to 8 inches, carpenters install concealed steel support brackets directly across the cabinet tops. Fabrication at the shop typically runs between 1 and 3 weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Worktop installation and fixture finish-outs",
+      "text": "Installers deliver and secure the heavy countertop, joining seams cleanly. Finally, trades connect faucets, disposals, cooktops, and outlets, followed by a final inspection of all drawers and trim. When Professional Guidance Helps Integrating plumbing, wiring, and heavy stone into a freestanding island requires experienced project management. Blue Lake Construction handles custom kitchen updates across the Salt Lake Valley. Call 385-202-5987 to get started on your island build.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "The project team measures your room dimensions to ensure adequate space around the planned footprint. Professional guidelines from the NKBA suggest work aisles of at least 42 inches for single cooks a"
+}

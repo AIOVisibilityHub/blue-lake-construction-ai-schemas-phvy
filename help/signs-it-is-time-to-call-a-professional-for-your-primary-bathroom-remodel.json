@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Professional for Your Primary Bathroom Remodel",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your primary bathroom should serve as a practical, restful retreat. Upgrading an outdated primary suite often involves substantial structural, mechanical, and electrical adjustments best managed by a licensed builder.\n\nSigns it is time to call a professional:\n- Converting an oversized built-in soaking tub into a spacious walk-in shower with custom niches and benches.\n- Upgrading to double vanities that require splitting supply lines and adding new drain vents inside the walls.\n- Dealing with poor airflow or moisture build-up that indicates your current exhaust ducting is undersized or vented improperly.\n- Planning layout shifts that require cutting floor joists or moving the toilet drain.\n\nWhen Professional Guidance Helps:\nPrimary bathrooms often feature specialized finishes like frameless glass enclosures, integrated shower benches, and separate water closets. A general contractor coordinates the sequencing between plumbing rough-ins, electrical wiring for double sinks, and proper waterproofing so your finishes last for decades without hidden leaks.\n\nBlue Lake Construction delivers customized primary bathroom remodels for homeowners in Draper, South Jordan, Cottonwood Heights, and across the valley. Reach out to our team at 385-202-5987 to plan your primary suite update.",
+  "datePublished": "2026-11-08"
+}

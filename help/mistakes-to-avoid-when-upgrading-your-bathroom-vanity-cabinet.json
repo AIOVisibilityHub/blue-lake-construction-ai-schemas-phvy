@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Upgrading Your Bathroom Vanity Cabinet",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a vanity upgrade requires attention to subtle structural details. Here are common mistakes property owners encounter and how to avoid them:\n\n1. Skipping the rough plumbing check: Buying a vanity before measuring existing water lines and drain pipe heights often leads to shelves or drawers colliding with pipes. Always verify interior clearance before purchasing.\n2. Reusing damaged shutoff valves: Keeping old, crusty shutoff valves or worn tubular traps invites slow leaks. Replace valves and aged drain assemblies while plumbing is accessible.\n3. Forgetting door and drawer clearances: Installing a vanity too close to door casings, toilets, or shower enclosures can block drawers from fully extending. Map out full swing paths beforehand.\n4. Installing on an uneven floor without shims: Cabinets set directly on uneven tile without proper leveling put uneven stress on countertop slabs. Always level the base in both directions.\n5. Neglecting wall anchoring: Relying on drywall anchors instead of driving structural screws into wall studs can cause cabinets to pull away under the weight of a stone top.\n6. Skipping thorough leak testing: Turning on the water for ten seconds is not enough. Fill the basin, pull the stopper, and inspect every joint under drain pressure.\n\nWhat to Do Next\nIf your project involves plumbing alterations, call Blue Lake Construction at 385-202-5987.",
+  "datePublished": "2026-11-08"
+}

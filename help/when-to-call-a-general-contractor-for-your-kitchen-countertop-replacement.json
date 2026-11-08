@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When to Call a General Contractor for Your Kitchen Countertop Replacement",
+  "author": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "bluelakeconstruction.com"
+  },
+  "articleBody": "Upgrading your countertops seems straightforward on the surface, but swapping out slabs can quickly involve base cabinet repairs, plumbing disconnections, and electrical updates. Knowing when a basic installer is enough versus when you need a licensed general contractor protects your home from hidden installation headaches.\n\nSigns You Need a General Contractor\n- Your existing base cabinets are unlevel or showing structural wear: Heavy stone surfaces require flat, reinforced bases. A general contractor inspects structural framing and levels cabinets before surfaces arrive.\n- You are altering your sink, faucet, or cooktop locations: Moving plumbing pipes, gas supply valves, or dedicated 220V appliance circuits requires licensed trades and proper trade coordination.\n- Your project involves removing or modifying perimeter walls: Creating extended breakfast bars or pass-through openings requires structural evaluation to ensure load paths remain safe.\n- You want a coordinated tile or solid-slab backsplash: Integrating new countertop surfaces with electrical receptacle heights, under-cabinet lighting, and custom tile work goes beyond slab fabrication.\n- You are pulling municipal permits for broader renovation work: If countertop replacement is part of an open-concept update, permit filings and inspections must be handled by a licensed professional.\n\nWhat Can Change the Right Choice\nIf your project is a direct, same-footprint replacement on sturdy, modern cabinets with zero plumbing relocations, a specialty stone fabricator may handle the job. But if your project involves utility changes, structural reinforcements, or wall alterations, hiring a general contractor prevents costly mistakes and scheduling gaps between trades.\n\nWhat to Do Next\nTo ensure your new countertops sit on sound cabinets with properly handled plumbing and electrical work, contact Blue Lake Construction at 385-202-5987 to discuss your kitchen remodel.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Sugarhouse"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood heights"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "South Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Bluffdale"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    }
+  ],
+  "datePublished": "2026-11-08",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

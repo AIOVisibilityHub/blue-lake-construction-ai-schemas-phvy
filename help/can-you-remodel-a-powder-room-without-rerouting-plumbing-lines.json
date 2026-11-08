@@ -1,0 +1,79 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Sugarhouse",
+        "@type": "City"
+      },
+      {
+        "name": "Millcreek",
+        "@type": "City"
+      },
+      {
+        "name": "Cottonwood heights",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      {
+        "name": "Draper",
+        "@type": "City"
+      },
+      {
+        "name": "Riverton",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "South Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Taylorsville",
+        "@type": "City"
+      },
+      {
+        "name": "Bluffdale",
+        "@type": "City"
+      },
+      {
+        "name": "Bountiful",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can You Remodel a Powder Room Without Rerouting Plumbing Lines?",
+    "text": "Can You Remodel a Powder Room Without Rerouting Plumbing Lines?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "**Question:** Can you remodel a powder room without rerouting plumbing lines, and when does moving them become necessary?\n\n**Answer:** Yes, you can complete a high-impact powder room remodel without moving your existing plumbing lines. Keeping the toilet flange, sink water supply lines, and drain in their original spots saves substantial labor costs and avoids opening subfloors or adjacent walls. You can swap out a builder-grade pedestal for a tailored vanity, upgrade the toilet to a water-efficient model, replace fixtures, install decorative wall treatments, and lay new flooring while keeping the original rough-in locations intact.\n\n### When Moving Lines Becomes Necessary\nRelocating plumbing lines becomes necessary when you want to change the flow or accessibility of a small room. For instance, if an entry door hits your existing vanity, moving the sink to an adjacent wall may be the only functional solution. Similarly, if you want a wall-mounted floating vanity or wall-hung toilet, existing supply pipes and waste stacks must be reworked inside the framing.\n\nOpening walls or moving drain stacks also requires trade permits and code compliance, such as maintaining proper drain slopes and fixture venting. A licensed general contractor can inspect your framing and crawl space to confirm whether your layout goals justify the investment.\n\nIf you are planning a powder room update in Salt Lake City, Riverton, or Cottonwood Heights, contact Blue Lake Construction at 385-202-5987 to discuss your layout options.",
+      "@type": "Answer",
+      "author": {
+        "name": "Blue Lake Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

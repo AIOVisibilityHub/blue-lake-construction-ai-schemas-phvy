@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Adding a Tiled Shower Bench",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A custom shower bench adds comfort, but poor planning can restrict movement or cause water damage. Avoid these common missteps when incorporating seating into your bathroom renovation.\n\n- Making the seat surface completely level: A level seat allows water to pool against the back wall. Always slope the top surface slightly toward the shower drain to shed moisture easily.\n- Failing to waterproof the underside and perimeter joints: Water can seep into transition seams. Continuous membrane coverage across all seat-to-wall and floor junctions is essential.\n- Building on an uneven or unsupported base: Benches support human weight. They must be fastened securely to solid wall framing and a stable substrate to prevent shifting and cracking grout.\n- Choosing a depth that cramps the shower: An oversized bench can block entry doors or restrict standing space. Scale the bench to fit comfortably within the shower footprint.\n- Compromising the shower pan slope: Installing a bench should never disrupt the floor's necessary pitch toward the central drain.\n\nCommon Mistakes to Avoid\nMost bench failures stem from improper drainage pitch or compromised waterproofing barriers. Getting these details right during framing keeps the space dry and durable.\n\nWork with the skilled remodeling team at Blue Lake Construction for your shower renovation. Reach us at 385-202-5987 for a consultation.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Kitchen Layout Redesign Contractor: What to Ask Before You Sign",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Questions to Ask Before You Decide\n\nHiring a contractor to redesign your kitchen layout means changing how your entire home functions day to day. Before signing any contract, make sure you know exactly how the builder plans to handle walls, mechanical systems, and daily workflow.\n\n- Who handles drafting and building permits? Moving sinks, cooktops, or walls triggers municipal code reviews. Verify your contractor takes direct responsibility for submitted plans.\n- How are load-bearing walls confirmed? Altering interior partitions can impact structural integrity, requiring temporary shoring or engineered beams.\n- What is the procedure for rough-in changes? Relocating drains, gas lines, or 240V circuits requires licensed trades and rough-in inspections before drywall closes.\n- How are appliance specifications integrated? Cabinets and utility stubs must match your chosen appliance models down to the fraction of an inch to prevent costly refabrication.\n- What daily communication can you expect? Knowing who coordinates on-site craftsmen keeps schedules realistic and minimizes project stress.\n\nWhen you alter functional zones or structural walls, professional general contracting is critical to keep the build safe and compliant. Blue Lake Construction provides custom kitchen layout redesigns across Salt Lake City and the valley. Call 385-202-5987 to talk through your layout options.",
+  "datePublished": "2026-11-08"
+}

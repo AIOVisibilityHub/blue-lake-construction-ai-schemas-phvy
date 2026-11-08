@@ -1,0 +1,97 @@
+{
+  "name": "How to Prepare Your Home for a Primary Bathroom Renovation",
+  "step": [
+    {
+      "name": "Step 1: Empty All Existing Cabinets and Closets",
+      "text": "Clear out every drawer, medicine cabinet, and linen closet attached to the primary bath. Pack personal toiletries, medications, and towels into labeled storage bins, and store them in an accessible guest room or spare closet that you will use throughout construction.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Clear Footpaths and Protect Adjacent Flooring",
+      "text": "Remove lightweight rugs, floor lamps, and wall art along the path from your home’s main exterior entrance up to the primary bedroom. Work with your contractor to confirm they will lay heavy floor protection over hardwood or carpet along these daily traffic routes.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Establish a Fully Functional Alternate Bathroom",
+      "text": "Set up a secondary bathroom with the essentials your household needs for morning routines. Test water pressure, confirm adequate towel storage, and ensure morning schedules accommodate sharing the temporary space while your primary bath is offline for several weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Designate a Dedicated Material Staging Zone",
+      "text": "Pick a dry, low-traffic spot such as a garage bay or spare bedroom where deliveries can sit securely. Large items like double vanities, quartz tops, tubs, and boxes of tile need to remain on site and out of weather before installation day.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review Daily Site Logistics with Your Project Manager",
+      "text": "Walk the space with your builder to confirm daily work hours, lockbox or entry codes, pet containment plans, and dumpster or trailer placement in the driveway. Clarifying communication routines upfront keeps your household comfortable while trades are working. To schedule your primary bathroom remodel with a dedicated project manager, contact Blue Lake Construction at 385-202-5987.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "Clear out every drawer, medicine cabinet, and linen closet attached to the primary bath. Pack personal toiletries, medications, and towels into labeled storage bins, and store them in an accessible gu"
+}

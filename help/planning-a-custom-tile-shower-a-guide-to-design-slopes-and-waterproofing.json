@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Custom Tile Shower: A Guide to Design, Slopes, and Waterproofing",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A custom tile shower turns an ordinary bathroom into a luxury retreat, but its beauty relies entirely on what sits underneath the tile. Understanding the build process helps you hire with confidence.\n\nOverview and Key Benefits\nCustom showers allow you to tailor every detail, from built-in niches and benches to curb heights and tile patterns. Beyond aesthetics, a professionally built shower delivers a watertight assembly designed to protect your home's framing for decades.\n\nProcess Breakdown\nThe build begins with framing inspection and drain placement. The floor pan is prepared with a pre-slope of roughly one-quarter inch per foot toward the drain. Approved waterproof backer boards and bonded membranes are applied across walls, curbs, and niches. After critical leak and flood testing, your tile is set, grouted, sealed, and fitted with movement joints.\n\nWhat to Expect During the Process\nExpect proper curing times between waterproofing, tile setting, and grouting. Tile and grout alone do not block water; your underlying bonded membrane provides the real water barrier.\n\nReady to design a custom tile shower for your Salt Lake City area home? Connect with Blue Lake Construction at 385-202-5987 to get started.",
+  "datePublished": "2026-11-08"
+}

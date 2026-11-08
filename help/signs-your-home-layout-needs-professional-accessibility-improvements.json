@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Home Layout Needs Professional Accessibility Improvements",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Homes are often built for young, fully mobile occupants, leaving small obstacles that become serious hazards over time. Knowing when to plan home modifications keeps your household safe and comfortable. Watch for these signals:\n\n- Stepping over high tub walls feels risky: If stepping into a traditional bathtub causes hesitation or loss of balance, converting to a walk-in or roll-in shower eliminates a daily trip hazard.\n- Narrow doorways catch walkers or wheelchairs: Standard interior doors frequently measure too narrow for comfortable clearance, especially when turning off hallways into bathrooms.\n- Uneven exterior steps or raised door thresholds: Entering through the front door or garage with steps and raised thresholds creates friction for anyone using a cane or rolling aid.\n- Grabbing towel bars for balance: Towel bars are not engineered to support body weight. If you or a loved one rely on fixtures for stability, reinforced grab bars are needed right away.\n- Tight bathroom footprints: Lack of clear floor space prevents a caregiver from helping or stops a mobility device from turning freely.\n\nWhen Professional Guidance Helps\nAltering walls, plumbing drains, or exterior entrances involves load-bearing checks and local building requirements. Blue Lake Construction manages residential accessibility updates across Salt Lake City. Call 385-202-5987 to get started on your home safety plan.",
+  "datePublished": "2026-11-08"
+}

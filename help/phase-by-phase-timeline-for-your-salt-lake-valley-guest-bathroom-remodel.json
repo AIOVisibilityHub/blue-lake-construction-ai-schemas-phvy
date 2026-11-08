@@ -1,0 +1,97 @@
+{
+  "name": "Phase-by-Phase Timeline for Your Salt Lake Valley Guest Bathroom Remodel",
+  "step": [
+    {
+      "name": "Step 1: Planning and Permit Applications",
+      "text": "You and your general contractor confirm the room layout, draft any necessary plans, and submit permit applications for trade work. In communities from Sugar House to Sandy, jurisdictional reviews and product lead times determine how quickly you can move into the field. This stage typically takes two to four weeks depending on local building department turnaround.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Demolition and Moisture Assessment",
+      "text": "Craftsmen strip the space down to the framing and subfloor while carefully protecting adjacent living areas. Once walls are opened, the team inspects for concealed subfloor moisture or plumbing leaks that require repair before new materials go in. This phase usually wraps up within one to two business days.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Rough Plumbing, Electrical, and Ventilation",
+      "text": "Licensed trades route new supply pipes, drain lines, and dedicated electrical circuits, including required GFCI protection. Exhaust fan ducting is run directly to the building exterior, which avoids pushing humid air into your attic. This work generally takes three to five business days and concludes with rough mechanical inspections.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Waterproofing, Wallboard, and Tile Installation",
+      "text": "Crews hang moisture-resistant backer board, apply approved waterproofing membranes to shower and tub zones, and test for watertight seals. Installers then lay floor tile, shower surrounds, niches, and benches, followed by grout and curing. Expect this detailed craftsmanship phase to take four to seven business days.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Trim, Fixture Installation, and Final Punch List",
+      "text": "Trim carpenters set the vanity cabinet, vanity top, sink, faucet, toilet, and light fixtures. The team applies fresh interior paint, installs hardware, runs operational leak tests, and calls for final city inspections. This closing step takes two to four days to reach complete finish. When you are ready to update a guest bath in Salt Lake City or the surrounding valley, call Blue Lake Construction at 385-202-5987 to schedule an appointment.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "You and your general contractor confirm the room layout, draft any necessary plans, and submit permit applications for trade work. In communities from Sugar House to Sandy, jurisdictional reviews and "
+}

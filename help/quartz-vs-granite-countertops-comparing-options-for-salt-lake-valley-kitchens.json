@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Quartz vs Granite Countertops: Comparing Options for Salt Lake Valley Kitchens",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing between engineered quartz and natural granite is one of the most common decisions during a kitchen remodel in the Salt Lake Valley. Both materials provide durable, premium surfaces, but their daily maintenance, design consistency, and support needs differ.\n\nQuartz vs Granite: Practical Differences\nQuartz is an engineered product composed of crushed stone combined with resins. It offers non-porous surfaces that never require sealing, making it highly resistant to everyday stains from oils, wine, and coffee. Its patterns are uniform across slabs, which helps hide seams on long runs. However, resin makes quartz sensitive to sudden, direct heat from hot pans. Granite, by contrast, is a natural quarried stone with one-of-a-kind veining and high heat tolerance. Because it is porous, granite requires periodic sealing to guard against moisture and staining.\n\nTimeline and Cost Factors\nLead times for both materials generally take about 1 to 3 weeks for fabrication once precise templating is finished. Material pricing varies widely based on slab rarity, thickness, and edge profiles, but overall project costs tend to track closely. Granite may demand extra time during slab selection since homeowners typically inspect the exact lot to approve unique natural variations.\n\nHow to Compare Your Options\nIf low-maintenance cleanup and modern consistency fit your lifestyle, quartz is often the top pick. If natural warmth, outdoor kitchens, or extreme heat resilience matter more, granite remains a timeless choice. Both require level cabinets and proper overhang support.\n\nCall Blue Lake Construction at 385-202-5987 to discuss countertop options for your kitchen remodel.",
+  "datePublished": "2026-11-08"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It Is Time to Call a Contractor for a Complete Bathroom Renovation",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking on a complete bathroom overhaul often uncovers hidden issues behind old drywall. Knowing when to hand the project over to an experienced general contractor keeps small plumbing quirks from turning into major structural damage.\n\nSigns it is time to call a professional:\n- Uncovering soft subfloors or persistent mildew smells around the base of the tub or toilet, which usually points to active hidden leaks.\n- Planning to relocate major plumbing stacks, shower valves, or waste lines across the room.\n- Adding high-draw amenities like heated flooring or multi-head shower fixtures that demand dedicated electrical circuits.\n- Tackling a custom tiled walk-in shower that needs a sloped pan, watertight membrane, and verified flood test.\n\nQuestions to Ask Before You Decide:\nBefore hiring your contractor, ask how they verify subfloor stability, whether your city jurisdiction requires separate building and mechanical permits, and how they handle moisture exhaust. A window alone rarely satisfies modern ventilation codes when you have an enclosed tub or shower.\n\nAt Blue Lake Construction, Ryan Gardner and our team help Salt Lake Valley homeowners manage every phase of full bathroom renovations. Give us a call at 385-202-5987 to talk through your project goals.",
+  "datePublished": "2026-11-08"
+}

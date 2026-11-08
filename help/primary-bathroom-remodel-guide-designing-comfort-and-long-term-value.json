@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Primary Bathroom Remodel Guide: Designing Comfort and Long-Term Value",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A primary bathroom remodel allows you to tailor your most personal space around everyday convenience, practical storage, and high-end craftsmanship.\n\nOverview and Key Benefits:\nRemodeling your primary bath lets you rethink traffic patterns, eliminate unused garden tubs, expand vanity countertops, and add customized shower features like recessed niches and built-in benches.\n\nProcess Breakdown:\n- Layout and Storage Planning: Assessing structural walls, plumbing stacks, and cabinet configurations to maximize usable square footage.\n- Permitting and Material Orders: Submitting plans to the local building department and securing tile, valves, and cabinetry before demo begins.\n- Structural and Mechanical Rough-Ins: Updating electrical circuits for dual sinks and ventilation, then plumbing valves to exact heights.\n- Watertight Assembly: Installing water-resistant backer, sealing joints, slope-testing the shower floor, and laying custom tile.\n- Trim and Glass Installation: Setting vanity tops, mirrors, lighting fixtures, and custom glass enclosures.\n\nWhat to Expect During the Process:\nBecause primary baths involve multiple trades working in a tight footprint, active construction typically requires steady coordination from rough framing through final punch-list reviews.\n\nBlue Lake Construction works closely with homeowners across Salt Lake City, Bountiful, and Taylorsville to build functional primary bathrooms. Call 385-202-5987 to get started on your renovation.",
+  "datePublished": "2026-11-08"
+}

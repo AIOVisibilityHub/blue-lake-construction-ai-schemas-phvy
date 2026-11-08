@@ -1,0 +1,74 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Bathroom Exhaust Fan Upgrades vs. Leaving an Older Unit in Place",
+  "publisher": {
+    "url": "bluelakeconstruction.com",
+    "name": "Blue Lake Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your bathroom mirror stays fogged long after your shower or you notice moisture beads dripping down painted drywall, your exhaust setup is likely underperforming. Deciding whether to keep limping along with an older ceiling fan or invest in a modern ventilation upgrade comes down to moisture management, noise, and home protection.\n\nOlder builder-grade fans often move far less air than their label suggests, especially when connected to undersized or sagging flexible ductwork. They tend to be loud and rattle against framing, which often discourages family members from turning them on at all. Modern high-efficiency exhaust units, by contrast, operate at whisper-quiet sound levels, move at least 50 CFM reliably for standard rooms, and can be paired with automated humidity sensors or 10-minute delay-off switches that clear residual dampness automatically.\n\nCost and Complexity Tradeoffs\nSimply swapping an existing motor in place is cheaper upfront, but it does not solve bad ducting, compressed lines, or discharges venting into attic spaces. A comprehensive upgrade addresses the whole system, including proper outdoor venting, insulated ductwork, and dedicated wall controls. \n\nWhat Can Change the Right Choice\nIf your duct already exhausts straight outside through a short, rigid run and the electrical box is sound, an upgraded unit is straightforward. If your current fan vents into an unconditioned attic space, upgrading the entire vent path to meet modern residential building standards is essential to protect structural rafters and insulation. When you are ready to evaluate your Salt Lake Valley home, call Blue Lake Construction at 385-202-5987 to discuss an estimate.",
+  "datePublished": "2026-11-08"
+}

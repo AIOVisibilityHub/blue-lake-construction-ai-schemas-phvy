@@ -1,0 +1,103 @@
+{
+  "name": "Complete Bathroom Renovation: Estimating Your Construction Timeline",
+  "step": [
+    {
+      "name": "Step 1: Consultation and Pre-Construction Planning",
+      "text": "During the initial two to three weeks, your contractor takes precise field measurements, drafts layouts, confirms product selections, and orders long-lead materials. This phase ensures permits are submitted to local building departments before demolition starts.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Demolition and Structural Assessment",
+      "text": "Taking two to four days, the crew removes existing fixtures, drywall, flooring, and tub surrounds down to the studs. This stage exposes framing and subfloors, allowing the team to inspect for hidden moisture damage or framing issues that need repair.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Mechanical, Electrical, and Plumbing Rough-Ins",
+      "text": "Over three to five days, licensed trades relocate drain lines, adjust water supplies, vent exhaust fans outside, and run wiring for vanity lighting and GFCI outlets. Required rough inspections by local municipal inspectors occur right before any wall cavities are closed.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Waterproofing, Wallboard, and Flooring Installation",
+      "text": "Spanning roughly one week, crews install moisture-resistant backer board, apply continuous shower waterproofing membranes, and lay your floor tile. Proper waterproofing requires adequate curing time to prevent future leaks behind finished surfaces.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Tile Setting and Custom Shower Surrounds",
+      "text": "Taking four to seven days, craftsmen lay wall tile, build out niches or benches, and apply grout and sealants. Custom tile designs require precision alignment and careful cutting around plumbing valves and corners.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Fixture Installation and Punch-List Review",
+      "text": "In the final three to five days, plumbers set the vanity, sink, toilet, and shower trim, while electricians mount light fixtures and mirrors. The project manager completes a detailed walk-through with you to resolve any remaining punch-list items. To plan your renovation schedule with Blue Lake Construction, call 385-202-5987 to set up an on-site consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Sugarhouse",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood heights",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    }
+  ],
+  "description": "During the initial two to three weeks, your contractor takes precise field measurements, drafts layouts, confirms product selections, and orders long-lead materials. This phase ensures permits are sub"
+}
