@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-08T22:01:16.787Z",
+  "generatedAt": "2026-11-08T22:01:30.304Z",
   "client": {
     "name": "Blue Lake Construction",
     "canonicalUrl": "https://bluelakeconstruction.aiovisibility.net",
@@ -97,7 +97,7 @@
   },
   "package": {
     "totalFiles": 942,
-    "totalBytes": 4530125,
+    "totalBytes": 4466966,
     "stats": {
       "faqs": 590,
       "helpArticles": 192,
@@ -4712,72 +4712,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 23637,
+        "bytes": 18970,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 259115,
+        "bytes": 254596,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 69547,
+        "bytes": 64935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 22203,
+        "bytes": 17795,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 630227,
+        "bytes": 625799,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 25283,
+        "bytes": 20866,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 144653,
+        "bytes": 140283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 122849,
+        "bytes": 118377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 49206,
+        "bytes": 44664,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 327415,
+        "bytes": 322902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 87756,
+        "bytes": 83207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 36430,
+        "bytes": 31987,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 27400,
+        "bytes": 22849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 21138,
+        "bytes": 16722,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4789,7 +4789,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4124,
+        "bytes": 4096,
         "purpose": "LLM hint"
       },
       {
@@ -4809,32 +4809,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 4022,
+        "bytes": 3966,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 454886,
+        "bytes": 454830,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 129393,
+        "bytes": 129365,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 129393,
+        "bytes": 129365,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4074,
+        "bytes": 4046,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 159032,
+        "bytes": 159004,
         "purpose": "Repository README"
       },
       {
@@ -4852,7 +4852,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy",
-      "pagesUrl": "https://aiovisibilityhub.github.io/blue-lake-construction-ai-schemas-phvy/",
+      "pagesUrl": "http://bluelakeconstruction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/blue-lake-construction-ai-schemas-phvy"
     }
   }
