@@ -1,69 +1,63 @@
 {
-  "name": "Amy Gardner",
-  "@type": "Person",
   "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Amy Gardner",
   "jobTitle": "Administration, business owner",
   "worksFor": {
-    "url": "bluelakeconstruction.com",
+    "@type": "Organization",
     "name": "Blue Lake Construction",
-    "@type": "Organization"
+    "url": "bluelakeconstruction.com"
   },
+  "description": "Amy Gardner handles administration at Blue Lake Construction, supporting the business operations behind the company’s remodeling and construction services. Her work focuses on the administrative side of the business, helping provide the organization and support needed while the construction team concentrates on client projects.\n\nBlue Lake Construction serves homeowners throughout Salt Lake City and the surrounding Salt Lake Valley, with services that include home and house remodeling, condo and cabin renovations, kitchen and bathroom remodels, and home additions. Amy’s administrative role supports the business behind these services and contributes to the coordination between office operations and work in the field.\n\nAs part of the Blue Lake Construction team, Amy helps support a business focused on improving the places its clients call home.",
   "telephone": "385-202-5987",
   "areaServed": [
     {
-      "name": "Salt Lake City",
-      "@type": "City"
+      "@type": "City",
+      "name": "Salt Lake City"
     },
     {
-      "name": "Sugarhouse",
-      "@type": "City"
+      "@type": "City",
+      "name": "Sugarhouse"
     },
     {
-      "name": "Millcreek",
-      "@type": "City"
+      "@type": "City",
+      "name": "Millcreek"
     },
     {
-      "name": "Cottonwood heights",
-      "@type": "City"
+      "@type": "City",
+      "name": "Cottonwood heights"
     },
     {
-      "name": "Sandy",
-      "@type": "City"
+      "@type": "City",
+      "name": "Sandy"
     },
     {
-      "name": "Draper",
-      "@type": "City"
+      "@type": "City",
+      "name": "Draper"
     },
     {
-      "name": "Riverton",
-      "@type": "City"
+      "@type": "City",
+      "name": "Riverton"
     },
     {
-      "name": "West Jordan",
-      "@type": "City"
+      "@type": "City",
+      "name": "West Jordan"
     },
     {
-      "name": "South Jordan",
-      "@type": "City"
+      "@type": "City",
+      "name": "South Jordan"
     },
     {
-      "name": "Taylorsville",
-      "@type": "City"
+      "@type": "City",
+      "name": "Taylorsville"
     },
     {
-      "name": "Bluffdale",
-      "@type": "City"
+      "@type": "City",
+      "name": "Bluffdale"
     },
     {
-      "name": "Bountiful",
-      "@type": "City"
+      "@type": "City",
+      "name": "Bountiful"
     }
-  ],
-  "knowsAbout": [
-    "administration",
-    "customer contact",
-    "customer support",
-    "business related services"
-  ],
-  "description": "Amy Gardner handles administration at Blue Lake Construction, supporting the business operations behind the company’s remodeling and construction services. Her work focuses on the administrative side of the business, helping provide the organization and support needed while the construction team concentrates on client projects.\n\nBlue Lake Construction serves homeowners throughout Salt Lake City and the surrounding Salt Lake Valley, with services that include home and house remodeling, condo and cabin renovations, kitchen and bathroom remodels, and home additions. Amy’s administrative role supports the business behind these services and contributes to the coordination between office operations and work in the field.\n\nAs part of the Blue Lake Construction team, Amy helps support a business focused on improving the places its clients call home."
+  ]
 }
