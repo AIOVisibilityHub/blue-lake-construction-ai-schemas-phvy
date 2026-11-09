@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "I have had the pleasure of doing two large projects with Blue Lake—an apartment and a new home. Both experiences were exceptional. Bob and Ryan run a professional, honest, and fair business. The whole crew does beautiful work and are extremely pleasant.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2018-07-19",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "https://bluelakeconstruction.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Apartment and new-home construction"
+      }
+    }
+  }
+}

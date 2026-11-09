@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Parkins"
+  },
+  "reviewBody": "We used Blue Lake to remodel two of our bathrooms and do some patch work after water damaged several rooms in our home. The bidding process was simple and straightforward. Once the work started, it went very smoothly. The attention to detail was superb, every issue was discussed with us, and the results were spectacular.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020-12-17",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "https://bluelakeconstruction.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Bathroom remodels and water-damage repairs"
+      }
+    }
+  }
+}
