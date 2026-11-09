@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Hayley T."
+    "name": "Hayley T.",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "We loved working with Blue Lake Construction on our kitchen. They got the job done quickly and efficiently. They are reliable and care about the project.",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "datePublished": "2023-02-14",
   "itemReviewed": {
-    "@type": "Organization",
-    "name": "Blue Lake Construction",
     "url": "https://bluelakeconstruction.aiovisibility.net",
+    "name": "Blue Lake Construction",
+    "@type": "Organization",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Kitchen remodel"
+        "name": "Kitchen remodel",
+        "@type": "Service"
       }
     }
-  }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2023-02-14"
 }
