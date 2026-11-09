@@ -15,7 +15,8 @@ Canonical AI Data Package for Blue Lake Construction.
 - 2 personnel
 - 1 locations
 - 1 organization
-- **845** total
+- 8 reviews
+- **854** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Blue Lake Construction — canonical website — https://bluelakeconstruction.aiovisibility.net
@@ -914,7 +915,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-to-call-a-professional-for-your-interior-remodeling-project.json`](./help/when-to-call-a-professional-for-your-interior-remodeling-project.json) — schema
 - [`help/why-your-bathroom-exhaust-fan-isn-t-clearing-fogged-mirrors.json`](./help/why-your-bathroom-exhaust-fan-isn-t-clearing-fogged-mirrors.json) — schema
 
-### Public Pages (14)
+### Public Pages (15)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -927,7 +928,19 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
+- [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
 - [`team-members.html`](./team-members.html) — LLM-optimized public page
+
+### Reviews (9)
+- [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
+- [`reviews/anonymous-6-review.json`](./reviews/anonymous-6-review.json) — schema
+- [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
+- [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
+- [`reviews/christopher-parkins-5-review.json`](./reviews/christopher-parkins-5-review.json) — schema
+- [`reviews/hayley-t-3-review.json`](./reviews/hayley-t-3-review.json) — schema
+- [`reviews/kelly-b-1-review.json`](./reviews/kelly-b-1-review.json) — schema
+- [`reviews/max-i-2-review.json`](./reviews/max-i-2-review.json) — schema
+- [`reviews/ron-g-4-review.json`](./reviews/ron-g-4-review.json) — schema
 
 
