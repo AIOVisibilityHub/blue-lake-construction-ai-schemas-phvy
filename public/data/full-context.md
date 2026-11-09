@@ -1,7 +1,7 @@
 # Blue Lake Construction — Full AI Context
 
 **Canonical URL:** https://bluelakeconstruction.aiovisibility.net
-**Generated:** 2026-11-08
+**Generated:** 2026-11-09
 
 ## Overview
 Blue Lake Construction publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -13,6 +13,7 @@ Blue Lake Construction publishes a structured AI Data Package designed for high-
 - **2** personnel
 - **1** locations
 - **1** organization
+- **8** reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Blue Lake Construction — canonical website — https://bluelakeconstruction.aiovisibility.net
