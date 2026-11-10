@@ -42,6 +42,7 @@ Canonical AI Data Package for Blue Lake Construction.
 - [same-as] Blue Lake Construction on remodelersup.com — https://www.remodelersup.com/3416/blue-lake-construction
 - [same-as] Blue Lake Construction on listcentral.us — https://listcentral.us/pages/directory/blue-lake-construction-west-valley-city-ut
 - [same-as] Blue Lake Construction on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/blue-lake-construction-ai-schemas
+- [same-as] Blue Lake Construction on aibizprofile.com — https://www.aibizprofile.com/profiles/blue-lake-construction
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

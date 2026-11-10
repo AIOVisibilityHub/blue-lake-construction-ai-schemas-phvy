@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-09T23:49:40.427Z",
+  "generatedAt": "2026-11-10T22:48:06.765Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -34,7 +34,8 @@
       "https://www.bathroomsup.com/2131/blue-lake-construction",
       "https://www.remodelersup.com/3416/blue-lake-construction",
       "https://listcentral.us/pages/directory/blue-lake-construction-west-valley-city-ut",
-      "https://aiovisibilityhub.codeberg.page/blue-lake-construction-ai-schemas"
+      "https://aiovisibilityhub.codeberg.page/blue-lake-construction-ai-schemas",
+      "https://www.aibizprofile.com/profiles/blue-lake-construction"
     ]
   },
   "related": [
@@ -154,6 +155,11 @@
       "role": "same-as",
       "label": "Blue Lake Construction on aiovisibilityhub.codeberg.page",
       "url": "https://aiovisibilityhub.codeberg.page/blue-lake-construction-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "Blue Lake Construction on aibizprofile.com",
+      "url": "https://www.aibizprofile.com/profiles/blue-lake-construction"
     }
   ],
   "destinations": {
