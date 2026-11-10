@@ -1,26 +1,26 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Anonymous",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Anonymous"
   },
-  "@context": "https://schema.org",
   "reviewBody": "Blue Lake Enterprises is a licensed general contractor providing remodels, additions and property maintenance to homeowners and businesses in the Salt Lake Valley.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
   "itemReviewed": {
-    "url": "https://bluelakeconstruction.aiovisibility.net",
-    "name": "Blue Lake Construction",
     "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "https://bluelakeconstruction.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Home remodeling and additions",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Home remodeling and additions"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
   }
 }

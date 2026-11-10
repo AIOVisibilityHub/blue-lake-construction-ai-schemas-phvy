@@ -1,12 +1,12 @@
 {
-  "url": "https://bluelakeconstruction.aiovisibility.net",
-  "name": "Blue Lake Construction",
-  "@type": "Organization",
   "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Blue Lake Construction",
+  "url": "https://bluelakeconstruction.aiovisibility.net",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "bestRating": 5,
     "ratingValue": 5,
+    "bestRating": 5,
     "reviewCount": 8
   }
 }

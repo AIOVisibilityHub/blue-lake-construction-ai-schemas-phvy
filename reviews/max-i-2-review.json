@@ -1,27 +1,27 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Max I.",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Max I."
   },
-  "@context": "https://schema.org",
   "reviewBody": "Working with Blue Lake Construction was fantastic. They did a full demo and remodeled our entire kitchen, knocked out a wall into the garage, installed new windows and a back patio door, and more.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2023-07-10",
   "itemReviewed": {
-    "url": "https://bluelakeconstruction.aiovisibility.net",
-    "name": "Blue Lake Construction",
     "@type": "Organization",
+    "name": "Blue Lake Construction",
+    "url": "https://bluelakeconstruction.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Kitchen remodel and layout changes",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Kitchen remodel and layout changes"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
-  },
-  "datePublished": "2023-07-10"
+  }
 }
